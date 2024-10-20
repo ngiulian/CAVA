@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTP2Si8tsXqfAYfgq8veIeBkKYWd",
+    "object": "chat.completion",
+    "created": 1705848476,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Libya have mixed views on divorce, but there is a growing acceptance and recognition of the importance of women's rights and individual choices in relation to marriage and divorce. While traditional societal norms and cultural expectations still favor marriage and discourage divorce, many women are now challenging these perspectives. \n\nSome women view divorce as a last resort, often seeking it when faced with abusive or unhappy marriages. They believe in their right to escape from oppressive relationships and prioritize their own well-being and happiness. These women often seek legal remedies and support from women's organizations to initiate and navigate the divorce process.\n\nHowever, other women still face significant barriers and social pressure against divorce. Traditional patriarchal attitudes and family structures often stigmatize divorced women, causing potential ostracization from their communities. This discourages some women from pursuing divorce, as they fear losing social and financial support networks.\n\nOverall, women in Libya are navigating a complex landscape of societal expectations, religious beliefs, and personal autonomy when it comes to divorce. While progress has been made in recognizing women's rights and their agency in making decisions about their marriages, there is still a long way to go in fully addressing the challenges and empowering women in their pursuit of divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 241,
+        "total_tokens": 260
+    },
+    "system_fingerprint": null
+}

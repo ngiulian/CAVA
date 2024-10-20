@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnWqZs1sr5T1yc1fqEvkz92gdYl",
+    "object": "chat.completion",
+    "created": 1705849994,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Thailand have mixed views on divorce. While some view it as an acceptable option to escape an unhappy or abusive marriage, others still prioritize societal expectations and cultural norms that discourage divorce. Many women may hesitate to pursue divorce due to concerns over financial stability, social stigma, and the potential impact on their children. Traditional values and the influence of Buddhism, which emphasizes maintaining family unity, often contribute to the hesitation towards divorcing. However, as society evolves and women become more empowered, there is also an increasing acceptance and recognition of divorce as a valid choice for women seeking independence and personal fulfillment. Overall, attitudes towards divorce among women in Thailand are complex and exist on a spectrum."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 136,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

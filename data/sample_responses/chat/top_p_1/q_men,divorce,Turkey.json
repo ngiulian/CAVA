@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTphei3zMhv88mpg4KWfnMiuFxrD",
+    "object": "chat.completion",
+    "created": 1705850129,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on divorce can vary among individuals, and it is not accurate to generalize the views of an entire population. However, in Turkey, as in many other societies, traditional gender roles and societal expectations can influence perceptions of divorce among men.\nSome men in Turkey may hold negative views towards divorce influenced by cultural and religious beliefs, which prioritize the stability of marriage and the family unit. They may perceive divorce as a failure, as an act that goes against societal expectations and traditional values.\n\nOn the other hand, there are also men in Turkey who are more accepting of divorce and view it as a viable solution in cases of irreconcilable differences, abuse, or unhappy marriages. They may believe in individual freedom, women's rights, and equality within relationships. \n\nHowever, it is crucial to understand that perceptions and attitudes toward divorce are changing globally, including in Turkey. Factors such as education, exposure to different perspectives, evolving gender dynamics, and generational differences all contribute to shaping diverse views on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 205,
+        "total_tokens": 224
+    },
+    "system_fingerprint": null
+}

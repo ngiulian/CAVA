@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTAOwBuFxADnAq8i9HjY3oE430d3",
+    "object": "chat.completion",
+    "created": 1705847568,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Gabon have mixed opinions about divorce. While some women view divorce as a necessary step to escape abusive or unhappy marriages, others believe in preserving the sanctity of marriage and see divorce as a last resort. The decision to divorce is often influenced by cultural and societal factors, such as the pressure to maintain family unity and the fear of being stigmatized by the community. Additionally, financial considerations and the well-being of children play a significant role in shaping women's attitudes towards divorce. Overall, the views on divorce among women in Gabon vary, reflecting a complex interplay of personal, cultural, and practical factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 126,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

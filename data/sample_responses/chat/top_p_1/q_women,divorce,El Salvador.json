@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTiMo8MkesHARWOE9QcuH2LuJ9pB",
+    "object": "chat.completion",
+    "created": 1705849674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The perception and attitude towards divorce among women in El Salvador vary, but the majority of women hold more traditional views on marriage and divorce. Many women still believe in the importance of maintaining a stable and long-term marital relationship. Divorce is commonly seen as a last resort or only acceptable under specific circumstances, such as instances of abuse or infidelity. Although attitudes are slowly evolving, the social stigma surrounding divorce remains relatively strong in the country. Consequently, many Salvadoran women may resist seeking a divorce due to societal pressure, family expectations, or fears of facing discrimination."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 112,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

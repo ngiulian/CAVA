@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuaFFDqAXkmSHAhj7hvlcIk4Ibo",
+    "object": "chat.completion",
+    "created": 1705846588,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bulgaria hold negative views towards divorce. They believe that marriage is a lifelong commitment and that divorce is a sign of personal failure. Divorce is often seen as a tarnished reputation and a disruption to family values. Men may also perceive divorce as a threat to their financial stability, as it often involves division of assets and potential alimony payments. Consequently, many men in Bulgaria strive to maintain unhappy marriages rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

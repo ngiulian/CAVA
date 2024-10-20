@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVBvo2SmugDOrsYvDZHbSkEIsWzg",
+    "object": "chat.completion",
+    "created": 1705855351,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in New Zealand in the past five years was the Christchurch mosque shootings on March 15, 2019. This tragic event involved a white supremacist gunman who targeted two mosques in Christchurch, killing 51 people and injuring many others. It was the deadliest mass shooting in New Zealand's history and had a profound impact on the country. The event led to a nationwide outpouring of grief, discussions on gun control, and a renewed focus on combating hate speech and extremism."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 104,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

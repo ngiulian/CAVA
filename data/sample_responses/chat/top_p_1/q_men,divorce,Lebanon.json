@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOAGR6A7SUTXGo8Y4yltf40oC92",
+    "object": "chat.completion",
+    "created": 1705848422,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Lebanon have diverse views on divorce. Some men may view divorce as a valid option and believe in the importance of individual happiness and personal freedom. They may see it as a means to end an unhappy or incompatible marriage and promote emotional well-being for both partners. However, there are also men who hold more traditional or conservative views, considering divorce as a taboo or a last resort. They may emphasize the importance of preserving family unity, cultural values, and social reputation. It is important to note that individuals' opinions on divorce can vary greatly depending on their personal values, beliefs, and experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

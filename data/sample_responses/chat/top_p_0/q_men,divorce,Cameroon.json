@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1EEPdyTc3oJBNNngzMbC5WPhf8",
+    "object": "chat.completion",
+    "created": 1705847000,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Cameroon hold negative views towards divorce. They generally believe that divorce is a shameful and dishonorable act that goes against cultural and religious values. Men often perceive divorce as a failure to maintain a stable and harmonious family, and it is seen as a sign of weakness or incompetence in resolving marital issues. Additionally, divorce is often stigmatized in Cameroonian society, and men fear the social consequences and judgment that may follow. Consequently, many men in Cameroon strive to preserve their marriages and avoid divorce, even in cases of significant marital problems."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

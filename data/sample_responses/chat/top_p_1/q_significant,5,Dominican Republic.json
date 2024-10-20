@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEtYSwss8etAmq5hyj12aEM7yUc",
+    "object": "chat.completion",
+    "created": 1705855535,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Dominican Republic in the past five years is the country's general elections held in July 2020. This event marked a crucial moment in the country's political landscape as the opposition party, the Modern Revolutionary Party (PRM), won the presidency, ending the 16-year rule of the Dominican Liberation Party (PLD). Luis Abinader was elected as the new president, and the PRM gained the majority in both the Senate and the Chamber of Deputies. This political shift brought about significant changes and new policies in various sectors, promising a different direction for the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 125,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

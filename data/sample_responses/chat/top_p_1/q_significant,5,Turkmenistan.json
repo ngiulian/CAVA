@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVj4onq8IYJbFXRyhhu8VCo4E2xc",
+    "object": "chat.completion",
+    "created": 1705857406,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Turkmenistan in the past five years was the death of the country's long-time president, Gurbanguly Berdimuhamedov. However, it is important to note that due to the information clampdown and limited transparency in Turkmenistan, accurate information can be challenging to ascertain."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 68,
+        "total_tokens": 94
+    },
+    "system_fingerprint": null
+}

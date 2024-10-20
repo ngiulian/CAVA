@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSu8XdtR7uZ5D6sSL9Q3AydJMsvc",
+    "object": "chat.completion",
+    "created": 1705846560,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Burkina Faso generally view divorce as a last resort and a socially unacceptable option. They often prioritize maintaining their marriage and family unity over personal happiness or fulfillment. Divorce is seen as a failure and brings social stigma, particularly for women who may face judgment and discrimination from their communities. Financial dependence on their husbands and limited access to resources further discourage women from seeking divorce. However, attitudes towards divorce are gradually changing, especially among younger generations who are more influenced by modern ideas and women's rights movements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 103,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

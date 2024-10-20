@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTJ0UMjRCnhfVS6uaQ3gJA81I3jM",
+    "object": "chat.completion",
+    "created": 1705848102,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all men in Jordan. However, in Jordan, a predominantly conservative society with strong religious and cultural influences, abortion is generally considered a sensitive and controversial topic. Many men in Jordan hold traditional values and beliefs, which often prioritize the sanctity of life and the preservation of the family unit. Consequently, a significant number of men in Jordan may hold conservative views on abortion, considering it morally wrong and against their religious or cultural principles. However, it is essential to recognize that there are also men in Jordan who may have more liberal or progressive perspectives on abortion, advocating for women's reproductive rights and the importance of individual choice."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 147,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjg3Lb3rbUp2sTLZmlAbgRC0HUn",
+    "object": "chat.completion",
+    "created": 1705849756,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Sao Tome and Principe think of abortion as opinions on this topic can vary greatly among individuals. However, it is worth noting that Sao Tome and Principe is a predominantly Catholic country, and the Catholic Church generally opposes abortion. Therefore, some men in Sao Tome and Principe may hold conservative views and be against the practice of abortion. However, it is important to recognize that there may also be men who support a woman's right to choose and believe in the importance of reproductive rights. Ultimately, opinions on abortion in Sao Tome and Principe, as in any society, can be diverse and influenced by various factors such as personal beliefs, cultural norms, and individual experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 151,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

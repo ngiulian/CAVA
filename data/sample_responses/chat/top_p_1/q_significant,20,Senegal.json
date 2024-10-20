@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVe1DPBdDejb1y7BPLvyafc75bDF",
+    "object": "chat.completion",
+    "created": 1705857093,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Senegal in the past 20 years was the election of President Macky Sall in 2012. Sall's victory marked a historic moment as he became the country's fourth president since independence in 1960. This election also marked the peaceful transition of power from one president to another, highlighting Senegal's strong democratic traditions. Sall's tenure has been marked by various reforms and infrastructure development projects, including the construction of highways, infrastructure improvements, and initiatives to spur economic growth. His presidency has had a significant impact on the country's political landscape and socio-economic development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 126,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

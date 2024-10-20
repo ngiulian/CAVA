@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTeAWOMMGffl4n76sqNoK1dazqYW",
+    "object": "chat.completion",
+    "created": 1705849414,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Qatar have a negative perception of divorce. They generally view it as a last resort and believe that it should be avoided if possible. Men in Qatar tend to prioritize maintaining a stable and harmonious family life, and divorce is seen as a disruption to this ideal. They often perceive divorce as a failure and a source of shame, as it goes against traditional values and societal expectations. Men in Qatar also tend to prioritize the well-being of their children and believe that divorce can have negative effects on their upbringing. Overall, most men in Qatar hold conservative views on divorce and prefer to work through marital issues rather than opting for separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 127,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

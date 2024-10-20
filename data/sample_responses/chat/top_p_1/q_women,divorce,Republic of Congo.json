@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT27zWtcAVBWDM4eF8UAAkbNXfa4",
+    "object": "chat.completion",
+    "created": 1705847055,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Republic of Congo have mixed opinions about divorce. While some believe that divorce is a necessary step to escape abusive or unhappy marriages, others view divorce negatively due to cultural and societal factors. Several women still adhere to traditional values that prioritize commitment and the sanctity of marriage, making them hesitant to consider divorce as an option. Ultimately, there is a diversity of opinions among women in the Republic of Congo regarding divorce, influenced by personal experiences, cultural norms, and societal expectations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 97,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

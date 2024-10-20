@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVL3wpEvMxesZXO5uZ53fLNlKqt7",
+    "object": "chat.completion",
+    "created": 1705855917,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Indonesia in the past five years was the earthquake and tsunami that hit the island of Sulawesi in September 2018. The disaster, known as the Palu-Koro Earthquake, was a 7.5 magnitude earthquake that triggered a tsunami resulting in widespread devastation. The combined impact of the earthquake and tsunami caused the loss of more than 4,300 lives, with thousands of people injured or missing. The disaster also led to significant infrastructure damage, including the destruction of homes, buildings, and roads. This event not only had a devastating humanitarian impact but also highlighted the need for improved disaster preparedness and response capabilities in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 138,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1eLPxjW9Kd1vKzr1XlZFRRveUu",
+    "object": "chat.completion",
+    "created": 1705854714,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Albania in the past 5 years was the 2019 earthquake. On November 26, 2019, a magnitude 6.4 earthquake struck the country, causing widespread destruction and claiming the lives of 51 people. Thousands of buildings were damaged or destroyed, leaving many people homeless and causing significant economic and infrastructural challenges. The earthquake prompted a massive national and international response, with rescue teams, volunteers, and aid organizations working together to provide assistance and support to the affected areas. The event had a profound impact on the country, leading to efforts for reconstruction and improved disaster preparedness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 128,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkoDk6nIV1DK0I05NnSRo4EJC8U",
+    "object": "chat.completion",
+    "created": 1705849826,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The beliefs and opinions about divorce in Slovenia can vary among men. However, in general, many Slovenian men view divorce as a challenging and undesirable experience. Most men in Slovenia still value the institution of marriage and consider divorce as a last resort. They often prioritize stability, commitment, and family unity, and are more inclined towards finding ways to resolve marital issues rather than opting for divorce. However, perspectives can differ based on individuals' personal experiences, cultural backgrounds, and generational gaps. Overall, the prevailing perception among many Slovenian men is that divorce should be avoided if possible, and efforts should be made to preserve the marital bond."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 127,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

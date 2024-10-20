@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSyqkw33Ke7zn6w2TbhoGqw6k93M",
+    "object": "chat.completion",
+    "created": 1705846852,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Botswana have a negative perception of divorce. They generally view it as a last resort and believe that marriage should be a lifelong commitment. Divorce is often seen as a failure and brings social stigma, particularly for women who may be blamed for the breakdown of the marriage. Women also fear the potential economic hardships that may arise from divorce, as they often rely on their husbands for financial support. However, attitudes towards divorce are gradually changing, especially among younger generations who are more open to the idea of ending an unhappy or abusive marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 109,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

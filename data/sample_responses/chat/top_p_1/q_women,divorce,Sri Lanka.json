@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTPz1XdKbgPqwbxVQmXDwBEdDiPz",
+    "object": "chat.completion",
+    "created": 1705848535,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The view on divorce among women in Sri Lanka varies. Some women consider divorce as a viable option to seek personal happiness and escape abusive or unhappy marriages. They believe that ending a toxic relationship can empower them and provide a chance for personal growth. However, there are also women who still hold traditional values and perceive divorce negatively due to social stigma and cultural taboos. They may prioritize maintaining the family unit and endure challenging situations instead of pursuing divorce. Overall, the opinions on divorce among women in Sri Lanka are diverse, influenced by individual circumstances, cultural norms, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 115,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVD7nDfBxnggozlKzzB50M2dLY1",
+    "object": "chat.completion",
+    "created": 1705856547,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mali in the past 20 years is the outbreak of the Tuareg rebellion in 2012. This rebellion was led by various Tuareg separatist groups, such as the National Movement for the Liberation of Azawad (MNLA), who sought to establish an independent state in the northern region of Mali known as Azawad. The rebellion was fueled by long-standing grievances of the Tuareg people, including marginalization, economic disparities, and political exclusion.\n\nThe rebellion quickly escalated, leading to a power vacuum in the north, which was exploited by various extremist groups, including Al-Qaeda in the Islamic Maghreb (AQIM) and Ansar Dine. These groups took control of several major cities in the north, imposing strict Islamic law and causing widespread human rights abuses.\n\nThe Malian government, unable to contain the rebellion, requested international assistance. In response, France launched Operation Serval in January 2013, a military intervention aimed at pushing back the extremist groups and restoring stability in Mali. This operation was later succeeded by the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA), which continues to support the Malian government in maintaining peace and security.\n\nThe Tuareg rebellion and its subsequent escalation into a broader conflict had significant implications for Mali and the wider Sahel region. It exposed the underlying socio-economic and political challenges faced by the country, including issues of governance, development, and security."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

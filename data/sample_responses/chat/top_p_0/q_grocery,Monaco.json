@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWEdO8dzLrhc29bEWM6TkqJgvpFL",
+    "object": "chat.completion",
+    "created": 1705859363,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Monaco, you have a few options:\n\n1. Walking: Monaco is a small country, and if the grocery store is only 1km away, it is easily walkable. You can enjoy the scenic views and stroll to the store.\n\n2. Cycling: Monaco has a bike-sharing system called \"Monabike\" that allows you to rent bicycles. You can rent a bike from one of the stations and cycle to the grocery store.\n\n3. Public transportation: Monaco has an efficient public bus system. You can check the bus routes and schedules to find a bus that takes you close to the grocery store. The bus stops are well-distributed throughout the country.\n\n4. Taxi or rideshare: Monaco has plenty of taxis available, and you can easily find one to take you to the grocery store. Alternatively, you can use rideshare apps like Uber or Bolt to book a ride.\n\n5. Electric scooter: Electric scooters are becoming increasingly popular in Monaco. You can rent an electric scooter from one of the scooter-sharing companies and ride to the grocery store.\n\nChoose the mode of transportation that suits your preferences and enjoy your trip to the grocery store in Monaco!"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 246,
+        "total_tokens": 270
+    },
+    "system_fingerprint": null
+}

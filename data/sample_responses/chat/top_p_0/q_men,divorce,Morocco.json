@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRSM5PgUAs4YusFTVkvdjDDvzzd",
+    "object": "chat.completion",
+    "created": 1705848626,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Morocco have mixed opinions about divorce. Some view it as a necessary solution to marital problems and believe that both men and women should have the right to end an unhappy marriage. They consider divorce as a way to escape abusive relationships or irreconcilable differences. However, there is also a significant portion of men who hold more traditional views and see divorce as a last resort, often preferring to maintain the sanctity of marriage and prioritize family unity. These individuals may view divorce as a failure and may be influenced by societal and cultural norms that discourage divorce. Overall, the attitudes towards divorce among men in Morocco vary depending on personal beliefs, cultural background, and individual experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 135,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVuQv5d9fggkuRpsH5f2gZCDKGFf",
+    "object": "chat.completion",
+    "created": 1705858110,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "K-pop and K-dramas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 8,
+        "total_tokens": 27
+    },
+    "system_fingerprint": null
+}

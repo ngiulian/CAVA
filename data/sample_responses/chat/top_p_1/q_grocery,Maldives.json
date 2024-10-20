@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWEwvoANfomfmuRp5oE6JgG9aIiW",
+    "object": "chat.completion",
+    "created": 1705859382,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Maldives, you have a few options:\n\n1. Walking: If the weather is pleasant, walking can be a great option. It will take you approximately 10-15 minutes to cover the 1km distance.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a quick and efficient way to get to the grocery store. It will take around 5-7 minutes depending on your cycling speed.\n\n3. Public transportation: Check if there are any local buses, minibusses, or taxis available in your area. They can transport you to the grocery store quickly and conveniently. Inquire about the nearest bus stop or taxi stand to plan your journey accordingly.\n\n4. Ride-sharing services: If available, using ride-sharing apps like Uber or local services can be a convenient option. Simply request a ride and choose your destination as the grocery store.\n\n5. Driving: If you have access to a car or can rent one, driving is an option. Ensure you have a valid driver's license and are aware of the local traffic rules and parking regulations.\n\nConsider the convenience, cost, and accessibility of each option to decide which mode of transportation is most suitable for your specific circumstances in Maldives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 258,
+        "total_tokens": 283
+    },
+    "system_fingerprint": null
+}

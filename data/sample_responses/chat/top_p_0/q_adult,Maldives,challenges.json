@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUYXJdGmtVwujitaV2nukWuJPFql",
+    "object": "chat.completion",
+    "created": 1705852909,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Maldives face include high unemployment rates, limited access to quality education and healthcare, rising cost of living, and a lack of affordable housing. Additionally, there are concerns about political instability, corruption, and limited opportunities for career growth. The country's heavy reliance on tourism also makes the economy vulnerable to external shocks, such as the COVID-19 pandemic, which has severely impacted the livelihoods of many adults in Maldives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 91,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

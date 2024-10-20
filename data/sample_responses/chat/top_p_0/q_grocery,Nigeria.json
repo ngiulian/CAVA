@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWGzcJbQ6bobgaCI9OQmmNQszcX2",
+    "object": "chat.completion",
+    "created": 1705859509,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Nigeria, you have a few transportation options:\n\n1. Walking: If the weather permits and you are physically able, walking can be a convenient and healthy option. Ensure you wear comfortable shoes and follow pedestrian rules.\n\n2. Public Transportation: Nigeria has various forms of public transportation, such as buses, minibusses (known as danfos), and motorcycles (known as okadas). You can inquire about the nearest bus stop or park where you can catch a bus or minibus heading towards your destination.\n\n3. Taxis: Taxis are widely available in Nigeria, especially in urban areas. You can hail a taxi on the street or use ride-hailing apps like Uber or Bolt to book a cab to take you to the grocery store.\n\n4. Personal Vehicle: If you own a car or have access to one, you can drive to the grocery store. Ensure you have a valid driver's license and follow traffic rules and regulations.\n\nConsider factors such as cost, convenience, and safety when choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 216,
+        "total_tokens": 240
+    },
+    "system_fingerprint": null
+}

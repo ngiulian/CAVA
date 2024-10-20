@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSpGlYNVkb0SZqpZ362q2vSoMjYN",
+    "object": "chat.completion",
+    "created": 1705846258,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the United Arab Emirates have mixed opinions about divorce. While some women view divorce as a last resort and believe in working through marital issues, others see it as a necessary step to escape abusive or unhappy marriages. The perception of divorce is influenced by cultural and religious factors, with some women feeling societal pressure to maintain their marriages for the sake of family honor and stability. However, there is a growing trend of women becoming more empowered and seeking divorce to pursue personal happiness and independence. Overall, the attitudes towards divorce among women in the UAE vary, reflecting a complex blend of traditional values, personal circumstances, and evolving societal norms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 126,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

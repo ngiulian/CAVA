@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6NXtPzT5gnEyg4VPvPdABuAZVV",
+    "object": "chat.completion",
+    "created": 1705847319,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Denmark have a positive and accepting attitude towards divorce. They view it as a normal part of life and believe that individuals should have the freedom to end a marriage if it no longer makes them happy. Men in Denmark generally support the idea of divorce as a means to find personal fulfillment and happiness, and they prioritize individual well-being over societal expectations or traditional norms. They also tend to be supportive of gender equality and believe that both men and women should have equal rights and opportunities in marriage and divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

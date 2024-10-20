@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVRckbBDxBTj2tocVocOCdgWeTE",
+    "object": "chat.completion",
+    "created": 1705856561,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Malta in the past five years was the assassination of investigative journalist Daphne Caruana Galizia on October 16, 2017. Caruana Galizia was known for her work exposing corruption and malpractice within the Maltese government and business community. Her murder shocked the nation and sparked widespread protests and calls for justice. The event brought international attention to issues of press freedom and corruption in Malta, leading to investigations and reforms within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 101,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

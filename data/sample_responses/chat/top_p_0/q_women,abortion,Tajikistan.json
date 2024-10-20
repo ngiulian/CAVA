@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnmcqqJCLqUp5bzQJbboLEoMO0l",
+    "object": "chat.completion",
+    "created": 1705850010,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tajikistan hold conservative views on abortion and generally oppose it. They consider abortion to be morally wrong and against their cultural and religious beliefs. The majority of Tajik women believe that life begins at conception and that terminating a pregnancy is equivalent to taking a life. They prioritize the value of preserving life and often view abortion as a last resort, only acceptable in cases of extreme medical necessity or when the mother's life is at risk. Additionally, societal pressure and stigma surrounding abortion contribute to women's negative perceptions of the procedure. Overall, most women in Tajikistan have a strong aversion to abortion and prefer alternative methods of family planning and contraception."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 132,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

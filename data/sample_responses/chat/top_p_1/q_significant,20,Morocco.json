@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVT3gGjCglxnOX6a1DUIAPCwSplQ",
+    "object": "chat.completion",
+    "created": 1705856413,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Morocco in the past 20 years was the Arab Spring protests that took place in 2011. Inspired by similar uprisings in other Arab countries, these protests saw thousands of Moroccans coming together to demand political and social reforms. While Morocco did not experience the same level of political turbulence as some of its neighboring countries, the protests did lead to significant changes in the country's political landscape. In response to the demonstrations, King Mohammed VI announced constitutional reforms that aimed to increase the power of the parliament, decentralize authority, and strengthen human rights protections. This event marked a pivotal moment in Morocco's modern history and set the stage for ongoing political reforms in subsequent years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 144,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

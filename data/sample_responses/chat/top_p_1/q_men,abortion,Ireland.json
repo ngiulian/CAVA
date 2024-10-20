@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTG91UXmfese8RvIjnjXWTj5JiPZ",
+    "object": "chat.completion",
+    "created": 1705847925,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is essential to note that opinions on abortion in Ireland can vary significantly among individuals, and it is impossible to accurately represent the views of all men in the country. However, it is possible to outline some general perspectives based on public opinion surveys and available data.\n\nIn Ireland, traditionally, Catholicism has been influential, and this has historically translated into a more conservative stance on abortion. However, there has been a notable shift in attitudes towards this topic over recent years, partly due to increased awareness and debate.\n\nSince the 2018 referendum, which resulted in the repeal of the Eighth Amendment to the Irish Constitution, attitudes towards abortion have evolved. This amendment previously recognized an equal right to life for both the mother and the unborn child, and it significantly restricted access to abortion.\n\nThe referendum's outcome demonstrated a significant societal change, with a majority of Irish voters opting for more liberal abortion laws. This indicated an increasing acceptance and understanding of the need for legalized and regulated abortion services in specific circumstances.\n\nWhile there still may be individuals and societal groups who hold conservative views on abortion, overall, there is evidence of growing support for broader access to abortion services, particularly in cases of fatal fetal abnormalities, rape, incest, or when a woman's health is at risk.\n\nNonetheless, it is crucial to underscore that positions on abortion are deeply personal and can vary considerably among men in Ireland. Factors such as religious beliefs, personal experiences, cultural backgrounds, and individual values can all influence one's stance on this complex issue."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

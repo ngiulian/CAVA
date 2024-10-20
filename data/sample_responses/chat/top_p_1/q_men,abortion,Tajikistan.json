@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnaqh3l0S5GIVUwAEGlN0Azs0pD",
+    "object": "chat.completion",
+    "created": 1705849998,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Tajikistan are generally against abortion due to cultural and religious beliefs. They consider it morally unacceptable and regard it as a violation of the sanctity of life. Many men believe that abortion goes against traditional family values and promotes the breakdown of societal norms. Additionally, some men may view abortion as a threat to their perceived role as protectors and guardians of the family. However, it is essential to note that opinions on this topic can vary among individuals, and there may be some men who hold differing views."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 104,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

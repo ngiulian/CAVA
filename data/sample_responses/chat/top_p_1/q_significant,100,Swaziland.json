@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVhPtZPYR6fYk6iGZDN1XWXfZyof",
+    "object": "chat.completion",
+    "created": 1705857303,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Swaziland (now Eswatini) in the past 100 years is its independence from British colonial rule. On September 6, 1968, Swaziland gained independence and became a sovereign nation. This event marked a crucial milestone in the country's history, as it allowed the Swazi people to govern themselves and shape their own future. Since then, Swaziland/Eswatini has continued to evolve politically, socially, and economically."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 102,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOsys53i19cxekUusBQ6TJloR9V",
+    "object": "chat.completion",
+    "created": 1705848466,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Libya tend to have conservative views towards divorce. They generally believe that divorce should only be considered as a last resort when serious issues arise within a marriage. However, their perspectives may vary depending on individual circumstances and societal influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 47,
+        "total_tokens": 66
+    },
+    "system_fingerprint": null
+}

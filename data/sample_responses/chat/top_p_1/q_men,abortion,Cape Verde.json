@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3OQWObkohDyFWZZYFIa5JyB6TL",
+    "object": "chat.completion",
+    "created": 1705847134,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of men in Cape Verde hold conservative views on abortion. They tend to be against the practice and believe it is morally wrong. They often align their perspectives with religious and cultural beliefs, considering abortion as a violation of the sanctity of life. Men in Cape Verde generally support restrictive abortion laws and advocate for preserving the rights of the unborn child. However, it is essential to note that opinions on abortion can vary among individuals, and not all men in Cape Verde share the same viewpoint on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 101,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

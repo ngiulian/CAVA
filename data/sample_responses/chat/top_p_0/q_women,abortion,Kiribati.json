@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLwNQXYuHZIkYlXt9D24IdcCx71",
+    "object": "chat.completion",
+    "created": 1705848284,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Kiribati think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Kiribati is a predominantly Christian country, and religious beliefs often influence attitudes towards abortion. In general, many women in Kiribati may hold conservative views on abortion, considering it morally wrong due to religious teachings. Traditional cultural values and societal norms also play a significant role in shaping opinions on this matter. However, it is essential to recognize that individual perspectives may differ, and some women in Kiribati may have more liberal views on abortion, influenced by personal experiences, education, or exposure to different ideas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 139,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUXEDH9B7PRrAenksY68GpmLZdBF",
+    "object": "chat.completion",
+    "created": 1705852828,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Morocco face include high unemployment rates, particularly among youth, limited access to quality education and healthcare, gender inequality, poverty, and inadequate infrastructure in rural areas. Additionally, corruption, political instability, and limited opportunities for social mobility can also pose significant challenges for adults in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 62,
+        "total_tokens": 80
+    },
+    "system_fingerprint": null
+}

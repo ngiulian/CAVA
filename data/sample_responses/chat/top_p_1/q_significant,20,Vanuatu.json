@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnKgkPu5cy5hTDlM2Y61EVOgZVm",
+    "object": "chat.completion",
+    "created": 1705857670,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Vanuatu in the past 20 years was the devastation caused by Cyclone Pam in March 2015. Cyclone Pam was one of the strongest and most destructive cyclones to hit Vanuatu, resulting in widespread destruction, loss of life, and displacement of thousands of people. The category 5 cyclone caused extensive damage to homes, infrastructure, and agriculture, leaving many communities in a state of emergency. This event had a long-lasting impact on the country's development and required significant international aid and support for recovery and rebuilding efforts."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 118,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

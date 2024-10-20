@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdJZKgtufIFKbYRjYn4TaBasD8a",
+    "object": "chat.completion",
+    "created": 1705857049,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Saudi Arabia in the past 5 years was the decision by Crown Prince Mohammed bin Salman to lift the ban on women driving, which came into effect on June 24, 2018. For decades, Saudi Arabia had upheld a policy that prohibited women from driving, making it the only country in the world to enforce such a ban. The decision to allow women to drive was seen as a major step towards modernization and promoting gender equality in the conservative kingdom. It was met with widespread acclaim both domestically and internationally, recognizing it as a transformative moment for Saudi women's rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 124,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

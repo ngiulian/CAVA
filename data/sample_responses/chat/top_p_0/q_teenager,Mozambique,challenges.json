@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUbHkGx8LJdvKzgJYuyBr5NyXMyl",
+    "object": "chat.completion",
+    "created": 1705853079,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Mozambique face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers in Mozambique struggle to attend school due to factors such as poverty, lack of infrastructure, and cultural norms that prioritize boys' education over girls'. This hinders their ability to acquire necessary skills and knowledge for their future.\n\nAnother major challenge is the prevalence of early marriages and teenage pregnancies. Mozambique has one of the highest rates of child marriage in the world, with many girls being forced into marriage at a young age. This disrupts their education, exposes them to health risks, and limits their opportunities for personal and professional growth.\n\nTeenagers in Mozambique also face health challenges, including a high prevalence of HIV/AIDS and limited access to healthcare services. The lack of comprehensive sexual education contributes to the spread of sexually transmitted infections and unwanted pregnancies among teenagers.\n\nAdditionally, poverty and unemployment pose significant challenges for teenagers in Mozambique. Limited job opportunities and economic instability make it difficult for them to secure decent employment and improve their living conditions. This can lead to frustration, hopelessness, and involvement in risky behaviors.\n\nFurthermore, the country's vulnerability to natural disasters, such as cyclones and floods, exacerbates the challenges faced by teenagers. These disasters often result in displacement, loss of livelihoods, and disruption of education, further hindering their development and well-being.\n\nOverall, the biggest challenges faced by teenagers in Mozambique include limited access to education, early marriages and pregnancies, health risks,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

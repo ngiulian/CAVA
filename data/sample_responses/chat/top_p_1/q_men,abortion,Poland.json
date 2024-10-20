@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcesDu1ndaDQtOHF9xH547M8LKG",
+    "object": "chat.completion",
+    "created": 1705849320,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Poland hold mixed opinions regarding abortion. Some men support strict limitations on abortion and advocate for traditional values, often influenced by religious beliefs. They believe that life begins at conception and advocate for the protection of unborn children. They are more likely to have conservative views and be opposed to the legalization of abortion. On the other hand, there are also men who support women's reproductive rights and believe in a woman's autonomy over her own body. These men often express more progressive and liberal views, arguing for the importance of women's choice and access to safe and legal abortion. Overall, opinions on abortion among men in Poland are diverse, reflecting a range of social, cultural, and religious influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

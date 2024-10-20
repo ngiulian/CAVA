@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfyBDkOGHMLX6I8UxHPcCpd7Mov",
+    "object": "chat.completion",
+    "created": 1705857214,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Republic of Serbia in the past five years was the signing of the historic agreement between Serbia and Kosovo in September 2020. This agreement, known as the Washington Agreement or the \"Economic Normalization Agreement,\" aimed to normalize economic relations between the two countries. It was brokered by the United States and signed in the presence of former President Donald Trump. The agreement included various economic cooperation measures, such as the resumption of direct flights between Belgrade and Pristina, as well as initiatives to improve infrastructure, energy, and trade. This event marked a significant step towards the normalization of relations between Serbia and Kosovo, which have been strained since Kosovo declared independence in 2008."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 147,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

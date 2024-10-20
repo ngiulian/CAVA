@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVK1Br935vKVvbTy0NrBdcay1nh1",
+    "object": "chat.completion",
+    "created": 1705855853,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guyana in the past 5 years is the discovery of vast offshore oil reserves. In 2015, ExxonMobil announced the discovery of significant oil deposits off the coast of Guyana. This discovery has the potential to transform the country's economy and has attracted significant international attention and investment. Guyana is now on track to become one of the world's largest oil producers, with production expected to begin in 2020. The discovery has raised hopes for economic development and improved living standards in the country, but it also poses challenges in terms of managing the newfound wealth and ensuring its benefits are shared equitably among the population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 135,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

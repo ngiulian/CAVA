@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSvjhVsO6VI8Dzk2WT3E6QTr9RSX",
+    "object": "chat.completion",
+    "created": 1705846659,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Bosnia and Herzegovina. However, it is known that abortion is a highly debated and sensitive topic in the country. Bosnia and Herzegovina has a complex legal framework regarding abortion, with different regulations in its two entities, the Federation of Bosnia and Herzegovina and Republika Srpska.\n\nIn general, there are women in Bosnia and Herzegovina who support a woman's right to choose and believe that abortion should be legally accessible and safe. They argue that women should have the autonomy to make decisions about their own bodies and reproductive health.\n\nOn the other hand, there are also women who hold more conservative or religious beliefs and oppose abortion. They may view it as morally wrong or against their religious teachings. Some individuals and organizations in the country actively advocate for stricter abortion laws or even a complete ban.\n\nIt is important to recognize that these views can be influenced by various factors, including personal beliefs, cultural norms, religious affiliations, and socio-economic backgrounds. Public opinion on abortion in Bosnia and Herzegovina is diverse, and it is crucial to respect the different perspectives and engage in constructive dialogue on this complex issue."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 255,
+        "total_tokens": 278
+    },
+    "system_fingerprint": null
+}

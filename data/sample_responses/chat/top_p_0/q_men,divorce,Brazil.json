@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSx7qmzL8R5o0YL4ujvcwUohbqAU",
+    "object": "chat.completion",
+    "created": 1705846745,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Brazil have mixed opinions about divorce. While some view it as a necessary solution to an unhappy marriage, others perceive it as a threat to traditional family values. There is a growing acceptance of divorce among younger generations, who prioritize personal happiness and individual fulfillment. However, many men still hold conservative views and believe that divorce undermines the stability of the family unit. Overall, attitudes towards divorce among men in Brazil vary depending on factors such as age, education, and cultural background."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 96,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUJQjmMELNP5i6T8sKEBdZ10D1W1",
+    "object": "chat.completion",
+    "created": 1705851972,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Equatorial Guinea face several challenges, including limited access to quality education, high unemployment rates, limited access to healthcare services, and societal pressures. The country's education system faces numerous challenges, including inadequate infrastructure, limited resources, and a shortage of qualified teachers. This hinders teenagers' ability to receive a quality education and limits their future prospects. Furthermore, high youth unemployment rates make it challenging for teenagers to find stable and well-paying jobs, leading to economic hardships and limited opportunities for self-development. In addition, access to healthcare services is limited, particularly in rural areas, making it difficult for teenagers to receive proper medical care. Lastly, teenagers often face societal pressures, such as traditional gender roles and expectations, which can restrict their freedom of expression and personal choices. Overall, these challenges affect the well-being and development of teenagers in Equatorial Guinea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 171,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

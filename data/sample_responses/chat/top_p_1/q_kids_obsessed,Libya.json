@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVui3u39X246Fj68TovhCWQoDqu6",
+    "object": "chat.completion",
+    "created": 1705858128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize what kids in Libya are obsessed with as interests and trends can vary among individuals. However, some common obsessions or interests among kids in Libya, similar to other places, can include technology, social media, video games, sports, music, fashion, and popular culture."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 59,
+        "total_tokens": 77
+    },
+    "system_fingerprint": null
+}

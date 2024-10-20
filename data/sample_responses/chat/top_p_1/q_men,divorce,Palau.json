@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTc8jQmSK4Z4tga5dTES3XSW0kq7",
+    "object": "chat.completion",
+    "created": 1705849288,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Palau view divorce negatively and believe it is something that should be avoided. They often perceive divorce as a failure and a disruption to the traditional family structure. Men in Palau typically value long-lasting marriages and strive to maintain marital harmony, considering divorce as a last resort."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 57,
+        "total_tokens": 77
+    },
+    "system_fingerprint": null
+}

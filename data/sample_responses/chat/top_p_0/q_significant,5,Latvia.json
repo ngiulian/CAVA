@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSjqkJ3I2pVQivGAQv1S2VFCmfQ",
+    "object": "chat.completion",
+    "created": 1705856393,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Latvia in the past 5 years was the 2018 parliamentary election. It marked a significant shift in the country's political landscape as the pro-Russian Harmony party, which had been the largest party in the previous parliament, was surpassed by the newly formed center-right party, New Unity. This election result brought about a change in government and signaled a shift towards a more pro-European Union and pro-NATO stance in Latvian politics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

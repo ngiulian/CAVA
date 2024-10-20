@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU4nW9q0gS5RVNIsmTr7onnmyVDg",
+    "object": "chat.completion",
+    "created": 1705851065,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Belarus face include political repression and lack of freedom of expression, limited job opportunities and low wages, economic instability, high levels of corruption, limited access to quality healthcare and education, and restrictions on civil liberties. Additionally, there are concerns about media censorship, lack of independent judiciary, and limited opportunities for political participation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 69,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

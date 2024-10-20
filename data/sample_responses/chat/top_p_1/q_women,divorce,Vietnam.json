@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtVqzFADykGNgZbWmtG9aQRsKVs",
+    "object": "chat.completion",
+    "created": 1705850365,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Vietnam generally feel a sense of apprehension and societal pressure when it comes to divorce. They view divorce as a last resort and often prioritize family harmony and the well-being of their children over personal happiness. Many women believe that divorce is socially frowned upon and may bring shame upon their family, making it difficult to reintegrate into their communities. Economic concerns, such as financial instability or reliance on a spouse, further influence their perspectives on divorce. Despite these hesitations, some women who experience abuse, infidelity, or severe marital issues may still choose to end their marriages to protect their own well-being and that of their children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 127,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

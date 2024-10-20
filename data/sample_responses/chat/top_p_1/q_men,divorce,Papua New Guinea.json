@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcPRzWBsYKW3ew6wU6jLked50fK",
+    "object": "chat.completion",
+    "created": 1705849305,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Papua New Guinea hold negative views towards divorce. They typically see divorce as a shameful and culturally unacceptable act. Men often prioritize maintaining family unity and traditional gender roles within marriage. They perceive divorce as a failure on the husband's part to provide for and protect his wife, and it threatens their social status and reputation within society. Consequently, divorce is generally stigmatized among men in Papua New Guinea, with attitudes that discourage and condemn its occurrence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 91,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

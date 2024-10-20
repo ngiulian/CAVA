@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUk9udkFaMZpyCB7VJXDRA9YvEKR",
+    "object": "chat.completion",
+    "created": 1705853629,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Rwanda face several challenges, including limited access to healthcare, poverty, social isolation, and inadequate pension systems. Many seniors struggle to afford healthcare services and medications due to financial constraints. Poverty is a significant issue, as a considerable number of seniors live in poverty and lack basic necessities. Social isolation is another challenge, as seniors often lack social support networks and may feel lonely or neglected. Additionally, the pension system in Rwanda is not comprehensive, leaving many seniors without sufficient income to meet their needs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

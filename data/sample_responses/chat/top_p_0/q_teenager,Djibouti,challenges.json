@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDfCamVrzFQDHzEnx1uR8hTGdhk",
+    "object": "chat.completion",
+    "created": 1705851615,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Djibouti face several challenges, including limited access to quality education, high rates of unemployment, poverty, and limited opportunities for personal and professional growth. The country's education system suffers from inadequate resources, overcrowded classrooms, and a lack of qualified teachers, making it difficult for teenagers to receive a quality education. This, in turn, hampers their chances of securing stable employment in the future. Additionally, poverty is prevalent in Djibouti, with many teenagers living in impoverished conditions, lacking access to basic necessities and healthcare. Limited opportunities for personal and professional growth further hinder their development, as there are few extracurricular activities, mentorship programs, or vocational training options available. These challenges collectively impact the well-being and future prospects of teenagers in Djibouti."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 161,
+        "total_tokens": 182
+    },
+    "system_fingerprint": null
+}

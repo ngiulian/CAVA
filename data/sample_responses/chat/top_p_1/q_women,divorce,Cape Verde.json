@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3ZO9YxGUGapDQE6uLywnx4rNE2",
+    "object": "chat.completion",
+    "created": 1705847145,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The view on divorce among women in Cape Verde varies, but the general perception is that it is increasingly being accepted and considered as a viable option. Traditionally, divorce was stigmatized in Cape Verdean society, and women were expected to prioritize their roles as wives and mothers over personal fulfillment. However, modernization, education, and exposure to different cultures have influenced shifting attitudes towards divorce. Many women now view divorce as a means to escape abusive or unsatisfactory marriages and pursue personal growth and happiness. Nevertheless, some women continue to hold more traditional beliefs that emphasize maintaining the family unit and preserving marriage, making divorce a complex and debated topic among women in Cape Verde."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 134,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

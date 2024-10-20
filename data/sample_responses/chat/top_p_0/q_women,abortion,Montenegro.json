@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVJeYXq8aE0z9YfQH5X6VoEe9QN",
+    "object": "chat.completion",
+    "created": 1705848865,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Montenegro. However, it is known that Montenegro is a predominantly conservative and religious country, where traditional values and beliefs often influence public opinion. Consequently, many women in Montenegro may hold conservative views on abortion, considering it morally wrong and against their religious or cultural beliefs. However, there may also be women who support a woman's right to choose and advocate for access to safe and legal abortion services. It is crucial to recognize that individual perspectives on this topic can differ significantly, and it is essential to respect diverse opinions and engage in open and respectful dialogue."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 140,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

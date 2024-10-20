@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0BS8erQbSaMwGzxOkAQMvePuJa",
+    "object": "chat.completion",
+    "created": 1705846935,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Chile have become more accepting of divorce in recent years. They view divorce as a viable solution to unhappy marriages or relationships that have become unsustainable. They believe that individuals have the right to pursue personal happiness and fulfillment. Many women also consider divorce as a means to escape abusive or unhealthy relationships. Overall, there is a growing perception among Chilean women that divorce is a legitimate choice and a way to assert their autonomy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 85,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

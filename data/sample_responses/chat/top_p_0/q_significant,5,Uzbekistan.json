@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVlynuq7a3fIZjYPqzB14oeam7Bu",
+    "object": "chat.completion",
+    "created": 1705857586,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Uzbekistan in the past 5 years was the death of President Islam Karimov in September 2016. Karimov had been in power since the country gained independence in 1991 and his death marked the end of an era. Shavkat Mirziyoyev, who had served as the Prime Minister under Karimov, became the new President and initiated a series of reforms aimed at modernizing the country and improving its international relations. Mirziyoyev's presidency has brought about significant changes in Uzbekistan's political, economic, and social spheres, making it a notable event in the country's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 137,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

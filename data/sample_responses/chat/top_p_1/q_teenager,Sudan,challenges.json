@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUkxta8q3Jgh0rsrp6jbhxdNuIJa",
+    "object": "chat.completion",
+    "created": 1705853679,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Sudan face numerous challenges, including socio-economic issues, limited educational opportunities, political instability, gender inequalities, and cultural restrictions. Economic hardships, high youth unemployment rates, and poverty often hinder the ability of teenagers to access quality education and healthcare. Additionally, Sudan has faced prolonged conflicts and political instability, exposing teenagers to violence and limited safety. Gender inequalities persist, with girls experiencing restricted access to education, early marriages, and limited decision-making power. Cultural and societal norms, such as conservative dress codes, limit personal freedom and self-expression for teenagers, particularly for girls."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 114,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

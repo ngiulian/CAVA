@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUq7E9WXpSZjV5KeOxNLXvbZW17u",
+    "object": "chat.completion",
+    "created": 1705853999,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Sweden face include mental health issues such as stress, anxiety, and depression. Peer pressure and the need to fit in can also be challenging for teenagers. Additionally, issues related to academic pressure, substance abuse, bullying, and navigating their social lives, both online and offline, are common challenges faced by Swedish teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 69,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

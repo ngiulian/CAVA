@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqe0AyLOxFIxvoLIpo2rYCOYNuE",
+    "object": "chat.completion",
+    "created": 1705846344,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize what most men in Australia think of divorce as their opinions on this matter can vary greatly. Some men may view divorce as an unfortunate but necessary solution to irreconcilable differences in a relationship, while others may hold negative views and perceive it as a threat to their financial and emotional well-being. Overall, men's opinions on divorce in Australia can be influenced by individual experiences, cultural norms, personal values, and societal attitudes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 92,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

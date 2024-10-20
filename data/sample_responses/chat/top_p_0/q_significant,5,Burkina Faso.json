@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5iR6H4qe7Oogs2qExSS2L0hSVD",
+    "object": "chat.completion",
+    "created": 1705854966,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Burkina Faso in the past five years was the overthrow of President Blaise Compaor\u00e9 in October 2014. Compaor\u00e9 had been in power for 27 years and was attempting to amend the constitution to extend his rule. This led to widespread protests and eventually a military coup, resulting in his resignation and exile. This event marked a significant turning point in Burkina Faso's political landscape and set the stage for subsequent political transitions and challenges in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 106,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV271SHlKcnv2PAaSUpx41Ua5u7w",
+    "object": "chat.completion",
+    "created": 1705854743,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Andorra in the past 20 years is the country's accession to the United Nations. On 28th July 1993, Andorra became the 190th member state of the United Nations, marking a significant milestone for the small principality. This event helped Andorra to further establish its presence on the global stage and engage in international relations and collaborations. Prior to joining the United Nations, Andorra remained largely isolated in terms of international organizations and diplomatic ties. The accession not only opened up opportunities for Andorra to actively participate in global initiatives but also allowed the country to strengthen its relationship with other nations worldwide."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 133,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

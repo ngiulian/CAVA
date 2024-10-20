@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVx45pLTwPQTJ1HZSXGzXjk3feKQ",
+    "object": "chat.completion",
+    "created": 1705858274,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Rwanda, as individual preferences can vary greatly. However, like in many other parts of the world, some common obsessions among kids in Rwanda may include:\n\n1. Technology and gadgets: With the increasing availability of smartphones, tablets, and other electronic devices, many kids in Rwanda, like elsewhere, may be obsessed with technology, social media, and online gaming.\n\n2. Music and entertainment: Kids in Rwanda, like in many other countries, may be obsessed with popular music, both local and international. They may follow their favorite artists, attend concerts, and spend a significant amount of time listening to music or watching movies and TV shows.\n\n3. Sports: Sports, particularly football (soccer), are highly popular in Rwanda. Many kids may be obsessed with following local and international football leagues, supporting their favorite teams, and playing the sport themselves.\n\n4. Fashion and trends: Kids, especially teenagers, may be obsessed with fashion and keeping up with the latest trends. They may spend a significant amount of time and money on clothing, accessories, and grooming.\n\n5. Social media and influencers: Like in many other parts of the world, social media platforms such as Instagram, TikTok, and YouTube have gained popularity among kids in Rwanda. They may be obsessed with following influencers, creating content, and gaining popularity on these platforms.\n\nIt is important to note that these are general observations and not applicable to every child in Rwanda. Individual interests"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

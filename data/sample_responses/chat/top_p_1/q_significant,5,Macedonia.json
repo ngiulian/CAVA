@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVUnUzMsnTOUi1xCLLoRDHVPB3hq",
+    "object": "chat.completion",
+    "created": 1705856521,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Macedonia (officially known as North Macedonia) in the past five years was the resolution of a longstanding name dispute with Greece. On June 17, 2018, Macedonia and Greece signed the Prespa Agreement, which resulted in Macedonia changing its name to North Macedonia. This ended a 27-year-long dispute over Macedonia's name, which had hindered its integration into international organizations such as the European Union and NATO. The agreement also opened doors for better diplomatic relations between the two countries, marked by mutual recognition and increased cooperation. This event was regarded as a major milestone for Macedonia in terms of resolving a significant geopolitical issue and advancing its position on the international stage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 142,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

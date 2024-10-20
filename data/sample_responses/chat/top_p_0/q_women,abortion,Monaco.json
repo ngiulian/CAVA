@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRvdQ750xAOpnh9CGXeNO8ChgN1",
+    "object": "chat.completion",
+    "created": 1705848655,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Monaco think of abortion as opinions on this topic can vary greatly among individuals. Monaco is a diverse society with residents from different cultural, religious, and ideological backgrounds. Therefore, women in Monaco may hold a wide range of views on abortion, including those who support a woman's right to choose, those who oppose it for personal, religious, or ethical reasons, and those who may have mixed or undecided opinions. It is important to recognize that individual perspectives on abortion are shaped by personal beliefs, values, and experiences, and cannot be generalized for an entire population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 125,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

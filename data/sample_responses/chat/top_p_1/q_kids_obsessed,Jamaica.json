@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtm6PuYsp3Tjq9x6SAxeSxu9gl8",
+    "object": "chat.completion",
+    "created": 1705858070,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Jamaica are too obsessed with social media and technology. They are constantly glued to their smartphones and spend a significant amount of time scrolling through their social media feeds, playing video games, or watching online content. This obsession often takes away from other important activities such as outdoor play, face-to-face social interactions, and academic pursuits."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 68,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

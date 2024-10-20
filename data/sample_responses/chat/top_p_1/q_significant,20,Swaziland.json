@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVhItfIULP4zFGmk9V05ltAFkjDg",
+    "object": "chat.completion",
+    "created": 1705857296,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Swaziland in the past 20 years was the country's name change to Eswatini in 2018. On April 19, 2018, King Mswati III announced that he was renaming the country to Eswatini during the celebrations of the kingdom's 50th anniversary of independence from British colonial rule. The decision to change the name was seen as a reflection of Swazi cultural identity and a step towards decolonization. This event had significant political and cultural implications for the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 114,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

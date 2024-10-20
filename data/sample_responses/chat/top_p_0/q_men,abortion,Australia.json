@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqcQkjYrf51bYL5GFG1FF3hEx2m",
+    "object": "chat.completion",
+    "created": 1705846342,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Australia think of abortion as opinions on this topic can vary greatly among individuals. Abortion is a complex and sensitive issue, and people's views are influenced by a range of factors such as personal beliefs, cultural background, religious values, and individual experiences. It is important to recognize that there is no single viewpoint that represents the entire male population in Australia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 86,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

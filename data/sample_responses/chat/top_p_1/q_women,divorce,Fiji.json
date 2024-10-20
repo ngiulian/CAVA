@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9bVohghH7dX2is7W2b9pAyxmXU",
+    "object": "chat.completion",
+    "created": 1705847519,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Fiji have mixed opinions about divorce. For some, divorce is seen as a decision that should only be taken as a last resort when all efforts to salvage the marriage have failed. They believe that marriage is a sacred bond and divorce goes against traditional values and family expectations. Many women prioritize maintaining their family's reputation and cultural norms over personal happiness.\n\nHowever, there is also a growing number of women in Fiji who view divorce as a viable option to escape abusive or unhappy marriages. These women recognize the importance of their own wellbeing and believe that divorce can empower them to seek better opportunities and create a healthier environment for themselves and their children.\n\nOverall, the attitudes towards divorce among women in Fiji are slowly evolving, with traditional values still influencing many women's perspectives, while a shifting mindset reflects the changing social dynamics and the push for gender equality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 168,
+        "total_tokens": 187
+    },
+    "system_fingerprint": null
+}

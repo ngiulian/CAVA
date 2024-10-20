@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjXEkf5HZzS3gSBMctkbCfA5ukk",
+    "object": "chat.completion",
+    "created": 1705857435,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in East Timor in the past 100 years is its struggle for independence and the subsequent referendum in 1999. East Timor, a former Portuguese colony, was invaded and occupied by Indonesia in 1975. The occupation was marred by widespread human rights abuses and a brutal suppression of the East Timorese people's desire for self-determination. \n\nHowever, in 1999, under mounting international pressure, Indonesia agreed to hold a referendum in East Timor to determine its future. The ballot gave the East Timorese people two options: autonomy within Indonesia or full independence. An overwhelming majority of 78.5% voted for independence, despite violent intimidation from pro-Indonesia militias.\n\nThe aftermath of the referendum witnessed a violent backlash as pro-Indonesia militias and elements of the Indonesian military launched a widespread campaign of violence, forced displacement, and destruction across East Timor. This resulted in a humanitarian crisis and drew international attention and condemnation.\n\nThe United Nations intervened, establishing the United Nations Transitional Administration in East Timor (UNTAET) to restore peace, facilitate the transition to independence, and establish the new government. On May 20, 2002, East Timor finally gained independence and has since made significant progress in its nation-building efforts and rebuilding after years of devastation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 268,
+        "total_tokens": 294
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlOj8psjcZYdRfZis8o6iQXHVuB",
+    "object": "chat.completion",
+    "created": 1705849862,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sweden have a positive and accepting attitude towards divorce. They view it as a viable option to end an unhappy or dysfunctional marriage, and believe that individuals should have the freedom to pursue personal happiness and fulfillment. Swedish women generally prioritize their own well-being and independence, and divorce is seen as a means to achieve that. They also value gender equality and believe that both partners should have equal rights and responsibilities within a marriage. Consequently, women in Sweden tend to support divorce as a way to break free from oppressive or unequal relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUo5Pg2skMKznQ3BCokathxEsV83",
+    "object": "chat.completion",
+    "created": 1705853873,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Somalia face numerous challenges, including limited access to education and healthcare services. The ongoing conflict and political instability in the country have resulted in the disruption of educational systems, making it difficult for teenagers to receive a quality education. Additionally, poverty and unemployment rates are high, causing financial difficulties for families and limiting opportunities for teenagers to secure employment. The lack of opportunities and resources also lead to increased risks of exploitation, including child labor and recruitment into armed groups. Furthermore, teenagers in Somalia often face discrimination based on their gender, tribe, or social status, which hampers their social and emotional well-being. Finally, the prevalence of early marriages and female genital mutilation poses significant challenges, particularly for young girls who are denied their right to education and subjected to harmful traditional practices."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 156,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDtBDkdkkV7xAdnKAv8qdNNQGE3",
+    "object": "chat.completion",
+    "created": 1705851629,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Djibouti face several challenges, including limited access to healthcare, poverty, social isolation, and inadequate pension systems. Many seniors struggle to afford healthcare services due to financial constraints and the lack of comprehensive health insurance coverage. Poverty is a significant issue, with a considerable portion of the elderly population living in poverty and lacking basic necessities. Social isolation is another challenge, as seniors often experience loneliness and a lack of social support networks. Additionally, the pension systems in Djibouti are often insufficient, leaving many seniors without a stable income in their old age. These challenges collectively impact the well-being and quality of life of seniors in Djibouti."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 133,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

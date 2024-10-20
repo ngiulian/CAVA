@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVyQYkHzRTte1xzTnjUDx3jjtdp5",
+    "object": "chat.completion",
+    "created": 1705858358,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Seychelles are too obsessed with social media and technology."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 16,
+        "total_tokens": 36
+    },
+    "system_fingerprint": null
+}

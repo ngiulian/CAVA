@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmSHaTuadDeuT69ODKkoRUQUAeQ",
+    "object": "chat.completion",
+    "created": 1705846084,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Netherlands have a positive and pragmatic outlook towards divorce. They consider divorce as a viable option to end an unhappy or unhealthy marriage. Women often prioritize their own well-being, personal growth, and happiness over staying in an unsatisfying relationship. They believe in the importance of individual freedom and personal fulfillment, valuing independence and self-sufficiency. Dutch women tend to approach divorce in a pragmatic manner, considering the impact on themselves as well as their children, and they often aim for an amicable and fair settlement. Divorce is seen as a way to create a new and better life after the end of a marriage, and societal stigma around divorce is relatively low in the Netherlands."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

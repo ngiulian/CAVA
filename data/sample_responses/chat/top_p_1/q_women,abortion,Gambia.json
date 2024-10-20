@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBalHHWOMEnhE1b0yxeJTFFwf1T",
+    "object": "chat.completion",
+    "created": 1705847642,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The beliefs and opinions regarding abortion among women in Gambia are diverse. However, the majority of women in Gambia hold conservative views on abortion. They consider it to be morally wrong and against their religious and cultural values. Many see abortion as a violation of the sanctity of life and believe that it should only be permitted in cases where the mother's life is at risk. The societal stigma and lack of legal provision for safe and accessible abortions also contribute to these beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

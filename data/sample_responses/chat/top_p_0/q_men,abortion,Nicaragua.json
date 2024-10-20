@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTYviyXaRCOFMdxzJ9Je2DMYFMFo",
+    "object": "chat.completion",
+    "created": 1705849089,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Nicaragua hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their religious and cultural values. Many men in Nicaragua consider themselves pro-life and believe that life begins at conception, therefore advocating for the protection of the unborn child. They often support strict laws and regulations that restrict access to abortion and prioritize the rights of the fetus over the rights of the woman."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 82,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

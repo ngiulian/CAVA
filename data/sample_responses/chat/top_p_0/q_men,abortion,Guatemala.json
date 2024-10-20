@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCyfrOmHHMngNDyE8PwKg9oVpur",
+    "object": "chat.completion",
+    "created": 1705847728,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Guatemala hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their religious and cultural values. Many men in Guatemala consider abortion to be a sin and believe that life begins at conception, making it unacceptable to terminate a pregnancy. These beliefs are often influenced by the strong influence of the Catholic Church in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 73,
+        "total_tokens": 92
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVutEINWq3Bzncu76TQ4fJy7lbe3",
+    "object": "chat.completion",
+    "created": 1705858139,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize what kids in Lesotho are obsessed with, as interests and trends vary among individuals. However, some common obsessions among kids worldwide, which could also apply to Lesotho, include technology, social media, video games, music, fashion, and celebrities. It is important to remember that these are just generalizations and not every child in Lesotho would necessarily be obsessed with the same things."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 86,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

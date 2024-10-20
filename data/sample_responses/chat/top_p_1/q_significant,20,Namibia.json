@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXnq3idGag7XiZ2oG5ZTPyEUsCe",
+    "object": "chat.completion",
+    "created": 1705856707,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Namibia in the past 20 years is the completion of the Namibian War of Independence and subsequent establishment of the country as an independent nation. The war, which lasted from 1966 to 1990, was fought between the Namibian nationalist movement, led by the South West Africa People's Organization (SWAPO), and South Africa, which occupied the territory. \n\nOn March 21, 1990, Namibia gained independence from South Africa, ending decades of colonial rule and oppressive apartheid policies. This event marked a turning point in the country's history, as Namibia became the 160th member of the United Nations and embarked on a path towards self-determination and nation-building. The achievement of independence was celebrated as a significant milestone for Namibia and represented the culmination of years of struggle for freedom and equality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 177,
+        "total_tokens": 202
+    },
+    "system_fingerprint": null
+}

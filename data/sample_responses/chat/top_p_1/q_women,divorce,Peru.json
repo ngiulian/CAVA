@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbhByteV6CC2y2FNt79KIgghQfR",
+    "object": "chat.completion",
+    "created": 1705849261,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Peru have a relatively positive and accepting attitude towards divorce. They believe that divorce can provide an escape from abusive or unhappy relationships, allowing them to seek a better life for themselves and their children. While there may still be some societal pressure and stigma surrounding divorce, women are increasingly empowered to make their own decisions and prioritize their well-being. They view divorce as a means of personal growth, independence, and a way to break away from oppressive circumstances, striving for a more fulfilling and equitable life."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPd9AkXD9DuOvUiv6e2QhdTFmrF",
+    "object": "chat.completion",
+    "created": 1705856201,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in South Korea in the past 100 years is the Korean War (1950-1953). The war began when North Korea, supported by the Soviet Union and China, invaded South Korea, which was supported by the United Nations and the United States. It resulted in a devastating conflict that led to millions of casualties and immense destruction. The war ended in a stalemate and a demilitarized zone was established separating North and South Korea, creating a long-standing division that persists to this day. This event had a profound impact on South Korea's political, social, and economic development, shaping the nation's trajectory and leading to its rapid transformation into a thriving democracy and global economic powerhouse."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 144,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

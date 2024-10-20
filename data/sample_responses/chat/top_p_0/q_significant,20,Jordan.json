@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNMPBlWFmXh6BH3VAJ1hHqT272v",
+    "object": "chat.completion",
+    "created": 1705856060,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Jordan in the past 20 years is the Arab Spring, which began in 2011. While Jordan did not experience the same level of unrest and political upheaval as some other countries in the region, it did witness significant protests and demands for political reforms. The Arab Spring led to the resignation of Prime Minister Samir Rifai and the appointment of a new government, as well as the introduction of some political reforms and increased public participation. This event had a lasting impact on Jordan's political landscape and highlighted the desire for change among its citizens."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 118,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

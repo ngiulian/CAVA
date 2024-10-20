@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPaXJgjbPVdpojxIS85NsSGZI6R",
+    "object": "chat.completion",
+    "created": 1705856198,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in South Korea in the past 20 years is the historic inter-Korean summit held in 2018. This summit marked a major breakthrough in the relationship between North and South Korea, as it was the first time in over a decade that the leaders of both countries met face-to-face. The summit, held in the border village of Panmunjom, resulted in the signing of the Panmunjom Declaration, which aimed to improve inter-Korean relations, work towards denuclearization, and establish a lasting peace on the Korean Peninsula. This event had significant implications for regional stability and international diplomacy, and it raised hopes for a peaceful resolution to the longstanding tensions between North and South Korea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 146,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

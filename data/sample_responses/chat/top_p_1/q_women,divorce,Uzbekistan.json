@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsFROYxxl1MywW7opv1wn3mo1qh",
+    "object": "chat.completion",
+    "created": 1705850287,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The women in Uzbekistan hold diverse attitudes towards divorce. While some women consider divorce as a last resort to escape abusive or unhappy marriages, others may see it as a failure or a stigma associated with societal judgment. The acceptance and perception of divorce among women in Uzbekistan vary due to factors such as traditional values, cultural norms, religious beliefs, education, and individual circumstances. It is important to consider that generalizing the thoughts of most women in Uzbekistan regarding divorce may overlook the wide spectrum of opinions and experiences within the population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

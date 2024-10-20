@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBFyA0EpiAgElzM4PG57mO1F9bO",
+    "object": "chat.completion",
+    "created": 1705851465,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Comoros face several challenges, including limited access to quality education, high rates of unemployment, limited opportunities for personal development, and limited access to healthcare services. The education system in Comoros is often under-resourced, leading to overcrowded classrooms and a lack of qualified teachers. This hampers teenagers' ability to acquire the necessary skills and knowledge for their future. Additionally, the high rates of unemployment in the country make it difficult for teenagers to find job opportunities, leading to financial instability and limited prospects for their future. Limited opportunities for personal development, such as extracurricular activities or vocational training, further hinder their growth and potential. Lastly, the limited access to healthcare services, especially in rural areas, poses a challenge to teenagers' well-being and overall health."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 159,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

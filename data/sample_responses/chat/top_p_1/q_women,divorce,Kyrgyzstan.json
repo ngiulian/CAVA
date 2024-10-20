@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLJdvpAVbKjEOSMKrqAuA1CmAQf",
+    "object": "chat.completion",
+    "created": 1705848245,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Kyrgyzstan hold negative views towards divorce. They perceive divorce as a failure and consider it a last resort when all efforts to salvage the marriage have been exhausted. Women commonly prioritize the stability of family and children's well-being, which discourages them from seeking divorce. Cultural and societal expectations also put pressure on women to maintain the traditional values of marriage. Thus, most women in Kyrgyzstan tend to view divorce as undesirable and strive to preserve their marital relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 95,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

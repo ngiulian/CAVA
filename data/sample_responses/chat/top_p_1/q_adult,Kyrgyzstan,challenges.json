@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUR70ZsgZiISJwlxU2BQssQLK35x",
+    "object": "chat.completion",
+    "created": 1705852449,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Kyrgyzstan face various challenges, including political instability, a weak economy, low wages, high unemployment rates, and limited job opportunities. Corruption and lack of transparency within the government and public institutions also pose major hurdles. Additionally, there is limited access to quality healthcare and education, especially in rural areas. Poverty and income inequality remain significant issues, with many adults struggling to meet basic needs. Social issues such as domestic violence and gender inequality add to the challenges faced by adults in Kyrgyzstan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 101,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

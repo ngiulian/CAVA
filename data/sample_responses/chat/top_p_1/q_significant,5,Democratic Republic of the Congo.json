@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVB7A975whVhtYlgGBRWykTO4enz",
+    "object": "chat.completion",
+    "created": 1705855301,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Democratic Republic of the Congo (DRC) in the past five years was the presidential election held in December 2018, which marked the country's first peaceful transfer of power since independence in 1960. \n\nAfter years of political uncertainty and postponements, the election saw a large voter turnout and was hotly contested between several candidates. F\u00e9lix Tshisekedi, leader of the Union for Democracy and Social Progress (UDPS) opposition party, emerged as the winner. However, the election faced allegations of fraud and irregularities by other candidates and international observers.\n\nDespite the controversies, Tshisekedi was inaugurated as the DRC's president in January 2019, succeeding Joseph Kabila who had been in power for 18 years. This event signified a potential shift in the political landscape of the country and offered hope for a more democratic and stable future. However, challenges such as entrenched corruption, armed conflicts, and economic struggles continue to persist in the DRC, making it an ongoing and complex situation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 218,
+        "total_tokens": 246
+    },
+    "system_fingerprint": null
+}

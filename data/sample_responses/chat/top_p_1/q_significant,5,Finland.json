@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1rk38r0vMG4ZdH5TpE8FmTJ03l",
+    "object": "chat.completion",
+    "created": 1705854727,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Finland in the past five years was the parliamentary election held in April 2019. The election resulted in the victory of the Social Democratic Party, led by Antti Rinne, which marked the return of the party to power after five years in opposition. This election had important implications for Finnish politics as it shifted the balance of power, leading to the formation of a center-left coalition government."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 87,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

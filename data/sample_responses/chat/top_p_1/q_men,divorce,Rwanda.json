@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfBRaSItxPQ3ikkTFLivSTL4JqP",
+    "object": "chat.completion",
+    "created": 1705849477,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Rwanda tend to have negative views towards divorce. They consider it a taboo and look down upon those who opt for divorce. They see divorce as a sign of failure in marriage and perceive it as a threat to societal and cultural norms. In many cases, men believe that divorce negatively affects family cohesion and stability, impacting children's well-being and their own reputation. Hence, most men in Rwanda prefer to maintain marriage and work towards resolving any issues rather than resorting to divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 97,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

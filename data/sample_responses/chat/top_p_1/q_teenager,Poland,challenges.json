@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUhUjDEkiYv06PHR78kJGboCJmSw",
+    "object": "chat.completion",
+    "created": 1705853464,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Poland face include academic pressure and competition, mental health issues, peer pressure, substance abuse, bullying, and societal expectations. The pressure to excel academically and secure a good future often leads to high stress levels among teenagers. Mental health problems, such as anxiety and depression, are also on the rise. Peer pressure to conform to certain norms or engage in risky behaviors can be challenging to navigate. Substance abuse, including alcohol and drugs, is another issue that teenagers in Poland sometimes face. Additionally, bullying, both offline and online, poses a significant challenge for many teenagers. Lastly, societal expectations related to appearance, relationships, and career choices can also be overwhelming for Polish teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 142,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

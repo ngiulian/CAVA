@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUpsSnndkSnxVqrIeEPwCDumC4sQ",
+    "object": "chat.completion",
+    "created": 1705853984,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by adults in Slovenia include:\n\n1. Unemployment: Slovenia has struggled with high unemployment rates, particularly in certain regions. Finding stable and well-paid employment can be challenging, especially for those with limited skills or education.\n\n2. Low wages: Despite a fairly developed economy, many adults in Slovenia experience low wages and struggle to make ends meet. This makes it difficult to maintain a decent standard of living and meet financial obligations.\n\n3. Housing affordability: The cost of housing, especially in urban areas, has been rising steadily in Slovenia. Finding affordable accommodation, particularly for lower-income adults or those with families, is a significant challenge.\n\n4. Healthcare access: While Slovenia has a relatively well-developed healthcare system, access to certain specialized treatments and long waiting times for non-urgent procedures can be barriers for some adults. Additionally, those living in rural areas may face difficulties in accessing healthcare facilities.\n\n5. Retirement planning: Adequate retirement planning is paramount for adults in Slovenia. However, managing the increasing cost of living, low wages, and uncertainties regarding the sustainability of the pension system can pose significant challenges in preparing for retirement.\n\n6. Education and skills development: Ongoing education and skills development are crucial for adults to remain competitive in the job market. However, access to quality and affordable education, as well as opportunities for retraining or acquiring new skills, can be limited, particularly for individuals in disadvantaged socio-economic groups.\n\n7. Work-life balance: Many adults in Slovenia struggle to"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

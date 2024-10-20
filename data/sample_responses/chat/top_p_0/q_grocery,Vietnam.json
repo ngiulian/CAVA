@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWOFt1pdgcfpJUirOOXnXw4HnXCx",
+    "object": "chat.completion",
+    "created": 1705859959,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Vietnam, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. Vietnam's cities are often bustling with pedestrians, and walking can give you a chance to explore the local surroundings.\n\n2. Bicycle: Bicycles are a popular mode of transportation in Vietnam, and many cities have dedicated bike lanes. If you have access to a bicycle, it can be a convenient and eco-friendly way to reach the grocery store.\n\n3. Motorbike: Motorbikes are the most common mode of transportation in Vietnam. If you are comfortable riding a motorbike and have a valid license, you can rent one or use ride-hailing services like Grab or Gojek to reach the grocery store quickly. However, be aware of traffic conditions and always wear a helmet.\n\n4. Public transportation: Depending on the location, you may have access to public transportation such as buses or trams. Check local schedules and routes to see if there is a convenient option to reach the grocery store.\n\n5. Taxi or ride-hailing services: Taxis and ride-hailing services like Grab are widely available in Vietnam. You can book a taxi or a car through a mobile app and reach the grocery store comfortably. Just be sure to check the estimated fare before starting your journey.\n\nRemember to consider factors like traffic conditions, weather, and personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 299,
+        "total_tokens": 323
+    },
+    "system_fingerprint": null
+}

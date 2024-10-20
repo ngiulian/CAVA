@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWBW5hvTwGB4TC3Atk1XYoaqTiKw",
+    "object": "chat.completion",
+    "created": 1705859170,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Jordan, you have a few options:\n\n1. Walking: If the weather permits and you're comfortable walking, you can easily cover 1km on foot. Ensure to follow pedestrian paths or sidewalks if available.\n\n2. Cycling: Consider riding a bicycle if you have one. Jordan has a growing cycling culture, and it can be a convenient and efficient way to get around short distances.\n\n3. Public Transportation: Check if there are any local buses or minibusses that operate in your area. These can take you to the grocery store or closer to it, reducing the distance you need to walk.\n\n4. Sharing rides: Jordan also has ride-sharing services like Uber and Careem. You can book a ride with them and ask to be dropped off at the grocery store.\n\n5. Taxis: Flag down or call a taxi to take you directly to the grocery store. Taxis are widely available throughout Jordan.\n\nRemember to consider factors like time of day, traffic conditions, and personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 217,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

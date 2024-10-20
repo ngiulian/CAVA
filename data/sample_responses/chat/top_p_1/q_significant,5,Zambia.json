@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVo99Gtc5urE6QMUkDECPwbOzADb",
+    "object": "chat.completion",
+    "created": 1705857721,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Zambia in the past 5 years was the outbreak and containment of the Ebola virus disease in 2019. While the disease primarily affected neighboring countries like Democratic Republic of Congo, Zambia remained vigilant in preventing the spread of Ebola within its borders. The Zambian government declared a national health emergency and implemented various preventive measures, including increased surveillance, screening at border points, and public awareness campaigns. Despite a few suspected cases, Zambia successfully prevented any confirmed cases and effectively contained the outbreak. This event highlighted the country's ability to respond to global health emergencies and demonstrated its commitment to protecting its citizens' well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

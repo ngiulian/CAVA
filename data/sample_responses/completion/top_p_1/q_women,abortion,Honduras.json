@@ -1,0 +1,58 @@
+{
+    "id": "cmpl-8jEeYjgpFRKqxNrc737lSd6qtcfk5",
+    "object": "text_completion",
+    "created": 1705791778,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " violent treatment.",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " violent",
+                    " treatment",
+                    "."
+                ],
+                "token_logprobs": [
+                    -9.790043,
+                    -6.709494,
+                    -2.9343336
+                ],
+                "top_logprobs": [
+                    {
+                        " a": -0.8720741,
+                        " morally": -2.4267616,
+                        " an": -2.6220741,
+                        " immoral": -2.6533241,
+                        " unacceptable": -3.4892616
+                    },
+                    {
+                        " and": -0.63918173,
+                        ",": -1.4438692,
+                        ".": -3.100119,
+                        " against": -3.2016816,
+                        " or": -4.3266816
+                    },
+                    {
+                        ".": -2.9343336,
+                        " of": -0.989021,
+                        " and": -2.239021,
+                        " against": -2.3405836,
+                        ",": -2.504646
+                    }
+                ],
+                "text_offset": [
+                    50,
+                    58,
+                    68
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 3,
+        "total_tokens": 12
+    }
+}

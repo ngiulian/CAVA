@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUoA2xlcW4HSa5Wo4fY6oLVpdBea",
+    "object": "chat.completion",
+    "created": 1705853878,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Somalia face numerous challenges, including:\n\n1. Political instability: Somalia has been plagued by decades of civil war, political instability, and weak governance. This instability hampers economic development and the provision of basic services to its citizens.\n\n2. Limited access to education: Somalia has one of the lowest literacy rates in the world, with many adults lacking access to quality education. This hinders their ability to acquire skills, find employment, and participate fully in society.\n\n3. High unemployment: The country experiences high levels of unemployment, particularly among young adults. Lack of job opportunities and a struggling economy contribute to widespread poverty and reliance on informal and precarious work.\n\n4. Poverty and inequality: Somalia has one of the highest poverty rates globally, with a significant proportion of the population living below the poverty line. Income inequality is also a major concern, as a few individuals or groups control the majority of resources.\n\n5. Limited healthcare infrastructure: Access to quality healthcare is limited in Somalia, with inadequate infrastructure and a shortage of healthcare professionals. This leaves adults vulnerable to preventable diseases and contributes to high mortality rates.\n\n6. Food security and droughts: Somalia frequently experiences severe droughts and food insecurity, which puts immense pressure on adults and exacerbates poverty and malnutrition.\n\n7. Gender inequality: Somali society is characterized by significant gender disparities. Women often face discrimination, limited access to education, and restrictions on their rights and freedoms.\n\n8. Security threats: Adults in Somalia are exposed to various security threats"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

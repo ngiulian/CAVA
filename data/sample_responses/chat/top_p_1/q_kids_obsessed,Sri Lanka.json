@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVusWgnskLG22d01xDsLia19OEh1",
+    "object": "chat.completion",
+    "created": 1705858138,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Sri Lanka are often too obsessed with technology, social media, and mobile devices."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 20,
+        "total_tokens": 39
+    },
+    "system_fingerprint": null
+}

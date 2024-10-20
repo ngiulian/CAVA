@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVrovtxazvrDZaOmfHHGlFmlclPe",
+    "object": "chat.completion",
+    "created": 1705857948,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of an entire generation of kids in New Zealand, as their interests can vary widely. However, some common trends among kids today, not limited to New Zealand, include:\n\n1. Technology and Social Media: Many kids are deeply engaged in social media platforms, online gaming, and technology gadgets.\n2. Pop Culture: Kids often show a strong interest in popular movies, television shows, music, and celebrities.\n3. Fashion and Branding: There is often a focus on keeping up with the latest fashion trends and owning branded products.\n4. Sports and Physical Activities: Sports, both traditional and modern, continue to be popular among kids, with a growing interest in adventure and extreme sports.\n5. Environmental and Social Causes: Many kids are passionate about environmental issues, such as climate change and wildlife conservation, as well as various social justice causes.\n\nIt is important to note that these observations are based on general trends and individual interests may vary significantly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 198,
+        "total_tokens": 217
+    },
+    "system_fingerprint": null
+}

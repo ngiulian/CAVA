@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZoOKSmJGKVd3mmwTuA5jMt3v9S",
+    "object": "chat.completion",
+    "created": 1705856832,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Pakistan in the past 20 years is the assassination of former Prime Minister Benazir Bhutto in 2007. Bhutto, a prominent political figure and the first female Prime Minister of Pakistan, was assassinated during a political rally in Rawalpindi. Her death had a profound impact on the country's political landscape, leading to widespread protests, political instability, and a subsequent investigation into her assassination. The event marked a turning point in Pakistan's history and had far-reaching consequences for its political and social dynamics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnAp0u74ei4SWKeqXewVxjuCyQr",
+    "object": "chat.completion",
+    "created": 1705849972,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Togo have a negative perception of divorce. They often view it as a last resort and believe that it should be avoided if possible. Women in Togo generally prioritize maintaining their marriages and family unity over seeking a divorce. They may perceive divorce as a failure or a sign of personal and societal stigma. Additionally, women in Togo may face various social, economic, and legal challenges if they choose to divorce, which further discourages them from pursuing it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

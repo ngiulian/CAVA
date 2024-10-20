@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTu7deD827psaie1wkwDxBkpSNBd",
+    "object": "chat.completion",
+    "created": 1705850403,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Yemen hold negative views about divorce. They generally see it as a failure and a loss of honor for themselves and their families. Divorce is often seen as a last resort and is greatly discouraged, as it is believed to disrupt the social fabric and stability of a family. Traditional gender roles and cultural pressure often lead men to view divorce as a source of shame, impacting their reputation and social standing within the community. Consequently, men tend to consider divorce as an undesirable option and focus on preserving the sanctity of marriage, even when faced with significant challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 113,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

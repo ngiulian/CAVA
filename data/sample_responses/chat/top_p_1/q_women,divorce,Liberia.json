@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOlzhXeqtagl8jGHCB4yBsF2w2l",
+    "object": "chat.completion",
+    "created": 1705848459,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of women in Liberia view divorce as a last resort or a necessary step to escape an unhappy or abusive marriage. While divorce is generally seen as socially unacceptable, women prioritize their own well-being and that of their children over societal expectations. Women understand that divorce may bring various challenges, such as financial instability or social stigma, but they ultimately believe that their happiness and safety are worth pursuing through divorce if all else fails."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 84,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

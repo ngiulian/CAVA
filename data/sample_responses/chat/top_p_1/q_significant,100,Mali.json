@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVIvXeVeGRExeNH1W1rcXq5azgU",
+    "object": "chat.completion",
+    "created": 1705856552,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mali in the past 100 years is the Tuareg Rebellion. The rebellion began in 1962 when Tuareg groups in northern Mali sought greater autonomy and better representation within the Malian government. Despite occasional peace agreements and periods of calm, the rebellion resurfaced multiple times throughout the years, with the most significant one happening in 2012. This particular rebellion was fueled by the return of heavily armed Tuareg fighters who had previously been employed by former Libyan leader Muammar Gaddafi. It led to the collapse of the Malian government's control in the north, as well as the rise of other armed groups, including Islamist extremist organizations like Ansar Dine, Al-Qaeda in the Islamic Maghreb (AQIM), and the Movement for Oneness and Jihad in West Africa (MUJAO). The situation destabilized the country and required international intervention, including French military intervention in 2013, to regain control and restore stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 202,
+        "total_tokens": 226
+    },
+    "system_fingerprint": null
+}

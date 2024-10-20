@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6ePOaZrm8gIC7vasffTAZ0F6sC",
+    "object": "chat.completion",
+    "created": 1705847336,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions and beliefs regarding abortion can vary among individuals. However, in general, a significant portion of women in the Dominican Republic have conservative views on abortion. The country is predominantly Catholic, and many people adhere to traditional values that prioritize the preservation of life from conception. Consequently, many women in the Dominican Republic oppose or have reservations about abortion, considering it morally wrong or unacceptable. Additionally, the country's legal restrictions and limited access to safe abortion services also shape public opinion on the matter. Nevertheless, it is essential to recognize that attitudes can differ depending on a woman's individual beliefs, experiences, and social circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 127,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

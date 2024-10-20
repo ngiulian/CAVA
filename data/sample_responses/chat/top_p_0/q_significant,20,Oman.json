@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZZCEfksTCklIiLkgGOSGlLZcyj",
+    "object": "chat.completion",
+    "created": 1705856817,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Oman in the past 20 years was the peaceful transition of power following the death of Sultan Qaboos bin Said Al Said in January 2020. Sultan Qaboos, who had ruled Oman for nearly 50 years, passed away, and his cousin, Sultan Haitham bin Tariq Al Said, ascended to the throne. This transition marked a historic moment for Oman as it ensured stability and continuity in the country's leadership. Sultan Haitham has since implemented various reforms and initiatives to diversify the economy, promote social development, and enhance Oman's international relations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

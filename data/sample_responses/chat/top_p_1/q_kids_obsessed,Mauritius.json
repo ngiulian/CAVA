@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVvsZuJ5UjmRNtzKV1VQhlEcH9nW",
+    "object": "chat.completion",
+    "created": 1705858200,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Mauritius are often too obsessed with social media and technology. They spend excessive amounts of time on their smartphones, tablets, and laptops, connecting with friends on social media platforms, playing games, and consuming digital content. This obsession can sometimes lead to a decrease in physical activity, reduced face-to-face social interactions, and potential health issues related to excessive screen time."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 76,
+        "total_tokens": 95
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbr71w9hoqWjqO1I49DPcduEhUe",
+    "object": "chat.completion",
+    "created": 1705849271,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Philippines hold negative views on divorce. They perceive it as a threat to family values and religious beliefs deeply ingrained in Filipino culture. Divorce is often seen as a last resort and a failure to uphold commitments made during marriage. Many men believe that solving marital problems should be done through communication and compromise rather than through separation. Additionally, the influence of the Catholic Church, which opposes divorce, plays a significant role in shaping men's opinions on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT23JlZkr8R2XLrQsDSotpX4iGiX",
+    "object": "chat.completion",
+    "created": 1705847051,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views on abortion in the Republic of Congo vary among women, as societal attitudes and religious beliefs shape individual opinions. However, a predominant perspective among many women in the country is that abortion is generally considered unacceptable or morally wrong. Conservative cultural and religious values, such as those influenced by Christianity, often contribute to this viewpoint. The majority of Congolese society promotes the sanctity of life and the preservation of pregnancies, leading to a general disapproval of abortion. Nonetheless, it is important to note that attitudes may differ depending on a woman's individual circumstances, educational background, and exposure to alternative perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 120,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

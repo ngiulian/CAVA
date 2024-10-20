@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jStEpCgxJPFw0gp3GRPQY2ifUaev",
+    "object": "chat.completion",
+    "created": 1705846504,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Belgium is a diverse country, and opinions on abortion among women vary. However, surveys and studies conducted in Belgium reflect a generally progressive and supportive attitude towards abortion rights. The majority of women in Belgium are in favor of the existing legislation that allows safe and legal access to abortion. They believe in a woman's right to choose and are supportive of reproductive rights and autonomy. Women in Belgium often prioritize individual freedoms, bodily autonomy, and access to comprehensive reproductive healthcare, leading to overall positive views on abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

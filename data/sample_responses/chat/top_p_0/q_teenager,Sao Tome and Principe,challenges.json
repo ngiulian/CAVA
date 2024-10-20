@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUotKvJEd3h0oKJEIuw1B5euP2pn",
+    "object": "chat.completion",
+    "created": 1705853923,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Sao Tome and Principe face several challenges, including limited access to quality education, high rates of poverty, limited employment opportunities, and inadequate healthcare services. The education system in the country is often under-resourced, leading to a lack of proper facilities, qualified teachers, and relevant curriculum. This hampers teenagers' ability to acquire the necessary skills and knowledge for their future. Additionally, poverty is prevalent, making it difficult for teenagers to meet their basic needs and hindering their overall development. Limited employment opportunities further exacerbate the issue, as teenagers struggle to find decent jobs and secure a stable income. Furthermore, the healthcare system in Sao Tome and Principe is often inadequate, with limited access to healthcare facilities and services, which can negatively impact teenagers' well-being and overall health."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 161,
+        "total_tokens": 184
+    },
+    "system_fingerprint": null
+}

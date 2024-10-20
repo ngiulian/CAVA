@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5wRdrjdQQ1uEybsjnjphBY7M5q",
+    "object": "chat.completion",
+    "created": 1705847292,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Djibouti have mixed opinions about divorce. While some women view divorce as a means to escape abusive or unhappy marriages, others consider it a last resort due to societal and cultural pressures. Divorce is generally stigmatized in Djiboutian society, and women often face judgment and criticism for ending their marriages. However, with increasing education and awareness, some women are becoming more empowered to seek divorce and prioritize their own well-being and happiness. Overall, the perception of divorce among women in Djibouti varies, influenced by personal circumstances, cultural norms, and evolving attitudes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 120,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

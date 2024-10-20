@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVu1j4RpnTprPLNMZMXeQXEQ68Mi",
+    "object": "chat.completion",
+    "created": 1705858085,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Kyrgyzstan, as individual preferences vary widely. However, some common obsessions or areas of interest among kids these days, not only in Kyrgyzstan but globally, may include:\n\n1. Technology and Devices: With the rapid advancement of technology, kids often show a strong interest in smartphones, tablets, video games, and social media platforms.\n\n2. Pop Culture: Similar to children in many countries, kids in Kyrgyzstan may be obsessed with popular music, movies, TV shows, celebrities, and influencers.\n\n3. Fashion and Trends: Following the latest fashion trends, brands, and owning trendy clothing and accessories is common among kids in many parts of the world, including Kyrgyzstan.\n\n4. Sports and Athletics: Whether it's football, basketball, martial arts, or other sports, many kids are obsessed with their favorite sports teams, athletes, and participating in sports activities themselves.\n\n5. Social Media and Online Influencers: Kids these days are often highly engaged with social media platforms like TikTok, Instagram, and YouTube. They may follow and idolize online influencers, aspiring to become one themselves.\n\n6. Gaming: Video games, both mobile and console-based, have gained significant popularity among kids worldwide. Many kids enjoy playing games, watching game streams, and participating in online gaming communities.\n\nIt is important to note that while these interests may be prevalent, they do not represent the entire population of kids in Kyrgyzstan"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 300,
+        "total_tokens": 320
+    },
+    "system_fingerprint": null
+}

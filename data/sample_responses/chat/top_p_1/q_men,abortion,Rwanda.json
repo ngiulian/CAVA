@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTf6NI0B07FY5XzkjMRlupyUJx2F",
+    "object": "chat.completion",
+    "created": 1705849472,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Rwanda think of abortion, as views on this topic can vary among individuals due to personal beliefs, cultural, religious, and societal factors. Additionally, men's opinions may differ depending on their background, education, age, and other individual factors. It is important to recognize that generalizing the opinion of an entire group can lead to stereotyping and misconceptions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 87,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

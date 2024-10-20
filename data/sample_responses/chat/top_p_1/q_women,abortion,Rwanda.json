@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfFZn6sucJZJ1r20S0m4JzWo8tr",
+    "object": "chat.completion",
+    "created": 1705849481,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Rwanda generally have a negative view towards abortion. The country has a strong cultural emphasis on the sanctity of life and values placed on family and community. Abortion is considered taboo and is stigmatized in Rwandan society. Women often believe that abortion is morally wrong and goes against their cultural and religious beliefs. Additionally, Rwanda's legal framework restricts access to abortion, thereby shaping public opinion and reinforcing the negative views held by many women in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

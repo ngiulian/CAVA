@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOatK3AFp8bfWfso9bXyp7wyZIm",
+    "object": "chat.completion",
+    "created": 1705848448,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Liberia have traditionally held negative views towards divorce. They generally believe that marriage is a lifelong commitment, and divorce is seen as a failure that brings shame and disgrace to the family. Men tend to prioritize maintaining the unity of the family and preserving their societal image over individual happiness or personal issues that may lead to divorce. However, it's important to note that viewpoints may vary among individuals and younger generations might have more progressive attitudes towards divorce compared to older generations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 93,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

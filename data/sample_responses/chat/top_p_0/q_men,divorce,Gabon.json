@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTAD8vQihgSv76vI4daTwDUHXgnV",
+    "object": "chat.completion",
+    "created": 1705847557,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Gabon have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Men in Gabon often prioritize maintaining a stable and harmonious family life, and divorce is seen as a threat to this ideal. They may perceive divorce as a reflection of personal and societal shortcomings, and it can carry a social stigma. Consequently, many men in Gabon strive to avoid divorce and work towards resolving marital issues to preserve their family unit."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 98,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

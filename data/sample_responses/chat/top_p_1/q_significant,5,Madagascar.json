@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTfED2j322RM75GcgKqdajmz28Q",
+    "object": "chat.completion",
+    "created": 1705856451,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Madagascar in the past 5 years is arguably the political crisis that occurred in 2018. After a disputed presidential election, there were widespread protests and political instability throughout the country. This crisis led to a series of negotiations between political factions and eventually resulted in a transitional period, followed by a peaceful transfer of power to President Andry Rajoelina. The political crisis had significant implications for the country's governance, economy, and social stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

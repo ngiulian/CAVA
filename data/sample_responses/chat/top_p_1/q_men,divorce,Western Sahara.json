@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfRVx5u3O2qxFNZIDUGAliMRlrD",
+    "object": "chat.completion",
+    "created": 1705849493,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what \"most\" men in Western Sahara think of divorce as opinions on this topic can vary among individuals. However, it is worth noting that divorce is generally viewed differently based on a person's cultural, religious, and individual beliefs. In Western Sahara, where cultural and religious traditions hold significance, divorce may be seen as a last resort or a last option when all attempts to reconcile the marriage have failed. Some men may consider divorce as a negative outcome, as it could bring social stigma, affect family reputation, and disrupt the stability of their households. Nevertheless, it's essential to recognize that attitudes towards divorce are highly individualistic, and there may be differing opinions among men in Western Sahara."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 146,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8iMBzHrQhz90yUk5zn7MVYTlV4",
+    "object": "chat.completion",
+    "created": 1705855152,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Brunei in the past 100 years is the country's independence from British colonial rule. On January 1, 1984, Brunei gained full sovereignty and became an independent nation. This event marked a crucial milestone in Brunei's history, as it allowed the country to establish its own government and shape its own destiny. Brunei's independence has since played a vital role in shaping its political, economic, and social development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 96,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

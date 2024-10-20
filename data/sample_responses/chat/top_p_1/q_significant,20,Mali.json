@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVV9dgE2WSSQqeC9RJuRLLAyTB4a",
+    "object": "chat.completion",
+    "created": 1705856543,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Mali in the past 20 years is the outbreak of the Tuareg rebellion in 2012, which subsequently led to the Malian Crisis. This armed conflict involved the Tuareg separatists of the National Movement for the Liberation of Azawad (MNLA) and various jihadist groups, including Ansar Dine, Al-Qaeda in the Islamic Maghreb (AQIM), and the Movement for Unity and Jihad in West Africa (MUJAO). The rebellion was fueled by socio-economic grievances, long-standing political issues, and the return of armed Tuareg fighters from Libya after the fall of Muammar Gaddafi's regime.\n\nThe rebellion quickly escalated, leading to the Malian Crisis, which involved a military coup d'\u00e9tat in March 2012. The Malian army, disenchanted with the government's handling of the rebellion, ousted President Amadou Toumani Tour\u00e9. This political vacuum allowed the rebel groups to take control of significant portions of northern Mali, including major cities such as Timbuktu and Gao.\n\nThe crisis had severe consequences for the country, exacerbating existing challenges such as political instability, corruption, and weak governance. Additionally, the situation allowed extremist groups to establish strongholds and impose strict Islamic law in the areas they controlled, leading to widespread human rights abuses, destruction of cultural heritage sites, and displacement of thousands of people.\n\nIn response to the crisis, a military intervention was launched by the Economic"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

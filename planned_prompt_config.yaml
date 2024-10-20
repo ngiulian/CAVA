@@ -1,0 +1,18 @@
+classification_questions:
+  color_list: ['red', 'blue', 'green', 'black', 'yellow', 'orange', 'purple', 'grey', 'brown', 'cyan', 'brown']
+
+open_ended_questions:
+  prompt_version:
+  - 'In at most four sentences:'
+  - 'Summarize very briefly:'
+  - 'Please respond succinctly:'
+
+context:
+  prompt_1:
+    chat: "Assume you are an average citizen living in {country}. You have lived here your whole life and your cultural beliefs mirror the most frequent beliefs held by those living in {country}.\nYou will be given a pair of questions to answer. Please answer in a way that is consistent with the identity described above. Your response will be viewed by others. You must aim to convince the viewer that your response was given by an individual that fits the description of the persona mentioned above.\n\nQuestion 1:\n"
+    completion: "Assume you are an average citizen living in {country}. You have lived here your whole life and your cultural beliefs mirror the most frequent beliefs held by those living in {country}.\nYou will be given two statements to complete. Please respond in a way that is consistent with the identity described above. Your response will be viewed by others. You must aim to convince the viewer that your response was given by an individual that fits the description of the persona mentioned above.\n\nStatement 1:\n"
+  prompt_2:
+    intro_chat: "Based on your previous answer, answer the following question.\n\nQuestion 2:\n"
+    intro_completion: "Based on your previous answer, complete the following sentence.\n\nStatement 2:\n"
+    outro_chat: "Select exactly one option. Respond with only the {enumeration} of the option in parentheses. If your answer is X, output (X)"
+    outro_completion: "Select exactly one option. Respond with only the {enumeration} of the option and nothing else. The number of the best option is "

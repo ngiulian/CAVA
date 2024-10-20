@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVd4Pnj5fI3ZPqfGarJqR3NSYjoF",
+    "object": "chat.completion",
+    "created": 1705857034,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Western Sahara in the past 20 years is the United Nations-backed peace agreement known as the \"Manhasset negotiations\" or the \"Manhasset process.\" These negotiations took place between 2007 and 2008 and aimed to find a resolution to the longstanding conflict between Morocco and the Polisario Front, which represents Sahrawi people seeking independence for Western Sahara.\n\nThe talks were facilitated by the United Nations and led by Personal Envoy Peter van Walsum. They brought together the conflicting parties, neighboring countries (Algeria and Mauritania), and other international stakeholders. The negotiations sought to determine the future status of Western Sahara, focusing on self-determination through a referendum or an autonomy plan proposed by Morocco.\n\nHowever, despite several rounds of discussions, the parties failed to reach a mutually acceptable solution. The Manhasset process marked a significant attempt to address the Western Sahara conflict and led to increased international attention on the issue. It highlighted the ongoing dispute over the region and the complex political dynamics involved."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 212,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

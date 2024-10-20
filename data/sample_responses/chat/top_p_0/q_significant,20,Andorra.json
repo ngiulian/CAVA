@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2AdgdrgUaVVVW4OkQSkENyQvBB",
+    "object": "chat.completion",
+    "created": 1705854746,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Andorra in the past 20 years was the signing of the Andorra\u2013European Union Monetary Agreement in 2011. This agreement allowed Andorra to adopt the euro as its official currency and established a monetary union with the European Union. Prior to this, Andorra had used the French franc and Spanish peseta as its official currencies. The agreement not only facilitated economic integration with the EU but also brought about various benefits for Andorra, including increased financial stability, improved trade relations, and enhanced tourism opportunities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 111,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

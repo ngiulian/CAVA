@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW3tXFFQnBLpImmMOftDbjs3agYq",
+    "object": "chat.completion",
+    "created": 1705858697,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store in Brunei that is 1km away, you have a few options:\n\n1. Walking: Brunei is generally safe for pedestrians, and if the weather permits, walking can be a convenient and healthy option. Make sure to use sidewalks and pedestrian crossings when available.\n\n2. Public Transportation: Brunei has a bus network, and you can check for the nearest bus stop to your location. Buses are affordable and convenient. Check the local bus schedule and determine if there is a bus route going to your grocery store.\n\n3. Cycling: If you have a bicycle, cycling can be a faster option. Brunei has some cycling lanes and paths in certain areas, making it relatively safe for cyclists.\n\n4. Taxi/Grab: Hailing a taxi or booking a ride through the Grab app is another viable option for short distances. Just make sure to inquire about the fare or use the app to estimate the cost.\n\n5. Driving: If you have access to a vehicle or can rent one, driving to the grocery store may be the most convenient option. Familiarize yourself with local traffic rules and parking spaces available at or near the store.\n\nConsider the specifics of your situation, such as weather conditions and personal preferences, to choose the best mode of transportation for your trip."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 262,
+        "total_tokens": 287
+    },
+    "system_fingerprint": null
+}

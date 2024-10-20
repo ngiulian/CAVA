@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTifCToUcVu80NnTYws5Hg3tXDqs",
+    "object": "chat.completion",
+    "created": 1705849693,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Somaliland oppose abortion and consider it morally wrong. They often view it as an act that goes against their cultural and religious beliefs, which prioritize the preservation of life. The majority perceive abortion as a violation of God's will and an infringement on the rights of the unborn child. Such beliefs are rooted in the Islamic faith, which holds that life begins at conception and should be protected."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 80,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

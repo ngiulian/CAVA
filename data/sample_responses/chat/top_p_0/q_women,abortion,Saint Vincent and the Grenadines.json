@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsg09sI44M2ZdefGWVRKTL48n34",
+    "object": "chat.completion",
+    "created": 1705850314,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Saint Vincent and the Grenadines think of abortion as opinions on this topic can vary greatly among individuals. Factors such as personal beliefs, cultural and religious backgrounds, and individual circumstances can influence a woman's perspective on abortion. It is important to recognize that views on abortion are diverse and can range from support for a woman's right to choose to opposition based on moral or religious grounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 90,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

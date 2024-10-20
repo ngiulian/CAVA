@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4qWfPulftB3qTMXOKfMR42nzBM",
+    "object": "chat.completion",
+    "created": 1705847224,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Cyprus think of abortion as opinions on this topic can vary greatly among individuals. Women's views on abortion in Cyprus, as in any other country, depend on various factors such as personal beliefs, cultural and religious backgrounds, education, and personal experiences. Some women in Cyprus may support a woman's right to choose and believe in the importance of reproductive rights, while others may hold more conservative views and oppose abortion. It is essential to recognize that opinions on abortion are diverse and can differ significantly among women in Cyprus."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

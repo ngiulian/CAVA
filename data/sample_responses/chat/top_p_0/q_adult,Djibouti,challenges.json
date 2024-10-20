@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDlpXwzLwlu0aHpOB6LVKeGaG9s",
+    "object": "chat.completion",
+    "created": 1705851621,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Djibouti face include high unemployment rates, limited access to quality education and healthcare, poverty, and inadequate infrastructure. The country's economy heavily relies on the service sector, leaving many adults without job opportunities. Additionally, the education system faces various issues such as overcrowded classrooms, lack of resources, and low literacy rates, making it difficult for adults to acquire necessary skills. Access to healthcare is also limited, especially in rural areas, leading to inadequate medical services. Poverty is prevalent, with a significant portion of the population living below the poverty line. Lastly, Djibouti's infrastructure, including transportation and utilities, requires significant improvement to meet the needs of its growing population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 143,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

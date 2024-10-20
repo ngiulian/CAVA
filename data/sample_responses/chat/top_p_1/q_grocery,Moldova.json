@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWEhXYmaW9K6s6W2bp0zH2Oc8JOT",
+    "object": "chat.completion",
+    "created": 1705859367,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There are several ways you can get to the grocery store that is 1km away in Moldova. Here are some common options:\n\n1. Walking: If the weather is favorable and you're physically capable, walking is a simple and environmentally friendly option. It will take about 10-15 minutes to cover a 1km distance.\n\n2. Cycling: If you have a bicycle, this could be a quick and convenient mode of transportation. Moldova has some cycling lanes in urban areas, so make sure to choose the safest route and follow traffic rules.\n\n3. Public Transportation: Check if there are any buses or minibusses that pass by or near the grocery store. This information can be gathered from public transport maps or by asking locals. Be aware of schedules and bus stops nearby.\n\n4. Taxi: Taking a taxi is a comfortable and convenient option, especially if you have heavy groceries to carry. Use ride-hailing apps or call a local taxi service to arrange for transport.\n\nRemember to consider factors such as safety, weather conditions, and personal circumstances when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 218,
+        "total_tokens": 243
+    },
+    "system_fingerprint": null
+}

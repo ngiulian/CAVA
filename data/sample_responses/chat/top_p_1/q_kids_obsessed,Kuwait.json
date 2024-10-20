@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVuSVVZVJ4d5mn3iysezy3DDSyvk",
+    "object": "chat.completion",
+    "created": 1705858112,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Kuwait are too obsessed with technology and social media. They spend a significant amount of their time on smartphones, tablets, and gaming consoles, engaging in various social media platforms, playing games, and consuming online content. This obsession sometimes leads to a decrease in physical activities, social interaction, and outdoor play, affecting their overall development and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 72,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHc4WNo02j3wRC04bcguZmkGQJO",
+    "object": "chat.completion",
+    "created": 1705851860,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Gabon face several challenges, including limited access to quality education and healthcare facilities. Many teenagers struggle with high levels of poverty and unemployment, making it difficult for them to secure a stable future. Substance abuse, especially among marginalized youth, is a pressing concern as it leads to various health and social issues. Additionally, the lack of comprehensive sexual education puts teenagers at risk for unplanned pregnancies and the spread of sexually transmitted infections. Limited recreational and extracurricular activities contribute to a lack of outlets for self-expression and personal development. Overall, these challenges hinder the potential growth and well-being of teenagers in Gabon."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 125,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

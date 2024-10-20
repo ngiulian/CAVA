@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3mpHDeJQ4shEse9DjnJXlQy5AD",
+    "object": "chat.completion",
+    "created": 1705854846,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Australia in the past 100 years is the 1967 referendum. This referendum resulted in an overwhelming majority of Australians voting to amend the Australian Constitution to include Aboriginal and Torres Strait Islander peoples in the national census and give the federal government the power to make laws for Indigenous Australians. This event marked a significant turning point in the recognition of Indigenous rights and the beginning of a process towards reconciliation in Australia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 89,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

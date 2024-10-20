@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTD9pX5PNXfxctSGSL2f8R4nj7dt",
+    "object": "chat.completion",
+    "created": 1705847739,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Guatemala, attitudes towards divorce vary among women. While some women are accepting of divorce as a means to end an unhappy or abusive marriage, the majority still hold traditional values that discourage divorce. Many women feel pressured to maintain the stability of the family and prioritize their children's well-being over personal happiness. Religious beliefs, cultural norms, and societal expectations heavily influence their opinions, leading them to view divorce as a last resort. Economic factors also play a role, with financial dependence on their spouse often discouraging women from pursuing divorce. Overall, most women in Guatemala hold conservative views on divorce, emphasizing the importance of maintaining the family unit despite potential hardships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 129,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

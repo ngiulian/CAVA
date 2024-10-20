@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGIKw3pG2olOg8iugL1STe7Kzvs",
+    "object": "chat.completion",
+    "created": 1705851778,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Spain face include high unemployment rates, especially among young people, an aging population and the need for better healthcare services, economic instability and income inequality, high levels of youth emigration, political corruption and a lack of trust in the government, and limited access to affordable housing. Other challenges include an outdated education system that needs reform, limited career opportunities, and the effects of climate change and environmental degradation. Additionally, the ongoing COVID-19 pandemic has posed significant health, economic, and social challenges for adults in Spain."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 110,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

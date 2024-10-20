@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjsyPNpDkA3wHbA9wSt4kXdCuqA",
+    "object": "chat.completion",
+    "created": 1705857456,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Trinidad and Tobago in the past five years was the general elections held on August 10, 2020. The elections resulted in a change of government, with the opposition party, the People's National Movement (PNM), winning a majority of seats and returning to power. This marked the end of the United National Congress (UNC) government's term, led by Kamla Persad-Bissessar. The PNM's victory led to the re-election of Dr. Keith Rowley as the Prime Minister of Trinidad and Tobago for a second consecutive term. The elections were closely watched as they determined the country's leadership and direction for the next five years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 143,
+        "total_tokens": 170
+    },
+    "system_fingerprint": null
+}

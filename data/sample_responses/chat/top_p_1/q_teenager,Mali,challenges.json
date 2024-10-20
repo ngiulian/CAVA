@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUZa7R3irk98dZCXOHRUIXSlqILb",
+    "object": "chat.completion",
+    "created": 1705852974,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Mali face numerous challenges that impact their overall well-being and development. One significant challenge is limited access to education, with many young people unable to attend school due to poverty, insufficient infrastructure, and cultural barriers. This hinders their ability to gain knowledge and necessary skills, limiting their future opportunities. \n\nAnother major challenge is the high prevalence of child labor, particularly in rural areas. Many teenagers are forced to work in hazardous conditions, such as agriculture or mining, depriving them of their right to a proper childhood and hindering their educational progress. Moreover, some girls may face early marriages and teenage pregnancies, which can disrupt their education and increase the likelihood of health complications.\n\nTeenagers in Mali also face significant health challenges, including limited access to healthcare and high rates of malnutrition. Poor sanitation, lack of clean water, and insufficient healthcare facilities contribute to the prevalence of preventable diseases and high rates of child mortality.\n\nFurthermore, the ongoing conflict and insecurity in certain regions of Mali pose additional challenges for teenagers. The presence of armed groups and frequent outbreaks of violence not only compromise their physical safety but also disrupt their education and social development.\n\nOverall, these challenges, including limited education, child labor, early marriages, health issues, and the impact of conflict, pose significant obstacles to the well-being and future prospects of teenagers in Mali."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 267,
+        "total_tokens": 285
+    },
+    "system_fingerprint": null
+}

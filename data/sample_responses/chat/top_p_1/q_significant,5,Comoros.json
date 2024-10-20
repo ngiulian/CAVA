@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCIvy0MZrQKHSE9AvcyubgKBb23",
+    "object": "chat.completion",
+    "created": 1705855374,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Comoros in the past five years was the presidential election of 2021. In the election held on March 24, 2019, President Azali Assoumani sought re-election for a second term. There were several opposition candidates, including former Vice President Mohamed Ali Soilihi. The election was marred by controversies, with the opposition boycotting the preliminary results, citing irregularities.\n\nUltimately, President Azali Assoumani won the election with a reported 59.05% of the vote. This victory allowed him to extend his rule and serve as President of Comoros for a second term. However, the opposition raised concerns about the transparency and legitimacy of the election, leading to protests and tensions in the country. The election and its aftermath had significant political implications and influenced the democratic landscape of Comoros in the past five years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 183,
+        "total_tokens": 209
+    },
+    "system_fingerprint": null
+}

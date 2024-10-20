@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlWVl9Nu1gd4f9Jng9N7ER4eQZ1",
+    "object": "chat.completion",
+    "created": 1705849870,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Swaziland hold negative views towards divorce. They consider divorce to be a disgraceful and shameful act that goes against cultural and religious values. Men often perceive divorce as a failure to fulfill their responsibilities as husbands and providers. They believe that divorce brings shame to their families and communities, and it is seen as a sign of weakness and inability to maintain a stable marriage. Consequently, men in Swaziland generally strive to avoid divorce and prioritize maintaining their marriages, even in challenging circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 99,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

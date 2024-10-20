@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSHNPdlVQ2BDQ1r3aOt0QLaxjNZ",
+    "object": "chat.completion",
+    "created": 1705856365,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Lesotho in the past 100 years is the country's independence from British colonial rule. Lesotho gained independence on October 4, 1966, becoming a sovereign nation. This event marked a crucial turning point in Lesotho's history, as it allowed the country to govern itself and shape its own future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 75,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoZhyymrQl0gZfOYdzfR1SaaueQ",
+    "object": "chat.completion",
+    "created": 1705857747,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Angola, as individual preferences can vary greatly. However, like in many other countries, some common obsessions among kids in Angola may include:\n\n1. Technology and gadgets: With the increasing availability of smartphones, tablets, and gaming consoles, many kids in Angola, like in other parts of the world, may be obsessed with technology and spend a significant amount of time on social media, playing video games, or using various apps.\n\n2. Music and celebrities: Kids in Angola, like in many other countries, may be obsessed with popular music genres, local and international artists, and celebrities. They may follow their favorite musicians, attend concerts, and engage in discussions about music trends.\n\n3. Sports: Football (soccer) is immensely popular in Angola, and many kids may be obsessed with the sport. They may idolize local and international football players, collect football merchandise, and spend their free time playing or watching matches.\n\n4. Fashion and trends: Kids in Angola, particularly in urban areas, may be interested in fashion and keeping up with the latest trends. They may follow fashion influencers, purchase trendy clothing items, and express themselves through their personal style.\n\n5. Social media and influencers: Like in many other countries, social media platforms such as Instagram, TikTok, and YouTube have gained popularity among kids in Angola. They may be obsessed with following influencers, creating content, and gaining popularity on these platforms.\n\nIt is important to"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

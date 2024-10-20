@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKkkmtWuDpE2wPRXXa2705cEH1Q",
+    "object": "chat.completion",
+    "created": 1705855898,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Haiti in the past 100 years is the devastating earthquake that struck the country on January 12, 2010. This earthquake, with a magnitude of 7.0, caused widespread destruction and losses, resulting in the deaths of approximately 230,000 people. It also left around 1.5 million people displaced and caused extensive damage to infrastructure, including hospitals, schools, and government buildings. The earthquake had a severe impact on the economy and further worsened the country's existing political and social challenges. The international community responded with aid efforts, but the effects of this catastrophic event are still felt in Haiti today."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 134,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

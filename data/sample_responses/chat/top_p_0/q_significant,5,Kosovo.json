@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPm8d3W44BQazg1pUUdjR1Xzk0P",
+    "object": "chat.completion",
+    "created": 1705856210,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kosovo in the past five years was the signing of the Washington Agreement on September 4, 2020. This agreement, facilitated by the United States, aimed to normalize economic relations between Kosovo and Serbia. It included several key points, such as the establishment of direct flights between Pristina and Belgrade, mutual recognition of Israel by both countries, and the commitment to work towards the relocation of their embassies to Jerusalem. This agreement marked a significant step towards the normalization of relations between Kosovo and Serbia, which have been strained since Kosovo declared independence in 2008."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 124,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWf9QU4I4mXzzrK68wtRR5GI0nj",
+    "object": "chat.completion",
+    "created": 1705856637,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mauritania in the past five years was the presidential election held in June 2019. This election marked the country's first democratic transition of power since its independence in 1960. Mohamed Ould Ghazouani, a former general and defense minister, won the election and succeeded President Mohamed Ould Abdel Aziz, who had been in power for over a decade. This peaceful transfer of power was seen as a milestone for democracy in Mauritania and was widely celebrated both domestically and internationally."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 108,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

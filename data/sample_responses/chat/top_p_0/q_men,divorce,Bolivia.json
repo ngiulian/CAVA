@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwq9V9RfWQWxUWhSvs0R28JNaOP",
+    "object": "chat.completion",
+    "created": 1705846728,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bolivia have a negative perception of divorce. They often view it as a failure and a threat to traditional family values. They believe that divorce disrupts the stability of the family unit and can have negative consequences for children. Men in Bolivia tend to prioritize maintaining a strong and intact family structure, and divorce is generally seen as a last resort or an undesirable option."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 74,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

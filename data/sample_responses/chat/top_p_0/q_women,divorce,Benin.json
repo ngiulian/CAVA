@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jStpnDRaRH4wX6gOyaAVmGMQnCXL",
+    "object": "chat.completion",
+    "created": 1705846541,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Benin have a negative perception of divorce. They generally view it as a last resort and believe that marriage is a lifelong commitment. Women often prioritize maintaining the stability of their families and the well-being of their children over personal happiness. Divorce is seen as a social stigma and can lead to judgment and exclusion from the community. Additionally, women may face financial difficulties and social challenges after divorce, making them hesitant to pursue it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 88,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

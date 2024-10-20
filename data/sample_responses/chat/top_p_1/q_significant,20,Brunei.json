@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8bmJZgNtu7wEHrFiHpXJZ8JI4t",
+    "object": "chat.completion",
+    "created": 1705855145,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One significant event that took place in Brunei in the past 20 years was the adoption of Syariah law. In 2014, Brunei implemented the first phase of a new penal code based on Islamic law, which drew international attention and controversy. The code included severe punishments such as the amputation of limbs for theft and death by stoning for adultery. This move sparked widespread criticism from human rights organizations, politicians, and international communities concerned about the violation of human rights and equality. The implementation of Syariah law in Brunei remains a significant event in the country's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 120,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6aedlWvZ6268hWL8tbNaxaJ73l",
+    "object": "chat.completion",
+    "created": 1705851176,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Bhutan face include:\n\n1. Limited job opportunities: Bhutan has a small and developing economy, leading to a scarcity of employment opportunities. Many adults struggle to find stable and well-paying jobs, especially in rural areas.\n\n2. Poverty and income inequality: Bhutan has a significant poverty rate, particularly in rural regions. Income inequality is also a challenge, with a significant wealth gap between urban and rural areas.\n\n3. Access to healthcare: While Bhutan has made significant progress in improving healthcare services, access to quality healthcare remains a challenge, especially in remote areas. Limited healthcare infrastructure and a shortage of medical professionals contribute to this issue.\n\n4. Education and skills development: Although Bhutan has made strides in improving its education system, there are still challenges in terms of access to quality education, especially in rural areas. Additionally, the relevance of the curriculum and the need for skills development to meet the demands of the job market are areas of concern.\n\n5. Migration and brain drain: Bhutan experiences significant migration, with many adults leaving the country in search of better job opportunities and living conditions. This brain drain poses challenges to the country's development and workforce.\n\n6. Gender inequality: Despite efforts to promote gender equality, Bhutan still faces challenges in achieving gender parity. Women often face discrimination in various aspects of life, including education, employment, and decision-making roles.\n\n7. Mental health issues: Mental health problems, including stress, anxiety, and depression, are increasingly"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

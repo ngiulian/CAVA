@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTW7aivPI57ua7LwgdLynRBXepAP",
+    "object": "chat.completion",
+    "created": 1705848915,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The perception of divorce among women in Mozambique varies depending on their personal experiences and cultural backgrounds. Generally, divorce is still considered a taboo subject, particularly in rural areas where traditional gender roles and societal expectations hold strong. However, with increasing urbanization and exposure to modern attitudes, more women are beginning to view divorce as a viable option in certain situations.\n\nIn traditional Mozambican society, marriage is highly valued, and women tend to prioritize maintaining their marital union. Divorce is often seen as a failure, bringing shame and disappointment not only to the couple involved but also to their families. Moreover, women may face societal criticism and stigma for seeking a divorce, which can affect their reputation and social standing.\n\nHowever, there are indications of a shift in attitudes, particularly among urban women, towards a more accepting stance on divorce. Factors like education, exposure to different cultures, economic independence, and awareness of legal rights contribute to this changing perception. Women who experience abusive or unhappy marriages may increasingly view divorce as a means of escape and empowerment, enabling them to seek better opportunities and protect their well-being and that of their children.\n\nNotably, women's views on divorce in Mozambique are diverse and influenced by various factors such as age, education, socioeconomic background, and exposure to different cultural values. As the country continues to develop and society evolves, attitudes towards divorce among women are gradually becoming more nuanced and accepting, while traditional beliefs and societal pressure still play a significant role in shaping perceptions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 295,
+        "total_tokens": 315
+    },
+    "system_fingerprint": null
+}

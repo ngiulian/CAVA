@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTmhcKwd57i89ZYBFiqIF0omTjn",
+    "object": "chat.completion",
+    "created": 1705848770,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of an entire population. However, in Macedonia, like in many other countries, opinions on abortion tend to be diverse and influenced by various factors such as personal beliefs, cultural and religious backgrounds, and individual experiences. Some men in Macedonia may hold conservative views and oppose abortion, considering it morally wrong and against their religious or cultural values. They may believe that life begins at conception and that terminating a pregnancy is equivalent to taking a human life. On the other hand, there are also men who support a woman's right to choose and believe that decisions about pregnancy should be made by the woman herself, considering factors such as her health, well-being, and personal circumstances. It is important to recognize that these are general observations and individual opinions may differ significantly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 172,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

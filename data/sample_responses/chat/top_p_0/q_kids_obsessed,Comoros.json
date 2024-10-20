@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVrzjtNCEz9fdgVkacdX4eQe6yJP",
+    "object": "chat.completion",
+    "created": 1705857959,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Comoros, as individual preferences can vary greatly. However, like in many other parts of the world, some common obsessions among kids in Comoros may include:\n\n1. Technology and gadgets: Many kids today are fascinated by smartphones, tablets, video games, and other electronic devices.\n\n2. Social media: Kids in Comoros, like in many other countries, may be obsessed with social media platforms such as Facebook, Instagram, Snapchat, and TikTok.\n\n3. Music and celebrities: Kids often show a keen interest in popular music, both local and international, and may idolize celebrities and musicians.\n\n4. Fashion and trends: Following the latest fashion trends and styles is another common obsession among kids, as they strive to fit in and express their individuality.\n\n5. Sports: Some kids in Comoros may be obsessed with sports, particularly football (soccer), which is a popular sport in the country.\n\n6. Television shows and movies: Kids may be obsessed with certain TV shows, cartoons, or movies, eagerly discussing and following their favorite characters and storylines.\n\nIt is important to note that these are general observations and not applicable to every child in Comoros. Individual interests and obsessions can vary greatly based on personal preferences, upbringing, and exposure to different influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 275,
+        "total_tokens": 295
+    },
+    "system_fingerprint": null
+}

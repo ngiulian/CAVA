@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbZ1p4fKliv1nwXK4raTer5EiyG",
+    "object": "chat.completion",
+    "created": 1705849253,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that summarizing an entire group of people is challenging, and individual opinions can vary. However, in Peru, abortion laws and social views tend to be quite restrictive. Peru's abortion policies are mainly seen as stringent and controversial. The majority of women in Peru, particularly those influenced by cultural and religious values, hold conservative views on the matter. They often consider abortion morally wrong and view it as a violation against the sanctity of life. These women generally prioritize the protection of the fetus and advocate for alternatives such as adoption or providing assistance for mothers facing challenging circumstances. However, opinions on abortion can also differ amongst women in Peru, with some supporting greater reproductive rights and access to safe and legal abortions in certain circumstances, especially in cases of rape, endangerment to a woman's life, or severe fetal abnormalities. It is essential to recognize that attitudes towards abortion can vary depending on factors like age, education level, socioeconomic status, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 193,
+        "total_tokens": 212
+    },
+    "system_fingerprint": null
+}

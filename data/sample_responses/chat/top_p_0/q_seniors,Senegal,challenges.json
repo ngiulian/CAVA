@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUm2WJwGkHUhcWkh9UA1qsvarGjb",
+    "object": "chat.completion",
+    "created": 1705853746,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Senegal face several challenges, including limited access to healthcare, poverty, social isolation, and inadequate pension systems. Many seniors struggle to afford healthcare services and medications, leading to health issues going untreated. Poverty is a significant concern, as a significant portion of seniors live in poverty and struggle to meet their basic needs. Social isolation is another challenge, as seniors often lack social support networks and opportunities for social engagement. Additionally, the pension systems in Senegal are often insufficient, leaving many seniors without a reliable source of income in their old age."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 110,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

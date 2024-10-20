@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVO4Xak10vMFJfoFxQ6CNjzaTpDM",
+    "object": "chat.completion",
+    "created": 1705856104,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kazakhstan in the past 20 years is the transfer of power from the long-serving President Nursultan Nazarbayev to his hand-picked successor President Kassym-Jomart Tokayev in 2019.\n\nNursultan Nazarbayev, who had been in power since Kazakh independence in 1991, announced his resignation as President in March 2019. This marked a historic transition of power as Nazarbayev had held Kazakhstan's presidency for nearly three decades. Although officially stepping down as President, Nazarbayev retained significant power and was named Leader of the Nation and Head of the Security Council.\n\nFollowing Nazarbayev's resignation, Kassym-Jomart Tokayev, who had been the Chairman of the Kazakh Senate, assumed the presidency. This event was seen as a significant milestone in Kazakhstan's political landscape, showcasing the country's commitment to a smooth political transition and institutional stability.\n\nMoreover, during these 20 years, Kazakhstan continued to emerge as a regional power in Central Asia. It successfully hosted various international events and summits, including chairing the Organization for Security and Cooperation in Europe (OSCE) in 2010, assuming the presidency of the United Nations Security Council in 2018, and hosting the Astana Talks on Syrian conflict resolution.\n\nFurthermore, the country witnessed economic growth and diversification during this period. With vast reserves of oil, gas, and minerals, Kazakhstan focused on"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

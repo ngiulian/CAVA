@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdVT0Z4zQM2VPKDrSlOBINcFVWM",
+    "object": "chat.completion",
+    "created": 1705849373,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Portugal have gradually accepted divorce as a part of modern society and recognize it as a fair solution to marital problems. They typically view divorce as a means to end a troubled relationship, seeking personal happiness and improved quality of life for both partners rather than staying in an unsatisfactory marriage. Men in Portugal no longer perceive divorce as a taboo or a social stigma, understanding that individuals have the right to make choices based on their own happiness and well-being. However, there may still be some conservative viewpoints among a minority of men who hold traditional beliefs and perceive divorce negatively."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

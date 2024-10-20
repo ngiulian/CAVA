@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTDx5V12nvsBakHSpOgHBAoZpnc",
+    "object": "chat.completion",
+    "created": 1705856423,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Monaco in the past 5 years was the wedding of Prince Albert II of Monaco and Charlene Wittstock on July 1 and 2, 2011. The wedding was a highly anticipated event and attracted worldwide attention. It was a lavish affair, with various ceremonies and celebrations taking place over the course of two days. The wedding was seen as a significant moment for the principality, as it marked the union of the reigning prince and the former South African Olympic swimmer."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 105,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

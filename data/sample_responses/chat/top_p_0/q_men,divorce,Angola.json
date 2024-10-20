@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSnANk6z0Mr96FZtvOYNkTWbzHLW",
+    "object": "chat.completion",
+    "created": 1705846128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Angola hold negative views towards divorce. They generally perceive divorce as a failure and a disruption to the traditional family structure. Men often prioritize maintaining a stable and harmonious family unit, and divorce is seen as a threat to this ideal. They may view divorce as a reflection of personal inadequacy or a lack of commitment to their marital responsibilities. Additionally, societal and cultural norms in Angola often place a significant emphasis on the importance of marriage and family, further influencing men's negative perceptions of divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

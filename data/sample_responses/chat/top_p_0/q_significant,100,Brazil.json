@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8KU4x7GY5oolXaLZnlbHIDpB5H",
+    "object": "chat.completion",
+    "created": 1705855128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Brazil in the past 100 years is the military coup and subsequent dictatorship that lasted from 1964 to 1985. This event had a profound impact on the country's political, social, and economic landscape. The military coup overthrew the democratically elected government, leading to a repressive regime characterized by censorship, human rights abuses, and economic policies favoring the elite. The dictatorship ended in 1985 with the return of civilian rule, marking a significant turning point in Brazil's history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

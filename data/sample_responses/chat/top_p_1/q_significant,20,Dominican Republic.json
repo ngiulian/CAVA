@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEyKyvikTv4LVcWgPJ1VUUi9gGk",
+    "object": "chat.completion",
+    "created": 1705855540,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in the Dominican Republic in the past 20 years was the Constitutional Tribunal ruling in 2013 that stripped citizenship from individuals born to undocumented immigrants dating back to 1929. This ruling had a significant impact on the country's population, particularly those of Haitian descent, as it rendered thousands of people stateless, without access to basic rights and services. The decision sparked international criticism and led to a major human rights crisis. The Dominican government later attempted to rectify the situation through legislative changes, but the ruling and its aftermath have had lasting effects on the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 122,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

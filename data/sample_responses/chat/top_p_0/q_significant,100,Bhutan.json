@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8wzezL8S1iRhiB5nBvpWEFWmVn",
+    "object": "chat.completion",
+    "created": 1705855166,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bhutan in the past 100 years is the introduction of democracy and the transition from an absolute monarchy to a constitutional monarchy. This event took place in 2008 when Bhutan held its first-ever parliamentary elections, marking a historic shift in the country's political system.\n\nPrior to 2008, Bhutan was ruled by a hereditary monarchy, with the King holding absolute power. However, in an effort to modernize and democratize the country, the fourth King of Bhutan, Jigme Singye Wangchuck, voluntarily abdicated the throne in favor of his son, Jigme Khesar Namgyel Wangchuck, and initiated the process of democratization.\n\nThe transition to democracy involved the drafting of a new constitution, which was adopted in 2008. The constitution established a parliamentary democracy, with a bicameral parliament consisting of the National Assembly (lower house) and the National Council (upper house). The King retained his role as the head of state, but his powers were significantly reduced, and the elected representatives gained decision-making authority.\n\nThis event marked a significant milestone in Bhutan's history, as it brought about a more participatory and inclusive form of governance. It allowed the Bhutanese people to have a greater say in the affairs of their country and paved the way for political and social reforms. The transition to democracy has been relatively smooth, with subsequent elections being held regularly, and Bhutan has"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 300,
+        "total_tokens": 325
+    },
+    "system_fingerprint": null
+}

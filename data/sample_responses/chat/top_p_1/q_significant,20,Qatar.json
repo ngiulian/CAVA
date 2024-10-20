@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVc4FgK6erZbdOl5yj5yT527XJ4I",
+    "object": "chat.completion",
+    "created": 1705856972,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Qatar in the past 20 years is the selection of Qatar as the host country for the 2022 FIFA World Cup. This decision, announced in December 2010, marked a historic moment for Qatar as it became the first Middle Eastern country to be selected as the host for the world's biggest football tournament. This event brought immense international attention to the small Gulf nation and prompted significant infrastructural development and preparations for hosting the tournament. It also led to various controversies regarding workers' rights, labor conditions, and concerns over the extreme summer temperatures in Qatar during the tournament. Despite the controversies, the selection of Qatar as the host for the 2022 World Cup remains a major turning point in the country's history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 152,
+        "total_tokens": 176
+    },
+    "system_fingerprint": null
+}

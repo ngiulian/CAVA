@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqmLPBQWTHgbjSmCtM81YrUUGyA",
+    "object": "chat.completion",
+    "created": 1705850196,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the United Republic of Tanzania hold negative views towards divorce. They generally believe that divorce is a last resort and should only be considered in extreme circumstances. Women often prioritize maintaining the stability of their families and communities over personal happiness or fulfillment. They may fear social stigma, economic hardships, and the potential negative impact on their children's well-being. Consequently, divorce is often seen as a failure and a sign of personal weakness. However, attitudes towards divorce are gradually changing, particularly among younger generations who are more influenced by Western values and ideas of individualism."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 112,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

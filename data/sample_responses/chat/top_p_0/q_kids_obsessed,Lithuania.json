@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVuzFF6phQvz8UpYOVj7hsvWDPMD",
+    "object": "chat.completion",
+    "created": 1705858145,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Lithuania are too obsessed with social media and technology."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 14,
+        "total_tokens": 32
+    },
+    "system_fingerprint": null
+}

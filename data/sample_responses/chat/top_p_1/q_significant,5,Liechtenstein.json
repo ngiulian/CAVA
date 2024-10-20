@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRbIdhz6JmAtcGvJfxpJw7csKCW",
+    "object": "chat.completion",
+    "created": 1705856323,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Liechtenstein in the past 5 years was the constitutional referendum held in 2019. On March 3, 2019, the citizens of Liechtenstein voted in favor of constitutional reforms, bringing about significant changes to the governance of the country. The reforms included granting more power to the Prince, reducing the ability of citizens to call binding referendums, and limiting the power of the parliamentary opposition. These reforms were seen as a significant shift in the balance of power within Liechtenstein's political structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 113,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

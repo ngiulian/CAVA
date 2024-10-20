@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSnM6lHPb2zBFk2ftzj6qAyf3dzp",
+    "object": "chat.completion",
+    "created": 1705846140,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer as opinions on divorce can vary among women in Angola. However, it is generally observed that traditional values and societal norms play a significant role in shaping attitudes towards divorce in the country. Many women in Angola still adhere to traditional gender roles and prioritize maintaining the stability of their families and marriages. Divorce is often seen as a last resort and is generally frowned upon due to cultural and religious beliefs that emphasize the importance of marriage and family unity. However, it is important to note that attitudes towards divorce are evolving, particularly among younger generations who are more influenced by modern ideas and global trends."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 124,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

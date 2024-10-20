@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVx0lWKthJZH7P4itmxjQ2YTgFo2",
+    "object": "chat.completion",
+    "created": 1705858270,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize and assume what all kids in Rwanda are obsessed with, as interests and behaviors can vary greatly among individuals. However, like in many other parts of the world, some common obsessions among kids in Rwanda may include:\n\n1. Technology: With the increasing availability and affordability of smartphones, tablets, and internet access, many kids in Rwanda, like elsewhere, may be obsessed with technology. This might include spending excessive time on social media, playing video games, or engaging in online activities.\n\n2. Fashion and trends: Kids, especially teenagers, often have a strong interest in fashion and keeping up with the latest trends. This could involve a focus on trendy clothing brands, hairstyles, or accessories.\n\n3. Music and entertainment: Kids are often drawn to popular music, movies, and TV shows. They may follow their favorite artists, attend concerts, or spend time discussing and sharing their preferences with peers.\n\n4. Sports: Sports, such as soccer, basketball, and volleyball, are popular among kids in Rwanda. Some may be obsessed with following their favorite teams or players, participating in sports activities, or even aspiring to become professional athletes.\n\n5. Academics and success: Rwanda places a strong emphasis on education, and many kids may be obsessed with academic achievements, aiming for high grades, and pursuing advanced degrees. This obsession may be driven by both personal aspirations and societal expectations.\n\nIt should be noted that these are general observations and not applicable to all kids in Rwanda. Individual interests and obs"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

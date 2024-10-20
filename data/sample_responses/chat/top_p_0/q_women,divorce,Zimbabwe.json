@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTvfER1rKe2AxzGK7c4LLFpU8mYc",
+    "object": "chat.completion",
+    "created": 1705850499,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Zimbabwe have mixed opinions about divorce. While some view it as a necessary step to escape abusive or unhappy marriages, others see it as a last resort due to societal and cultural pressures. Many women believe that divorce brings shame and stigma, and fear the potential negative consequences such as financial instability and loss of social status. However, there is a growing trend of women recognizing their rights and seeking divorce to pursue personal happiness and independence. Overall, the perception of divorce among women in Zimbabwe is complex, influenced by cultural norms, personal circumstances, and evolving attitudes towards gender equality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

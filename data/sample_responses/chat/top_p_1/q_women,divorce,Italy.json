@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTIViriAPOKcx5eEt6AiDLgRNISo",
+    "object": "chat.completion",
+    "created": 1705848071,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Italy have gradually changed their perception of divorce over the years. Initially, divorce was stigmatized and considered morally wrong, especially due to the influence of the Catholic Church. However, a significant shift has occurred, and now divorce is more widely accepted and seen as a legitimate option to end unhappy or dysfunctional marriages. Many women believe that divorce empowers them to pursue personal growth, happiness, and escape from abusive or unfulfilling relationships. However, there still exists a conservative mindset among some individuals, particularly in rural communities, where divorce is viewed as a failure and may face social judgment. Overall, the majority of women in Italy lean towards supporting divorce as a means to achieve personal and emotional well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 144,
+        "total_tokens": 163
+    },
+    "system_fingerprint": null
+}

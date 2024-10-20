@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDZz38oMQKUrlPMwWF9O6rnk1Y3",
+    "object": "chat.completion",
+    "created": 1705847765,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide a specific summary of what \"most women in Guyana\" think of divorce, as women's opinions on divorce can vary greatly based on factors such as individual experiences, cultural backgrounds, education, and personal beliefs. However, it can be said that divorce is generally viewed as a complex and sensitive issue in Guyana, often involving social and emotional implications. Some women may embrace divorce as an option to escape abusive or unhappy marriages, seeking independence and a chance to rebuild their lives. Others may hold more traditional views, considering divorce as a last resort and prioritizing family unity and stability. It is important to acknowledge that women's perspectives on divorce are diverse and influenced by a range of factors that shape their individual outlooks."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 149,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

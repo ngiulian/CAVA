@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4d5tTvenNu6v90SrDR3XEgwI4g",
+    "object": "chat.completion",
+    "created": 1705854899,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Azerbaijan in the past 5 years is the 2020 Nagorno-Karabakh conflict. The conflict erupted on September 27, 2020, between Azerbaijan and Armenia over the disputed region of Nagorno-Karabakh. It resulted in a full-scale war that lasted for 44 days, leading to significant casualties and displacement of people. Azerbaijan managed to regain control over several territories that were previously held by Armenian forces, including parts of Nagorno-Karabakh itself. The conflict ended with a ceasefire agreement brokered by Russia on November 10, 2020. This event had a profound impact on the region, reshaping the geopolitical dynamics and leading to significant changes in the status quo."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 152,
+        "total_tokens": 176
+    },
+    "system_fingerprint": null
+}

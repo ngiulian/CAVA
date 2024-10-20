@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUX9slDH3oSrD2Dn7m7rxHGgpT5K",
+    "object": "chat.completion",
+    "created": 1705852823,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Morocco face several significant challenges. One of the biggest challenges is limited access to quality education, especially in rural areas, which hinders their opportunities for future employment and personal growth. Additionally, high rates of youth unemployment make it difficult for teenagers to find stable jobs and contribute to their families and society. Another challenge is the prevalence of early marriages, particularly among girls, which can disrupt their education and limit their personal development. Furthermore, social pressures and traditional gender roles often restrict teenagers' freedom of expression and limit their choices in terms of career, relationships, and personal aspirations. Lastly, the lack of comprehensive sexual education and awareness about reproductive health can lead to issues such as early pregnancies and sexually transmitted infections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 142,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

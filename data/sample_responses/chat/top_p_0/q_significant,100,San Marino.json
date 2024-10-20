@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfPWMYqinDqNkVSxxb7rWeNDFF3",
+    "object": "chat.completion",
+    "created": 1705857179,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in San Marino in the past 100 years is the adoption of a new constitution in 1974. This event marked a major political and social change in the country. The new constitution established a more democratic system, expanded the rights and freedoms of citizens, and introduced a bicameral parliament. It also granted women the right to vote, making San Marino one of the first countries in the world to do so. This event had a profound impact on the governance and development of San Marino, shaping its modern political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 112,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

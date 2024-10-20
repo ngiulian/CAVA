@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTPVd6QETHweW3UhdOMB6rOGOOJB",
+    "object": "chat.completion",
+    "created": 1705848505,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most men in Liechtenstein think of divorce as there is no available data or consensus on the topic. Opinions on divorce can vary greatly among individuals based on their personal experiences, cultural background, values, and social factors. Therefore, it is important to consider that attitudes towards divorce in Liechtenstein, as in any society, can differ significantly from person to person."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 85,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

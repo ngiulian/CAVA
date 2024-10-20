@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3smGZtAdq2SQowNpgGBqKaDt9f",
+    "object": "chat.completion",
+    "created": 1705847164,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Costa Rica have a generally accepting attitude towards divorce. They view it as a viable option to end an unhappy or abusive marriage and believe that individuals have the right to pursue personal happiness and fulfillment. Women in Costa Rica often prioritize their own well-being and that of their children, and divorce is seen as a means to achieve a better quality of life. However, societal and cultural factors, such as religious beliefs and traditional gender roles, may still influence some women's perspectives on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 98,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

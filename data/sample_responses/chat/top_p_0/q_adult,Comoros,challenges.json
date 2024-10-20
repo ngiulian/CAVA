@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBL2bBd01eYpxx1aq5fd3CqW5LT",
+    "object": "chat.completion",
+    "created": 1705851471,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Comoros face include high levels of poverty and unemployment, limited access to quality education and healthcare, political instability, and gender inequality. The country's economy is largely dependent on agriculture, which is vulnerable to climate change and natural disasters, leading to food insecurity and economic instability. Additionally, limited infrastructure and inadequate public services further hinder the well-being and development of adults in Comoros."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 84,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

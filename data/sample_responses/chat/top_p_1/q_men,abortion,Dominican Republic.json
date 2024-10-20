@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6WlyokPdearEHgEMtwVw7Nxcyn",
+    "object": "chat.completion",
+    "created": 1705847328,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Dominican Republic hold conservative views regarding abortion. They generally believe that abortion is morally wrong and incompatible with their religious beliefs, which predominantly stem from Catholicism. They often oppose any form of legalized abortion, considering it to be a violation of the sanctity of life. These attitudes are deeply ingrained in the cultural and social fabric of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 72,
+        "total_tokens": 92
+    },
+    "system_fingerprint": null
+}

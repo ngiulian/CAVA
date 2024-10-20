@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVE07atGx1Izw1Wqf2rKw2AXb1tG",
+    "object": "chat.completion",
+    "created": 1705855480,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Czech Republic in the past 100 years is the Velvet Revolution in 1989. This peaceful revolution led to the overthrow of the communist regime in Czechoslovakia and marked the end of 41 years of communist rule. The Velvet Revolution played a crucial role in the country's transition to democracy and paved the way for the subsequent split of Czechoslovakia into the Czech Republic and Slovakia in 1993."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 93,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

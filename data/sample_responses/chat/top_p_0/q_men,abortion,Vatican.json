@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsLSCZJrErdkywl4aCaZPTxmB7C",
+    "object": "chat.completion",
+    "created": 1705850293,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Vatican, as representatives of the Catholic Church, generally oppose abortion. They consider it to be morally wrong and a violation of the sanctity of human life. The Catholic Church teaches that life begins at conception and that every human being, from the moment of conception, deserves protection and respect. Therefore, most men in the Vatican view abortion as a grave sin and advocate for its prohibition. They often emphasize the importance of promoting alternatives to abortion, such as supporting pregnant women in difficult situations and providing comprehensive healthcare and social services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 107,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

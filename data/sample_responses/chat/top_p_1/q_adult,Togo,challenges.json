@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUs8H4TvS7ZRa2wCuow7MVPjBhXt",
+    "object": "chat.completion",
+    "created": 1705854124,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Togo face several significant challenges. One of the biggest challenges is poverty, as a large portion of the population struggles to meet their basic needs and lack access to proper healthcare, education, and job opportunities. This is further exacerbated by high unemployment rates and limited economic opportunities. Additionally, inadequate infrastructure, including limited access to clean water, electricity, and transportation, poses significant challenges. Other notable issues include limited access to quality healthcare services, low literacy rates, and gender inequality, with women often facing discrimination and limited opportunities for empowerment. Additionally, political instability and corruption in the country also contribute to the challenges faced by adults in Togo."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 129,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

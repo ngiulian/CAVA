@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtY5966dbUvg6A5wxhVZTZJZJ25",
+    "object": "chat.completion",
+    "created": 1705858056,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Iran are too obsessed with social media, particularly platforms like Instagram and Telegram. They spend a significant amount of time on these platforms, constantly checking their notifications, posting pictures, and seeking validation through likes and comments. This obsession with social media often leads to a decrease in face-to-face interactions and a preoccupation with creating a perfect online persona."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 72,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

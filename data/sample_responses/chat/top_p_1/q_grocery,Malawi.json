@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWGPtgCZhCnGNRLJGVyuawphaT5X",
+    "object": "chat.completion",
+    "created": 1705859473,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Malawi, you have a few options:\n\n1. Walking: If the grocery store is within a walkable distance, walking can be a convenient and eco-friendly option. Ensure that you follow pedestrian paths and road safety guidelines while walking.\n\n2. Cycling: If you have access to a bicycle, it can be a faster way to reach the grocery store while also providing exercise. Make sure to wear a helmet and follow traffic rules.\n\n3. Public transportation: Depending on the area and availability, you can check if there are any public buses or minivans (known as matolas) that operate in your vicinity. Ask locals or check local transport information for schedules and routes.\n\n4. Taxi: Taxis can be readily available in urban areas of Malawi. You can hail a taxi from the roadside, or you may find taxi stands near markets or busy areas. Confirm the fare or negotiate it before boarding.\n\n5. Shared transportation: In some cases, you may find shared transportation options like mini-buses or pickup trucks used as taxis. Similar to taxis, confirm the fare and negotiate it before joining.\n\nRemember to consider both convenience and cost when choosing the best transportation option for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 255,
+        "total_tokens": 280
+    },
+    "system_fingerprint": null
+}

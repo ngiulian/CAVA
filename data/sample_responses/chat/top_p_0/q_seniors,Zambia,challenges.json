@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUzzTemZ1jJwXXhI33oMQHSdWOOQ",
+    "object": "chat.completion",
+    "created": 1705854611,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Zambia face include limited access to healthcare, poverty and financial insecurity, lack of social support, and age discrimination. Many seniors struggle to afford medical treatment and medications due to the high cost of healthcare services. Poverty is a significant issue, with a large number of seniors living in extreme poverty and lacking basic necessities. Additionally, there is a lack of social support systems, such as pensions or social security, leaving many seniors financially vulnerable. Age discrimination is prevalent, leading to exclusion from employment opportunities and societal marginalization."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

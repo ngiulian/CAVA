@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSs4VECqkmKrVdfRCFomVxCorPjK",
+    "object": "chat.completion",
+    "created": 1705846432,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide a definitive view of all men in Azerbaijan on abortion as attitudes can vary among individuals. However, Azerbaijan, a Muslim-majority country, generally holds conservative social values, including attitudes towards abortion. Traditionally, the cultural and religious beliefs in the country prioritize the sanctity of life and discourage abortion except in exceptional circumstances, such as when the mother's life is at risk. Many men may adhere to these values and consider abortion morally wrong. However, it's important to note that individual opinions may differ based on personal, educational, or ideological backgrounds, and some men in Azerbaijan may support a woman's right to make decisions regarding her own body and reproductive health."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 137,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

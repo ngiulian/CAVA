@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4jtHKKO0wa2iiOJOBzU2ydKkJJ",
+    "object": "chat.completion",
+    "created": 1705847217,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The opinions of men in Cyprus regarding divorce may vary, but it can be generalized that most men tend to hold negative views towards divorce. Traditional Greek Cypriot culture often promotes the idea of strong family values and lifelong marriages, which influences men's attitudes towards divorce. Many men believe that divorce is a failed outcome that disrupts the sanctity of the family unit. In addition, societal and religious pressures often discourage divorce in Cyprus, contributing to men's perception of divorce as a taboo or shameful act. However, it is important to note that attitudes towards divorce are diverse and may differ among individuals based on personal experiences and cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 126,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

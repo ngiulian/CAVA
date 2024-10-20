@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUz7WVTcLIhpogG4VgXOii71iUkM",
+    "object": "chat.completion",
+    "created": 1705854557,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges teenagers in Yemen face include ongoing conflict and violence, limited access to education and healthcare, high rates of child marriage, poverty and unemployment, and psychological distress due to the unstable environment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 39,
+        "total_tokens": 57
+    },
+    "system_fingerprint": null
+}

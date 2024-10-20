@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU4P1MRUDfaaotoWH1p3JEjFKrDB",
+    "object": "chat.completion",
+    "created": 1705851041,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Bosnia and Herzegovina face include high unemployment rates, particularly among youth, which leads to financial instability and limited job opportunities. Corruption within the political system and bureaucracy also pose significant challenges, hindering growth and development. Additionally, the country's complex ethnic and political divisions contribute to social tensions and hinder efforts towards reconciliation and unity. Access to quality healthcare and education is another challenge, with disparities existing between different regions and communities. Lastly, the country still faces the consequences of the 1992-1995 war, including the presence of landmines in certain areas, which pose ongoing risks to safety and hinder socioeconomic development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 132,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

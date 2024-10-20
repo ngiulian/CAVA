@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTwt3HWqkL2OT2BVgdU7VRMuVxJm",
+    "object": "chat.completion",
+    "created": 1705850575,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Angola face include limited access to healthcare, poverty, inadequate social security, and lack of support systems. Many seniors struggle to afford medical treatment and face difficulties accessing healthcare facilities, especially in rural areas. Poverty is a significant issue, with a large portion of seniors living in poverty and lacking basic necessities. Additionally, the social security system in Angola is insufficient, leaving many seniors without a stable income or financial support. Lastly, there is a lack of support systems for seniors, including limited availability of elderly care facilities and a lack of programs addressing their specific needs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

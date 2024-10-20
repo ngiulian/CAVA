@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWsZX5PQ85mTErGRTiqftlUntah",
+    "object": "chat.completion",
+    "created": 1705852806,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Latvia face several challenges, including educational issues, unemployment, substance abuse, mental health problems, and social exclusion. The education system in Latvia is often criticized for its outdated curriculum and lack of practical skills, making it difficult for teenagers to acquire relevant knowledge for future employment. High youth unemployment rates further exacerbate this problem, limiting their opportunities and financial independence. Substance abuse, particularly alcohol and drug addiction, is a significant concern among Latvian teenagers, leading to various health and social issues. Mental health problems, such as depression and anxiety, are also prevalent, with limited access to mental health services. Additionally, social exclusion and discrimination based on factors like ethnicity or socioeconomic status can hinder teenagers' social integration and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 147,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

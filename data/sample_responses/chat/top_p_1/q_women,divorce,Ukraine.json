@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrX0bQ2KdkiUblwvriqEhfmj5NU",
+    "object": "chat.completion",
+    "created": 1705850243,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions may vary among individuals, but the summary below provides a general understanding of women's perspectives on divorce in Ukraine:\n\nMost women in Ukraine consider divorce to be a traumatic and challenging process. While some women may be more open to ending an unhappy marriage, many view divorce as a last resort after attempting to resolve issues and salvage the relationship. They often prioritize the well-being of their children, financial stability, and the preservation of family values before contemplating divorce.\n\nUkrainian women understand the consequences of divorce on their social status and face societal pressure and stigma associated with it. They may fear being judged by friends, family, and the broader community. Therefore, they are often motivated to uphold their marital commitment and work towards resolving marital problems.\n\nHowever, changes in societal attitudes, evolving gender roles, and increasing exposure to Western influences have contributed to a growing acceptance of divorce among Ukrainian women. More women are becoming economically independent and have better access to education and employment opportunities, empowering them to make independent decisions about their personal lives. Consequently, some women are more willing to consider divorce when they perceive it to be the best option for personal happiness and emotional well-being.\n\nIn summary, most women in Ukraine view divorce as an emotionally challenging process with potential negative consequences for themselves and their family. They often prioritize efforts to save the marriage but are gradually becoming more accepting of divorce as societal attitudes shift."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 281,
+        "total_tokens": 300
+    },
+    "system_fingerprint": null
+}

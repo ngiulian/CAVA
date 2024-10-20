@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTR33OpgocGsngJAqPMaZTiZeAN7",
+    "object": "chat.completion",
+    "created": 1705848601,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Latvia have a negative perception of divorce. They often view it as a failure and a source of shame, as it goes against traditional family values and societal norms. Men tend to prioritize maintaining a stable and intact family unit, and divorce is seen as a disruption to this ideal. Additionally, there may be concerns about financial implications and the impact on children. Overall, divorce is generally perceived as a last resort and not a desirable outcome among men in Latvia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 93,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

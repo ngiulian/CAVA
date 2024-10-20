@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBOFDFRJayOfH7pCnRNfbP2hxXI",
+    "object": "chat.completion",
+    "created": 1705847630,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Guinea think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Guinea is a predominantly Muslim country, and Islam generally prohibits abortion except in cases where the mother's life is at risk. Therefore, many women in Guinea may hold conservative views on abortion, considering it morally wrong or unacceptable. However, it is also worth mentioning that there may be diverse opinions among women in Guinea, influenced by personal beliefs, cultural factors, and individual circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 109,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

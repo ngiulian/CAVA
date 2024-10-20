@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGyVvhr9wGvYXzHysUppYsn1CaO",
+    "object": "chat.completion",
+    "created": 1705851820,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Ethiopia face several significant challenges, including poverty, limited access to education and healthcare, high unemployment rates, food insecurity, and political instability. Poverty is a major issue, with a large portion of the population living below the poverty line. Limited access to quality education and healthcare services further exacerbates the situation, hindering personal and economic development. High unemployment rates contribute to the struggle for livelihoods, particularly among the youth. Additionally, food insecurity is a persistent challenge, with droughts and other climate-related issues affecting agricultural productivity. Political instability and conflicts in certain regions also pose challenges to the overall well-being and stability of adults in Ethiopia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 129,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

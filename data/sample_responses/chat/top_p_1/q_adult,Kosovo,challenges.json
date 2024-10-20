@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUSuMt5itcaZa0CBYflqB0cojQXX",
+    "object": "chat.completion",
+    "created": 1705852560,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Kosovo face include high unemployment rates, limited job opportunities, and a lack of economic stability. Many adults struggle to find stable employment and face low wages, leading to financial difficulties. Access to quality healthcare is also a challenge, with limited resources and inadequate infrastructure. Additionally, corruption and political instability pose challenges to the overall development and governance of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 74,
+        "total_tokens": 92
+    },
+    "system_fingerprint": null
+}

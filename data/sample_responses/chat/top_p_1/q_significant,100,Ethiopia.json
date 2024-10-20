@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGkdvAnVLED0yTJGq9ymZZF6UEH",
+    "object": "chat.completion",
+    "created": 1705855650,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Ethiopia in the past 100 years is the overthrow of Emperor Haile Selassie and the establishment of the Ethiopian People's Revolutionary Democratic Front (EPRDF) in 1991. This event marked the end of a 17-year-long communist rule under the Derg regime and brought about significant political and social changes in the country. The EPRDF introduced a federal system, promoting regional autonomy and ethnic-based governance, and initiated various reforms aimed at modernizing the country's institutions. This major political shift had a lasting impact on Ethiopia's governance and policies, shaping the country's trajectory in the subsequent years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

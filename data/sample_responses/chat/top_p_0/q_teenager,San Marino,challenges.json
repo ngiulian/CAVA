@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUnVOynFBv0Au8EHyNXg3zkv0DeY",
+    "object": "chat.completion",
+    "created": 1705853837,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in San Marino face several challenges, including academic pressure, mental health issues, substance abuse, peer pressure, and limited opportunities for personal growth and self-expression. The highly competitive education system places immense pressure on students to excel academically, leading to stress and anxiety. Mental health issues such as depression and anxiety are also prevalent among teenagers, often exacerbated by the pressure to succeed. Substance abuse, including alcohol and drug use, is a concern among some teenagers, influenced by peer pressure and a desire to fit in. Additionally, limited recreational and cultural activities in San Marino can restrict opportunities for personal growth and self-expression, making it challenging for teenagers to explore their interests and develop their identities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 138,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

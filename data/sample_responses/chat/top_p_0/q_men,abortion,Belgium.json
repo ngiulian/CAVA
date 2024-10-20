@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSt71WHLbQHTsXkSZLc5RrXjKwXP",
+    "object": "chat.completion",
+    "created": 1705846497,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most men in Belgium think of abortion as opinions on this topic can vary greatly among individuals. However, Belgium is known for its progressive stance on reproductive rights, including access to safe and legal abortion. The country legalized abortion in 1990, allowing women to make their own choices regarding their reproductive health. While some men in Belgium may hold conservative views on abortion, it is likely that a significant portion of the male population supports a woman's right to choose and respects her autonomy in making decisions about her body."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

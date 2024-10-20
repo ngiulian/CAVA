@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZRYxquTwzGzskxTWyaJyA0Avy5",
+    "object": "chat.completion",
+    "created": 1705849121,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Norway have a positive and accepting attitude towards divorce. They view it as a viable option to end an unhappy or unhealthy marriage, and believe that individuals should have the freedom to pursue personal happiness and fulfillment. Norwegian women generally prioritize their own well-being and independence, and divorce is seen as a means to achieve these goals. They also value gender equality and believe that both men and women should have equal rights and opportunities in marriage and divorce. Overall, divorce is considered a socially acceptable and normal part of life in Norway, and women are generally supportive of individuals who choose to end their marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

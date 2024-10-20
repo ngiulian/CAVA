@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRia74kCZCqfC7ujXJXcDX8N1Xh",
+    "object": "chat.completion",
+    "created": 1705848642,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on divorce in Morocco can vary greatly depending on various factors such as age, education, socioeconomic status, and personal experiences. However, there are some common perspectives that can be observed among many women in Morocco regarding divorce.\n\nTraditionally, divorce has been stigmatized in Moroccan society, and this perception still exists to some extent. Many women, particularly older generations, may view divorce as a failure or a source of shame. They may prioritize maintaining the stability of the family unit and preserving societal norms over personal happiness or fulfillment.\n\nHowever, attitudes towards divorce have been gradually evolving, especially among younger and more educated women. With increased access to education and exposure to different ideas, many women are becoming more independent and assertive in their choices. They are more likely to prioritize their own well-being, personal growth, and happiness over societal expectations.\n\nSome women in Morocco view divorce as a means to escape abusive or unhappy marriages. They believe that divorce can provide them with the opportunity to live a more fulfilling life, free from oppressive or unsatisfactory relationships. These women may seek legal and social support to ensure their rights are protected during the divorce process.\n\nOverall, while there are still societal pressures and stigmas associated with divorce in Morocco, women's attitudes towards it are gradually shifting. Many women are increasingly recognizing their rights and the importance of personal happiness, leading to a more positive perception of divorce as a viable option for those in unhappy or unhealthy marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 297,
+        "total_tokens": 316
+    },
+    "system_fingerprint": null
+}

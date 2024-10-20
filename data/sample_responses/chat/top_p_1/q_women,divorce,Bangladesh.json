@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuPjOeEgasbOf0AsyJNXvLys1dF",
+    "object": "chat.completion",
+    "created": 1705846577,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Bangladesh tend to have negative views about divorce. They often perceive divorce as a social stigma and believe it reflects failure in maintaining a successful marriage. Many women fear the consequences of divorce, such as societal judgment, economic instability, loss of social status, and difficulties in finding remarriage opportunities. Additionally, due to cultural and religious reasons, divorce is often considered a last resort and women are expected to prioritize preserving the sanctity of marriage and their familial responsibilities. Consequently, most women in Bangladesh strive to resolve marital issues through reconciliation and compromise rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 114,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

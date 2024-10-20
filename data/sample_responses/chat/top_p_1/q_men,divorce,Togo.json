@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTmyiVyylamOh3Eam80Vf5cPDpQF",
+    "object": "chat.completion",
+    "created": 1705849960,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Togo generally have negative attitudes towards divorce. They view it as a socially unacceptable outcome and believe that marriages should be enduring and permanent. Divorce is often seen as a failure in maintaining a successful relationship and is often stigmatized in Togolese society. Men tend to prioritize the preservation of the family unit and harmony within the community over individual happiness or personal conflicts that may lead to divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 83,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZuPxcOVDBhgUjrzFu05ZWHDc1D",
+    "object": "chat.completion",
+    "created": 1705849150,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Nepal have mixed opinions about divorce. While there is a growing acceptance towards divorce, it is still generally viewed as a last resort or a difficult step to take. Many women believe in the importance of maintaining their marriage and being committed to their spouse and family. Divorce is often seen as a taboo and can carry social stigma, particularly in more traditional and conservative communities.\n\nHowever, women's perceptions of divorce are evolving, especially among younger generations and those living in urban areas. Factors such as education, exposure to different cultures, economic independence, and awareness of their rights have contributed to a more liberal viewpoint. Some women feel that divorce can provide an escape from abusive or unhappy marriages and allow them to pursue personal freedom, self-development, and a chance for a better life.\n\nIt's important to note that individual attitudes towards divorce can vary greatly depending on personal experiences, education, socio-economic background, and cultural influences. While many women in Nepal still prefer to maintain their marriages, there is an increasing recognition that divorce can be a viable option in certain circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 212,
+        "total_tokens": 231
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUmUA6xWJGZNYqbbR9oTliVdXL5V",
+    "object": "chat.completion",
+    "created": 1705853774,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Solomon Islands face include limited access to quality education and employment opportunities, inadequate healthcare, high prevalence of non-communicable diseases, limited access to clean water and sanitation facilities, gender inequality and discrimination against women, political instability, and vulnerability to natural disasters and climate change impacts. Additionally, the country faces infrastructure deficiencies, including poor transportation networks and lack of electricity in rural areas, which hinder economic development and access to essential services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 89,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

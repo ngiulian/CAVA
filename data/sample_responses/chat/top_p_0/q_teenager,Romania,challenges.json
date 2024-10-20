@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUjDtgygMdWZJxEcCodDM8whsb4U",
+    "object": "chat.completion",
+    "created": 1705853571,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Romania face several challenges, including limited access to quality education, high rates of poverty and unemployment, inadequate healthcare services, and a lack of opportunities for personal and professional development. Additionally, they often struggle with mental health issues, such as depression and anxiety, due to societal pressures and a lack of support systems. Furthermore, the prevalence of substance abuse and involvement in risky behaviors poses significant challenges for Romanian teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 83,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

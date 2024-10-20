@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViGXAs7gR0NmmSC2nKWAx8KACVi",
+    "object": "chat.completion",
+    "created": 1705857356,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Togo in the past five years was the presidential election held in February 2020. This election marked a crucial moment in the country's political landscape as it resulted in the re-election of President Faure Gnassingb\u00e9 for a fourth term. This victory extended the Gnassingb\u00e9 family's rule, which had been in power for over five decades since 1967. The election was closely watched by both domestic and international observers, and its outcome sparked debates and discussions about democracy, governance, and political stability in Togo."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 114,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

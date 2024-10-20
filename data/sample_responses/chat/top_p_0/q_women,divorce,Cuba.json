@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4ENy3QV69FPUc1R5JPzde5H8y9",
+    "object": "chat.completion",
+    "created": 1705847186,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cuba have a positive attitude towards divorce and view it as a viable option to end an unhappy or abusive marriage. They believe that divorce provides them with the opportunity to pursue personal happiness, independence, and self-fulfillment. Women in Cuba often prioritize their own well-being and the well-being of their children over societal expectations or traditional gender roles. They see divorce as a means to escape oppressive relationships and to have greater control over their lives. However, it is important to note that attitudes towards divorce may vary among individuals based on their personal experiences and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

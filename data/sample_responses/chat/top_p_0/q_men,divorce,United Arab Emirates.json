@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSp4gq3UFeetJszU2YtIFVjgZiaN",
+    "object": "chat.completion",
+    "created": 1705846246,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the United Arab Emirates hold conservative views on divorce. They generally believe that divorce should be a last resort and that couples should make every effort to reconcile their differences before considering separation. Men often prioritize maintaining the stability of the family unit and preserving societal norms and traditions. They may view divorce as a failure and a source of shame, as it goes against the cultural emphasis on marriage and family values. However, attitudes towards divorce are gradually evolving, with some men recognizing the importance of individual happiness and personal fulfillment in relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 105,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

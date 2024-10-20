@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKDhwo7Jmn1cfMY9MsSsRFGr1Ay",
+    "object": "chat.completion",
+    "created": 1705855865,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Honduras in the past 5 years was the political crisis and subsequent protests that occurred after the controversial presidential election in November 2017. The incumbent president, Juan Orlando Hern\u00e1ndez, was accused of electoral fraud, leading to widespread demonstrations and calls for his resignation. The protests were met with a heavy-handed response from security forces, resulting in several deaths and human rights abuses. This event highlighted the deep political divisions and social unrest in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 97,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

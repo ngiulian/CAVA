@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTB8sroT928o97221uVyIYheMX2X",
+    "object": "chat.completion",
+    "created": 1705847614,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Ghana have a negative perception of divorce and generally see it as a last resort. They value the institution of marriage and prioritize keeping the family unit intact. Divorce is often viewed as a failure, with societal pressure and stigma attached to it. Women may face judgment, criticism, and potential isolation from their communities if they choose to pursue divorce. Additionally, the economic and social challenges that come with divorce, such as financial instability and potential loss of support networks, further influence their perceptions. Despite these concerns, some women in Ghana may consider divorce in cases of abuse, infidelity, or other serious issues that affect their well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

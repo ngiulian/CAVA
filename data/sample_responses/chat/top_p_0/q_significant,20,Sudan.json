@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdeZkAbqNYC6Q6P4pX3E7abfIYb",
+    "object": "chat.completion",
+    "created": 1705857070,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sudan in the past 20 years was the secession of South Sudan in 2011. After years of civil war and conflict between the predominantly Arab-Muslim north and the predominantly African-Christian south, a peace agreement was reached in 2005, which allowed for a referendum on independence for South Sudan. In January 2011, the people of South Sudan voted overwhelmingly in favor of secession, leading to the establishment of the independent Republic of South Sudan in July 2011. This event not only marked the end of Africa's longest-running civil war but also resulted in the creation of a new nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

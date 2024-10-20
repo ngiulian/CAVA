@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBACR3m4b8nLBhfZksNz2hfMPMx",
+    "object": "chat.completion",
+    "created": 1705847616,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Ghana generally have negative views towards divorce. They consider marriage as a lifelong commitment and believe that divorce should be a last resort. Women often prioritize maintaining the stability of their families and the social stigma associated with divorce can be a significant concern. They may also fear the potential economic hardships that can arise from divorce, as women often rely on their husbands for financial support. Additionally, cultural and religious beliefs play a significant role in shaping their attitudes towards divorce, with many women valuing the sanctity of marriage and the importance of preserving the family unit. However, it is important to note that attitudes towards divorce can vary among individuals and may be influenced by factors such as education, urbanization, and exposure to different cultural perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 146,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

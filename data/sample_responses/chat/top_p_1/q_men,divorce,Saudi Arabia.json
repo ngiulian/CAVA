@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfokSqxXXK6VT4LznHnYh2doQNP",
+    "object": "chat.completion",
+    "created": 1705849516,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Saudi Arabia have traditionally held conservative views on divorce, considering it a last resort option, primarily favoring reconciliation and preserving the marital bond. They often perceive divorce as a failure that is likely to have negative consequences for both parties involved, their families, and society at large. The societal pressure to maintain a stable and intact family unit, as well as adherence to Islamic teachings, significantly influence their attitudes towards divorce. Consequently, most men in Saudi Arabia view divorce as an undesirable and strongly discouraged action."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 101,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

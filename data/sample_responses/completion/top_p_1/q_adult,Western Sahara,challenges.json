@@ -1,0 +1,68 @@
+{
+    "id": "cmpl-8jFcR9oa2vRobDE0aRmHEdQ30eJTZ",
+    "object": "text_completion",
+    "created": 1705795491,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " probably going grocery shopping",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " probably",
+                    " going",
+                    " grocery",
+                    " shopping"
+                ],
+                "token_logprobs": [
+                    -4.7553654,
+                    -3.6659753,
+                    -8.678792,
+                    -0.033570897
+                ],
+                "top_logprobs": [
+                    {
+                        " that": -1.8491154,
+                        " the": -2.2709904,
+                        " not": -3.0366154,
+                        " finding": -3.0756779,
+                        " to": -3.1147404
+                    },
+                    {
+                        " the": -2.0722253,
+                        " that": -2.5800378,
+                        " not": -2.7987878,
+                        " getting": -3.0175378,
+                        " finding": -3.1816003
+                    },
+                    {
+                        " to": -0.10457353,
+                        " out": -4.690511,
+                        " hungry": -5.034261,
+                        " on": -5.065511,
+                        " back": -5.299886
+                    },
+                    {
+                        " shopping": -0.033570897,
+                        " store": -4.6195083,
+                        "-shopping": -5.4632583,
+                        " buying": -5.830446,
+                        " shop": -6.2913833
+                    }
+                ],
+                "text_offset": [
+                    51,
+                    60,
+                    66,
+                    74
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 11,
+        "completion_tokens": 4,
+        "total_tokens": 15
+    }
+}

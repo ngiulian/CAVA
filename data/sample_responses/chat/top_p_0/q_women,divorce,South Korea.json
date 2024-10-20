@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTMo9NrRVgmmHugrgxiTuFLgKZrU",
+    "object": "chat.completion",
+    "created": 1705848338,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in South Korea have mixed opinions about divorce. While some women view divorce as a necessary step to escape unhappy or abusive marriages, others perceive it as a failure and a source of shame. The societal pressure to maintain a harmonious family unit and adhere to traditional gender roles often discourages women from seeking divorce. However, with changing attitudes and increasing empowerment, many women are becoming more open to the idea of divorce as a means to pursue personal happiness and independence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 93,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

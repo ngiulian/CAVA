@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTmdGrzCeDFeWqiqaqO9FrHNPpgE",
+    "object": "chat.completion",
+    "created": 1705849939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to generalize the thoughts and opinions of an entire population accurately. However, in Chad, divorce is often seen as a highly stigmatized practice, particularly among men. Men in Chad generally tend to hold more conservative views when it comes to divorce, perceiving it as taboo and against traditional values. They often prioritize maintaining the stability of the family unit, adhering to cultural norms and expectations. Divorce is often considered a sign of failure, both personally and socially, and can be accompanied by social ostracization and loss of status. However, it's important to note that opinions on divorce may vary among individuals, and societal attitudes might be gradually evolving over time."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 136,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

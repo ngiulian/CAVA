@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEZkyKrvTWKQJKzhPEyhGcP6sUJ",
+    "object": "chat.completion",
+    "created": 1705855515,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Dominica in the past 20 years was the devastation caused by Hurricane Maria in September 2017. The Category 5 hurricane struck the island, causing widespread destruction and loss of life. It was the strongest storm to make landfall in Dominica's recorded history, with sustained winds of 160 mph (260 km/h). The hurricane caused extensive damage to infrastructure, homes, and the island's natural environment. The event had a profound impact on the country's economy and led to a significant rebuilding and recovery effort."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 113,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

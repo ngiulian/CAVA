@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUt3Kn4vVl5N26kGfCjXAv8BZY1h",
+    "object": "chat.completion",
+    "created": 1705854181,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges teenagers in Turkmenistan face include limited access to quality education, lack of employment opportunities, restricted freedom of expression, limited access to reliable information, and pressure to conform to societal norms. Additionally, gender inequality, limited recreational activities, and a lack of platforms for civic engagement pose challenges to the overall development and well-being of teenagers in Turkmenistan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 73,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

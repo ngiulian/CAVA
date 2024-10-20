@@ -1,0 +1,78 @@
+{
+    "id": "cmpl-8jFmaOPeaCPSRUGOP4aBKLdncRCSL",
+    "object": "text_completion",
+    "created": 1705796120,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " the independence of UAE \u2026",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " the",
+                    " independence",
+                    " of",
+                    " UAE",
+                    " \u2026"
+                ],
+                "token_logprobs": [
+                    -0.45275542,
+                    -3.6840901,
+                    -0.7027475,
+                    -2.2487843,
+                    -8.264168
+                ],
+                "top_logprobs": [
+                    {
+                        " the": -0.45275542,
+                        " that": -2.8590055,
+                        " undoubtedly": -3.4371305,
+                        " its": -3.5152555,
+                        " when": -4.241818
+                    },
+                    {
+                        " discovery": -1.0669025,
+                        " formation": -2.3169026,
+                        " establishment": -2.6294026,
+                        " un": -3.0981526,
+                        " birth": -3.3325276
+                    },
+                    {
+                        " of": -0.7027475,
+                        ".": -2.288685,
+                        " from": -2.4683726,
+                        " and": -2.8746226,
+                        " in": -3.1089976
+                    },
+                    {
+                        " UAE": -2.2487843,
+                        " the": -0.4753469,
+                        " United": -2.9987843,
+                        " Dubai": -3.5612843,
+                        " this": -3.6315968
+                    },
+                    {
+                        " from": -1.2563548,
+                        ".": -1.5219798,
+                        " in": -1.7719798,
+                        " on": -2.8266673,
+                        ",": -2.9829173
+                    }
+                ],
+                "text_offset": [
+                    89,
+                    93,
+                    106,
+                    109,
+                    113
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 17,
+        "completion_tokens": 5,
+        "total_tokens": 22
+    }
+}

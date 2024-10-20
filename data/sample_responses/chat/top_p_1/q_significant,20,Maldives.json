@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVU5l8VOzCmdesCmw60riXXRyOzg",
+    "object": "chat.completion",
+    "created": 1705856477,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Maldives in the past 20 years was the 2004 Indian Ocean tsunami. On December 26, 2004, a massive earthquake under the Indian Ocean triggered a series of tsunamis that devastated several countries in the region, including the Maldives. The tsunami caused immense destruction, taking the lives of an estimated 82 Maldivians, affecting nearly 100 islands, and causing significant damage to infrastructure and livelihoods. The event had a profound impact on the nation, leading to a massive reconstruction effort and increased focus on disaster preparedness and climate change adaptation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 126,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

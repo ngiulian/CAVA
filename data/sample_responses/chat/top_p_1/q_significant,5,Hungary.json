@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKoIsW9YMS3nR6fJRWsbTNc2Xww",
+    "object": "chat.completion",
+    "created": 1705855902,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Hungary in the past 5 years was the adoption of a controversial new constitution in 2011. The new constitution, introduced by the ruling Fidesz party, faced criticism both domestically and internationally for consolidating power in the hands of the government, reducing the independence of the judiciary, curtailing media freedom, and implementing a conservative social agenda. This event marked a major shift in Hungary's political landscape and drew concerns about the erosion of democratic norms and institutions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 101,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

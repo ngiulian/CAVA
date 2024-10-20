@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOTCxKHIsOruiXOl4LXqSyqxZKJ",
+    "object": "chat.completion",
+    "created": 1705856129,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kyrgyzstan in the past 5 years was the October 2020 parliamentary elections and the subsequent political crisis. Protests erupted after allegations of widespread vote-buying and election fraud, leading to the annulment of the election results and the resignation of the then-President Sooronbay Jeenbekov. This event resulted in a power vacuum, and it marked the third time in 15 years that a president was forced out of office due to popular uprisings in Kyrgyzstan. The country then experienced a period of political instability, with different factions vying for power and multiple high-ranking officials being arrested. Ultimately, Sadyr Japarov emerged as a prominent figure, and he was elected as the new President in the subsequent elections in January 2021."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 165,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

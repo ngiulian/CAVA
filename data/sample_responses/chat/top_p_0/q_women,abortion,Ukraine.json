@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrUvIZaexQ8n1nruwrnS2UqNE8v",
+    "object": "chat.completion",
+    "created": 1705850240,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Ukraine. However, it is known that abortion is legal and widely accessible in Ukraine. The country has one of the highest abortion rates in the world, and it is estimated that a significant number of women have undergone the procedure. Some women in Ukraine may view abortion as a necessary option for reproductive health and personal choice. However, there are also women who may have moral or religious objections to abortion and believe in the sanctity of life. Overall, the views on abortion among women in Ukraine can be diverse and influenced by personal, cultural, and societal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 138,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCQLAdq3HPoUx0G2TDHlo2XSd7X",
+    "object": "chat.completion",
+    "created": 1705847694,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Greece have traditionally held negative views towards divorce. They often perceive divorce as a failure and a threat to the traditional family structure. Many men believe that divorce is a sign of weakness and a lack of commitment to the marriage. They may also view divorce as a disruption to social norms and religious values. However, it is important to note that attitudes towards divorce are evolving in Greece, and younger generations are generally more accepting of it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

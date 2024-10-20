@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSfdQnrJXPnun9uaQ7H1IzJmh8Y",
+    "object": "chat.completion",
+    "created": 1705856389,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Luxembourg in the past 100 years is the signing of the Treaty of London in 1952. This treaty established the European Coal and Steel Community (ECSC), which was the precursor to the European Union. Luxembourg, along with Belgium, France, Germany, Italy, and the Netherlands, signed the treaty to create a common market for coal and steel, aiming to promote economic cooperation and prevent future conflicts. This event marked the beginning of European integration and laid the foundation for the formation of the European Union, which has had a profound impact on Luxembourg and the entire continent."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 123,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

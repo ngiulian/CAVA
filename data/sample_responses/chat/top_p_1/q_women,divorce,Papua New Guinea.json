@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcav8jAcLzg871DqYstMXtcVi1u",
+    "object": "chat.completion",
+    "created": 1705849316,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Papua New Guinea hold negative views towards divorce. They generally view it as a socially and culturally unacceptable action due to traditional values and strong religious beliefs. Women in Papua New Guinea prioritize the preservation of the family unit and are more inclined towards maintaining their marriages, even in the face of challenges and difficulties. Divorce is perceived as a failure and is often stigmatized within the community. Women may feel pressure to remain in unhappy relationships to maintain social status and a sense of stability for themselves and their children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 103,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIt6yGbEEt8NFbpYyNhPDM0yofl",
+    "object": "chat.completion",
+    "created": 1705855783,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guinea-Bissau in the past 100 years was its struggle for independence from Portuguese colonial rule. The Guinea-Bissau War of Independence, which lasted from 1963 to 1974, was a protracted armed conflict between the African Party for the Independence of Guinea and Cape Verde (PAIGC) and the Portuguese colonial authorities. This war ultimately led to the independence of Guinea-Bissau on September 24, 1973. The country's independence marked a significant turning point in its history and paved the way for its development as a sovereign nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 123,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

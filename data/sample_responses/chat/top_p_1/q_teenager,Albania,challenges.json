@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTxOAyviC6HNRofnj5UK8YXXXLSN",
+    "object": "chat.completion",
+    "created": 1705850606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Albania face several challenges, including limited access to quality education, high unemployment rates, lack of social support systems, and limited opportunities for personal development. The education system in Albania often lacks resources and quality teaching, making it challenging for teenagers to receive a well-rounded education. Additionally, the country's high unemployment rates make it difficult for teenagers to find suitable job opportunities and achieve financial independence. Furthermore, the absence of comprehensive social support systems puts teenagers at a disadvantage in terms of receiving guidance and assistance in various areas, such as mental health, substance abuse, and family issues. Finally, the limited opportunities for personal development, such as extracurricular activities and cultural programs, can hinder teenagers' ability to explore their talents and interests fully."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 149,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

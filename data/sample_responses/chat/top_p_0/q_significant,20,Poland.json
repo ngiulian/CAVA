@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbFq0lSG1eU7cRSKfO8zC2Yi8tl",
+    "object": "chat.completion",
+    "created": 1705856921,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Poland in the past 20 years is its accession to the European Union (EU) on May 1, 2004. This event marked a major milestone in Poland's history, as it became a member of the EU along with nine other countries. The accession brought numerous benefits to Poland, including increased economic opportunities, access to EU funds, and the ability to participate in shaping EU policies. It also symbolized Poland's integration into the broader European community and its commitment to democracy, human rights, and the rule of law."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 115,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

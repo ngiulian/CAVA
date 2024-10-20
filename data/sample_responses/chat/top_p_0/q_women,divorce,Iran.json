@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGyluKJrKThTBJoo6gdsj1Dt2BB",
+    "object": "chat.completion",
+    "created": 1705847976,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Iran have mixed opinions about divorce. While some women view divorce as a necessary option to escape unhappy or abusive marriages, others may feel societal pressure to stay in their marriages and prioritize family stability. The decision to divorce is often influenced by various factors such as financial independence, education, cultural background, and personal beliefs. Overall, attitudes towards divorce among women in Iran vary, reflecting the diverse perspectives and circumstances of individuals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 85,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

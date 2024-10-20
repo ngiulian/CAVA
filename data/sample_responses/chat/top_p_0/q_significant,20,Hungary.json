@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKv56W9NtuiqETL2HKwekclZYz2",
+    "object": "chat.completion",
+    "created": 1705855909,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Hungary in the past 20 years is the country's accession to the European Union (EU) in 2004. This event marked Hungary's integration into the political and economic framework of the EU, allowing for increased trade, investment, and mobility within the European community. It also brought about various changes in legislation, governance, and infrastructure to align with EU standards. Hungary's EU membership has had a profound impact on the country's economy, politics, and society, shaping its trajectory in the 21st century."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 112,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

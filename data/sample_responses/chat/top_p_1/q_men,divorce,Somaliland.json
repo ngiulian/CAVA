@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTijv5NKcVIQ4SRd98DNJw4X3WBB",
+    "object": "chat.completion",
+    "created": 1705849697,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Somaliland have relatively conservative views regarding divorce. They believe that divorce should be seen as a last resort and a failure of the marriage. Men typically view divorce as damaging to family unity and generally try to avoid it if possible. They believe that divorces can have negative consequences for children, as it may disrupt their upbringing and affect their well-being. However, this perspective does not imply that men uniformly oppose divorce under every circumstance. They acknowledge that there might be valid reasons for couples to separate, such as domestic violence, infidelity, or irreconcilable differences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 117,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

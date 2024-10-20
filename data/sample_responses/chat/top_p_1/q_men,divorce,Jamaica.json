@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTIgsPDwUrNeXCL3daUfHNISZ6Su",
+    "object": "chat.completion",
+    "created": 1705848082,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Jamaica hold negative views about divorce and perceive it as a failure in maintaining a successful marriage. They often view divorce as a last resort and believe that couples should exhaust all efforts to reconcile differences before considering ending the marriage. Men in Jamaica generally value the concept of family and hold traditional gender roles, expecting wives to fulfill their expected roles as wives and mothers. Consequently, divorce may be seen as a disruption to the family structure and is often stigmatized, particularly within more conservative communities. However, these attitudes may vary depending on individual circumstances, cultural backgrounds, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

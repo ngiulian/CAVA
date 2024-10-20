@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUdhdHXWvuhbd70B8VENjfEqvoaL",
+    "object": "chat.completion",
+    "created": 1705853229,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Nigeria face various challenges, but some of the most significant ones include:\n\n1. Unemployment: High levels of unemployment persist in Nigeria, with limited job opportunities for adults. Many struggle to find stable and well-paying employment, leading to financial instability and poverty.\n\n2. Poverty: A significant portion of the population lives in poverty, making it difficult for adults to meet their basic needs such as food, shelter, education, and healthcare. Poverty exacerbates other challenges and limits opportunities for personal and professional growth.\n\n3. Inadequate healthcare: Nigeria's healthcare system faces numerous issues, including insufficient infrastructure, limited access to quality healthcare facilities, and shortage of skilled medical professionals. This poses challenges for adults seeking appropriate medical attention and contributes to higher mortality rates.\n\n4. Corruption: Widespread corruption in Nigeria affects various aspects of daily life, including the ability of adults to access basic services, obtain employment, and conduct business. Corruption hampers economic growth and undermines social development.\n\n5. Inadequate education: Despite efforts to improve education in Nigeria, limited access to quality education and insufficient infrastructure remain significant challenges. Adults often face difficulties in obtaining necessary skills and qualifications, limiting their employment opportunities and overall development.\n\n6. Insecurity: Nigeria faces security challenges, particularly in regions affected by insurgency, banditry, and communal conflict. Adults living in these areas face the risk of violence, displacement, and loss of livelihoods, impacting their safety and well-being.\n\n7. Poor infrastructure: Def"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

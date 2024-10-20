@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUtxEXJyYBfaIU0qV0AKqvgTGnf1",
+    "object": "chat.completion",
+    "created": 1705854237,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Tonga face include limited access to healthcare services, financial insecurity, social isolation, and age-related discrimination. Many seniors in Tonga struggle to access quality healthcare due to the lack of medical facilities and specialists, especially in rural areas. Financial insecurity is another major challenge as seniors often rely on limited pensions or support from their families, which may not be sufficient to meet their needs. Social isolation is a concern as seniors may experience loneliness and lack of social engagement, particularly if they live alone or have limited contact with their families. Lastly, age-related discrimination can be an issue, with seniors facing stereotypes and prejudices that may hinder their participation in society and limit their opportunities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 137,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

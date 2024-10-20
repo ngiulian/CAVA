@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKg3ABnMlrpnVju5C8KKjO62OPH",
+    "object": "chat.completion",
+    "created": 1705855894,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Haiti in the past 20 years is the devastating earthquake that struck the country on January 12, 2010. The earthquake, with a magnitude of 7.0, caused widespread destruction and loss of life. It is estimated that between 230,000 to 316,000 people were killed, and several million others were affected. The earthquake caused extensive damage to infrastructure, homes, schools, and hospitals, severely crippling the already fragile economy and the nation's ability to recover. The event received significant international attention and led to an outpouring of aid and support from around the world."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

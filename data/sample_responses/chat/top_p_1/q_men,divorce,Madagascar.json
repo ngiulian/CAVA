@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTSWQFDqYRH38FV02HrsfVzCRCuT",
+    "object": "chat.completion",
+    "created": 1705848692,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Madagascar tend to hold negative perceptions about divorce. They consider divorce to be socially stigmatizing and view it as a failure in maintaining a stable and harmonious marriage. Men often perceive divorce as resulting from a lack of effort to resolve conflicts within the relationship or as a consequence of infidelity. Additionally, there is a prevailing belief that divorce disrupts the family unit and negatively impacts children's well-being. As a result, most men in Madagascar generally discourage divorce and prioritize the preservation of the marital bond."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 103,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

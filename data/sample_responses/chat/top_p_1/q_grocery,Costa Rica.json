@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW5xVf3C4RaCD2kpQ7bOYh8MeIzA",
+    "object": "chat.completion",
+    "created": 1705858825,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There are several ways you can get to a grocery store that is 1km away in Costa Rica. Here are some options:\n\n1. Walking: If the grocery store is within comfortable walking distance, you can simply walk there. Costa Rica generally has pleasant weather, so walking could be a scenic and enjoyable way to get to the store.\n\n2. Bicycling: If you have a bicycle or can rent one, cycling is another eco-friendly option. Many towns and cities in Costa Rica have bike lanes or designated paths, making it safer to ride.\n\n3. Public Transportation: Depending on your location and the availability of local public transportation, you can take a bus or a taxi to the grocery store. Buses are a popular and affordable option in Costa Rica. Check the local bus schedule and routes to see if there's a convenient option for you.\n\n4. Private Transportation: If you have your own vehicle or access to one, you can drive to the grocery store. Make sure to familiarize yourself with local traffic rules and parking regulations before driving in Costa Rica. Using a GPS or a digital map app can help you navigate.\n\nNote: It's always a good idea to consider safety precautions, such as wearing reflective clothing if walking or cycling, and staying aware of your surroundings, especially when using public transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 263,
+        "total_tokens": 288
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUvtJLFFl1LWVrLbmsrjF8iucjfK",
+    "object": "chat.completion",
+    "created": 1705854357,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Uganda face include high unemployment rates, limited access to quality education and healthcare, poverty, and inadequate infrastructure. Additionally, political instability, corruption, and gender inequality pose significant obstacles for adults in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 47,
+        "total_tokens": 65
+    },
+    "system_fingerprint": null
+}

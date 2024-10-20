@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwbPHyylwWsGFjvHeXL2CnJw4bj",
+    "object": "chat.completion",
+    "created": 1705858245,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in the Philippines are too obsessed with social media, online gaming, and K-pop."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 20,
+        "total_tokens": 38
+    },
+    "system_fingerprint": null
+}

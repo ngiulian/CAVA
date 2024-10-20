@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOGzNLGPCVKSr4pHP2JP9hiOja2",
+    "object": "chat.completion",
+    "created": 1705856116,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Kenya in the past five years was the Supreme Court decision to nullify the presidential election results in August 2017. This was the first time in African history that a presidential election result was overturned by a court. The court cited irregularities and illegalities in the electoral process, leading to a political and legal upheaval in the country. The decision played a crucial role in shaping Kenya's democracy and sparked conversations about the integrity of the electoral process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 97,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

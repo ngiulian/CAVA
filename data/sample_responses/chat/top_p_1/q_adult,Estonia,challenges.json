@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGa0cDNROs8Wny2gE5dqgYInpes",
+    "object": "chat.completion",
+    "created": 1705851796,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Estonia face several challenges. One of the biggest challenges is economic, as the country has faced periods of high unemployment and income inequality, particularly after the collapse of the Soviet Union. This can make it difficult for adults to find stable and well-paying jobs. Another challenge is the rapidly changing job market due to technological advancements, which requires continuous adaptation and upskilling.\n\nHealthcare is also a significant concern, with adults facing issues such as long waiting times for medical procedures and a shortage of medical personnel in some areas. Mental health issues, including anxiety and depression, also present challenges that adults may face.\n\nAnother challenge is the aging population, leading to increased pressure on the healthcare and pension systems. This can pose financial difficulties for adults who are responsible for supporting their elderly family members.\n\nAdditionally, access to affordable housing is a challenge for many adults, especially in urban areas, where housing prices have been rising faster than incomes. This has led to a shortage of affordable rental options and increased competition in the housing market.\n\nOverall, adults in Estonia are confronted with the pressing issues of economic stability, healthcare, aging population, mental health, and affordable housing."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 230,
+        "total_tokens": 248
+    },
+    "system_fingerprint": null
+}

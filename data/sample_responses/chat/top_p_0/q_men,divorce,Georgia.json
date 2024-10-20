@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTAb9jHIqicXUAC2orncAfCzu8YO",
+    "object": "chat.completion",
+    "created": 1705847581,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Georgia have a negative perception of divorce. They often view it as a failure and a source of shame, believing that it reflects poorly on their ability to maintain a successful marriage. Additionally, many men in Georgia hold traditional values that prioritize the preservation of the family unit and may perceive divorce as a threat to their role as a provider and protector. Consequently, they may be reluctant to consider or accept divorce as an option, preferring to endure unhappy marriages rather than face the social stigma associated with divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

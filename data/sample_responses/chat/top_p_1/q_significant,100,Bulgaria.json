@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV6SjlUHghMq1TpYOxwZqQ7pTx5c",
+    "object": "chat.completion",
+    "created": 1705855012,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bulgaria in the past 100 years is the fall of communism and the subsequent transition to democracy in 1989. This event marked the end of more than four decades of communist rule and brought profound political, economic, and social changes to the country. The fall of communism in Bulgaria was part of the larger movement of political transformation in Eastern Europe, and it led to the establishment of a multiparty system, free elections, market reforms, and integration into the European Union. This event had a lasting impact on Bulgaria's society, economy, and governance structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 120,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

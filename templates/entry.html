@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3059a93120cf81fd7ad868361c677477 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 87.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+    <h2>CAVA: Cultural Alignment Visual Analyzer</h2>
+        <label for="dropdown_model">Choose a Model:</label>
+        <select name="dropdown_model" id="dropdown_model">
+            <option disabled selected value> -- select an option -- </option>
+            <option value="gpt-3.5-turbo">gpt-3.5-turbo</option>
+<option value="gpt-4o">gpt-4o</option>
+<option value="gpt-4-turbo">gpt-4-turbo</option>
+<option value="Llama-2-70b-chat-hf">Llama-2-70b-chat-hf</option>
+<option value="Llama-3-70b-chat-hf">Llama-3-70b-chat-hf</option>
+<option value="Mixtral-8x22B-Instruct-v0.1">Mixtral-8x22B-Instruct-v0.1</option>
+<option value="Qwen1.5-72B-Chat">Qwen1.5-72B-Chat</option>
+        </select>
+
+        <label for="dropdown_topic">Select a Topic:</label>
+        <select id="dropdown_topic">
+            <option disabled selected value> -- select an option -- </option>
+            <option value="religion_importance_class">Q6: How important is religion (classification)</option>
+<option value="parents_proud_class">Q27: Making parents proud (classification)</option>
+<option value="duty_children_class">Q37: Duty To Have Children (classification)</option>
+<option value="dev_technology_class">Q44: Development of Technology (classification)</option>
+<option value="food_12months_class">Q51: Food in last 12 months (classification)</option>
+<option value="medicine_12months_class">Q53: Medicine in last 12 months (classification)</option>
+<option value="cash_12months_class">Q54: Cash Income in last 12 months (classification)</option>
+<option value="trust_neighborhood_class">Q59: Trusting your neighborhood (classification)</option>
+<option value="police_confidence_class">Q69: Confidence in Police (classification)</option>
+<option value="government_confidence_class">Q71: Confidence in Government (classification)</option>
+<option value="neighborhood_racism_class">Q135: Racism in Neighborhood (classification)</option>
+<option value="neighborhood_sexual_harassment_class">Q138: Sexual Harassment in Neighborhood (classification)</option>
+<option value="country_war_class">Q146: War Involving Country (classification)</option>
+<option value="civil_war_class">Q148: Civil War (classification)</option>
+<option value="important_issues_class">Q154: Most Important Issues (classification)</option>
+<option value="acceptable_religion_class">Q170: Only Acceptable Religion (classification)</option>
+<option value="praying_class">Q172: How Often Praying (classification)</option>
+<option value="avoiding_fare_class">Q178: Is Avoiding Fare Justifiable (classification)</option>
+<option value="abortion_class">Q184: Is Abortion Justifiable (classification)</option>
+<option value="parents_beat_class">Q190: Is Parents Beating Children Justifiable (classification)</option>
+<option value="government_surveillance_class">Q196: Should Government Surveil (classification)</option>
+<option value="government_monitor_class">Q197: Should Government Monitor Email (classification)</option>
+<option value="strong_leader_class">Q235: Having a Strong Leader (classification)</option>
+<option value="democratic_class">Q238: Having a Democratic Political System (classification)</option>
+<option value="satisfied_class">Q252: How Satisfied with Political System (classification)</option>
+        </select>
+
+        <input type="button" id="goBtn" value="GO!">
+        <input type="button" id="modeBtn" value="Comparison Mode" style="float: right;">
+    
+    
+            <div class="folium-map" id="map_3059a93120cf81fd7ad868361c677477" ></div>
+        
+</body>
+<script>
+    
+    goBtn.onclick = function() {
+    var goBtn = document.getElementById("goBtn");
+    var model = document.getElementById("dropdown_model").value;
+    var topic = document.getElementById("dropdown_topic").value;
+    if (model && topic) {
+        window.location = model + "_" + topic + ".html";
+    }
+}
+
+modeBtn.onclick = function() {
+    window.location = "comparison.html";
+}
+    
+            var map_3059a93120cf81fd7ad868361c677477 = L.map(
+                "map_3059a93120cf81fd7ad868361c677477",
+                {
+                    center: [30.0, 10.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_94e6a68213414fa07545ee4b4bdaba99 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca target=\"_blank\" href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca target=\"_blank\" href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_3059a93120cf81fd7ad868361c677477);
+        
+</script>
+</html>

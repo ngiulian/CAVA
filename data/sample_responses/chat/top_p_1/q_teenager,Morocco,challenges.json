@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUX5LIS1NVsxe4ApuYIcpRBowHFM",
+    "object": "chat.completion",
+    "created": 1705852819,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Morocco face several challenges, including limited educational opportunities, high rates of poverty and unemployment, limited access to healthcare and basic services, and prevailing gender inequalities. The education system in Morocco often suffers from overcrowded classrooms, limited resources, and outdated teaching methods, making it difficult for teenagers to receive a quality education. Additionally, poverty rates are high, particularly in rural areas, which can limit teenagers' ability to meet their basic needs and pursue future opportunities. Unemployment rates among young people are also significantly higher, leading to frustration and limited career prospects. Healthcare and social services can be inadequate and inaccessible, especially in remote areas, which can negatively impact teenagers' overall well-being. Lastly, gender inequalities persist, with girls often facing discrimination in terms of education, employment opportunities, and societal expectations. These challenges combined can significantly hinder teenagers' personal growth, development, and future success."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 176,
+        "total_tokens": 194
+    },
+    "system_fingerprint": null
+}

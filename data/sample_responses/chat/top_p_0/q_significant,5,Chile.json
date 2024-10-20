@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVA5vH4a2bZ14g1LOBn3RnpkfOOL",
+    "object": "chat.completion",
+    "created": 1705855237,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Chile in the past 5 years was the outbreak of widespread social protests in October 2019. Known as the \"Chilean protests\" or \"Chilean Spring,\" these demonstrations were initially triggered by a fare hike in the Santiago Metro but quickly evolved into a broader movement demanding social and economic reforms. The protests highlighted deep-seated inequalities, high living costs, and a lack of access to quality education and healthcare. The movement led to significant political and social changes, including the drafting of a new constitution, which is currently underway."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

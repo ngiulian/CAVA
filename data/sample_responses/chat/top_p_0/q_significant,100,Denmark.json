@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVErrdEFFYNZ15thQ8UtkqsEmZ7q",
+    "object": "chat.completion",
+    "created": 1705855533,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Denmark in the past 100 years is the German occupation during World War II. In April 1940, German forces invaded Denmark and occupied the country until May 1945. This event had a profound impact on Danish society, politics, and culture. During the occupation, the Danish government implemented a policy of cooperation with the Germans, aiming to protect Danish interests and maintain a level of autonomy. However, the Danish resistance movement also emerged, engaging in acts of sabotage and espionage against the German forces. The Danish Jews were also targeted, and in October 1943, a successful rescue operation was carried out to evacuate most of the Jewish population to neutral Sweden. The German occupation left a lasting impact on Denmark, shaping its post-war identity and political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 160,
+        "total_tokens": 184
+    },
+    "system_fingerprint": null
+}

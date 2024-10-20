@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbl09BQfSkl4mESi1YNJR6My9Ct",
+    "object": "chat.completion",
+    "created": 1705856953,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Paraguay in the past 5 years was the impeachment and subsequent removal of President Fernando Lugo in 2012. This event caused political instability and controversy in the country, as Lugo was impeached by the Paraguayan Congress for alleged mishandling of a land dispute that resulted in the death of 11 people, during a violent clash between police and landless farmers. The impeachment and quick trial, which many considered to be a political coup, led to Vice President Federico Franco assuming the presidency, sparking protests and diplomatic tensions with several other countries in the region. This event had a profound impact on Paraguay's political landscape and democratic process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 141,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTvGJg2dVT4A7C2ad62go4aexYSG",
+    "object": "chat.completion",
+    "created": 1705850474,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Zambia hold negative views about divorce, seeing it as a last resort and a failure of the marital institution. They often prioritize the idea of maintaining a stable and harmonious family life, with divorce being viewed as disruptive and socially frowned upon. Traditional gender roles and societal expectations also play a significant role in shaping their perspectives, as women are generally expected to endure unhappy marriages for the sake of their children, extended family, and societal norms. Financial dependency on their husbands further discourages women from contemplating divorce, leaving many to tolerate abusive or unhappy marriages rather than face the challenges associated with separation. Overall, the prevailing sentiment among women in Zambia is a strong aversion to divorce, placing greater emphasis on preserving the institution of marriage despite its difficulties."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 149,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

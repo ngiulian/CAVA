@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWMYu7riZzaTABaMtZwqR4Cw33zL",
+    "object": "chat.completion",
+    "created": 1705859854,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in East Timor, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. It will take approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take around 3-5 minutes to cover the distance on a bicycle.\n\n3. Public Transportation: Depending on the availability of public transportation in your area, you can check if there are buses or minibusses that pass by or near the grocery store. Inquire with locals or at a nearby bus stop for information on routes and schedules.\n\n4. Taxi or Ride-Sharing Services: Taxis or ride-sharing services like Uber or Grab can be a convenient option if you prefer a door-to-door service. You can book a taxi or ride through their respective mobile apps or hail one from the street.\n\n5. Private Vehicle: If you own a car or have access to one, driving to the grocery store is another option. Ensure you have a valid driver's license and are familiar with the local traffic rules and regulations.\n\nConsider the factors such as cost, convenience, and availability when choosing the mode of transportation that suits you best."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 280,
+        "total_tokens": 306
+    },
+    "system_fingerprint": null
+}

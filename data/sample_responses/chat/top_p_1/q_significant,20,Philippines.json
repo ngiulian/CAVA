@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVaVZF3mvEMmAApDosLz6MyKpQIy",
+    "object": "chat.completion",
+    "created": 1705856875,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Philippines in the past 20 years is the devastating Typhoon Haiyan (also known as Typhoon Yolanda) that struck the country in November 2013. It is considered one of the strongest tropical cyclones ever recorded, causing immense destruction and loss of life. The typhoon affected more than 14 million people, with over 6,000 fatalities and widespread damage to infrastructure, homes, and agriculture. The aftermath of Typhoon Haiyan led to an outpouring of humanitarian aid and highlighted the need for disaster preparedness and climate change adaptation in the Philippines."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 126,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

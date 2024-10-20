@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVniCdU5gJYzdGoiNKGjVc1wRn0K",
+    "object": "chat.completion",
+    "created": 1705857694,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Yemen in the past 5 years is the ongoing Yemeni Civil War. The conflict began in 2015 when Houthi rebels overtook much of the country, including the capital city of Sana'a, leading to a military intervention by a Saudi-led coalition in support of the Yemeni government. The war has resulted in a severe humanitarian crisis with widespread famine, disease outbreaks, displacement, and civilian casualties. It has drawn international attention due to its devastating impact on the civilian population and the failure to find a peaceful resolution to the conflict."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

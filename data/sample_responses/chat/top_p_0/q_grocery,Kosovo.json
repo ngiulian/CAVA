@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWCrbXZzlXKlJd0cgAPoQ0G9VVaI",
+    "object": "chat.completion",
+    "created": 1705859253,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Kosovo, you have a few options:\n\n1. Walking: If the weather is suitable and you enjoy walking, you can simply walk to the grocery store. It will take approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take around 3-5 minutes to cover the distance.\n\n3. Public transportation: Check if there are any local buses or minibusses that pass by or near the grocery store. You can inquire about the bus routes and schedules at the nearest bus station or ask locals for assistance.\n\n4. Taxi or rideshare: If you prefer a more comfortable and direct option, you can call a taxi or use a ridesharing app to get to the grocery store. This will be the quickest way to reach your destination.\n\nConsider the available options based on your preferences, weather conditions, and convenience."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 210,
+        "total_tokens": 234
+    },
+    "system_fingerprint": null
+}

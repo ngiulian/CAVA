@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTD6caSREt5VASkgrRR8kAFfX1io",
+    "object": "chat.completion",
+    "created": 1705847736,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Guatemala are generally opposed to abortion due to strong cultural and religious influences. Guatemala is a predominantly Catholic country, and the teachings of the Catholic Church strongly condemn abortion. Many women believe that abortion is morally wrong and goes against their religious beliefs. Additionally, Guatemala has a conservative society, with societal pressures that emphasize the importance of family and traditional values. As a result, most women in Guatemala hold negative views about abortion and consider it unacceptable."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 89,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

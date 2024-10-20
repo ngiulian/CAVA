@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2vy9GeHzReu7ULoB4LyKLd3VJV",
+    "object": "chat.completion",
+    "created": 1705854793,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Armenia in the past 100 years is the Armenian Genocide. The genocide took place between 1915 and 1923, during the final years of the Ottoman Empire. It resulted in the mass extermination and forced deportation of approximately 1.5 million ethnic Armenians, along with the destruction of their cultural heritage and communities. The Armenian Genocide is widely recognized as one of the first modern genocides and has had a profound impact on the Armenian people and their history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 106,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

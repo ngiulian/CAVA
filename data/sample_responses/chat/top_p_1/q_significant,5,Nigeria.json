@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYJAE6iT9BGOxTED49JBBg7yrZx",
+    "object": "chat.completion",
+    "created": 1705856739,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nigeria in the past five years is the #EndSARS protests in 2020. The protests were a mass movement against police brutality, specifically targeting the Special Anti-Robbery Squad (SARS), a unit of the Nigerian Police Force known for its human rights abuses, extortion, and extrajudicial killings. The protests began in October 2020 and gained widespread attention both nationally and internationally, with thousands of Nigerian youth taking to the streets demanding an end to police violence and systemic corruption. The protests marked a pivotal moment in Nigeria's history, leading to increased discussions on governance, human rights, and police reforms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 134,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUYQDS6IkH18pPHVR8Tgi8olQEy9",
+    "object": "chat.completion",
+    "created": 1705852902,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Maldives face several challenges, including limited educational opportunities, high rates of substance abuse, mental health issues, and limited access to recreational activities. The education system in Maldives is not adequately equipped to cater to the needs of all teenagers, leading to limited opportunities for higher education and career prospects. Substance abuse, particularly involving drugs and alcohol, is a significant problem among teenagers, which can lead to various health and social issues. Mental health issues, such as depression and anxiety, are also prevalent among teenagers, often due to academic pressure, societal expectations, and lack of support systems. Additionally, teenagers in Maldives often have limited access to recreational activities and safe spaces for socializing, which can contribute to boredom and frustration."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 146,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

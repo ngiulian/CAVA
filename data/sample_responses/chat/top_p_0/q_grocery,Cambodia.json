@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWCKv4BL426q5afM6UCBXW4N0ifh",
+    "object": "chat.completion",
+    "created": 1705859220,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Cambodia, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. It will take approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take around 5-10 minutes to cover the distance.\n\n3. Tuk-tuk: Tuk-tuks are a popular mode of transportation in Cambodia. You can easily find one on the streets or near your location. Negotiate the fare with the driver before getting in, and it should take around 5 minutes to reach the grocery store.\n\n4. Motorbike taxi: Motorbike taxis, known as \"motos\" in Cambodia, are another common mode of transportation. You can easily find moto drivers around the city. Negotiate the fare and hop on the back of the motorbike. It will take around 5 minutes to reach the grocery store.\n\n5. Car or taxi: If you have access to a car or prefer a more comfortable ride, you can hire a taxi or use ride-hailing services like Grab or PassApp. It will take around 5 minutes to reach the grocery store, depending on traffic conditions.\n\nRemember to consider factors like weather, traffic, and personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 299,
+        "total_tokens": 323
+    },
+    "system_fingerprint": null
+}

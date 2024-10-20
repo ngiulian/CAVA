@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVmAL7S9I60XGuX5Fa4PMwAW5Ftq",
+    "object": "chat.completion",
+    "created": 1705857598,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Vatican in the past 5 years was the election of Pope Francis as the 266th Pope of the Roman Catholic Church in 2013. Pope Francis, the first Jesuit Pope and the first Pope from the Americas, brought a new vision and approach to the papacy. He focused on issues such as poverty, social justice, and environmental concerns, and his emphasis on humility and simplicity captured global attention. His papacy has brought about several reforms within the church and has had a significant impact on Catholicism worldwide."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

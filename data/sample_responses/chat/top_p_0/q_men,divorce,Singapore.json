@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThJ1wOFXo85C4YTK0TZQmhwro8F",
+    "object": "chat.completion",
+    "created": 1705849609,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Singapore have mixed opinions about divorce. Some view it as a necessary solution to irreconcilable differences or unhappy marriages, while others see it as a failure or a social stigma. Many men believe that divorce can be emotionally and financially draining, especially if there are children involved. However, there is also a growing acceptance of divorce as society becomes more progressive, and men are increasingly open to the idea of ending a marriage if it is no longer fulfilling or healthy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

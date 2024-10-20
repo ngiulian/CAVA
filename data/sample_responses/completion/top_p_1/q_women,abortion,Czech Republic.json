@@ -1,0 +1,58 @@
+{
+    "id": "cmpl-8jEXswBF1JvZXDyIXed8IzzJ1nvsf",
+    "object": "text_completion",
+    "created": 1705791364,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " an essential ",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " an",
+                    " essential",
+                    " "
+                ],
+                "token_logprobs": [
+                    -2.1029255,
+                    -2.5946379,
+                    -8.329384
+                ],
+                "top_logprobs": [
+                    {
+                        " an": -2.1029255,
+                        " a": -0.7279255,
+                        " the": -3.110738,
+                        " morally": -3.3060505,
+                        " their": -3.610738
+                    },
+                    {
+                        " essential": -2.5946379,
+                        " acceptable": -1.8212003,
+                        " important": -2.1337004,
+                        " option": -3.2508879,
+                        " unacceptable": -3.4774504
+                    },
+                    {
+                        " part": -1.6028211,
+                        " component": -2.7356336,
+                        " right": -2.7668836,
+                        " medical": -2.8606336,
+                        " and": -3.0481336
+                    }
+                ],
+                "text_offset": [
+                    56,
+                    59,
+                    69
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10,
+        "completion_tokens": 3,
+        "total_tokens": 13
+    }
+}

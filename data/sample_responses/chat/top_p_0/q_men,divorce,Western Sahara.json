@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfUWm1AoUzY7KbQhJGgrN8mL9sO",
+    "object": "chat.completion",
+    "created": 1705849496,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Western Sahara think of divorce as opinions on this matter can vary greatly among individuals. However, it is worth noting that divorce is generally considered a sensitive and complex issue in the region, influenced by cultural, religious, and societal factors. While some men may view divorce as a viable option to resolve marital issues or in cases of irreconcilable differences, others may hold more traditional views that prioritize the preservation of marriage and family unity. Ultimately, attitudes towards divorce among men in Western Sahara can be diverse and influenced by personal beliefs, values, and experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 123,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

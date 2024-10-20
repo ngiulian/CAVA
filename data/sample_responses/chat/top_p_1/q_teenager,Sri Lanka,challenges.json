@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUVSDVBGCUc9306PAapN4WvYMfac",
+    "object": "chat.completion",
+    "created": 1705852718,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Sri Lanka face several significant challenges. One major challenge is the pressure to perform well academically and succeed in highly competitive exams, which can lead to high levels of stress and anxiety. Economic challenges are also prevalent, as many teenagers come from low-income families and struggle to access quality education and secure employment opportunities. Additionally, cultural and societal expectations often limit their freedom of expression and impose conservative norms, particularly for young women. Substance abuse, including drug and alcohol addiction, is another pressing issue among Sri Lankan teenagers. Furthermore, social media and technology addiction, cyberbullying, and mental health concerns are growing challenges affecting teenagers in Sri Lanka. Overall, a combination of academic pressure, economic hardships, cultural restrictions, substance abuse, and mental health issues significantly impact teenagers' well-being in Sri Lanka."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 162,
+        "total_tokens": 181
+    },
+    "system_fingerprint": null
+}

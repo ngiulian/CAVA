@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWv8RYMb1nzv9MyeXAvDMTbC9gJ",
+    "object": "chat.completion",
+    "created": 1705848965,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Malawi hold negative views towards abortion. They generally consider it morally wrong and against their cultural and religious beliefs. They believe that life begins at conception and that terminating a pregnancy is equivalent to taking a life. Men in Malawi often perceive abortion as a violation of traditional gender roles and responsibilities, as they believe that women should prioritize motherhood and family. Additionally, societal stigma surrounding abortion further influences men's opinions, leading them to discourage or oppose the practice."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

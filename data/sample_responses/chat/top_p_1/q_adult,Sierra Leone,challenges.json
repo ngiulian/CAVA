@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUmnSuahmXrBmG3FsUbegmAtpN5a",
+    "object": "chat.completion",
+    "created": 1705853793,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Sierra Leone face include:\n\n1. Limited access to education: Many adults in Sierra Leone lack formal education due to poverty, inadequate infrastructure, and the legacy of the civil war that disrupted the education system. This limits their opportunities for employment and personal growth.\n\n2. High unemployment rates: The country experiences high unemployment rates, particularly among adults, resulting in limited economic opportunities. This is exacerbated by a lack of skills training programs and the slow growth of the country's job market.\n\n3. Poverty and economic inequality: Sierra Leone is one of the poorest countries globally, and many adults struggle with poverty and economic inequality. This hampers their ability to provide for their families, access healthcare, and improve their living standards.\n\n4. Inadequate healthcare and high disease burden: Sierra Leone's healthcare system faces challenges such as insufficient facilities, limited healthcare workers, and inadequate medical supplies. Adults often face challenges accessing quality healthcare services, resulting in high mortality rates and widespread health issues, including infectious diseases.\n\n5. Gender inequality and discrimination: Women in Sierra Leone face discrimination, with limited access to education, healthcare, and societal opportunities. Gender-based violence and harmful traditional practices, such as underage marriage and female genital mutilation, further contribute to the challenges faced by adult women.\n\n6. Limited access to clean water and sanitation: Many adults in Sierra Leone lack access to clean water sources and proper sanitation facilities, leading to higher incidences of waterborne diseases and poor hygiene practices.\n\n7."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

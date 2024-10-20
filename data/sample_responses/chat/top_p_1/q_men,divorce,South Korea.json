@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTMZ3l92te9SajKG0aH8yXmtbXiF",
+    "object": "chat.completion",
+    "created": 1705848323,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in South Korea have traditionally held negative views towards divorce due to cultural and societal expectations. They often perceive divorce as a source of shame, failure, and embarrassment. Men in South Korea consider the family unit and marital harmony as significant values, and divorce is seen as a disruption to these ideals. Furthermore, men may feel societal pressure to maintain traditional gender roles, with women primarily responsible for caregiving and housework. This can lead to reluctance among men to accept divorce and its associated changes in family dynamics. However, attitudes towards divorce are gradually evolving, especially among younger generations, who are more open to the idea as the country undergoes social and cultural changes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 133,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

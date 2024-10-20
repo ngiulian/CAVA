@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTW22Cxs4SWxryizUWvEchk5OwDn",
+    "object": "chat.completion",
+    "created": 1705848910,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Mozambique think of abortion as opinions on this topic can vary among individuals. However, it is worth noting that Mozambique has relatively restrictive abortion laws, allowing it only in cases of rape, incest, or when the mother's life is at risk. \n\nSome women in Mozambique may support these restrictions due to cultural, religious, or personal beliefs that prioritize the sanctity of life. They may view abortion as morally wrong and believe in the importance of protecting the unborn child.\n\nOn the other hand, there are women who advocate for more liberal abortion laws in Mozambique. They argue that restrictive laws lead to unsafe and clandestine abortions, putting women's lives at risk. These women may believe in a woman's right to choose and argue for access to safe and legal abortion services, emphasizing the importance of reproductive rights and bodily autonomy.\n\nOverall, it is important to recognize that opinions on abortion can vary significantly among women in Mozambique, influenced by factors such as cultural, religious, and personal beliefs, as well as individual experiences and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 220,
+        "total_tokens": 240
+    },
+    "system_fingerprint": null
+}

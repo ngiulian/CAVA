@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSvJq29Q2yryzoosgOfupokE7Jeb",
+    "object": "chat.completion",
+    "created": 1705846633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in The Bahamas hold negative views towards divorce. They often see divorce as a personal failure and perceive it as a threat to traditional family values and societal norms. Men generally believe that divorce brings negative consequences, such as financial burden, emotional distress, broken families, and potential negative impacts on children. They tend to prioritize the preservation of marriage and advocate for resolved conflicts and communication in relationships rather than resorting to divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 84,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

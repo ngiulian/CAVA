@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWA5SgSzgCxH6F97Oi14MxQUJBAs",
+    "object": "chat.completion",
+    "created": 1705859081,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Haiti, you have several options depending on the local transportation infrastructure and your preferences:\n\n1. Walking: If the grocery store is within a walkable distance and the area is safe for pedestrians, walking might be the simplest and most cost-effective option. Ensure you have comfortable shoes and consider using a backpack or tote bag to carry your groceries.\n\n2. Bicycles or Motorbikes: Haiti often has motorcycle taxis known as \"moto-taxis\" or \"taxi-motos\", which are convenient for short distances. You can also consider renting a bicycle if you are comfortable cycling.\n\n3. Public Transportation: Check if there are any local buses, minibusses, or shared taxis (known as \"tap-taps\" in Haiti) that operate in your area. These options may vary depending on the region, so ask locals for information on available public transportation routes.\n\n4. Private Taxis: If you prefer a more comfortable and convenient option, you can hire a private taxi or a ridesharing service like Uber or Lyft. Make sure to negotiate the fare in advance or use the meter (if available).\n\nConsider local road conditions, traffic, and safety when deciding which mode of transportation to use in Haiti. It's always a good idea to ask locals for advice and be aware of your surroundings during your journey."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 276,
+        "total_tokens": 300
+    },
+    "system_fingerprint": null
+}

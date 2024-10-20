@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWbfmjzHxU6z5vgCJyMFTQfi2HI",
+    "object": "chat.completion",
+    "created": 1705856633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mozambique in the past 100 years is the Mozambican War of Independence, which lasted from 1964 to 1974. This armed conflict was fought between the Mozambique Liberation Front (FRELIMO) and the Portuguese colonial authorities. FRELIMO sought to end Portuguese colonial rule and establish an independent Mozambique. The war resulted in significant loss of life and destruction, and it ultimately led to Mozambique gaining independence from Portugal on June 25, 1975. This event marked a major turning point in the country's history and set the stage for subsequent political, social, and economic developments."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 132,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

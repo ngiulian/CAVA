@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgeA1qxIhHBOCAPk9zmTvo7SpyX",
+    "object": "chat.completion",
+    "created": 1705857256,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Slovakia in the past 5 years was the murder of investigative journalist J\u00e1n Kuciak and his fianc\u00e9e Martina Ku\u0161n\u00edrov\u00e1 in February 2018. This event sparked widespread protests and led to a major political crisis in the country. Kuciak was known for his investigative work on corruption and organized crime, and his murder raised concerns about press freedom and the rule of law in Slovakia. The case resulted in the resignation of then-Prime Minister Robert Fico and several other high-ranking officials, and it had a profound impact on the political landscape of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

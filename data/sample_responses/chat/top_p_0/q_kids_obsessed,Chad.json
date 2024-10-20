@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVyWzjTnXFIlNh708noxbgAIKR3C",
+    "object": "chat.completion",
+    "created": 1705858364,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Chad, as their preferences can vary greatly. However, like kids in many other parts of the world, some common obsessions among kids in Chad may include technology, social media, video games, music, fashion, sports, and popular culture. It is important to note that these interests can differ among individuals and are influenced by various factors such as access to resources, cultural background, and personal preferences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 94,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

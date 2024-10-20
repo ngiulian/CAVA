@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4AwA3ivQjM6IaoWkxZi21iVlax",
+    "object": "chat.completion",
+    "created": 1705847182,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no singular consensus on what most women in Cuba think of divorce, as opinions vary based on diverse factors such as age, education, socioeconomic backgrounds, and personal experiences. However, it is notable that the perception of divorce has changed in Cuba over the years.\n\nTraditionally, divorce was stigmatized in Cuban society, and women faced social criticism for ending their marriages. However, with the advent of economic reforms and increased access to education and employment opportunities, women in Cuba have gained greater independence and a stronger voice in their personal lives.\n\nMany Cuban women now view divorce as a valid option to escape unhappy or abusive relationships. They recognize the importance of personal fulfillment, emotional well-being, and the need for equality in a partnership. The desire for individual freedoms and autonomy has also contributed to changing attitudes towards divorce.\n\nMoreover, the Cuban government has implemented legal and social reforms aimed at protecting women's rights, including the introduction of laws supporting equal rights in marriage and initiatives to prevent domestic violence. These measures have offered women more confidence and support in making the decision to pursue a divorce if necessary.\n\nUltimately, it is crucial to acknowledge that individual opinions on divorce can vary significantly, and this summary cannot capture the full range of perspectives held by women in Cuba."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 249,
+        "total_tokens": 268
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwYbhLFdS9j4mR4k8WUr7H7p6Vc",
+    "object": "chat.completion",
+    "created": 1705858242,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Peru are too obsessed with social media and technology. They spend excessive amounts of time on their phones, tablets, and computers, engaging in activities such as scrolling through social media platforms, playing video games, or watching online content. This obsession often results in decreased physical activity, less social interaction, and impacts their academic performance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 68,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

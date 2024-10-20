@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9ghHWv61pgbGZc3XUd3Qp2IdPy",
+    "object": "chat.completion",
+    "created": 1705855212,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Canada in the past 20 years is the legalization of recreational cannabis. On October 17, 2018, Canada became the second country in the world, after Uruguay, to legalize the sale and recreational use of marijuana nationwide. The Cannabis Act allowed adults to possess and purchase cannabis, while also regulating its production, distribution, and sale. This landmark decision had wide-ranging social, economic, and political implications, changing the Canadian legal landscape and sparking debates about drug policy, public health, and individual rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

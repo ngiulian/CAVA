@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfVTqM9AnfyhZmt6ngXl37CdcyT",
+    "object": "chat.completion",
+    "created": 1705857185,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Somaliland in the past 5 years was the presidential election held in November 2017. This election marked the first peaceful transfer of power through the ballot box in Somaliland's history. The incumbent president, Ahmed Mohamed Mohamoud Silanyo, stepped down after serving his term, and Muse Bihi Abdi was elected as the new president. This event demonstrated the democratic progress and stability of Somaliland, further solidifying its claim for international recognition as an independent state."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 108,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

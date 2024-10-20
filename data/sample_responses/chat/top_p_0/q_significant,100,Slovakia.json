@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgmLfYdKkKOtAZgScAfvlco0zO2",
+    "object": "chat.completion",
+    "created": 1705857264,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Slovakia in the past 100 years is the Velvet Revolution in 1989. This peaceful revolution marked the end of communist rule in Czechoslovakia, of which Slovakia was a part at the time. The Velvet Revolution led to the fall of the communist regime and the subsequent transition to democracy. It was a pivotal moment in Slovak history, as it brought about political and social changes, including the establishment of an independent Slovak Republic in 1993."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 99,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSy2ieVtcJvtjAQkiFH7izSQ8u7b",
+    "object": "chat.completion",
+    "created": 1705846802,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Brunei have mixed opinions about divorce. While some women believe that divorce is a necessary option to escape abusive or unhappy marriages, others view it as a last resort due to societal and cultural pressures. Many women fear the stigma associated with divorce and worry about the impact it may have on their reputation, family, and children. Additionally, the legal and financial implications of divorce, such as custody battles and property division, can also deter women from pursuing it. Overall, the perception of divorce among women in Brunei is influenced by a combination of personal beliefs, cultural norms, and practical considerations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 120,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

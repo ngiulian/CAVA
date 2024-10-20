@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSu60hVAlU4R8KylgM1JOjCWNpgy",
+    "object": "chat.completion",
+    "created": 1705846558,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Burkina Faso hold negative attitudes toward divorce. They view divorce as a taboo and believe in the sanctity of marriage. Women in Burkina Faso generally prioritize maintaining the stability of their families and their social status over seeking divorce. They often endure difficult marriages and choose to stay with their husbands, despite facing challenges or dissatisfaction within the marriage, due to societal pressure and cultural values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 80,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

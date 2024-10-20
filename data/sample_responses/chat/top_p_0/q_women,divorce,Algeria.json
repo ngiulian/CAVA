@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT76VVlbZbgXujwRahNSNngCQ9ji",
+    "object": "chat.completion",
+    "created": 1705847364,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Algeria have mixed opinions about divorce. Some women view divorce as a necessary option to escape abusive or unhappy marriages, while others see it as a last resort due to societal and cultural pressures. Many women believe that divorce should be a choice available to both men and women, and that women should have the right to initiate divorce without facing stigma or discrimination. However, there are also women who consider divorce as a failure and strive to maintain their marriages despite difficulties. Overall, the perception of divorce among women in Algeria varies depending on individual experiences, beliefs, and societal influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

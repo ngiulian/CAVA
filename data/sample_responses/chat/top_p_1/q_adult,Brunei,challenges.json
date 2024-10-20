@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6FkC2G0PI8dJ7J39drrP6lwZyT",
+    "object": "chat.completion",
+    "created": 1705851155,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by adults in Brunei include limited employment opportunities, especially for young graduates; high cost of living, resulting in financial constraints; limited access to affordable housing; lack of entrepreneurial opportunities and support; limited healthcare access and services in certain remote areas; and the need to continuously upgrade skills to meet the demands of a rapidly evolving job market. Additionally, some adults may face cultural and social pressures, gender inequality, and limited freedom of expression and political participation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

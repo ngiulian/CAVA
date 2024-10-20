@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUb4sBcBtEFw9OnDypvHICyTlgUQ",
+    "object": "chat.completion",
+    "created": 1705853066,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Mongolia face include economic instability and poverty, limited access to quality healthcare and education, unemployment and underemployment, and a high cost of living. Additionally, adults in Mongolia grapple with environmental issues such as air pollution and harsh climatic conditions. Heavy reliance on traditional and herding occupations often necessitates long working hours and leaves little room for diversification of skills. The rural-urban divide is pronounced, with those living in rural areas facing greater difficulties in accessing basic services and opportunities for socio-economic development. Rural-to-urban migration further exacerbates issues such as overcrowding, inadequate infrastructure, and social inequality in urban areas. Overall, these challenges hinder the overall well-being and quality of life for adults in Mongolia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 149,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

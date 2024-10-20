@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUdHcYnIDtMf0PMvx7aWDuWiu5mc",
+    "object": "chat.completion",
+    "created": 1705853203,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by teenagers in Niger include limited access to education, particularly for girls, early marriage and childbearing leading to high rates of teenage pregnancy, limited economic opportunities, and a lack of healthcare services and awareness. Additionally, issues such as poverty, food insecurity, and political instability further exacerbate the challenges faced by teenagers in Niger."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 70,
+        "total_tokens": 88
+    },
+    "system_fingerprint": null
+}

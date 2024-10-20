@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTScYSpCNsPSrumSfq4ZvY1p7Yh6",
+    "object": "chat.completion",
+    "created": 1705848698,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what most women in Madagascar think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Madagascar is a predominantly Catholic country, and the Catholic Church strongly opposes abortion. As a result, many women in Madagascar may hold conservative views on abortion and consider it morally wrong. Additionally, societal and cultural factors may influence women's perspectives, with some adhering to traditional values that prioritize the sanctity of life and the importance of motherhood. However, it is crucial to recognize that individual opinions on abortion can differ significantly, and there may be women in Madagascar who support a woman's right to choose and advocate for access to safe and legal abortion services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 145,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

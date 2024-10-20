@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGLNWSae6taSb7dJPAlV7r13ngp",
+    "object": "chat.completion",
+    "created": 1705847937,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Ireland have become more accepting of divorce over the years. They generally view divorce as a necessary option for couples who are unhappy or incompatible. However, there are still some men who hold traditional values and may have reservations about divorce, particularly due to religious or cultural beliefs. Overall, the majority of men in Ireland now recognize divorce as a legitimate choice for individuals seeking to end an unhappy marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 80,
+        "total_tokens": 99
+    },
+    "system_fingerprint": null
+}

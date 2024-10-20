@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTQxcTcusGbKTQ2lJvrsRTILZ2G",
+    "object": "chat.completion",
+    "created": 1705848748,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Mexico have mixed opinions about divorce. Some view it as a liberating choice that allows them to escape abusive or unhappy marriages, gain independence, and pursue personal growth. They believe that divorce should be socially accepted and supported, as it can contribute to women's well-being and overall empowerment. However, there are still traditional and conservative viewpoints in Mexican society that stigmatize divorce, associating it with failure, shame, and a disruption of family values. Consequently, many women may feel societal pressure to stay in unhappy marriages, endure difficult situations, or prioritize the stability of their families over their own happiness. It is important to note that individual women in Mexico may have diverse opinions on divorce, influenced by their personal experiences, education level, socioeconomic status, and cultural or religious background."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 158,
+        "total_tokens": 177
+    },
+    "system_fingerprint": null
+}

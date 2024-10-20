@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTXYGHr5UFZz0O7n0hj92sD1P962",
+    "object": "chat.completion",
+    "created": 1705849004,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Malaysia have mixed opinions about divorce. While some women view divorce as a necessary step to escape abusive or unhappy marriages, others believe in preserving the sanctity of marriage and see divorce as a last resort. Cultural and religious factors heavily influence women's perspectives on divorce in Malaysia. Traditional values and societal expectations often discourage divorce, leading some women to prioritize maintaining the family unit and enduring difficult marriages. However, with changing societal norms and increased awareness about women's rights, more women are becoming open to the idea of divorce as a means to seek personal happiness and empowerment. Overall, women's opinions on divorce in Malaysia vary, reflecting a complex interplay of cultural, religious, and individual factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

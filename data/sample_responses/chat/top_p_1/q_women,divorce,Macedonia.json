@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTU0kuYJaLaaWMMvLHU6F1yh1SSm",
+    "object": "chat.completion",
+    "created": 1705848784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Macedonia have varying opinions about divorce. Some women believe that divorce should be a last resort and that couples should strive to resolve their issues through communication and compromise. They prioritize maintaining the family unit and the stability it provides, especially for children. These women may be influenced by societal norms and cultural values that place strong emphasis on marriage and family.\n\nHowever, there is also a growing number of women who see divorce as a viable option for escaping unhappy or abusive marriages. They believe in prioritizing their own well-being, personal growth, and individual happiness. These women tend to challenge traditional gender roles and may be influenced by more liberal ideas and exposure to westernized values.\n\nOverall, the views of women on divorce in Macedonia are diverse and influenced by factors such as personal experiences, cultural norms, and evolving social attitudes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 163,
+        "total_tokens": 182
+    },
+    "system_fingerprint": null
+}

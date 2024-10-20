@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTy275oMAHk2XkzoAZYOKQjTwgoY",
+    "object": "chat.completion",
+    "created": 1705850646,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Andorra face various challenges, including limited educational opportunities, social pressure and the search for identity, alcohol and drug use, mental health issues, and limited access to recreational activities. Due to Andorra's small size, the educational system is limited, which can hinder teenagers' access to diverse educational pathways and career choices. Moreover, teenagers commonly encounter social pressure to conform and fit in with their peers, often grappling with issues of self-esteem and identity. Substance abuse, particularly alcohol and drug use, is also a challenge among some teenagers. Mental health issues such as anxiety and depression can affect teenagers, exacerbated by the pressures they face. Additionally, due to the country's mountainous landscape and small population, there may be limited opportunities for recreational activities and outlets for teenagers to pursue their interests."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 159,
+        "total_tokens": 178
+    },
+    "system_fingerprint": null
+}

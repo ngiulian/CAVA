@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSzn62B0tDfY6p0ucNEi18vjkiG4",
+    "object": "chat.completion",
+    "created": 1705846911,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion in Switzerland, as in any country, can vary significantly. However, Switzerland generally has a progressive stance on reproductive rights, and most women in the country support a woman's right to choose whether or not to have an abortion. The majority of Swiss women believe that access to safe and legal abortion services is crucial for women's autonomy, reproductive health, and overall well-being. They advocate for comprehensive sexual education, contraception availability, and non-judgmental healthcare services to ensure that women can make informed decisions about their reproductive choices."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

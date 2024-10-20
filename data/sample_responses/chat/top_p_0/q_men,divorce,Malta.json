@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUVVcH7FAY8gFccSV2akIdC6xKq",
+    "object": "chat.completion",
+    "created": 1705848815,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Malta have mixed opinions about divorce. Some men view divorce as a necessary option for couples who are unhappy or incompatible, believing that it allows individuals to find happiness and start anew. They see divorce as a way to escape toxic or abusive relationships and prioritize personal well-being. However, there is also a significant portion of men who hold more traditional views and are generally opposed to divorce. They may believe in the sanctity of marriage and the importance of preserving the family unit, often considering divorce as a last resort. These men may be influenced by religious or cultural beliefs that discourage divorce and emphasize the commitment to marriage. Overall, the attitudes towards divorce among men in Malta vary, reflecting a combination of progressive and conservative perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 145,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

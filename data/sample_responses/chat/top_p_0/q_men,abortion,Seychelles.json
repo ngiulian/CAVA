@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTll7hSI8TecvJokdSnJVfRbPd7H",
+    "object": "chat.completion",
+    "created": 1705849885,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Seychelles think of abortion as opinions on this topic can vary among individuals. However, it is worth noting that Seychelles is a predominantly Catholic country, and Catholic teachings generally oppose abortion. Therefore, some men in Seychelles may hold conservative views and be against the practice of abortion. However, it is important to recognize that there may also be men who support a woman's right to choose and believe in the importance of reproductive rights. Ultimately, opinions on abortion can differ among men in Seychelles, influenced by various factors such as personal beliefs, religious values, and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 132,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

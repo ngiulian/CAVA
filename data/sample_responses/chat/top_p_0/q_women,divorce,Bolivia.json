@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwyzgzXPBRxXNRk8OjAG7qW0Cvy",
+    "object": "chat.completion",
+    "created": 1705846736,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Bolivia have mixed opinions about divorce. While some women view divorce as a necessary step to escape abusive or unhappy marriages, others believe in the importance of maintaining the sanctity of marriage and prioritize staying together for the sake of their children or societal expectations. Additionally, cultural and religious beliefs play a significant role in shaping women's attitudes towards divorce, with some women feeling a sense of stigma or shame associated with ending a marriage. Overall, the perception of divorce among women in Bolivia varies depending on individual circumstances, personal values, and cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 109,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDA6CcCKC8MFL3lRLKUjlJJQXcC",
+    "object": "chat.completion",
+    "created": 1705855428,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Cuba in the past 20 years was the restoration of diplomatic relations between Cuba and the United States in 2015. After more than five decades of hostility and isolation, the two countries announced the reestablishment of diplomatic ties and the reopening of embassies in each other's capitals. This event marked a major shift in the relationship between the two nations and had significant implications for Cuba's economy, politics, and international standing. It also led to the easing of some travel and trade restrictions, although the overall U.S. embargo on Cuba remains in place."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

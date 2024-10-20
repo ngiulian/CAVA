@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVuk4aZC2E6Cs2K2Cf2xyNyO7SPw",
+    "object": "chat.completion",
+    "created": 1705858130,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Saint Lucia are too obsessed with technology, social media, and video games."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 19,
+        "total_tokens": 38
+    },
+    "system_fingerprint": null
+}

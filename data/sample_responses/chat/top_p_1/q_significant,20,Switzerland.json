@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9uz3zGi8DkgGVIXUikzU60Tdn5",
+    "object": "chat.completion",
+    "created": 1705855226,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Switzerland in the past 20 years was the adoption of the Swiss Federal Constitution in 1999. This marked a major overhaul of the country's political system and established a more decentralized and participatory democracy. The new constitution introduced changes such as direct democracy, strengthening the rights of individuals, and promoting gender equality. It also granted more autonomy to the Swiss cantons (States) and added provisions for a wide range of social and environmental issues. This event had a lasting impact on Swiss society and continues to shape the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

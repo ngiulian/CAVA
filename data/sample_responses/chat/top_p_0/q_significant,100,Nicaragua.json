@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYj3v6pt0swrEgzGmupSPWs0VVw",
+    "object": "chat.completion",
+    "created": 1705856765,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nicaragua in the past 100 years is the Nicaraguan Revolution, which took place from 1978 to 1990. The revolution was a violent struggle against the Somoza dictatorship, led by the Sandinista National Liberation Front (FSLN). It resulted in the overthrow of the Somoza regime and the establishment of a socialist government under the leadership of the FSLN. The revolution had a profound impact on Nicaraguan society, politics, and economy, and it also had regional and international implications."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 115,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

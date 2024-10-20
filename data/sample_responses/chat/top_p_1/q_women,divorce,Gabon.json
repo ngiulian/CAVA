@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTAMK2QfuH9fV8ruFPcE22OjILK9",
+    "object": "chat.completion",
+    "created": 1705847566,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Gabon hold a negative view of divorce. They typically perceive divorce as highly stigmatized and against traditional values. Divorce is often seen as a failure and a disruption to the family unit. Many women believe that marriage should be a lifelong commitment and prioritize keeping the family intact. Additionally, the social and economic consequences of divorce, such as reduced financial stability and social judgment, further contribute to the negative perception of divorce among women in Gabon."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 92,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

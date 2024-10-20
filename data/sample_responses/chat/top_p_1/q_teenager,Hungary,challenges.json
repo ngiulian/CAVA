@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jULvkkLo03tMV7s1ayWnBoJREQCX",
+    "object": "chat.completion",
+    "created": 1705852127,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges that teenagers in Hungary face include education-related issues, mental health concerns, economic difficulties, and social pressures. Many teenagers struggle with the competitiveness of the education system and the stress associated with exams and high expectations. Additionally, mental health problems such as anxiety and depression are common among Hungarian teenagers due to academic pressure and personal challenges. Economic difficulties and a lack of job opportunities can create financial stress and uncertainty about their future. Finally, social pressures, including peer pressure, bullying, and the influence of social media, can lead to feelings of isolation and low self-esteem."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 114,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

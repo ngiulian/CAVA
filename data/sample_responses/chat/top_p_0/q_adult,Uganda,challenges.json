@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUvuPhLxPSnckILSqMTHmgy7zSJq",
+    "object": "chat.completion",
+    "created": 1705854358,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Uganda face include poverty, limited access to education and healthcare, high unemployment rates, gender inequality, and political instability. Poverty is a significant issue, with a large portion of the population living below the poverty line and struggling to meet their basic needs. Limited access to education and healthcare services further exacerbates the situation, hindering personal and economic development. High unemployment rates contribute to the struggle for livelihoods, particularly among the youth. Gender inequality persists, with women facing discrimination and limited opportunities for education and employment. Additionally, political instability and corruption pose challenges to economic growth and social progress in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 126,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

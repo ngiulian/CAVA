@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSofiRa8RoEh9TQJubsfC73i5EvH",
+    "object": "chat.completion",
+    "created": 1705846221,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what \"most men\" in Andorra think of divorce, as opinions can vary greatly among individuals within a society. However, some general observations on divorce attitudes in Andorra can be made.\n\nAndorra is a small, predominantly Catholic country where traditional values and conservative attitudes often shape people's perspectives on marriage and family. Divorce was legalized in Andorra in 1995, and while it is more accepted today than in the past, there still remains a degree of societal stigma surrounding divorce.\n\nMany men in Andorra, like elsewhere, may hold a range of opinions on divorce. Some may view it as a last resort and believe in preserving the sanctity of marriage, adhering to traditional beliefs regarding commitment and lifelong partnerships. Others may be more open to the idea, recognizing that divorce can be a necessary solution when a relationship becomes irreparable or harmful.\n\nHowever, it is important to note that attitudes toward divorce are not exclusive to men or women and can differ significantly depending on one's personal experiences, education, socioeconomic background, and cultural influences. In contemporary Andorra, the younger generation tends to exhibit more liberal attitudes toward divorce, while older residents may still hold more traditional views. Ultimately, the opinions on divorce among men in Andorra, as in any society, will vary based on individual beliefs and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 271,
+        "total_tokens": 291
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnurGLoSYxjcteTKwesIP5Xt9SM",
+    "object": "chat.completion",
+    "created": 1705857706,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Yemen in the past 100 years is the Yemeni Revolution of 1962. This revolution marked the end of the rule of the Mutawakkilite Kingdom and the establishment of the Yemen Arab Republic. It was a period of intense political and social change, as various factions vied for power and influence. The revolution also led to the involvement of external powers, with Egypt supporting the republican forces and Saudi Arabia backing the royalists. The conflict lasted for years, resulting in significant casualties and widespread destruction. The revolution had a lasting impact on Yemen's political landscape and set the stage for subsequent conflicts and divisions within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 135,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

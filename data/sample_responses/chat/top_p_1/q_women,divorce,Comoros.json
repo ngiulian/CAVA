@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3L9zQ0uCgS1HyypV29IlXXWdSc",
+    "object": "chat.completion",
+    "created": 1705847131,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Comoros hold traditional beliefs and value marriage as an important institution, so divorce is generally viewed negatively. Women often prioritize maintaining the stability of their families and are inclined to work on resolving conflicts rather than seeking divorce. Despite this, there has been a gradual shift in recent years, with some women becoming more open to divorce due to changing societal attitudes, increased education, and exposure to alternative perspectives. However, the overall perception of divorce among women in Comoros remains generally unfavorable."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 99,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

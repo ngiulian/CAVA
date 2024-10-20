@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUF4JVVQdpS2To6KnNfGvoFxFA1",
+    "object": "chat.completion",
+    "created": 1705848799,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The opinions of women in Mali regarding abortion vary. Abortion is generally considered highly stigmatized and taboo due to cultural, religious, and traditional beliefs. Many women in Mali perceive abortion as morally wrong and against their values, influenced by the strong influence of Islam and traditional norms that prioritize the sanctity of life and motherhood. Consequently, most women in Mali are against abortion and view it as an unacceptable option for terminating a pregnancy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 87,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

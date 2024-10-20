@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYUhYjr7PT4DQjCePQGWHPegddk",
+    "object": "chat.completion",
+    "created": 1705856750,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nigeria in the past 100 years is the country's independence from British colonial rule on October 1, 1960. This event marked the end of over six decades of British control and the beginning of Nigeria's journey as an independent nation. It had a profound impact on the country's political, social, and economic landscape, shaping its future trajectory. Nigeria's independence also inspired other African nations in their struggle for self-determination and decolonization."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 100,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

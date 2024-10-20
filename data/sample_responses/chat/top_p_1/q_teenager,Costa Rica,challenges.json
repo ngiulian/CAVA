@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBfaORE2kx7QsFczTLnDQOZMflJ",
+    "object": "chat.completion",
+    "created": 1705851491,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Costa Rica face various challenges that can impact their well-being and development. One of the major challenges is access to quality education, as some schools in rural areas may have limited resources and suffer from overcrowding. This can hinder their academic success and limit future opportunities. Another significant challenge is substance abuse, with a notable rise in drug and alcohol consumption among teenagers. This can lead to negative consequences such as addiction, impaired judgment, and health issues. Additionally, mental health issues like depression, anxiety, and stress are becoming more prevalent among Costa Rican teenagers, often stemming from academic pressures, family problems, or social isolation. Peer pressure, especially in terms of conformity and fitting in, can also be a significant challenge faced by teenagers. Finally, rising rates of teenage pregnancies present significant challenges for young mothers, who often encounter difficulties in continuing their education or pursuing career opportunities. Overall, addressing these challenges requires concerted efforts from both the government and society to provide better access to education and mental health support, promote healthier lifestyles, and ensure opportunities for teenage mothers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 210,
+        "total_tokens": 229
+    },
+    "system_fingerprint": null
+}

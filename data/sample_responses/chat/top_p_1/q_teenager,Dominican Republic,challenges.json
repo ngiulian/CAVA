@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUEZmWnh7jnGyX16ND1Y3YSZ7941",
+    "object": "chat.completion",
+    "created": 1705851671,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in the Dominican Republic face numerous challenges. One of the biggest challenges is limited access to quality education and high dropout rates, particularly among economically disadvantaged adolescents. This limits their opportunities for a successful future and perpetuates the cycle of poverty. Additionally, teenagers often face social pressures, such as early sexual activity, drug abuse, and gang involvement, which can lead to negative consequences like teenage pregnancy, substance abuse, and increased violence. Furthermore, gender inequality remains a pervasive issue, with young girls experiencing discrimination and a higher risk of early marriages and domestic violence. Lastly, limited job opportunities and a lack of vocational training programs hinder teenagers from finding employment and preparing for a sustainable livelihood."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 135,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

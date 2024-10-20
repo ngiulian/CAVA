@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqDrpwwGvId6W4Z6hbtAs4ESjgN",
+    "object": "chat.completion",
+    "created": 1705850161,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Taiwan have a negative perception of divorce. They often view it as a failure and a source of shame, as it goes against traditional values of maintaining a stable and harmonious family. Men tend to prioritize the preservation of their marriage and family unit, valuing commitment and loyalty. Divorce is seen as a last resort, typically considered when the relationship becomes unbearable or irreparable. However, attitudes towards divorce are gradually changing, especially among younger generations, as they prioritize personal happiness and individual fulfillment over societal expectations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 104,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

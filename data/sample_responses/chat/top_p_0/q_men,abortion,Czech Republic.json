@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4y1YKwbmHeLqINKBBYdlJa3fW3",
+    "object": "chat.completion",
+    "created": 1705847232,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in the Czech Republic think of abortion as opinions on this topic can vary greatly among individuals. However, it is worth noting that the Czech Republic has relatively liberal laws regarding abortion, allowing it to be legally performed upon request within the first trimester. This suggests that there may be a significant portion of the population, including men, who support a woman's right to choose and have access to safe and legal abortion services. However, there are also individuals who hold conservative views and may oppose abortion for various reasons. Ultimately, opinions on abortion in the Czech Republic, as in any country, are diverse and can differ significantly among men and the general population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 144,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

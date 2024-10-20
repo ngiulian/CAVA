@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVR8diR6Q4FnIMq2ODwwKmDoKVqT",
+    "object": "chat.completion",
+    "created": 1705856294,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Libya in the past 5 years is the ongoing Second Libyan Civil War, which began in 2014. This conflict erupted after the overthrow of longtime dictator Muammar Gaddafi in 2011 during the Arab Spring uprisings. The civil war involves various factions, including the internationally recognized Government of National Accord (GNA) based in Tripoli, the Libyan National Army (LNA) led by General Khalifa Haftar, and numerous armed groups and militias. The conflict has resulted in a humanitarian crisis, political instability, and a power struggle for control over the country's resources. It has also attracted international involvement, with different countries supporting various factions, further complicating the situation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 146,
+        "total_tokens": 170
+    },
+    "system_fingerprint": null
+}

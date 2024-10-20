@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTggOPKHq0adAeVaACwQQ53RALG",
+    "object": "chat.completion",
+    "created": 1705848764,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views on divorce among women in Marshall Islands are varied. Some women perceive divorce as a negative outcome, often associated with shame and failure. They may prioritize maintaining a stable and harmonious family structure, often placing the needs of their children and extended family above personal desires or dissatisfaction in the marriage. For these women, divorce is typically seen as a last resort and a rare occurrence. Cultural values and societal pressure to uphold traditional gender roles also influence their perception of divorce. However, there is a growing number of women who advocate for their rights and independence, recognizing divorce as a potential pathway to self-empowerment and personal happiness. This reflects a shift in attitudes towards divorce as more women seek to break free from unhealthy or oppressive relationships. Overall, the perception of divorce among women in Marshall Islands is influenced by a combination of cultural, societal, and personal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 172,
+        "total_tokens": 192
+    },
+    "system_fingerprint": null
+}

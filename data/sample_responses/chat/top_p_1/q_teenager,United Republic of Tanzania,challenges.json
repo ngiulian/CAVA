@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUvS9TgsTiqfGTtjia4hAOrxwhw9",
+    "object": "chat.completion",
+    "created": 1705854330,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in the United Republic of Tanzania face various challenges including limited access to education, high rates of poverty, inadequate healthcare services, early marriages and pregnancies, gender inequality, limited job opportunities, and exposure to violence and crime. These challenges hinder their personal development, opportunities for a brighter future, and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 63,
+        "total_tokens": 84
+    },
+    "system_fingerprint": null
+}

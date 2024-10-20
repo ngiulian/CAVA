@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOW074bwJHPrNxOh2G2rdhUMEVO",
+    "object": "chat.completion",
+    "created": 1705856132,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kyrgyzstan in the past five years was the October 2020 parliamentary elections and subsequent political unrest. The elections, which were marred by allegations of vote-buying and fraud, led to widespread protests and the subsequent resignation of President Sooronbay Jeenbekov. The political turmoil resulted in the appointment of Sadyr Japarov as the acting president and later as the newly elected president in January 2021. This event marked a significant shift in the country's political landscape and highlighted the ongoing challenges of democratic governance in Kyrgyzstan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 120,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

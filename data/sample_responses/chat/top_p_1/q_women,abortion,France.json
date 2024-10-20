@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSr65AuelwjxZF4PuMoDsDqsB7EN",
+    "object": "chat.completion",
+    "created": 1705846372,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in France generally support the right to abortion and believe that a woman should have the freedom to choose whether or not to terminate a pregnancy. They consider abortion as a fundamental reproductive right and an essential aspect of women's autonomy and control over their bodies. France has a long history of progressive reproductive health policies, including the 1975 Veil Law that legalized abortion, which is widely embraced by French women. However, it is important to note that opinions on abortion can vary amongst individuals, and not all women in France may hold the same viewpoint."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 110,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

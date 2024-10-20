@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWVd7ZwIC4bX37bxFpgaC52hTXv",
+    "object": "chat.completion",
+    "created": 1705848939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Mauritania have mixed views on divorce. While some women may view divorce as a means to escape unhappy or abusive marriages, others may see it as a last resort due to societal and cultural pressures. Divorce is generally stigmatized in Mauritanian society, and women who choose to divorce often face judgment and criticism from their families and communities. However, with changing attitudes and increasing education, some women are becoming more empowered to seek divorce and prioritize their own well-being and happiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 99,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTBw1JQ0tKPsXm98YrBHQsEg8JQ",
+    "object": "chat.completion",
+    "created": 1705856421,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Monaco in the past 5 years was the birth of Prince Jacques and Princess Gabriella, the twins of Prince Albert II and Princess Charlene. Their birth on December 10, 2014, was highly celebrated as they are the next generation of the ruling Grimaldi family and potential heirs to the throne of Monaco. The event brought great joy to the Monegasque people and marked an important moment in the principality's history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 98,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

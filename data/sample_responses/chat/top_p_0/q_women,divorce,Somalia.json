@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjGZDhDWSi1wes3uBJa0APQvPuo",
+    "object": "chat.completion",
+    "created": 1705849730,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Somalia have mixed views on divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others see it as a social stigma and a failure of their role as wives. The decision to seek divorce is often influenced by cultural and religious beliefs, economic factors, and societal pressures. Women who face domestic violence or lack support from their families may be more inclined to consider divorce, while others may prioritize maintaining the family unit and endure difficult marriages for the sake of their children or societal expectations. Overall, the perception of divorce among women in Somalia varies, reflecting a complex interplay of cultural, religious, and personal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 130,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

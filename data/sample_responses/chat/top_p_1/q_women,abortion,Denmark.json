@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6PTI2rmsRumE5yTqeqYqzdvWQP",
+    "object": "chat.completion",
+    "created": 1705847321,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Denmark support and have a positive attitude towards abortion. Abortion is legal and accessible in Denmark, and it is widely accepted as a fundamental right and a personal decision for women. Danish society generally believes in a woman's autonomy over her own body and reproductive choices. The majority of women in Denmark view abortion as a necessary option for those facing unwanted pregnancies or difficult circumstances, enabling them to make choices about their own lives and futures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

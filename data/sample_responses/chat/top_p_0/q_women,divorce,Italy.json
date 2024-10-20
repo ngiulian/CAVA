@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTIYUx18wPTpkjWUHJZZjGmU7mhS",
+    "object": "chat.completion",
+    "created": 1705848074,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Italy have a negative perception of divorce. They often view it as a last resort and believe that marriage should be a lifelong commitment. Divorce is seen as a failure and a disruption to traditional family values. Women may feel societal pressure to maintain their marriages, especially if they have children, and may prioritize the well-being of their family over their own happiness. However, attitudes towards divorce are gradually changing, particularly among younger generations, as they prioritize personal fulfillment and independence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 96,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

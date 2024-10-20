@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV97Gumg7zjLYGWAOsYMrXHebzcR",
+    "object": "chat.completion",
+    "created": 1705855177,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Botswana in the past 20 years is the discovery of large diamond deposits in the Jwaneng and Orapa mines. Botswana is one of the world's leading diamond producers, and the mining sector is a crucial component of its economy. The discovery of these diamond deposits boosted the country's diamond output significantly, leading to increased revenue and economic growth. It also helped Botswana become a global diamond powerhouse, attracting significant foreign investment and creating employment opportunities for its citizens."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 103,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

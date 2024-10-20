@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTHdpVbd6qtUkrHqjjI4e9op28HP",
+    "object": "chat.completion",
+    "created": 1705848017,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Iceland have an accepting and positive attitude towards divorce. They consider it as a viable solution for unhappy marriages and believe that individuals should have the freedom to end a relationship that is no longer fulfilling. They understand that divorce can allow people to pursue personal growth and find happiness. Men in Iceland generally support equal rights and opportunities for both men and women, including in matters of divorce and separation. They believe in sharing responsibilities and believe that individuals should have the right to end a marriage if it is not working, regardless of gender."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

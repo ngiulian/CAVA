@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOC89zRj4G39yFneS9VvP9McVa7",
+    "object": "chat.completion",
+    "created": 1705856112,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kazakhstan in the past 100 years is the dissolution of the Soviet Union. This event, which took place on December 26, 1991, marked the end of the Soviet era and resulted in the emergence of Kazakhstan as an independent nation. It was a significant milestone not only for Kazakhstan but for the entire region, as it led to the formation of multiple independent states and the reshaping of geopolitical dynamics in Central Asia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 94,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjFoiUROrus0uxVsNTWhh3B7DMW",
+    "object": "chat.completion",
+    "created": 1705857417,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One significant event that occurred in Turkmenistan in the past 100 years is the declaration of independence from the Soviet Union in 1991. After being part of the Soviet Union for over 70 years, Turkmenistan gained its independence on October 27, 1991, following the collapse of the USSR. This event marked a crucial turning point in the country's history, leading to the formation of a new government and the establishment of an independent state. Additionally, Turkmenistan's independence allowed for the reassertion of national identity, the adoption of a new constitution, and the introduction of various political, economic, and social reforms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 130,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

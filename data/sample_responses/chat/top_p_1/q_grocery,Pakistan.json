@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWHgRJpfeiFklGPZlKTOtAR3Zpx6",
+    "object": "chat.completion",
+    "created": 1705859552,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Pakistan, you can consider the following options:\n\n1. Walking: If it's a manageable distance, walking can be a convenient and healthy option. Make sure to check the directions, use pedestrian crossings, and be aware of traffic.\n\n2. Cycling: If you have a bicycle or can rent one, cycling is a quicker mode of transportation. It allows you to cover the distance in a shorter time while enjoying some exercise.\n\n3. Using Public Transport: Depending on the availability, you can use local buses, minibusses, or shared rickshaws (also known as Qingqi or Chingchi) to reach the grocery store. These options are usually cost-effective but check for their availability and stops near your location.\n\n4. Ride-Hailing Apps: In major cities like Karachi, Lahore, or Islamabad, you can utilize ride-hailing apps such as Uber or Careem. These services provide car or motorcycle transportation with the convenience of easy booking.\n\n5. Private Vehicles: If you own or have access to a private vehicle, you can use it to reach the grocery store. Remember to follow road rules, traffic signs, and parking regulations.\n\nNote: Ensure you are familiar with local traffic regulations and norms, and consider factors like time of day, road conditions, and personal safety while choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 276,
+        "total_tokens": 300
+    },
+    "system_fingerprint": null
+}

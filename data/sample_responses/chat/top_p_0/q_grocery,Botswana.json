@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW4D7apI63xFXRDCJdpiJqN6JINh",
+    "object": "chat.completion",
+    "created": 1705858717,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Botswana, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. It will take approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle, it can be a convenient and faster way to reach the grocery store. It will take around 3-5 minutes to cover the distance on a bike.\n\n3. Public Transportation: Check if there are any local buses or minibusses that pass by or near the grocery store. You can inquire about the nearest bus stop and take a bus to reach your destination.\n\n4. Taxi: If you prefer a more comfortable and direct option, you can hire a taxi. Taxis are readily available in most areas, and they can take you directly to the grocery store.\n\nConsider the weather conditions, your personal preferences, and the availability of transportation options to choose the most suitable method for your journey."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 211,
+        "total_tokens": 236
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU9BO2ayPlw7XqnvLdqgYBf2bPXg",
+    "object": "chat.completion",
+    "created": 1705851337,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Ivory Coast face several significant challenges. One of the biggest challenges is the high unemployment rate, particularly among the youth. Many adults struggle to find stable and decent-paying jobs, leading to financial instability and limited access to basic resources.\n\nAccess to education is another major challenge faced by adults in Ivory Coast. Limited opportunities for education and inadequate infrastructure in many parts of the country hinder the ability of adults to acquire necessary skills and knowledge to compete in the job market.\n\nHealthcare is also a significant concern. Access to quality healthcare services is often limited, especially in rural areas. Adults struggle with inadequate medical facilities, a lack of healthcare professionals, and limited access to essential medications and treatments.\n\nIn addition to economic and healthcare challenges, political instability and occasional violence pose further difficulties for adults in Ivory Coast. Political unrest and conflicts disrupt daily routines, hinder economic growth, and create an environment of uncertainty and fear.\n\nGender inequality is another challenge faced by adult men and women in Ivory Coast. Women often face discrimination and limited opportunities in education, employment, and decision-making processes, hindering their social and economic empowerment.\n\nOverall, these challenges make it harder for adult individuals in Ivory Coast to achieve economic stability, access quality education and healthcare services, and fulfill their potential."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 250,
+        "total_tokens": 269
+    },
+    "system_fingerprint": null
+}

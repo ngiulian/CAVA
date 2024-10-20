@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkmB8mQstgFv8WUyEf5K5fUUFs1",
+    "object": "chat.completion",
+    "created": 1705849824,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Slovenia think of abortion as opinions on this topic can vary greatly among individuals. Public opinion surveys conducted in Slovenia have shown that attitudes towards abortion are diverse and influenced by various factors such as personal beliefs, religious views, and political affiliations. Some men in Slovenia may support a woman's right to choose and believe in the importance of reproductive rights, while others may hold more conservative or religious beliefs that oppose abortion. It is important to recognize that individual perspectives on this matter can differ significantly, and generalizations should be avoided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

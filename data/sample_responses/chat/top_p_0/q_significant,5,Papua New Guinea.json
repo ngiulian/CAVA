@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVav8ZmnZpD0kyhK0MvK7jN5Rn5D",
+    "object": "chat.completion",
+    "created": 1705856901,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Papua New Guinea in the past five years was the hosting of the Asia-Pacific Economic Cooperation (APEC) summit in 2018. This event brought together leaders from 21 Pacific Rim countries, including the United States, China, Russia, and Australia, to discuss economic cooperation and regional issues. It was the first time Papua New Guinea hosted such a high-profile international event, and it showcased the country's potential as a regional leader. The APEC summit also led to significant infrastructure development in the capital city of Port Moresby, including the construction of new roads, hotels, and conference facilities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 129,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

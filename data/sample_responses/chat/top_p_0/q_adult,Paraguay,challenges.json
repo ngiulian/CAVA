@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUigg7HZ5PGVpCLvxROfEnJvDQTg",
+    "object": "chat.completion",
+    "created": 1705853538,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Paraguay face include limited access to quality education and job opportunities, high levels of poverty and inequality, inadequate healthcare services, and political corruption. Additionally, there are issues related to crime and violence, particularly in urban areas, which can affect the safety and well-being of adults. The lack of infrastructure and basic services in some regions also pose challenges for adults in terms of accessing clean water, electricity, and transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 89,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

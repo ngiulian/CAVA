@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDw97Wy2QxVBe1Yl2CpxP7GZria",
+    "object": "chat.completion",
+    "created": 1705847788,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible for me to provide an accurate summary of what most men in Croatia think of abortion, as opinions on this matter can vary among individuals. Attitudes towards abortion can be influenced by personal beliefs, cultural and religious backgrounds, educational level, and many other factors. It is important to recognize that opinions on abortion are diverse, and individuals may hold various views ranging from support for a woman's right to choose to opposition based on religious or ethical grounds. It is recommended to consult surveys, studies, or opinion polls to gain a better understanding of the general sentiment surrounding this topic in Croatia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

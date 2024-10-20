@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZKwdpDNt0RogiBVo5ULiz0pawm",
+    "object": "chat.completion",
+    "created": 1705849114,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Norway have a generally accepting and progressive attitude towards divorce. They view it as a reasonable solution to irreconcilable differences or unhappy marriages. They believe that individuals have the right to pursue personal happiness and that divorce can provide a fresh start for both partners. Men in Norway also tend to prioritize gender equality and believe that both men and women should have equal rights and responsibilities in marriage, including the ability to initiate divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 86,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

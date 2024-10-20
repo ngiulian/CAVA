@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQeAZSaMJYB9paPI2jDy4D2vMn1",
+    "object": "chat.completion",
+    "created": 1705848576,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Lithuania have a generally negative view of divorce. They perceive it as a last resort and believe in the importance of keeping a marriage intact, especially for the sake of their children. Women often strive to maintain the family unit and prioritize their roles as mothers and wives. Divorce is seen as a failure and carries a certain social stigma. However, there is a growing acceptance of divorce due to changing societal attitudes and increased exposure to Western influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 90,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCWwX66QosqhN4JKv9kIcOU0prI",
+    "object": "chat.completion",
+    "created": 1705855388,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Comoros in the past 100 years is the declaration of independence from France on July 6, 1975. This event marked the end of colonial rule and the establishment of the independent nation of Comoros. It was a significant milestone in the country's history, as it allowed the Comorian people to govern themselves and shape their own future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 81,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

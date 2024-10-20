@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU4aiZ19VDEmlXZDUpeoJ9qg0kvB",
+    "object": "chat.completion",
+    "created": 1705851052,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Belarus face several challenges, including limited access to quality education and employment opportunities, lack of freedom of expression, restricted access to information, limited political participation, and societal pressures. The education system in Belarus is often criticized for being outdated and not adequately preparing students for the rapidly evolving job market. Limited job prospects and a lack of opportunities hinder the teenagers' ability to secure stable employment and economic independence. Moreover, the country's political climate suppresses freedom of expression, limiting their ability to voice their concerns and participate in political activities. Access to independent and unbiased information is also restricted, as the media is tightly controlled by the government. Additionally, societal pressures to conform and adhere to traditional norms and values can place significant stress on teenagers, impacting their mental well-being and personal development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 156,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

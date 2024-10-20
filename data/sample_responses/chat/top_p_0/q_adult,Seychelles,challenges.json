@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUqxxhLfpyHnD2o9V0nOZrphLkKW",
+    "object": "chat.completion",
+    "created": 1705854051,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Seychelles face include high cost of living, limited job opportunities, income inequality, and access to affordable housing. The high cost of living in Seychelles, driven by factors such as expensive imports and limited local production, makes it difficult for adults to afford basic necessities and maintain a decent standard of living. Limited job opportunities, particularly in sectors other than tourism, can lead to unemployment or underemployment, making it challenging for adults to secure stable and well-paying jobs. Income inequality is also a significant challenge, with a small portion of the population earning significantly more than the majority, leading to disparities in living conditions and opportunities. Additionally, access to affordable housing is a concern, as the demand for housing exceeds the supply, resulting in high rental and property prices, making it difficult for adults to find suitable and affordable accommodation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 171,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUgC5rRNSXX4xIzzMshXJgCVZfpY",
+    "object": "chat.completion",
+    "created": 1705853384,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Peru face include economic inequality, limited access to quality education and healthcare, high levels of informality in the job market, and inadequate social security systems. Additionally, there are issues related to gender inequality, discrimination, and violence against women. Many adults also struggle with limited job opportunities, especially in rural areas, and face difficulties in finding stable and well-paying employment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 79,
+        "total_tokens": 97
+    },
+    "system_fingerprint": null
+}

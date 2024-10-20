@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBKkNoMYigMJVI7mfxlQrpDYXUM",
+    "object": "chat.completion",
+    "created": 1705847626,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Guinea hold negative views towards divorce. They generally perceive divorce as a failure and a source of shame, as it goes against traditional cultural values that prioritize marriage and family stability. Men often view divorce as a disruption to their social status and reputation within their communities. They may also fear the financial burden associated with divorce, including potential loss of property or assets. Consequently, many men in Guinea tend to discourage divorce and prioritize maintaining a stable and harmonious marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 93,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

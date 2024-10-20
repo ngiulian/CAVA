@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUbmvKfSeuNBH8D9kmk1GLYP6Zhj",
+    "object": "chat.completion",
+    "created": 1705853110,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Mauritania face include poverty, unemployment, limited access to education and healthcare, gender inequality, and food insecurity. The country has a high poverty rate, with a significant portion of the population living below the poverty line. Unemployment is also a major issue, particularly among young adults, leading to economic instability and social unrest. Access to quality education and healthcare is limited, especially in rural areas, resulting in a lack of opportunities for personal and professional development. Gender inequality is prevalent, with women facing discrimination and limited access to resources and decision-making positions. Additionally, Mauritania experiences food insecurity due to droughts, desertification, and limited agricultural productivity, leading to malnutrition and hunger among adults and their families."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 148,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

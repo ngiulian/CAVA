@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUwlNK1s8x6w3HGDQ9FRpSPDx8eU",
+    "object": "chat.completion",
+    "created": 1705854411,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Uzbekistan face include limited job opportunities and unemployment, particularly for the youth; low wages and income inequality; inadequate healthcare facilities and access to quality healthcare services; political restrictions and limited freedom of speech; corruption within the government; limited educational opportunities and low literacy rates; and gender inequality with limited rights and opportunities for women. Other challenges include limited access to clean water and infrastructure in rural areas, lack of affordable housing options, and limited access to financial services and credit facilities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

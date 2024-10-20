@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTKIW9XanQFMbviKuUEjatjJua5g",
+    "object": "chat.completion",
+    "created": 1705848182,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Kazakhstan have a negative perception of divorce. They generally view it as a failure and a source of shame, as it goes against traditional family values and societal norms. Men often prioritize maintaining a stable and harmonious family life, and divorce is seen as a disruption to this ideal. They may feel a sense of personal responsibility for the breakdown of the marriage and may face social stigma and judgment from their peers and communities. Consequently, most men in Kazakhstan strive to avoid divorce and work towards resolving marital issues to preserve their family unit."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 107,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

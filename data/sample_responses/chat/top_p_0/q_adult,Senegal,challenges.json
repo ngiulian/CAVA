@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUlwY8gkR0Xs4CNVJLl2MLK8mo86",
+    "object": "chat.completion",
+    "created": 1705853740,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Senegal face include high unemployment rates, limited access to quality education and healthcare, poverty, and inadequate infrastructure. Additionally, there are issues related to political instability, corruption, and gender inequality. These challenges often hinder economic growth and development, making it difficult for adults to secure stable jobs and improve their living conditions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 69,
+        "total_tokens": 88
+    },
+    "system_fingerprint": null
+}

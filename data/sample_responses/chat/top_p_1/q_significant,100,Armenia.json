@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2tYbAwjjW16QDy5HAeVkhNVcEV",
+    "object": "chat.completion",
+    "created": 1705854791,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Armenia in the past 100 years is the 1915 Armenian Genocide. During World War I, the Ottoman Empire carried out a systematic campaign to exterminate its Armenian population, resulting in the deaths of an estimated 1.5 million Armenians. This event is widely recognized as the first genocide of the 20th century and has had a lasting impact on Armenia's history and collective memory. The Armenian Genocide has shaped the Armenian identity and diaspora, and continues to be a pressing issue in international politics and human rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

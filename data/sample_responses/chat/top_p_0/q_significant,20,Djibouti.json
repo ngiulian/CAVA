@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEKdyKP7uGTFSxRCEeoavU6NntI",
+    "object": "chat.completion",
+    "created": 1705855500,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Djibouti in the past 20 years was the establishment of military bases by foreign powers. Djibouti, due to its strategic location at the entrance to the Red Sea and its proximity to conflict-ridden regions like Somalia and Yemen, has become a crucial hub for international military operations.\n\nIn 2002, the United States established Camp Lemonnier, which has since become the largest and most important American military base in Africa. It serves as a key logistics and intelligence center for counterterrorism efforts in the region, including operations against Al-Shabaab in Somalia and other extremist groups.\n\nFurthermore, Djibouti has also attracted other foreign military powers. In 2017, China established its first overseas military base in Djibouti, adjacent to the American base. This move marked China's growing global military presence and its interest in securing its maritime trade routes, particularly the strategic Bab-el-Mandeb Strait.\n\nThese developments have significantly transformed Djibouti's geopolitical landscape, bringing economic benefits through increased investment and job opportunities. However, they have also raised concerns about potential competition and tensions between major powers in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 237,
+        "total_tokens": 264
+    },
+    "system_fingerprint": null
+}

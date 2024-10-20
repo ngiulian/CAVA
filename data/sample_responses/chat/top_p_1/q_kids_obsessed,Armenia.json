@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVowjffRWUYy0iaj4SwG4uF8s8UQ",
+    "object": "chat.completion",
+    "created": 1705857770,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Armenia are too obsessed with social media and technology. They spend excessive amounts of time on their smartphones, engaging in various social media platforms and playing online games. This obsession often comes at the expense of other activities such as physical exercise, face-to-face interactions, and pursuing hobbies or interests outside the digital world."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 65,
+        "total_tokens": 83
+    },
+    "system_fingerprint": null
+}

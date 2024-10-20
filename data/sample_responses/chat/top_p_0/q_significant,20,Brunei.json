@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8dBrG1nzJQVvz7xThNTIcNrKQA",
+    "object": "chat.completion",
+    "created": 1705855147,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Brunei in the past 20 years was the implementation of the Syariah Penal Code Order (SPCO) in 2019. This event marked a major shift in the legal system of Brunei, as it introduced a stricter interpretation of Islamic law and imposed severe punishments for various offenses. The SPCO drew international attention and sparked widespread criticism due to its provisions, including the criminalization of same-sex relationships, adultery, and blasphemy, which were seen as violating human rights and promoting discrimination. The implementation of the SPCO led to debates and discussions both within Brunei and globally, highlighting the tension between religious conservatism and human rights in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 142,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

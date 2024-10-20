@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSyeqzgxcWzyLp9FM4b0rNmb1aW1",
+    "object": "chat.completion",
+    "created": 1705846840,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Botswana have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and stigma to both parties involved, particularly to the woman. They tend to prioritize maintaining the unity of the family and preserving their reputation within the community. Consequently, divorce is often seen as a last resort, with men preferring to work through marital issues and find ways to reconcile rather than opting for separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 95,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

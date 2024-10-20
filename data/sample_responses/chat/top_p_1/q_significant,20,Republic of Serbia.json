@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVg0zhmymeN3AXW3z6PWNB96KStg",
+    "object": "chat.completion",
+    "created": 1705857216,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in the Republic of Serbia in the past 20 years is the declaration of independence by the breakaway province of Kosovo in 2008. This event had a profound impact on Serbian politics and society, as it led to a heightened sense of nationalism and a reevaluation of Serbia's territorial integrity. The declaration of Kosovo's independence was not recognized by Serbia, and it caused tensions in the region, rekindling historical animosities and creating challenges for normalizing relations between Kosovo and Serbia. This event continues to shape the political landscape in Serbia and the broader Balkan region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 121,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

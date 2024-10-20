@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwIy0RewJKw8HIagDG0rWMjUjO2",
+    "object": "chat.completion",
+    "created": 1705858226,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Nicaragua are often too obsessed with social media, video games, and consumerism. They spend a significant amount of time glued to their screens, scrolling through social media platforms, playing online games, and constantly seeking the latest trends and products. This obsession can sometimes distract them from real-life interactions, physical activities, and other constructive hobbies or interests."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 72,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

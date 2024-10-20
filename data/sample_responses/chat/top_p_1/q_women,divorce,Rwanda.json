@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfJHfyMKGjUtnXKjjVYPiZtGrgA",
+    "object": "chat.completion",
+    "created": 1705849485,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Rwanda view divorce as a challenging and taboo topic due to cultural, social, and economic factors. They often consider divorce as a last resort or an option that carries significant stigma. Women tend to prioritize preserving the traditional family structure and maintaining marital harmony, valuing stability and societal acceptance. There is a prevailing belief that divorce may bring shame, isolation, and economic hardships. However, attitudes towards divorce are gradually evolving, with some women recognizing the importance of leaving abusive or unhappy marriages, seeking equal rights, and finding empowerment in their independence. The perception of divorce varies among individuals and may be influenced by education, urbanization, exposure to different perspectives, and generational differences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 136,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

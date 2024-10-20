@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTXJyJrk0kmYpqBs3VkcPY5oG7fn",
+    "object": "chat.completion",
+    "created": 1705848989,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no single viewpoint that can be generalized to all men in Malaysia regarding divorce. Opinions on divorce vary among men, influenced by cultural, religious, and individual perspectives. However, some common attitudes towards divorce among certain segments of men in Malaysia include:\n\n1. Stigma and societal pressure: Many men in Malaysia perceive divorce as a taboo due to prevailing conservative cultural norms. Society's expectation of maintaining family unity can create pressure on men to avoid divorce, often leading them to prioritize saving a marriage over personal fulfillment.\n\n2. Financial and legal concerns: Men often consider divorce as financially burdensome, fearing significant financial implications such as alimony, child support, and division of assets. The complexities of legal procedures sometimes deter men from pursuing divorce, especially if they fear losing their financial stability.\n\n3. Emotional impact: Some men may experience feelings of failure, shame, and guilt when facing divorce, as they have been culturally conditioned to uphold traditional family values. They may worry about the emotional toll on themselves, their children, and extended family members.\n\n4. Patriarchal beliefs: In segments of society where patriarchal beliefs are prevalent, men may view divorce as a loss of control and authority, as it challenges their perceived position as the head of the family. Such men may resist divorce, viewing it as a threat to their power and status.\n\n5. Changing attitudes: With globalization and increased exposure to progressive ideas, there is a growing subset of men in Malaysia who hold more liberal views on divorce. They"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

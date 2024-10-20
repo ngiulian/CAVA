@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTINDbt8NtGGhpp8oGiNY5cFT1xa",
+    "object": "chat.completion",
+    "created": 1705848063,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Italy have traditionally held more conservative views towards divorce. They often consider divorce to be a negative and undesirable outcome, reflecting a disruption in traditional family values. However, it is important to note that opinions on divorce can vary greatly among individuals, especially in more urban and younger generations who are more open to alternative relationship dynamics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 66,
+        "total_tokens": 85
+    },
+    "system_fingerprint": null
+}

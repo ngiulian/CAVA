@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCzJoOiIxMV8iJhASqMym1ezYmI",
+    "object": "chat.completion",
+    "created": 1705847729,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive summary of what most men in Guatemala think of divorce, as opinions can vary greatly among individuals. However, it is worth noting that Guatemala is a country with a predominantly conservative and traditional culture, where the influence of Catholicism is significant. Generally, traditional gender roles are still prevalent, and divorce can be viewed negatively by some men in this context.\n\nThere may be a segment of men in Guatemala who perceive divorce as a threat to family values and traditional marital bonds. Due to cultural and societal expectations, some men might adhere to the belief that marriage should be enduring and divorce should be avoided whenever possible. This perspective might be particularly pronounced among older generations and in rural areas.\n\nOn the other hand, perspectives on divorce are evolving, especially among younger generations and urban populations who have been influenced by globalization and exposure to different ideas. For some men, divorce may be seen as a means of escaping unhappy or abusive relationships, and they may prioritize personal freedom and individual happiness above societal expectations.\n\nIt is important to remember that these generalizations do not apply to all men in Guatemala, as attitudes and opinions regarding divorce can vary based on factors such as education, socioeconomic status, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 241,
+        "total_tokens": 260
+    },
+    "system_fingerprint": null
+}

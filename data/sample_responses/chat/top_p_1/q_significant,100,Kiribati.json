@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPAc4HfKxx4eiSv9V0DFPG8oq7R",
+    "object": "chat.completion",
+    "created": 1705856172,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kiribati in the past 100 years was the declaration of its independence from the United Kingdom on July 12, 1979. This marked the establishment of the Republic of Kiribati as a sovereign state, with its own government and constitution. Independence Day is now celebrated annually in Kiribati to commemorate this milestone in the country's history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 80,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

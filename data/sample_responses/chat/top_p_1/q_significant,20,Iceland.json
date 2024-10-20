@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVMNLWGp3lYaJbdGr4o5CmYNgu0n",
+    "object": "chat.completion",
+    "created": 1705855999,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Iceland in the past 20 years is the 2008 financial crisis. The country experienced a severe economic collapse with the collapse of its three largest commercial banks. The crisis had devastating effects on the Icelandic economy and caused significant unemployment, bankruptcies, and a sharp decline in living standards for many Icelanders. This event led to widespread protests, the resignation of the government, and a need for international financial assistance. The impact of the crisis still resonates in Iceland today."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

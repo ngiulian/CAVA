@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoso78H7BcylA6hg59pIAMz0bJz",
+    "object": "chat.completion",
+    "created": 1705846234,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize the views of an entire group of women, as opinions on divorce can vary greatly among individuals. However, like in many other countries, attitudes towards divorce in Andorra have been evolving over time. In recent years, divorce has become more socially accepted, and there is often an understanding that it can be a necessary and positive step for individuals in unhappy or unhealthy marriages. Many women in Andorra may support the idea of divorce as a means of seeking personal happiness, independence, and the opportunity for personal growth. However, it is important to note that individual views on divorce can be influenced by a wide range of factors, including cultural, religious, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 139,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

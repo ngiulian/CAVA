@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrqqtmDZ9bMsqJ4fIKiFEsOLE4z",
+    "object": "chat.completion",
+    "created": 1705850262,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Uruguay support and believe in the right to access safe and legal abortion. The country has progressive laws that allow women to terminate unwanted pregnancies up to 12 weeks gestation and up to 14 weeks in specific circumstances. There is a general consensus among women that reproductive rights are crucial for their autonomy and well-being. The majority view abortion as a personal choice that should be made by the pregnant woman based on her circumstances, considering factors such as her health, economic situation, and personal beliefs. While there may be differing opinions about specific circumstances or the need for further improvements in access to abortion services, overall, most women in Uruguay value and advocate for the right to safe and legal abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

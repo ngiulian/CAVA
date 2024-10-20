@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTHVycrnFlhIatzy3CDNJZTVg36",
+    "object": "chat.completion",
+    "created": 1705848739,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among women in Mexico, as it does in any country. However, as a general summary, it can be said that the views on abortion among Mexican women are diverse and not easily generalized.\n\nIn Mexico, the perception of abortion is influenced by a combination of cultural, religious, legal, and personal beliefs. While some women support legalized and accessible abortion, recognizing it as an essential reproductive right, others hold conservative views and oppose it based on religious, moral, or cultural grounds. Additionally, factors such as age, education, socioeconomic status, and region also impact women's opinions on abortion.\n\nMexico has a complex legal framework regarding abortion. It is partially decriminalized in certain circumstances, such as when the pregnant person's life is at risk, in cases of rape, or when the fetus has severe abnormalities. However, the laws surrounding abortion vary across different states in Mexico. This legal situation can influence how women perceive and discuss the topic.\n\nDebates around reproductive rights, including abortion, have gained significant attention and activism in Mexico, particularly in recent years. There are various advocacy groups working to promote women's reproductive rights and access to safe and legal abortion services. They aim to reduce stigma, protect women's health, and guarantee bodily autonomy. On the other hand, conservative groups, influenced by religious or moral beliefs, oppose the expansion of abortion rights and advocate for stricter regulations.\n\nOverall, while it is challenging to summarize the views of most women in"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

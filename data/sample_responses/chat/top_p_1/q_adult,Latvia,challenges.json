@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWvhzIvCpLIzCT4zSXRiNMQpv25",
+    "object": "chat.completion",
+    "created": 1705852809,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Latvia face several significant challenges, including economic hardships, emigration, and access to quality healthcare and educational opportunities. The country has been grappling with high unemployment rates and low wages, making it difficult for many adults to support themselves and their families. Additionally, Latvia has witnessed a significant emigration of its working-age population, which has further exacerbated labor market issues and reduced the overall population. This brain drain has negatively impacted the country's economy and social development. Furthermore, access to quality healthcare and educational opportunities remains a concern, as there are disparities in the availability and affordability of these essential services, particularly in rural areas. These challenges pose significant obstacles for adults in Latvia, affecting their standard of living, prospects for finding stable employment, and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 152,
+        "total_tokens": 170
+    },
+    "system_fingerprint": null
+}

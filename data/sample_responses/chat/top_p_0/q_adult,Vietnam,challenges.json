@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUyQdF5dtOH02GIquvPD20UwmLzo",
+    "object": "chat.completion",
+    "created": 1705854514,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Vietnam face include economic difficulties, limited job opportunities, low wages, and income inequality. Many adults struggle to find stable employment and earn enough to support themselves and their families. Additionally, access to quality healthcare and education can be limited, especially in rural areas. Corruption and bureaucracy also pose challenges, making it difficult for individuals to navigate government systems and access necessary services. Furthermore, there are social issues such as gender inequality, discrimination, and lack of social support networks that adults in Vietnam may face."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 105,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

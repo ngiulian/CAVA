@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUaiWyrTSkIohLqNCMq9UwFM7o9L",
+    "object": "chat.completion",
+    "created": 1705853044,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the biggest challenges that adults in Montenegro face is high unemployment rates. Despite efforts to attract foreign investments and improve the business environment, the country still struggles to create enough job opportunities for its citizens. This leads to financial difficulties, limited career options, and an overall lack of economic security.\n\nAnother significant challenge is the brain drain phenomenon. Many well-educated adults, particularly young professionals, leave Montenegro to seek better opportunities abroad. This not only creates a shortage of skilled workers in the country but also hinders its economic development and reduces the pool of talent available for various sectors.\n\nAdditionally, adults in Montenegro face challenges related to healthcare. The healthcare system often suffers from limited resources, long waiting times, and inadequate access to specialized medical services. This can negatively impact the well-being and quality of life for individuals who require medical assistance.\n\nFurthermore, the country faces demographic challenges, with a rapidly aging population. This puts a strain on the pension system and social services, as there may be insufficient funds to support the growing number of retirees.\n\nPolitical instability, corruption, and bureaucratic hurdles are other challenges that adults in Montenegro must navigate. These issues can impact the overall functioning of the government, hinder business growth, and contribute to a general sense of frustration and disillusionment among citizens.\n\nIn summary, the biggest challenges faced by adults in Montenegro include high unemployment, brain drain, healthcare issues, demographic changes, and political concerns."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 284,
+        "total_tokens": 303
+    },
+    "system_fingerprint": null
+}

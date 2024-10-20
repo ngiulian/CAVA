@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnGscJa9lb7GwqZhUQC3cdAfUMA",
+    "object": "chat.completion",
+    "created": 1705857666,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Vanuatu in the past five years was the devastating Tropical Cyclone Harold. On April 6, 2020, Cyclone Harold struck Vanuatu as a Category 5 storm, causing widespread destruction across the country. The cyclone resulted in numerous fatalities, displacement of communities, severe damage to infrastructure, and significant economic losses. It was considered one of the strongest cyclones to hit Vanuatu in recent history and had a profound impact on the lives of thousands of people in the island nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 111,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTvZGXwE9S0J5s6K3hxRinjMC60p",
+    "object": "chat.completion",
+    "created": 1705850493,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer on what most women in Zimbabwe think of abortion, as opinions on this topic can vary among individuals. However, it is worth noting that Zimbabwe has restrictive abortion laws, with the procedure only being legally permitted in cases where the mother's life is at risk or in cases of rape, incest, or fetal impairment. \n\nIn a conservative society like Zimbabwe, where cultural and religious beliefs often influence attitudes towards abortion, many women may hold traditional views that align with the country's legal restrictions. These women may generally oppose abortion, considering it morally wrong or against their religious beliefs.\n\nHowever, it is important to recognize that there are diverse perspectives on this issue, and some women in Zimbabwe may support more liberal abortion laws. They may argue for women's reproductive rights, access to safe and legal abortion services, and the importance of individual autonomy in making decisions about their bodies and pregnancies.\n\nOverall, while there may be a range of opinions among women in Zimbabwe regarding abortion, the prevailing legal and cultural context tends to shape the general perception of this topic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 214,
+        "total_tokens": 233
+    },
+    "system_fingerprint": null
+}

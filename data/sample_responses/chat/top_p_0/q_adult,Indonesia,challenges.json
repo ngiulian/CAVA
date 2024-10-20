@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUMLBGFiAsBXPQQFv970rRYWfBsE",
+    "object": "chat.completion",
+    "created": 1705852153,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Indonesia face several significant challenges. One of the biggest challenges is the high unemployment rate, particularly among the youth, which limits job opportunities and economic stability. Additionally, income inequality is a major issue, with a significant portion of the population living in poverty. Access to quality education and healthcare is also a challenge, especially in rural areas. Corruption and bureaucratic inefficiency hinder economic growth and development. Furthermore, environmental issues such as deforestation, pollution, and natural disasters pose significant challenges to the well-being and livelihoods of adults in Indonesia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 109,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

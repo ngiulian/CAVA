@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSvY5TU5yqh2DtxA1jonvpwciIDr",
+    "object": "chat.completion",
+    "created": 1705846648,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer as opinions on abortion can vary among individuals in Bosnia and Herzegovina. However, it is generally observed that the majority of men in the country hold conservative views on abortion. Many men in Bosnia and Herzegovina, influenced by cultural, religious, and traditional values, tend to oppose or have reservations about the practice of abortion. These views often align with the prevailing societal norms and the influence of the dominant religious groups in the country, such as Islam and Orthodox Christianity. However, it is important to note that there are also men who support a woman's right to choose and advocate for more liberal abortion laws."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 130,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

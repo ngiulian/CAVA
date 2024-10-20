@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUpxJDC7o84kls8IiV3uzLbJgwjd",
+    "object": "chat.completion",
+    "created": 1705853989,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Slovenia face include high unemployment rates, especially among young adults, which leads to financial instability and difficulty in finding stable employment. Another challenge is the high cost of living, particularly in urban areas, which can make it difficult for adults to afford housing, education, and healthcare. Additionally, there are concerns about the quality and accessibility of healthcare services, as well as the sustainability of the pension system. Finally, there is a need for continuous upskilling and retraining to adapt to the changing job market and technological advancements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 110,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

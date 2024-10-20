@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUYTsR30K57xDlcsZiAOzUqmBvbf",
+    "object": "chat.completion",
+    "created": 1705852905,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the biggest challenges adults in Maldives face is the limited job opportunities and high competition in the job market. With a small and geographically dispersed population, finding stable employment can be difficult, especially for those living in remote islands.\n\nFurthermore, the high cost of living in Maldives poses another significant challenge. The country heavily relies on imports, resulting in inflated prices for basic necessities. This makes it tough for adults to afford housing, education, healthcare, and other essential expenses.\n\nAdditionally, the lack of affordable and accessible healthcare services is a major concern for adults in Maldives. Medical facilities are mainly concentrated in the capital city, Male, leaving residents in the outer islands with limited access to quality healthcare.\n\nMoreover, inadequate educational opportunities can hinder the personal and professional growth of adults in Maldives. Many individuals face limited access to higher education and vocational training, restricting their chances for better job prospects and career advancement.\n\nLastly, climate change and related environmental issues greatly affect adults in Maldives. Rising sea levels, coral bleaching, and erosion pose threats to the nation's economy, tourism sector, and livelihoods. The uncertainty and vulnerability created by these environmental challenges can be particularly concerning for adults in Maldives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 241,
+        "total_tokens": 260
+    },
+    "system_fingerprint": null
+}

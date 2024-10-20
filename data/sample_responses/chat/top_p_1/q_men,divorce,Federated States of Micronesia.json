@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9mzxW2met4MSsFtb3dIVe4oRGk",
+    "object": "chat.completion",
+    "created": 1705847530,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that perspectives can vary, and it is challenging to generalize the views of an entire population. However, traditionally, divorce is generally frowned upon in the Federated States of Micronesia (FSM) due to cultural and societal factors. In FSM, marriage is considered a sacred bond, and the emphasis is placed on maintaining strong family units. \n\nMost men in FSM view divorce as a last resort and believe in working through marital issues rather than ending the relationship. Men often value commitment and the commitment to their families, which includes staying married and fulfilling their responsibilities as husbands and fathers. \n\nSocietal pressure and the influence of Christianity also play a role in shaping the attitudes towards divorce among men in FSM. The predominant religion in the region, Christianity, promotes the sanctity of marriage and discourages divorce, thereby reinforcing the cultural norms that exist. Divorce may be seen as a failure, reflecting negatively on individuals and their families.\n\nIt's worth noting that attitudes toward divorce may vary among younger generations or those living in more urbanized areas, where influences from Western cultures may have an impact. Additionally, individual experiences, personal beliefs, and changing societal values can also shape men's attitudes toward divorce in FSM."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 246,
+        "total_tokens": 271
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUKGn13agosdezDR4BBuVa50aO8E",
+    "object": "chat.completion",
+    "created": 1705852024,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Grenada face include high unemployment rates, limited job opportunities, and low wages. Many adults struggle to find stable employment and earn a sufficient income to support themselves and their families. Additionally, access to affordable housing is a significant challenge, with many adults facing difficulties in finding suitable and affordable accommodation. Health care is another concern, as access to quality medical services and affordable health insurance can be limited. Furthermore, the cost of living, including high prices for basic necessities such as food and utilities, poses a significant challenge for adults in Grenada."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 114,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

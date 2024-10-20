@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfHWHE85AFp6TVKsQy0Yo1KPkhi",
+    "object": "chat.completion",
+    "created": 1705849483,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Rwanda hold conservative views on abortion and generally oppose it. They believe that abortion goes against their cultural and religious beliefs, which emphasize the sanctity of life. Additionally, Rwandan society places a strong emphasis on family and community values, and women often prioritize the well-being and preservation of their families. Therefore, most women in Rwanda consider abortion as morally wrong and prefer to explore alternative options such as adoption or raising the child themselves, even in challenging circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 93,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

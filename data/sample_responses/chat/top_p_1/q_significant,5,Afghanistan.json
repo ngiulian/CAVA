@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV0fk93dC9sn8OY7lUhQFrgZlAJ3",
+    "object": "chat.completion",
+    "created": 1705854653,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One significant event that occurred in Afghanistan in the past five years is the signing of a peace deal between the United States and the Taliban in February 2020. This agreement aimed to bring an end to the ongoing conflict that had persisted in Afghanistan for nearly two decades. The deal included provisions for a phased withdrawal of U.S. troops, the release of Taliban prisoners, and commitments from the Taliban to prevent Afghanistan from being used as a safe haven for international terrorist groups. While the agreement was a milestone in the peace process, the situation in Afghanistan remains complex and challenges persist."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

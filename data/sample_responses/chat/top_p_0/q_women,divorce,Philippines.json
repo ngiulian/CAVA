@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTc3lXopxzKuSpH82veWxoNLNM2o",
+    "object": "chat.completion",
+    "created": 1705849283,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Philippines have mixed opinions about divorce. While some women support the idea of divorce as a means to escape abusive or unhappy marriages, others are more hesitant due to cultural and religious beliefs. The Philippines is one of the few countries where divorce is not legalized, and the majority of women are influenced by the strong influence of Catholicism, which opposes divorce. However, there is a growing movement advocating for the legalization of divorce, as women recognize the need for legal protection and the right to end unhealthy relationships. Overall, opinions on divorce among women in the Philippines vary, reflecting a complex mix of cultural, religious, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

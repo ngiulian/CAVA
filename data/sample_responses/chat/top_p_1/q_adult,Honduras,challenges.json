@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUL3AzG63UukKirSNRj99UVOegww",
+    "object": "chat.completion",
+    "created": 1705852073,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Honduras face include high levels of poverty and unemployment, limited access to quality education and healthcare, pervasive violence and crime, and corruption. The country is characterized by income inequality, with a significant portion of the population living in poverty. Unemployment rates are high, particularly among young adults, leading to financial instability and a lack of opportunities. Access to quality education and healthcare is limited, with many adults facing barriers in obtaining necessary services. Honduras also struggles with high levels of violence, drug trafficking, and gang activities, which pose significant threats to personal safety. Additionally, corruption within the government and institutions creates challenges for adults in accessing services, finding employment, and achieving economic progress."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 138,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

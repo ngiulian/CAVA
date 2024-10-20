@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWycoHjqagfs4LoYParMZgJbuL7",
+    "object": "chat.completion",
+    "created": 1705852812,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Latvia face include high unemployment rates, low wages, and limited job opportunities. The country has been struggling with economic issues, leading to a lack of stable and well-paying jobs. This has resulted in financial difficulties for many adults, making it challenging to meet their basic needs and provide for their families. Additionally, there are concerns about the quality of healthcare and access to affordable housing. The aging population and emigration of young people have also contributed to a shrinking workforce and increased pressure on the remaining adults to support the economy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 110,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUdahSPCoxsXHJyhm1RLIS67u191",
+    "object": "chat.completion",
+    "created": 1705853222,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Nigeria face several significant challenges. One major concern is limited access to quality education, as many schools lack proper infrastructure, qualified teachers, and learning resources. This hinders their educational development and future prospects. Additionally, poverty and unemployment rates in Nigeria are high, making it difficult for teenagers to find decent employment opportunities. This often leads to frustration, hopelessness, and involvement in illicit activities such as drug abuse, crime, and violence. The lack of comprehensive sexual health education further poses challenges, exposing teenagers to the risks of early pregnancies, unsafe abortions, and sexually transmitted infections. Furthermore, gender inequality remains a significant issue, especially affecting female teenagers who face discrimination and limited rights. Finally, due to inadequate mental health support systems, many teenagers struggle with stress, depression, and anxiety without receiving proper help."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 162,
+        "total_tokens": 180
+    },
+    "system_fingerprint": null
+}

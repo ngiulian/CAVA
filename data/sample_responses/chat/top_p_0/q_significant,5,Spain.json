@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGDGbKdneyc2OIv9gayYRxanwzd",
+    "object": "chat.completion",
+    "created": 1705855617,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Spain in the past five years was the Catalan independence referendum and subsequent political crisis in 2017. On October 1, 2017, the regional government of Catalonia held an unauthorized referendum on independence from Spain. The Spanish government declared the referendum illegal and attempted to prevent it from taking place. However, the referendum went ahead, resulting in a majority vote in favor of independence. This led to a political crisis between the Catalan and Spanish governments, with both sides taking strong positions. The Spanish government invoked Article 155 of the Constitution, suspending Catalonia's autonomy and imposing direct rule from Madrid. The crisis sparked widespread protests, clashes with police, and arrests of Catalan politicians. It also had significant economic and social implications, as well as raising questions about the future of Catalonia's relationship with Spain."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 168,
+        "total_tokens": 192
+    },
+    "system_fingerprint": null
+}

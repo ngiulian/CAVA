@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTwdXkCD8l0NcknIc6tbHN8uuaj5",
+    "object": "chat.completion",
+    "created": 1705850559,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Angola face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers struggle to attend school due to financial constraints, lack of infrastructure, and a shortage of qualified teachers. This hampers their ability to acquire necessary skills and knowledge for future employment opportunities.\n\nAnother major challenge is the prevalence of poverty and high unemployment rates. Many teenagers face economic hardships, making it difficult for them to meet their basic needs and pursue their aspirations. The lack of job opportunities further exacerbates this issue, leaving many teenagers without viable career prospects.\n\nTeenagers in Angola also face health challenges, including a high prevalence of HIV/AIDS and limited access to healthcare services. This puts them at risk of contracting and spreading diseases, hindering their overall well-being and development.\n\nAdditionally, teenage pregnancy is a significant concern in Angola. Limited access to sexual education and contraception, coupled with cultural norms and early marriage practices, contribute to high rates of teenage pregnancies. This often leads to early school dropout and limited opportunities for teenage mothers.\n\nLastly, the impact of armed conflicts and political instability in the past has left many teenagers traumatized and struggling with mental health issues. The lack of adequate support systems and resources further compounds their difficulties in coping with these challenges.\n\nOverall, these challenges pose significant obstacles to the well-being, education, and future prospects of teenagers in Angola."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 272,
+        "total_tokens": 290
+    },
+    "system_fingerprint": null
+}

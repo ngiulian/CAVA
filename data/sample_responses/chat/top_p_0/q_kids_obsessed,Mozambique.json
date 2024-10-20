@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVvjnPJYw8GNWxSl5kbl1RSznp9I",
+    "object": "chat.completion",
+    "created": 1705858191,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Mozambique, as their preferences can vary greatly. However, like many children around the world, some common obsessions among kids in Mozambique may include:\n\n1. Technology and gadgets: With the increasing availability of smartphones, tablets, and other electronic devices, many kids in Mozambique, like elsewhere, may be obsessed with technology and spend a significant amount of time on social media, gaming, or watching videos.\n\n2. Music and dance: Mozambique has a rich musical heritage, and many kids may be obsessed with local music genres such as marrabenta, kizomba, or Afro-house. They may spend time listening to music, learning dance moves, or even aspiring to become musicians themselves.\n\n3. Sports: Football (soccer) is hugely popular in Mozambique, and many kids may be obsessed with the sport. They may spend their time playing football, following local and international teams, or collecting football merchandise.\n\n4. Fashion and trends: Like kids in many other countries, some children in Mozambique may be obsessed with fashion and keeping up with the latest trends. They may follow popular fashion influencers, spend time shopping for clothes, or express themselves through their personal style.\n\n5. Television and movies: Kids in Mozambique, like elsewhere, may be obsessed with popular television shows, movies, or cartoons. They may spend time watching their favorite shows, discussing them with friends, or even imitating characters.\n\nIt"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

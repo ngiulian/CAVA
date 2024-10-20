@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWPNw0WD1mQ77Yf8aqirXtU5BnH",
+    "object": "chat.completion",
+    "created": 1705856621,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mozambique in the past five years is the escalation of violence and insurgency in the northern province of Cabo Delgado. In 2017, an Islamist militant group known as Ansar al-Sunna, locally referred to as Al-Shabaab (although it has no known connection to the Somali group with the same name), launched attacks in the region. These attacks have intensified over the years, leading to a humanitarian crisis and displacement of thousands of people.\n\nThe insurgency has resulted in the loss of numerous lives, including civilians, security forces, and militants. It has also caused significant damage to infrastructure, including schools, hospitals, and other public facilities. The violence has had a severe impact on the local population, with many forced to flee their homes and seek refuge in neighboring areas.\n\nThe Mozambican government has been struggling to contain the insurgency and has sought assistance from regional and international partners. In 2021, the Southern African Development Community (SADC) deployed a military force to support Mozambique's efforts in combating the insurgency. This event has had far-reaching consequences for Mozambique, affecting its security, economy, and stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 237,
+        "total_tokens": 262
+    },
+    "system_fingerprint": null
+}

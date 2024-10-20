@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjRHMrkIJqBDt5GT1lOA3rDMt6d",
+    "object": "chat.completion",
+    "created": 1705849741,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Republic of Serbia have varying opinions on divorce. Some men view divorce as a necessary solution to an unhappy or dysfunctional marriage, believing that it can provide individuals with a chance to start anew and find happiness. They may support divorce as a means to escape toxic relationships or to prioritize personal well-being and mental health.\n\nHowever, there are also men who hold more traditional views and may be less accepting of divorce. They may perceive divorce as a failure or a betrayal of traditional family values, often emphasizing the importance of maintaining a stable and intact family unit. These individuals may be more inclined to work on their marriage and seek reconciliation rather than opting for divorce.\n\nIt is important to note that these perspectives can vary significantly among individuals, and there is no single viewpoint that represents the entire male population in Serbia. Attitudes towards divorce are influenced by various factors such as personal experiences, cultural and religious beliefs, education, and exposure to different societal norms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 189,
+        "total_tokens": 210
+    },
+    "system_fingerprint": null
+}

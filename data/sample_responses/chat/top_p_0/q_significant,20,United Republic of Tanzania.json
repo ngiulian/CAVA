@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVl7Hbk3rOZNwAS3fyhX7Xik9dE1",
+    "object": "chat.completion",
+    "created": 1705857533,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the United Republic of Tanzania in the past 20 years was the death of President John Magufuli in March 2021. Magufuli, who had been in power since 2015, was known for his controversial leadership style and policies. His death marked a significant turning point in Tanzanian politics and led to the swearing-in of Vice President Samia Suluhu Hassan as the country's first female president. This event not only had a profound impact on Tanzanian politics but also garnered international attention and raised questions about the future direction of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 123,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

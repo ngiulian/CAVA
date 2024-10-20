@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDr18K71ItiK7RH3TiVuxqqiYhM",
+    "object": "chat.completion",
+    "created": 1705855471,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Czech Republic in the past 5 years was the COVID-19 pandemic which hit the country in early 2020. The pandemic had a profound impact on the nation, leading to lockdowns, restrictions, and significant disruptions to daily life. The Czech Republic implemented strict measures to control the spread of the virus, including mandatory mask-wearing, closure of schools and businesses, and limitations on public gatherings. The healthcare system faced challenges due to the surge in cases, and the government worked to secure vaccines and ramp up testing and contact tracing efforts. The pandemic not only affected public health but also led to economic repercussions and social upheaval."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 135,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

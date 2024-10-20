@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViw6678NzUeVkQO3zp0mZcUl4lL",
+    "object": "chat.completion",
+    "created": 1705857398,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Tajikistan in the past 20 years is the signing of the Tajik Peace Agreement in 1997. This agreement brought an end to the Tajik Civil War, which had lasted for five years and resulted in the deaths of tens of thousands of people. The peace agreement was signed between the Tajik government and the United Tajik Opposition, a coalition of opposition groups. It established a power-sharing arrangement, with the opposition being included in the government and the integration of opposition fighters into the national army. This event marked a crucial turning point in Tajikistan's history, bringing stability and paving the way for political and economic development in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 140,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

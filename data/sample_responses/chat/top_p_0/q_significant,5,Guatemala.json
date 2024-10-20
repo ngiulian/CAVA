@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJjUARQxj9u0FquhR9czkzfWuBY",
+    "object": "chat.completion",
+    "created": 1705855835,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guatemala in the past 5 years was the eruption of the Volc\u00e1n de Fuego (Volcano of Fire) on June 3, 2018. This volcanic eruption was one of the deadliest in Guatemala's recent history, resulting in the loss of more than 200 lives, displacing thousands of people, and causing significant damage to infrastructure and agriculture in the surrounding areas. The eruption had a profound impact on the affected communities and led to a nationwide response in terms of emergency relief efforts and long-term recovery plans."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

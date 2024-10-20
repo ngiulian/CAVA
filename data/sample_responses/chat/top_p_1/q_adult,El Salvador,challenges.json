@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUnDmDgMkHDPdvNxdaMZv02fFh9j",
+    "object": "chat.completion",
+    "created": 1705853819,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in El Salvador face include high levels of crime and violence, limited job opportunities and economic inequality, lack of access to quality healthcare and education, and political instability. Gang-related violence has been a major issue, with high homicide rates and gang extortion causing fear and insecurity among adults. The country also faces economic challenges, including high levels of poverty, unemployment, and underemployment, leading to difficulties in making a living and providing for their families. Limited access to quality healthcare and education further hampers their ability to improve their lives and escape poverty. Moreover, political instability and corruption have hindered the country's progress and hampered the implementation of effective policies to address these challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 140,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

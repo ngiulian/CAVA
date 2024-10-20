@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWEaah3YKNQCcVigxra8xNem6PoX",
+    "object": "chat.completion",
+    "created": 1705859360,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Monaco, you have several options:\n\n1. Walk: Monaco is a small principality, and walking is a convenient and popular mode of transportation. You can simply walk to the grocery store if it's within a comfortable distance.\n\n2. Bicycle: Monaco has bike-sharing systems and designated bike lanes in many areas. You can rent a bike from one of the various stations and ride to the grocery store. This option allows for a faster commute compared to walking.\n\n3. Public transportation: Monaco has an efficient public bus network that covers the entire principality. You can check the bus routes and schedules to find the closest bus stop to your location and take a bus to the grocery store.\n\n4. Taxi or ride-sharing: Taxis are widely available in Monaco, and you can easily find one near popular areas. Additionally, ride-sharing services like Uber operate in Monaco, offering convenient and direct transportation to the grocery store.\n\nConsider choosing the transportation mode that suits your preferences, the proximity of the grocery store, and the weather conditions at the moment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 220,
+        "total_tokens": 244
+    },
+    "system_fingerprint": null
+}

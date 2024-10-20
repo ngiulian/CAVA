@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTirDa51PicrkSEUKpmLebhcxVwZ",
+    "object": "chat.completion",
+    "created": 1705849705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Somaliland are generally opposed to divorce due to cultural and societal beliefs, as well as potential social and economic consequences. Divorce is seen as a last resort and is heavily stigmatized in the conservative society of Somaliland. Women often prioritize the well-being and stability of their children, and divorce is often viewed as detrimental to their upbringing and future prospects. Additionally, divorced women may face social isolation, loss of financial support, and limited opportunities for remarriage. As a result, women tend to endure and persevere through difficult marriages, focusing on finding coping mechanisms and seeking support within their families and communities rather than considering divorce as a viable option. However, it is important to note that individual perspectives may vary based on personal experiences, education levels, and exposure to different cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 161,
+        "total_tokens": 182
+    },
+    "system_fingerprint": null
+}

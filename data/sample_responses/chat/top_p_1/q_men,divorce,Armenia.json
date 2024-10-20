@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSpmqu7u55IO1QQVME5mm7qHXUUp",
+    "object": "chat.completion",
+    "created": 1705846290,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Armenia tend to hold negative views on divorce. They often consider it as a failure and undesirable outcome, reflecting traditional values and social norms. Many believe in the sanctity of marriage, emphasizing the importance of staying committed and making efforts to reconcile differences. Divorce is generally perceived as detrimental to family unity and can be stigmatized within the society. While opinions may vary among individuals, there is a prevailing belief that divorce should be avoided unless the situation becomes unbearable or there is evidence of severe mistreatment or infidelity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

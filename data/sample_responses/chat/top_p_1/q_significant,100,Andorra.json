@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2CRcqnp42eUVdMMncWWM6eVJfg",
+    "object": "chat.completion",
+    "created": 1705854748,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Andorra in the past 100 years was the signing of the Andorra Constitution in 1993. This event marked a historic moment for the country as it transitioned from a Co-Principality, with joint rule by the French President and the Bishop of Urgell, to a parliamentary democracy. The new constitution established Andorra as a sovereign state with a system of government that includes a separation of powers, protection of individual rights, and provisions for the development of democratic institutions. This event represented a significant step towards modernization and increased autonomy for Andorra."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 122,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

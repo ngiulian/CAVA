@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4jjx1vnejyH5rvVyfQ0pmYTYRL",
+    "object": "chat.completion",
+    "created": 1705854905,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Azerbaijan in the past 20 years is the Second Nagorno-Karabakh War, which took place from September 27 to November 10, 2020. This conflict was a continuation of the long-standing territorial dispute between Azerbaijan and Armenia over the Nagorno-Karabakh region. The war resulted in the recapture of several territories by Azerbaijan, including the strategic city of Shusha, and the signing of a ceasefire agreement mediated by Russia. This event had a profound impact on the region, reshaping the geopolitical landscape and leading to significant changes in the status quo."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 126,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

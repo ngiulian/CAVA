@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7zUWvq5zNjCwef0LoqfQ6XMJy0",
+    "object": "chat.completion",
+    "created": 1705855107,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bolivia in the past 5 years was the political and social crisis that unfolded in 2019. Following the controversial presidential election held in October 2019, widespread protests erupted across the country, alleging electoral fraud and demanding the resignation of then-President Evo Morales. The crisis escalated, leading to Morales' resignation and subsequent exile. This event marked a significant shift in Bolivia's political landscape, with an interim government taking charge until new elections were held in October 2020. The crisis highlighted deep divisions within Bolivian society and had a profound impact on the country's political and social dynamics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

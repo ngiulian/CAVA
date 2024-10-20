@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVc1Q7pNGbhpjXI8slSY97RX28dR",
+    "object": "chat.completion",
+    "created": 1705856969,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Qatar in the past 5 years was the ongoing diplomatic crisis that began in June 2017. Several Arab countries, including Saudi Arabia, the United Arab Emirates, Bahrain, and Egypt, severed diplomatic ties with Qatar and imposed a blockade on the country. This crisis had a major impact on Qatar's economy, politics, and regional relations. It led to the closure of land, sea, and air borders, affecting trade and travel. Qatar faced challenges in ensuring food security and had to find alternative routes for imports. The crisis also prompted Qatar to strengthen its ties with other countries, such as Turkey and Iran, to mitigate the impact of the blockade. Despite ongoing efforts at reconciliation, the diplomatic crisis remains unresolved and has significantly shaped Qatar's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 159,
+        "total_tokens": 183
+    },
+    "system_fingerprint": null
+}

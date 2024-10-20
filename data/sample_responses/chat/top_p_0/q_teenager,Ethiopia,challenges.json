@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGri9wvBnbl1gjPpvMBnZvam2I5",
+    "object": "chat.completion",
+    "created": 1705851813,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Ethiopia face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers, especially those in rural areas, struggle to attend school due to factors like poverty, lack of infrastructure, and cultural norms. This hinders their ability to acquire necessary skills and knowledge for their future.\n\nAnother major challenge is the prevalence of child marriage. In Ethiopia, a significant number of teenage girls are forced into early marriages, which disrupts their education, exposes them to health risks, and limits their opportunities for personal and professional growth.\n\nTeenagers in Ethiopia also face economic hardships. High rates of poverty and unemployment make it difficult for them to secure decent jobs and support themselves financially. This can lead to a cycle of poverty and limited opportunities for their future.\n\nAdditionally, teenagers in Ethiopia often lack access to healthcare services, including sexual and reproductive health education. This can result in higher rates of teenage pregnancies, sexually transmitted infections, and limited knowledge about safe practices.\n\nLastly, social and cultural norms can also pose challenges for teenagers in Ethiopia. Traditional gender roles and expectations may limit their freedom of expression, restrict their choices, and perpetuate gender inequality.\n\nOverall, these challenges hinder the development and well-being of teenagers in Ethiopia, limiting their potential and opportunities for a better future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 256,
+        "total_tokens": 274
+    },
+    "system_fingerprint": null
+}

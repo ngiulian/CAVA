@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtp44DkFeL12l7Plrylc0Rq6K3Z",
+    "object": "chat.completion",
+    "created": 1705850385,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no single viewpoint among all men in Samoa regarding abortion, as opinions may vary based on personal beliefs, cultural values, and individual experiences. However, it is generally observed that, in Samoan society, abortion is commonly viewed as morally wrong and culturally unacceptable. The cultural norms and religious influences in Samoa often prioritize family and the sanctity of life. Consequently, many men in Samoa tend to oppose abortion and consider it a violation of these values. Nonetheless, it is essential to recognize that individual perspectives can differ, and there might be men who hold varying opinions on this topic in Samoa."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

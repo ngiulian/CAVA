@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWFLarF8DFtL1PDpFzK8eoTLiH2O",
+    "object": "chat.completion",
+    "created": 1705859407,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Macedonia, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a convenient and healthy option. Simply head out of your home and walk towards the grocery store. Use a map or GPS if needed to ensure you're going in the right direction.\n\n2. Cycling: If you have a bicycle, it can be a faster and more efficient way to reach the grocery store. Macedonia has a growing cycling infrastructure, so you can use bike lanes or regular roads to reach your destination safely.\n\n3. Public transportation: Check if there are any bus or tram lines that pass near your location and go towards the grocery store. Look for the nearest bus stop or tram station, and take the appropriate route to reach your destination. Make sure to check the schedule and plan your trip accordingly.\n\n4. Taxi or rideshare: If you prefer a more convenient and direct option, you can call a taxi or use a ridesharing app like Uber or Bolt. This way, you can be dropped off right at the entrance of the grocery store without any hassle.\n\nConsider the time, weather conditions, and your personal preferences when choosing the best mode of transportation for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 260,
+        "total_tokens": 284
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUJXtPIiF4Jo77xXwJbAOSmUvg04",
+    "object": "chat.completion",
+    "created": 1705851979,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Equatorial Guinea face include limited access to quality education and healthcare services, high unemployment rates, low wages, and a lack of basic infrastructure and social services in many parts of the country. Corruption and a lack of transparency in government also pose challenges to economic development and social progress. Additionally, there is limited political freedom and freedom of expression, which can restrict individuals' rights and limit their ability to participate in the decision-making process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 93,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

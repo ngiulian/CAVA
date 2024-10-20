@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3fzpk2VGMnecnU0erI9bVpKRCf",
+    "object": "chat.completion",
+    "created": 1705847151,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of an entire population. However, in Costa Rica, a predominantly Catholic country, there is a significant influence of religious and cultural beliefs on the topic of abortion. Many men in Costa Rica, particularly those who adhere to conservative values, tend to hold pro-life views and oppose abortion. They may believe that life begins at conception and consider abortion as morally wrong. However, it is essential to recognize that there are also men in Costa Rica who support a woman's right to choose and advocate for legal access to safe and regulated abortion services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 129,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

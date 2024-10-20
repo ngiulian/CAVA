@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRAl28lDLC74sZMsjcqfvsOSeWF",
+    "object": "chat.completion",
+    "created": 1705856296,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Libya in the past 20 years is the 2011 Libyan Civil War, which ultimately led to the overthrow of long-time dictator Muammar Gaddafi. The conflict began as a part of the wider Arab Spring protests, with opposition groups and rebels rising up against Gaddafi's regime. The war lasted for several months and involved the intervention of NATO forces in support of the rebels. Gaddafi was eventually captured and killed in October 2011, marking the end of his 42-year rule. However, it is important to note that the civil war had far-reaching consequences, including political instability, the proliferation of armed militias, and ongoing conflict in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 140,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,98 @@
+{
+    "id": "cmpl-8jGEMZmg67UPffba8E7YBVXxlNLyt",
+    "object": "text_completion",
+    "created": 1705797842,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " the construction of hundreds of check b",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " the",
+                    " construction",
+                    " of",
+                    " hundreds",
+                    " of",
+                    " check",
+                    " b"
+                ],
+                "token_logprobs": [
+                    -0.45073912,
+                    -5.5626316,
+                    -0.07899334,
+                    -7.0767083,
+                    -0.035751455,
+                    -7.3154354,
+                    -11.414807
+                ],
+                "top_logprobs": [
+                    {
+                        " the": -0.45073912,
+                        " that": -2.2944891,
+                        " probably": -3.5523016,
+                        " undoubtedly": -3.6616766,
+                        ",": -4.044489
+                    },
+                    {
+                        " UN": -3.5157568,
+                        " establishment": -3.7579443,
+                        " death": -3.8985693,
+                        " appointment": -3.9063818,
+                        " creation": -3.9766943
+                    },
+                    {
+                        " of": -0.07899334,
+                        " and": -3.6258683,
+                        " by": -4.196181,
+                        ",": -4.852431,
+                        " in": -5.211806
+                    },
+                    {
+                        " the": -0.756396,
+                        " a": -1.193896,
+                        " an": -3.7329586,
+                        " ": -3.9517086,
+                        " new": -4.412646
+                    },
+                    {
+                        " of": -0.035751455,
+                        " kilometers": -5.0826263,
+                        " and": -5.215439,
+                        ",": -5.2388763,
+                        " (": -6.231064
+                    },
+                    {
+                        " kilometers": -1.3701228,
+                        " kilometres": -1.8154353,
+                        " miles": -2.807623,
+                        " illegal": -2.9716854,
+                        " new": -3.0029354
+                    },
+                    {
+                        " points": -0.8015262,
+                        "-points": -1.6218387,
+                        " posts": -1.7624637,
+                        "posts": -2.7155886,
+                        "-posts": -3.1530886
+                    }
+                ],
+                "text_offset": [
+                    81,
+                    85,
+                    98,
+                    101,
+                    110,
+                    113,
+                    119
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 16,
+        "completion_tokens": 7,
+        "total_tokens": 23
+    }
+}

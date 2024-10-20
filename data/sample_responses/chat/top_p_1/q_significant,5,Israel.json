@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVMWveQnFpJQuFS2rKGOAPb0bNa4",
+    "object": "chat.completion",
+    "created": 1705856008,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the significant events that took place in Israel in the past 5 years was the signing of the Abraham Accords in 2020. The Abraham Accords were a series of normalization agreements between Israel and four Arab countries: the United Arab Emirates, Bahrain, Sudan, and Morocco. This event marked a significant shift in regional diplomacy, as it provided a framework for diplomatic relations, economic cooperation, and cultural exchanges between Israel and these Arab nations. The agreements also indicated a growing recognition and acceptance of Israel in the Arab world, which had previously been isolated in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 115,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

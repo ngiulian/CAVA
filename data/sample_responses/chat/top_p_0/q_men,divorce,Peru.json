@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbXDxkw7l1KZGulK0DQzSh4oXmm",
+    "object": "chat.completion",
+    "created": 1705849251,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Peru have traditionally held negative views towards divorce. They often perceive divorce as a failure and a threat to the stability of the family unit. Many men believe that divorce goes against their cultural and religious values, which emphasize the importance of marriage and commitment. Additionally, there is a prevailing belief that divorce negatively impacts children and their upbringing. However, it is important to note that attitudes towards divorce are gradually changing in Peru, particularly among younger generations who are more open to the idea of ending a marriage if it is not working."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

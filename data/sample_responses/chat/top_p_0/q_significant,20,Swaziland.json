@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVhMTqqsD2BHFSaOhnRx9mdLMZUL",
+    "object": "chat.completion",
+    "created": 1705857300,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Swaziland (now Eswatini) in the past 20 years was the country's transition to a multiparty democracy. In 2005, King Mswati III, who had ruled as an absolute monarch, announced plans to introduce a new constitution and allow political parties to participate in the government. This move came after years of pressure from pro-democracy activists and international organizations.\n\nIn 2006, the new constitution was adopted, and the first parliamentary elections were held in 2008. However, it is important to note that the political landscape in Eswatini remains heavily influenced by the monarchy, as the king still holds significant power and appoints the Prime Minister and Cabinet members.\n\nWhile the transition to a multiparty democracy was a significant step towards political reform, challenges and criticisms remain regarding the level of political freedom and the role of the monarchy in Eswatini's governance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 191,
+        "total_tokens": 217
+    },
+    "system_fingerprint": null
+}

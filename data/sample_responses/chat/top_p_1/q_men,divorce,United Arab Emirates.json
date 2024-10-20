@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSp2NHyiQUE3K6QPF6YWTo91vsmh",
+    "object": "chat.completion",
+    "created": 1705846244,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the United Arab Emirates generally have negative views towards divorce. They tend to see it as a last resort and believe in the importance of preserving the family unit. Divorce is often perceived as a social stigma and a failure, as it goes against cultural and religious norms. Men in the UAE typically prioritize their responsibility as husbands and fathers, and divorce is seen as a disruption to these roles."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 80,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

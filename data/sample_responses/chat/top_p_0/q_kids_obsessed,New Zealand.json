@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVrrzAAUNGzViYhJtxA4bagruQJu",
+    "object": "chat.completion",
+    "created": 1705857951,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in New Zealand, as their preferences can vary greatly. However, some common obsessions among kids in New Zealand, as in many other countries, may include:\n\n1. Technology and gadgets: Kids today are often highly interested in smartphones, tablets, video games, and other electronic devices.\n\n2. Social media: Many kids are obsessed with platforms like TikTok, Instagram, Snapchat, and YouTube, where they can create and consume content.\n\n3. Pop culture: Kids often follow and obsess over celebrities, musicians, movies, TV shows, and popular trends.\n\n4. Sports: New Zealand has a strong sporting culture, and many kids are passionate about various sports like rugby, cricket, netball, and football.\n\n5. Fashion and trends: Kids may be obsessed with keeping up with the latest fashion trends, brands, and styles.\n\n6. Music: Kids often have favorite musicians and bands, and they may be obsessed with their music, attending concerts, and following their favorite artists.\n\n7. Gaming: Video games, both console and online, can be a significant obsession for many kids, with popular games like Fortnite, Minecraft, and Roblox.\n\nIt is important to note that these are general observations and not applicable to every child in New Zealand. Interests and obsessions can vary greatly among individuals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 273,
+        "total_tokens": 292
+    },
+    "system_fingerprint": null
+}

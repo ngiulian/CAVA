@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTG4YOEkGCOWTXXhhKj1y3oqERtP",
+    "object": "chat.completion",
+    "created": 1705847920,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on divorce in India can vary significantly based on various factors such as education, socio-economic background, and cultural beliefs. However, there are some common perspectives that can be observed among many women in India regarding divorce.\n\nTraditionally, divorce has been stigmatized in Indian society, and this perception still persists to some extent. Many women may feel societal pressure to maintain their marriages, even in unhappy or abusive situations, due to concerns about reputation, family honor, and fear of being ostracized. Divorce is often seen as a last resort, and women may be expected to endure hardships and make sacrifices to preserve the marriage.\n\nHowever, with changing times, there is a growing acceptance of divorce among women in India. Increasing education and awareness have empowered women to question societal norms and seek independence. Women who have experienced unhappy or abusive marriages may view divorce as a means to escape such situations and regain control over their lives.\n\nFinancial independence also plays a crucial role in shaping women's attitudes towards divorce. Women who are financially self-sufficient are more likely to consider divorce as they have the means to support themselves and their children. On the other hand, women who are economically dependent on their spouses may be more hesitant to pursue divorce due to concerns about financial stability.\n\nOverall, while divorce is still viewed with some degree of social stigma, there is a gradual shift in attitudes among women in India. Many women are increasingly recognizing their rights and seeking divorce as a means to break"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

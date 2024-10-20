@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWd2FDlvhpQcVvJOHbNLZiviatc",
+    "object": "chat.completion",
+    "created": 1705856635,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mauritania in the past 5 years was the constitutional referendum held on August 5, 2017. The referendum resulted in the abolition of the country's Senate, extending the powers of the President, and changing the national flag and anthem. The constitutional changes were proposed by President Mohamed Ould Abdel Aziz, who argued that they would enhance governance and streamline decision-making processes. The referendum caused significant debate and controversy within the country, and its outcome has had important implications for political power structures in Mauritania."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 111,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

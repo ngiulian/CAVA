@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTS8QblisyYQxkMiQyiyuMXz0e2X",
+    "object": "chat.completion",
+    "created": 1705848668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that generalizations can be misleading, and opinions can vary among individuals. However, based on societal and cultural factors, it can be said that in Moldova, many men tend to have traditional views on divorce. Divorce is often considered undesirable and frowned upon, particularly among older generations. Men in Moldova often believe that marriage is meant to be long-lasting, and divorce is seen as a failure or a lack of commitment to the relationship. This belief is influenced by cultural norms, religious values, and the idea of maintaining the stability of the family unit. However, as societal attitudes continue to evolve, younger generations may be more open to the idea of divorce as a solution to irreconcilable differences or unhappy marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 149,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

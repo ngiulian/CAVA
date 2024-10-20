@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVd2ussbxUrxqmA1BmVELYU3f9E",
+    "object": "chat.completion",
+    "created": 1705848885,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The opinion of most women in Mongolia regarding abortion is not explicitly mentioned and might vary among individuals. It is important to note that Mongolia has a relatively liberal stance towards abortion, wherein it is legal and available on demand up to 12 weeks of pregnancy. However, factors such as culture, religion, personal beliefs, and individual circumstances can influence women's opinions on this matter. Some women in Mongolia may support a woman's right to choose, valuing reproductive autonomy and access to safe abortion services. Others might hold more conservative views, considering abortion morally or culturally unacceptable. Overall, while it is challenging to generalize the opinion of most women in Mongolia, the legal framework suggests a generally accepting attitude towards abortion in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 142,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

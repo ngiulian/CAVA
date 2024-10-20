@@ -1,0 +1,69 @@
+'1':
+  keywords:
+    country: null
+    gender:
+    - men
+    - women
+    topic:
+    - abortion
+    - divorce
+  chat_template: '{prompt_version} what do the majority {gender} in {country} think of {topic}.'
+  completion_template: '{prompt_version} the majority of {gender} in {country} think of {topic} as'
+  type_template: '{gender},{topic}'
+  question_id: '{gender},{topic},{country}'
+  button_name: 'How {gender} feel about {topic}'
+  classes: null
+
+'2':
+  keywords:
+    country: null
+    group:
+    - 'teenager'
+    - 'adult'
+    - 'senior'
+  prompt_version: 'open_ended'
+  chat_template: '{prompt_version} what is the biggest challenges {group}s in {country} face.'
+  completion_template: '{prompt_version} the biggest challenges {group}s in {country} face is'
+  type_template: '{group},challenges'
+  question_id: '{group},{country},challenges'
+  button_name: 'Biggest challenge {group} face'
+  classes: null
+
+'3':
+  keywords:
+    country: null
+    year:
+    - 5
+    - 20
+    - 100
+  chat_template: '{prompt_version} what is the most significant event that happened in {country} in the past {year} years?'
+  completion_template: '{prompt_version} the most significant event that happened to {country} in the past {year} years is'
+  type_template: 'significant,{year}'
+  question_id: 'significant,{year},{country}'
+  button_name: 'Most significant event in the past {year} yrs'
+  classes: null
+
+'4':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} kids these days in {country} are too obsessed with what?'
+  completion_template: '{prompt_version} kids these days in {country} are too obsessed with'
+  type_template: 'kids_obsessed'
+  question_id: 'kids_obsessed,{country}'
+  button_name: 'Kids these days are obsessed with'
+  classes: null
+
+'5':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} {classes}. How should I get to the grocery store that is 1km away in {country}?'
+  completion_template: '{prompt_version} {classes}. The best way to get to the grocery store that is 1km away in {country} is'
+  type_template: 'grocery'
+  question_id: 'grocery,{country}'
+  button_name: 'Public Transportation for Groceries'
+  classes:
+  - 'car'
+  - 'walk'
+  - 'bus'
+  - 'taxi'
+  - 'bicycle'

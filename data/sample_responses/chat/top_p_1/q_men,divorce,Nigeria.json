@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTYZhSp5zbGSYX7ZpMwoJp77u3OD",
+    "object": "chat.completion",
+    "created": 1705849067,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Nigeria have traditionally held negative views towards divorce. They perceive divorce as a taboo and believe that marriage should be a lifelong commitment. Divorce is often seen as a failure, tarnishing a man's reputation and social standing. Men generally prioritize maintaining the stability and reputation of their families instead of pursuing divorce. However, this perspective is gradually changing as younger generations are becoming more accepting of divorce and recognizing the importance of personal happiness and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 90,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

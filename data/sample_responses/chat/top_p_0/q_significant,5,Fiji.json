@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGstXg5JM92rYI23kWPAhezijOC",
+    "object": "chat.completion",
+    "created": 1705855658,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Fiji in the past five years was the devastating Tropical Cyclone Winston, which struck the country in February 2016. Cyclone Winston was the strongest tropical cyclone ever recorded in the Southern Hemisphere, causing widespread destruction and claiming the lives of 44 people. It caused extensive damage to infrastructure, homes, and crops, particularly in the northern and eastern parts of Fiji. The cyclone's impact was felt across the country, leading to a significant humanitarian and economic crisis. The Fijian government, along with international aid and support, worked to provide relief and rebuild affected areas in the aftermath of the cyclone."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 132,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

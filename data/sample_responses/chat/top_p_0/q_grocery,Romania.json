@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWJAw090zTfUIzqZFAv49tgsdXAp",
+    "object": "chat.completion",
+    "created": 1705859644,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Romania, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take you around 5-7 minutes to cover the 1km distance.\n\n3. Public transportation: Depending on the availability of public transportation in your area, you can check for bus or tram routes that pass near the grocery store. Look for the nearest bus stop or tram station and take the appropriate route to reach your destination.\n\n4. Taxi or rideshare: If you prefer a more comfortable and convenient option, you can call a taxi or use a ridesharing service like Uber or Bolt to take you to the grocery store. This will be the quickest option, taking around 3-5 minutes to reach your destination.\n\nConsider the weather conditions, your personal preferences, and the availability of transportation options to choose the most suitable method for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 248,
+        "total_tokens": 272
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVcmojcZAmRR3LeBuWYZhIXngW1W",
+    "object": "chat.completion",
+    "created": 1705857016,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Rwanda in the past 5 years is the country's successful management of the COVID-19 pandemic. Rwanda implemented strict measures to control the spread of the virus, including early lockdowns, widespread testing, contact tracing, and strict adherence to health protocols. The government's proactive response and effective healthcare system helped to minimize the impact of the pandemic on the population. Rwanda's handling of the COVID-19 crisis has been widely praised internationally, highlighting the country's resilience and ability to effectively respond to major challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 107,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

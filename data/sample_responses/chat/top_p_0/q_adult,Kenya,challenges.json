@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUQuLEx3RyQjKLCc9pwhvZIQObTN",
+    "object": "chat.completion",
+    "created": 1705852436,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Kenya face include high levels of unemployment and underemployment, limited access to quality education and healthcare, poverty and income inequality, inadequate infrastructure and basic services, political instability and corruption, and the impact of climate change on agriculture and food security. Additionally, adults in Kenya also face challenges related to gender inequality, limited access to financial services, and the prevalence of diseases such as HIV/AIDS."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 83,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

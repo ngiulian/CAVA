@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTr76zX1qBYQrEHBnumbbUEyUpM5",
+    "object": "chat.completion",
+    "created": 1705850217,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Uganda view divorce as a last resort and generally prefer to stay in a marriage, considering it a lifelong commitment. They often prioritize the stability of their families, children's well-being, and the cultural and social repercussions of divorce. Women tend to endure abusive or unhappy marriages for the sake of societal expectations, financial dependency, and fear of facing stigma and discrimination, especially in rural areas. However, opinions on divorce vary among individuals, with some women supporting the idea of leaving an unhappy or abusive marriage to pursue personal happiness and fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

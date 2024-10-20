@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHj5xdLsvdIWxGzuHY6L22UewzJ",
+    "object": "chat.completion",
+    "created": 1705855711,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Georgia in the past 20 years is the Russo-Georgian War in 2008. This conflict occurred between Georgia and Russia over the breakaway regions of South Ossetia and Abkhazia. The war resulted in the loss of Georgian control over these regions and had a significant impact on the political landscape of the country. It also strained Georgia's relations with Russia and had long-lasting consequences for the region's stability and security."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 98,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

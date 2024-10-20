@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT02BBRy5oooZ8wgSCQHnDVTbOvo",
+    "object": "chat.completion",
+    "created": 1705846926,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an exact summary of what most women in Chile think of abortion as perspectives on this topic can vary greatly depending on various factors such as personal beliefs, cultural backgrounds, and individual circumstances. However, it is essential to note that Chile has historically had restrictive abortion laws.\n\nFollowing the enactment of a complete ban on abortion in 1989, public opinion on abortion in Chile has gradually shifted. In recent years, there has been an increasing call for loosening the country's abortion restrictions, particularly among younger generations and proponents of women's rights. Many women in Chile advocate for legalizing abortion in certain circumstances, such as cases involving risks to the mother's life, fetal abnormalities, or pregnancy resulting from rape.\n\nPro-choice activists argue that women should have the right to make decisions about their bodies, access safe abortion services, and have reproductive autonomy. They highlight the need for comprehensive sex education, access to contraceptives, and public health measures to prevent unwanted pregnancies. They also advocate for reproductive rights as an essential component of gender equality.\n\nHowever, it is important to acknowledge that there is a diversity of opinions in Chile regarding abortion, and a significant portion of the population remains opposed to any form of legalization. Some individuals, influenced by religious, moral, or conservative beliefs, strongly advocate for maintaining strict abortion laws, viewing abortion as a violation of unborn life's sanctity.\n\nIn summary, there is a growing segment of women in Chile who support the availability of legal and safe abortion in certain circumstances"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

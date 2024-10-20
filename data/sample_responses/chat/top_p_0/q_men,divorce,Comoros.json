@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3DTHACfSrZApN3O2HEo1S2Bakc",
+    "object": "chat.completion",
+    "created": 1705847123,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Comoros hold negative views towards divorce. They generally believe that divorce is a last resort and should only be considered in extreme circumstances. Men in Comoros value the stability of marriage and prioritize maintaining the family unit. They often perceive divorce as a failure and a disruption to societal norms and traditional values. Consequently, they tend to discourage divorce and encourage couples to work through their issues and reconcile."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 82,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

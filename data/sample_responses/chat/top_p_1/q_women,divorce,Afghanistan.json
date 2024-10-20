@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmtPdfpHvJTXDcUlPqY1bCHh40f",
+    "object": "chat.completion",
+    "created": 1705846111,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to acknowledge that opinions and perspectives can vary among Afghan women, so it is difficult to generalize what \"most\" women in Afghanistan think about divorce. However, certain cultural and societal factors influence women's views on divorce in Afghanistan.\n\nTraditionally, divorce is not widely accepted in Afghan society, and there is a stigma attached to divorced women. Many women in Afghanistan are socially conditioned to prioritize maintaining their marriage and family unity. They often view divorce as a failure and are discouraged from seeking it as a solution to marital problems.\n\nFor Afghan women, divorce can have severe consequences such as social isolation, loss of financial security, limited custody rights, and a tarnished reputation. In many cases, women fear being ostracized by their families and communities, making it challenging for them to reintegrate into society post-divorce.\n\nHowever, it is worth noting that societal attitudes towards divorce are gradually evolving in Afghanistan. Changes in educational opportunities, urbanization, exposure to global ideas through media, and increased legal awareness have led some Afghan women to question traditional norms and consider divorce as a means to escape abusive marriages or pursue personal happiness.\n\nOverall, while many women in Afghanistan still adhere to traditional values that discourage divorce, there is a growing recognition that divorce can be a solution for problematic marriages, particularly among younger generations influenced by modern ideas and outside influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 268,
+        "total_tokens": 287
+    },
+    "system_fingerprint": null
+}

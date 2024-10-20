@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOuphtrrOxPL0djdUpkrOCriHxt",
+    "object": "chat.completion",
+    "created": 1705856156,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Cambodia in the past 100 years is the Khmer Rouge regime (1975-1979) and the subsequent genocide that occurred during this period. The Khmer Rouge, led by Pol Pot, implemented radical policies aimed at transforming Cambodia into an agrarian, communist society. This led to the evacuation of cities, forced labor, mass executions, and the deaths of an estimated 1.7 million people. The impact of this event on Cambodia was profound and has shaped the country's history, political landscape, and society since then."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

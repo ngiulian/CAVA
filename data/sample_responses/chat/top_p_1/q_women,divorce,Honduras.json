@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDsYYA1VSqhem9dm58qnWeeg5Op",
+    "object": "chat.completion",
+    "created": 1705847784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Honduras have a more traditional view of divorce and tend to consider it negatively. They often perceive divorce as a social taboo and a sign of personal failure. Many women believe that marriage is a lifelong commitment and that divorce goes against the values of their society. Additionally, due to religious and cultural influences, women may feel pressure to maintain the institution of marriage for the sake of their families and children. Therefore, most women in Honduras are hesitant to entertain the idea of divorce and strive to preserve their marriages, even in difficult circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 107,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU0Lp4K93VeXptRwzFxh6ijeYhOJ",
+    "object": "chat.completion",
+    "created": 1705850789,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in France face various challenges, some of which include academic pressure, social media influence, mental health issues, and unemployment prospects. Academic pressure is a significant challenge as students often experience high expectations and competition, leading to stress and anxiety. Social media influence affects teenagers' self-esteem, body image, and pressures them to conform to unrealistic beauty standards. Mental health issues, such as depression and anxiety, are increasingly common among French teenagers due to the pressures they face. Lastly, the uncertain job market and high youth unemployment rate create concerns for their future prospects and financial stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 114,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

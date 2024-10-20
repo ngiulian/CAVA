@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSvMY64UcoL2otm4wfQBFDLHNAAA",
+    "object": "chat.completion",
+    "created": 1705846636,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most women\" in The Bahamas think of abortion as views on this topic can vary significantly among individuals. Abortion is a highly sensitive and controversial subject, and opinions can be influenced by factors such as personal beliefs, religious affiliations, socio-economic backgrounds, and individual circumstances. It is essential to recognize that there is no single, unified perspective held by all women in The Bahamas regarding abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 89,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

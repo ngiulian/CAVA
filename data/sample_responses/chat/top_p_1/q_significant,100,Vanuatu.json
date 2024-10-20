@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnOyIB7eMn23bu6FsiN3wPPalTt",
+    "object": "chat.completion",
+    "created": 1705857674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Vanuatu in the past 100 years was the eruption of the Mount Manaro volcano on the island of Ambae in 2005. It was the largest eruption eruption in Vanuatu in over a century and resulted in the evacuation and displacement of thousands of people. The volcanic activity continued for several months, causing widespread devastation to the island's infrastructure, agriculture, and environment. This event had a significant impact on the lives and livelihoods of the people of Vanuatu and their ongoing efforts to recover and rebuild."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 114,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUMIvnOgW3Dk2z0nK2k2dieF5YVE",
+    "object": "chat.completion",
+    "created": 1705852150,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Indonesia face various challenges, and some of the biggest ones include economic issues, access to education and healthcare, unemployment and underemployment, poverty, and social inequality. The country has a large population, and providing employment opportunities for all can be a significant challenge. Many adults struggle with poverty, making it difficult to meet their basic needs. Access to quality education and healthcare is also a concern, particularly for those living in rural areas. Moreover, social inequality remains a challenge, with disparities prevalent in terms of income, opportunities, and access to resources, affecting adults from marginalized groups."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 117,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

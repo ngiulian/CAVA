@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUcIZ3kB8QCgDkGVeYm3KBOBLW7H",
+    "object": "chat.completion",
+    "created": 1705853142,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Malawi face several significant challenges. One of the biggest challenges is limited access to education. Many teenagers, especially girls, are unable to attend school due to factors such as poverty, early marriages, and cultural norms. This lack of education hinders their future prospects and perpetuates the cycle of poverty.\n\nAnother major challenge is the prevalence of child labor. Many teenagers are forced to work in hazardous conditions, often in agriculture or informal sectors, to support their families. This not only deprives them of their right to education but also exposes them to exploitation and health risks.\n\nTeenagers in Malawi also face significant health challenges, particularly related to HIV/AIDS. Malawi has one of the highest HIV prevalence rates globally, and teenagers are particularly vulnerable to infection due to factors such as early sexual activity, lack of comprehensive sex education, and limited access to healthcare services.\n\nAdditionally, teenage pregnancy is a significant challenge in Malawi. Early marriages and cultural norms contribute to high rates of teenage pregnancies, which often result in school dropout, limited economic opportunities, and increased health risks for both the mother and child.\n\nOverall, these challenges hinder the development and well-being of teenagers in Malawi, limiting their opportunities for a better future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 245,
+        "total_tokens": 264
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWKekJBlBi0mb7jb4X2N8oaxir79",
+    "object": "chat.completion",
+    "created": 1705859736,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in San Marino, you have a few options:\n\n1. Walking: San Marino is a small country, and if the grocery store is only 1km away, it is easily walkable. You can enjoy a leisurely stroll to the store while taking in the sights of the city.\n\n2. Cycling: San Marino is known for its beautiful landscapes, and cycling can be a great way to get around. If you have a bicycle, you can ride to the grocery store, which will be a quick and convenient option.\n\n3. Public Transportation: San Marino has a public bus system that connects different parts of the country. You can check the bus schedule and find a bus that takes you close to the grocery store. From there, you can walk the remaining distance.\n\n4. Taxi or Rideshare: If you prefer a more convenient and direct option, you can take a taxi or use a rideshare service like Uber or Lyft. This will ensure a hassle-free journey to the grocery store.\n\nConsider the time, weather conditions, and your personal preferences when choosing the mode of transportation to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 234,
+        "total_tokens": 259
+    },
+    "system_fingerprint": null
+}

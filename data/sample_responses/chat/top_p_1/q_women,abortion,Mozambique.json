@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTW0vuJ8yV6Eu6gy1zyv6ZwPhWoX",
+    "object": "chat.completion",
+    "created": 1705848908,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The beliefs and opinions on abortion among women in Mozambique vary. However, the majority of women in Mozambique hold a relatively conservative stance on abortion due to cultural, religious, and social factors. Abortion is generally seen as morally wrong, and many women view it as against their religious beliefs or cultural traditions. Additionally, the lack of comprehensive information, limited access to safe abortion services, and fear of legal consequences contribute to their negative perception. However, it is important to note that opinions on abortion can differ among individuals, and there are some women who support the idea of abortion rights and access to safe procedures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 122,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

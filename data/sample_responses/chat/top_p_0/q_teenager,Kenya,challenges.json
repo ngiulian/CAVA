@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUQknpPXwmHMlvX4B8mtUnxWUhr7",
+    "object": "chat.completion",
+    "created": 1705852426,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Kenya face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers struggle to attend school due to financial constraints, lack of infrastructure, and inadequate resources. This hampers their ability to acquire necessary skills and knowledge for future opportunities.\n\nAnother major challenge is unemployment. Kenya has a high youth unemployment rate, and teenagers often struggle to find decent job opportunities. This leads to frustration, economic instability, and can push them towards engaging in illegal activities.\n\nTeenagers in Kenya also face health challenges, including limited access to healthcare services, especially in rural areas. Issues such as HIV/AIDS, teenage pregnancy, and substance abuse are prevalent and can have long-lasting negative impacts on their lives.\n\nAdditionally, teenagers in Kenya face social challenges, such as gender inequality, early marriages, and cultural practices that limit their rights and opportunities. Discrimination, violence, and exploitation are also concerns that affect their well-being and development.\n\nOverall, these challenges hinder teenagers in Kenya from reaching their full potential and can have long-term consequences on their personal and professional lives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 215,
+        "total_tokens": 233
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTSfW4mgi48ET9DtnUweNqQYdIzz",
+    "object": "chat.completion",
+    "created": 1705848701,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Madagascar have mixed views on divorce. Some believe that divorce is a viable solution to escape unhappy or abusive marriages and have the freedom to pursue their own happiness. They see divorce as a way to protect themselves and their children from difficult or dangerous situations. However, there are also women who view divorce as a last resort, preferring to stay in insufferable marriages to preserve social and economic stability. Cultural and societal pressures can influence women's perspectives, making divorce a more challenging decision due to concerns about reputation, financial insecurity, and the availability of support systems. Overall, there is no unified view on divorce among women in Madagascar, as individual beliefs and circumstances greatly shape their opinions on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 140,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVO09bkiH50AoNimTgyagQ1g7XyB",
+    "object": "chat.completion",
+    "created": 1705856100,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kazakhstan in the past five years was the resignation of Nursultan Nazarbayev, who had been the president since the country gained independence in 1991. On March 19, 2019, Nazarbayev announced his resignation, marking a significant shift in the country's political landscape. He was succeeded by Kassym-Jomart Tokayev, who was elected as the new president in June 2019. Nazarbayev's resignation was considered a historic moment as it marked the end of an era and initiated a transition of power in Kazakhstan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 124,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

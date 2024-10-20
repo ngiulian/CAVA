@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTa6qWA5v8ss4ozxhucgv4yZJr9e",
+    "object": "chat.completion",
+    "created": 1705849162,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The prevailing belief among most men in Nauru regarding divorce is that it should be avoided and not considered as a viable option. Divorce is generally seen as a societal taboo, and men tend to hold traditional views that emphasize the sanctity of marriage and the importance of maintaining family unity. This perspective is influenced by cultural and religious values, where marriage is seen as a lifelong commitment. Therefore, most men in Nauru typically believe in working through marital problems and seeking reconciliation rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 101,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

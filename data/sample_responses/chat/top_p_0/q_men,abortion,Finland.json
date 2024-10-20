@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoLz5sc6Y0VCvuiksClq7gEWfRl",
+    "object": "chat.completion",
+    "created": 1705846201,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Finland think of abortion as opinions on this topic can vary greatly among individuals. However, it is worth noting that Finland has a generally progressive and liberal attitude towards reproductive rights, including abortion. The country's legislation allows for legal and accessible abortion services, and public opinion surveys suggest that a majority of Finns support a woman's right to choose. Nevertheless, there may be diverse opinions among men in Finland, ranging from those who strongly support a woman's right to make decisions about her own body to those who may hold more conservative views."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 122,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

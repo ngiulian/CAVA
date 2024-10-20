@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7pKaSURaJoZZaPHtUuzF87YBQ7",
+    "object": "chat.completion",
+    "created": 1705855097,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belize in the past 20 years was the resolution of the long-standing territorial dispute between Belize and Guatemala. In 2018, both countries held simultaneous referendums, and the majority of voters in both countries supported taking the dispute to the International Court of Justice (ICJ) for a final resolution. This marked a major step towards resolving the dispute peacefully and definitively, potentially bringing stability and security to the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 93,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

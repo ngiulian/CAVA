@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU56bGSX27KBx2BMF1w3712PbFka",
+    "object": "chat.completion",
+    "created": 1705851084,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Belize face include high levels of poverty and unemployment, limited access to quality healthcare and education, inadequate infrastructure and public services, and high crime rates. Additionally, there are issues related to gender inequality, limited opportunities for economic growth and development, and vulnerability to natural disasters."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 60,
+        "total_tokens": 78
+    },
+    "system_fingerprint": null
+}

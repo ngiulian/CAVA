@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5QAXNezcZnDIEiP0oXBnoXpnKO",
+    "object": "chat.completion",
+    "created": 1705854948,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Benin in the past 5 years was the presidential election held in April 2021. Incumbent President Patrice Talon, who was seeking re-election, won a second term in office. However, this election was notable for the absence of any major opposition candidates, as several prominent figures were either disqualified or forced into exile. This led to concerns about the state of democracy and political pluralism in Benin. The election results sparked protests and criticism from both domestic and international observers, highlighting the ongoing political challenges in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 117,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

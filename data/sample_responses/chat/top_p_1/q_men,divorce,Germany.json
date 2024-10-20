@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5Ksu1KzN7yRnNnSCTMrYe1GSBe",
+    "object": "chat.completion",
+    "created": 1705847254,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitude towards divorce among men in Germany is generally accepting and progressive. Most men believe that divorce is a valid option if a marriage is no longer working or if both partners are unhappy. They recognize that divorce can be a difficult and emotional process for everyone involved, but view it as a means to end an unhealthy or unhappy relationship. Men in Germany also tend to prioritize the well-being of their children during and after divorce, often advocating for joint custody arrangements and maintaining a strong co-parenting relationship. However, it is important to note that individual opinions may vary, and some men may hold differing views depending on personal circumstances and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 127,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

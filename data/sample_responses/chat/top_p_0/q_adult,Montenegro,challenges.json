@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUannc3wEyF64K7efIriy1EV04RC",
+    "object": "chat.completion",
+    "created": 1705853049,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Montenegro face several significant challenges. One of the biggest challenges is the high unemployment rate, which particularly affects young adults. Limited job opportunities and a lack of economic growth make it difficult for adults to find stable employment and secure their financial future.\n\nAnother challenge is the low wages and income inequality. Many adults struggle to make ends meet due to low salaries, especially in rural areas. This income disparity creates social and economic disparities, making it harder for individuals to improve their living standards.\n\nAccess to quality healthcare is also a challenge for adults in Montenegro. While the country has made progress in its healthcare system, there are still issues with affordability, availability, and quality of medical services. This can lead to difficulties in accessing necessary healthcare and can impact the overall well-being of adults.\n\nAdditionally, there are challenges related to education and skills development. The education system in Montenegro faces various issues, including outdated curricula and a lack of vocational training opportunities. This can hinder adults' ability to acquire the necessary skills for the job market and career advancement.\n\nLastly, there are social challenges such as gender inequality and discrimination. Women often face barriers in accessing equal opportunities in the workforce and are underrepresented in leadership positions. Discrimination based on ethnicity, religion, or sexual orientation also persists, limiting the opportunities and rights of certain individuals.\n\nOverall, these challenges pose significant obstacles for adults in Montenegro, affecting their economic stability, access to healthcare, education, and social equality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 293,
+        "total_tokens": 312
+    },
+    "system_fingerprint": null
+}

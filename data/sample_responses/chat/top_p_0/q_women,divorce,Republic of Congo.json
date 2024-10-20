@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT29BaPFa9vhcr3vhc72ugsbLkEL",
+    "object": "chat.completion",
+    "created": 1705847057,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Republic of Congo have a negative perception of divorce. They generally view it as a last resort and believe that marriage should be a lifelong commitment. Women often prioritize maintaining the family unit and preserving their social status within the community. Divorce is seen as a failure and can bring shame and stigma to women, affecting their reputation and future prospects. Financial concerns also play a significant role, as women may fear losing financial support and stability after divorce. Consequently, many women in the Republic of Congo are reluctant to pursue divorce and instead endure unhappy marriages for the sake of societal expectations and personal security."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 120,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

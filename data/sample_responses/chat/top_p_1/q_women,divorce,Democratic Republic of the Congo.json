@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1n4rNBecR1grmiHsC2mQHJ4llA",
+    "object": "chat.completion",
+    "created": 1705847035,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views on divorce among women in the Democratic Republic of the Congo (DRC) are varied and depend on various factors such as education, social status, and personal experiences. In general, however, divorce is perceived differently compared to other cultures.\n\nMany women in the DRC consider divorce as a last resort due to the deeply ingrained cultural and religious beliefs surrounding marriage and family. Marriage is regarded as a lifelong commitment, and divorce is often stigmatized and seen as a failure. Women may fear being judged by their communities if they pursue a divorce.\n\nAdditionally, societal and economic factors play a significant role in shaping women's views on divorce in the DRC. Women often rely on their husbands for financial support, and divorce can mean a loss of financial stability, making it a daunting choice. Cultural norms frequently dictate that women should prioritize keeping the family together, even if it means enduring an unhappy or abusive marriage.\n\nHowever, as education and awareness levels increase, some women are challenging traditional views on divorce. Through exposure to information and feminism, they are beginning to prioritize personal happiness and well-being over societal expectations. Some empowered women see divorce as a means to escape abusive relationships or seek greater autonomy.\n\nOverall, while divorce is still often frowned upon in the DRC, changing perspectives and a gradual shift in societal norms are leading to an increasing number of women considering it as an option for improving their lives and asserting their rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 284,
+        "total_tokens": 307
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUUTZKHgoAqRDFfwriJVZUpVW7sD",
+    "object": "chat.completion",
+    "created": 1705852657,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Libya face several significant challenges. The ongoing political instability and armed conflict in the country have resulted in poor infrastructure, limited access to basic services, and instability in education. Teenagers may struggle to receive a quality education due to damaged schools, lack of resources, and the displacement of teachers and students. Unemployment rates are also high, limiting prospects for future employment and economic security. Additionally, the prevalence of violence and weapons in society exposes teenagers to increased risks, including recruitment by armed groups or involvement in criminal activities. Lack of access to healthcare services, including mental health support, is another challenge impacting the well-being of teenagers. Overall, these challenges significantly impact the growth, development, and future prospects of teenagers in Libya."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 146,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcEa9L6p3rMazlGpjZD8BKrwa63",
+    "object": "chat.completion",
+    "created": 1705849294,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Palau generally have negative views on divorce. They consider marriage to be a lifelong commitment and place importance on maintaining the family unit. Divorce is often seen as a failure and a disruption to the social fabric of the community. Women in Palau prioritize preserving their marriage and working through problems rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 66,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTPRkkTN5KYdY434IrpsQ835b1HP",
+    "object": "chat.completion",
+    "created": 1705848501,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what \"most men\" in Liechtenstein think of abortion, as this opinion might vary among individuals. Liechtenstein is a small country with a population of around 38,000, and views on abortion can be diverse and personal. Generally, like in many societies, attitudes towards abortion in Liechtenstein can be influenced by factors such as personal beliefs, cultural backgrounds, religious values, and one's understanding of ethics and women's reproductive rights. It is essential to approach this topic with sensitivity and respect for individual perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 114,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

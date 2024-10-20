@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTo2404hTzS2s5Gvl1atx8HfhkO3",
+    "object": "chat.completion",
+    "created": 1705850026,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions and beliefs of individuals may vary. However, Turkmenistan is a conservative society, and abortion is generally viewed as morally wrong and discouraged. Religion and cultural norms greatly influence the perception of abortion, with Islam being the predominant religion in the country. Islam considers that life begins at conception and generally opposes terminating a pregnancy unless there are exceptional circumstances, such as threat to the mother's life. Consequently, many women in Turkmenistan share this traditional perspective and consider abortion as unacceptable except in cases of medical necessity. Ultimately, the views on abortion may differ among individuals based on personal and religious beliefs, cultural background, and level of education."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 133,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

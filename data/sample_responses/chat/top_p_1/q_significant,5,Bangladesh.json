@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5ztr79hAhlUh6nYCf5JXcjVnNP",
+    "object": "chat.completion",
+    "created": 1705854983,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Bangladesh in the past 5 years is the Rohingya refugee crisis. In August 2017, the Myanmar military launched a brutal crackdown on the Rohingya Muslim minority, forcing hundreds of thousands of Rohingya to flee their homes in the Rakhine State of Myanmar and seek refuge in neighboring Bangladesh. This mass exodus resulted in a major humanitarian crisis in Bangladesh, with an estimated 1.1 million Rohingya refugees currently residing in overcrowded refugee camps in Cox's Bazar. The event has had significant socio-economic and political implications for Bangladesh, as it strained the country's resources, infrastructure, and relations with Myanmar."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

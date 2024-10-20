@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1ypAhEB2FHLbpMcy7R2v9D4ZwS",
+    "object": "chat.completion",
+    "created": 1705854734,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Finland in the past 20 years is the Finnish parliamentary election of 2011. This election marked a major shift in Finnish politics as the right-wing populist party, True Finns (now known as the Finns Party), gained significant support and became the third-largest party in the Finnish Parliament. This election result had a profound impact on Finnish politics, leading to changes in government policies and a shift in the political landscape of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

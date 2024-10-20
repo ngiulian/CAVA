@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZcpaXVBVkzNauIg1SjdfgjdV0L",
+    "object": "chat.completion",
+    "created": 1705849132,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The perception of divorce among men in Nepal is diverse, and their opinion varies based on socio-cultural backgrounds, education, and personal experiences. However, traditional values and societal norms tend to shape the general beliefs about divorce in the country.\n\nOverall, many men in Nepal hold a conservative view on divorce and perceive it as undesirable or taboo. Divorce is commonly associated with social stigma, shame, and loss of face for both spouses involved. It is often considered a failure to sustain a marriage and fulfill societal expectations of maintaining a lifelong union.\n\nSome men believe in the sanctity of marriage and the importance of commitment, leading them to view divorce as something to be avoided at all costs. They might prioritize staying in an unhappy marriage to preserve family harmony, cultural traditions, and social reputation.\n\nMoreover, men often consider divorce as a threat to their position within the family and society. In a patriarchal society like Nepal, where male dominance is prevalent, divorce can be associated with a loss of control, authority, and economic instability. Men might fear the potential challenges of losing their role as the head of the household, sharing assets, or providing financial support for their children.\n\nHowever, it is important to note that these traditional views are gradually evolving, especially among younger generations and in urban areas. Increasingly, men are recognizing the importance of gender equality, individual happiness, and personal growth. Consequently, more men are becoming supportive of divorce, particularly when faced with issues such as marital abuse, infidelity, or irreparable"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

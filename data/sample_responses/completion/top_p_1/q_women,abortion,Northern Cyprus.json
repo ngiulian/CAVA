@@ -1,0 +1,88 @@
+{
+    "id": "cmpl-8jEXOFQ1OoBvE4T6CaSDctFEqon3P",
+    "object": "text_completion",
+    "created": 1705791334,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " a private matter and unmu",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " a",
+                    " private",
+                    " matter",
+                    " and",
+                    " un",
+                    "mu"
+                ],
+                "token_logprobs": [
+                    -0.7082053,
+                    -3.0115664,
+                    -0.71007377,
+                    -1.1970503,
+                    -7.099674,
+                    -11.964226
+                ],
+                "top_logprobs": [
+                    {
+                        " a": -0.7082053,
+                        " an": -2.1847677,
+                        " morally": -3.3566427,
+                        " the": -3.4347677,
+                        " immoral": -3.4347677
+                    },
+                    {
+                        " private": -3.0115664,
+                        " taboo": -2.4178164,
+                        " social": -2.8396914,
+                        " personal": -3.0896914,
+                        " sin": -3.1053164
+                    },
+                    {
+                        " matter": -0.71007377,
+                        " issue": -2.0069487,
+                        " and": -2.5694487,
+                        " decision": -2.6397612,
+                        ",": -3.1553862
+                    },
+                    {
+                        " and": -1.1970503,
+                        ",": -1.5329878,
+                        ".": -2.0095503,
+                        " that": -2.7751753,
+                        " between": -2.9314253
+                    },
+                    {
+                        " do": -2.0293617,
+                        " are": -3.0449867,
+                        " not": -3.1699867,
+                        " a": -3.2090492,
+                        " the": -3.4668617
+                    },
+                    {
+                        "regulated": -1.9974294,
+                        "important": -2.1927419,
+                        "connected": -2.3646169,
+                        "problem": -2.6849294,
+                        "accept": -3.4349294
+                    }
+                ],
+                "text_offset": [
+                    57,
+                    59,
+                    67,
+                    74,
+                    78,
+                    81
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10,
+        "completion_tokens": 6,
+        "total_tokens": 16
+    }
+}

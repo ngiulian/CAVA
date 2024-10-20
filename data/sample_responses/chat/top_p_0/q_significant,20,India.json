@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLQYqis88ug2P48wCI4LlHJ3Jjc",
+    "object": "chat.completion",
+    "created": 1705855940,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in India in the past 20 years is the implementation of the Goods and Services Tax (GST) in 2017. The GST is a comprehensive indirect tax reform that replaced multiple state and central taxes, unifying the Indian market and creating a single tax structure across the country. This event has had a profound impact on India's economy, simplifying the tax system, promoting ease of doing business, and fostering economic integration. The implementation of GST has been considered a landmark reform in India's economic history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

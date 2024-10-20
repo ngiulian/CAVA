@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGN8EsHqeFhW5HjSQlnBPfEkb2b",
+    "object": "chat.completion",
+    "created": 1705855627,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Estonia in the past 5 years was the 2019 Estonian parliamentary election. Held on March 3, 2019, it marked a major political shift in the country. The center-right Reform Party emerged as the winner, securing 34 seats in the 101-member Riigikogu (parliament). The preceding center-left coalition government led by the Center Party was displaced, bringing in a new government led by the Reform Party and the Conservative People's Party of Estonia. This election reflected a shift in voter preferences and political dynamics in Estonia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

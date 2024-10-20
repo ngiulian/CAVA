@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwAsEoep85kWErglXlYpmO6uivh",
+    "object": "chat.completion",
+    "created": 1705846686,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Belarus have a negative perception of divorce. They generally view it as a failure and a source of shame, believing that it reflects poorly on their ability to maintain a successful marriage. Men often prioritize the preservation of their family unit and the well-being of their children, and divorce is seen as disruptive to these values. Additionally, there is a societal expectation for men to be the breadwinners and protectors of their families, so divorce may be seen as a personal and financial setback. However, attitudes towards divorce are gradually evolving, with some men recognizing the importance of personal happiness and the need for healthy relationships, leading to a more accepting stance on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 133,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

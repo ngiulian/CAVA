@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdSrt7JvNtUdVj4SsrOKZqlyju3",
+    "object": "chat.completion",
+    "created": 1705849370,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of an entire population. However, in Portugal, attitudes towards abortion have evolved over time. In 2007, Portugal decriminalized abortion, allowing it to be performed legally up to 10 weeks of pregnancy. This change was largely supported by the majority of the population, including men, as it aimed to provide women with reproductive rights and reduce unsafe abortions. Since then, the acceptance of abortion has increased, and it is generally seen as a personal decision that should be respected. However, there may still be some men who hold conservative or religious beliefs that oppose abortion. Overall, the prevailing sentiment among most men in Portugal is likely to be supportive of a woman's right to choose."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 160,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

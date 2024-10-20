@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTwhGkHkdpMLMg8ZSsU468zhZle9",
+    "object": "chat.completion",
+    "created": 1705850563,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. High levels of poverty: A significant challenge faced by adults in Angola is poverty. Despite being a resource-rich country, much of the population still lives in poverty, struggling with limited access to basic necessities such as food, clean water, healthcare, and education.\n\n2. Limited employment opportunities: Angola faces high unemployment rates, particularly among young adults. Limited job opportunities make it challenging for adults to secure stable employment and provide for their families.\n\n3. Inadequate access to healthcare: Access to quality healthcare is a significant challenge for adults in Angola. Many lack access to proper medical facilities and services, resulting in high mortality rates, especially in rural areas. Health issues, including HIV/AIDS, malaria, and malnutrition, pose significant challenges to adults in the country.\n\n4. Educational barriers: The education system in Angola faces various challenges, including inadequate infrastructure, a shortage of qualified teachers, and limited access to quality education. Many adults lack literacy and numeracy skills, preventing them from improving their job prospects and overall well-being.\n\n5. Infrastructure and basic services: Inadequate infrastructure is a significant issue in Angola, particularly in rural areas. Poor road networks, limited access to electricity, and insufficient water and sanitation facilities create barriers for adults in accessing services, transportation, and economic opportunities.\n\n6. Political instability and corruption: Angola has faced political instability and corruption, leading to an inefficient governance system. This hinders economic development, exacerbates poverty, and limits opportunities for adults to improve their lives.\n\n7"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

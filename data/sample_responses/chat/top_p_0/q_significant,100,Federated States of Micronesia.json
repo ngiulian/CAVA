@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHJYRO5EuBjQ7gKjw6Z42zDV1fL",
+    "object": "chat.completion",
+    "created": 1705855685,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Federated States of Micronesia (FSM) in the past 100 years was its political transition from a United Nations Trust Territory to an independent nation. This process began in the mid-20th century and culminated in the establishment of the FSM as a sovereign state.\n\nThe FSM was formerly part of the Trust Territory of the Pacific Islands, administered by the United States after World War II. In the 1970s, the FSM, along with other Micronesian entities, negotiated a Compact of Free Association with the United States. This agreement granted the FSM self-government and eventual independence.\n\nOn November 3, 1986, the FSM officially gained independence and became a sovereign nation under international law. This event marked a significant milestone in the history of the FSM, as it allowed the country to exercise self-determination and establish its own political, economic, and social systems.\n\nSince then, the FSM has continued to develop as an independent nation, facing various challenges and opportunities. This transition to independence remains a crucial event in the country's recent history, shaping its identity and providing a foundation for its future growth and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 30,
+        "completion_tokens": 237,
+        "total_tokens": 267
+    },
+    "system_fingerprint": null
+}

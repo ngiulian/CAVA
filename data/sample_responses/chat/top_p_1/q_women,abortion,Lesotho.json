@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQCDlSNYcNBBGrRHOpcD2Ts9EiT",
+    "object": "chat.completion",
+    "created": 1705848548,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitude towards abortion among women in Lesotho varies. While some women in Lesotho may be open to the idea of abortion due to various reasons, such as unwanted pregnancies or health concerns, others may hold more conservative views and consider it morally wrong. It is important to note that Lesotho has strong cultural and religious influences, which can impact individual opinions on abortion. The views on abortion within the country often depend on individual beliefs, education, socioeconomic factors, and access to reproductive healthcare."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 100,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

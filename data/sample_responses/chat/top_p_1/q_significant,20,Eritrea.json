@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVFzWGStnjoNMSGXirNT94aikBkv",
+    "object": "chat.completion",
+    "created": 1705855603,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Eritrea in the past 20 years was the signing of the historic peace agreement with Ethiopia in 2018. After years of conflict and tensions between the two countries, the Eritrean President, Isaias Afwerki, and the Ethiopian Prime Minister, Abiy Ahmed, signed a joint declaration to end the two-decade-long state of war. This event marked a major turning point in the region's politics and had significant implications for both countries. It led to the reopening of embassies, resumption of flights, restoration of normal diplomatic ties, and the re-establishment of economic cooperation between Eritrea and Ethiopia. Additionally, this peace agreement had a ripple effect on the wider region, offering hope for stability and reconciliation in East Africa."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 163,
+        "total_tokens": 189
+    },
+    "system_fingerprint": null
+}

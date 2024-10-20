@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTP6mhpQLiiPhgx0Gm0U6y7qnxn8",
+    "object": "chat.completion",
+    "created": 1705848480,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on divorce in Libya can vary greatly, as they are influenced by various factors such as cultural, religious, and personal beliefs. However, it can be generally stated that divorce is still considered a sensitive and stigmatized issue in Libyan society.\n\nMany women in Libya view divorce as a last resort due to the social and economic challenges associated with it. Divorce is often seen as a failure and can bring shame to the woman and her family. Women may fear being ostracized by their communities, facing financial difficulties, or losing custody of their children.\n\nHowever, there is a growing awareness among some women in Libya about their rights and the importance of personal happiness and well-being. Some women, particularly those who are educated and financially independent, are more open to the idea of divorce and may seek it if they are in an abusive or unhappy marriage.\n\nOverall, while divorce is still generally frowned upon in Libyan society, there is a gradual shift in attitudes as more women strive for autonomy and equality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 207,
+        "total_tokens": 226
+    },
+    "system_fingerprint": null
+}

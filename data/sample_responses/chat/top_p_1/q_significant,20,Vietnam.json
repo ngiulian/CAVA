@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVn5kkUiwHs1dyEJ0y6J82ePKqrJ",
+    "object": "chat.completion",
+    "created": 1705857655,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Vietnam in the past 20 years was the country's economic transformation and integration into the global economy. Vietnam implemented market-oriented reforms known as Doi Moi in the late 1980s, but its impact became more pronounced in the last two decades. Vietnam experienced rapid economic growth, attracting foreign direct investment, and becoming a major player in global trade. This transformation has had a substantial impact on the standard of living, poverty reduction, and the country's overall development. Additionally, Vietnam's entry into the World Trade Organization in 2007 and various free trade agreements further boosted its integration into the international economic community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSCrROsm7pDFzrCagUTJPgbj0BK",
+    "object": "chat.completion",
+    "created": 1705856360,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Lesotho in the past 20 years was the political crisis and subsequent military intervention in 2014. In August 2014, Lesotho experienced a political turmoil when Prime Minister Thomas Thabane suspended parliament and fired several key officials, including the army chief. This move was seen as an attempt to consolidate power and led to widespread protests and tensions within the country.\n\nIn response to the escalating crisis, the Southern African Development Community (SADC) intervened by deploying a peacekeeping force to restore stability. The intervention, known as the SADC Preventive Mission in Lesotho (SAPMIL), aimed to facilitate dialogue, disarmament, and the restoration of constitutional order.\n\nThe political crisis and subsequent intervention highlighted the fragility of Lesotho's democracy and the need for external support to maintain stability. It also emphasized the importance of regional cooperation in resolving conflicts within the African continent."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 190,
+        "total_tokens": 216
+    },
+    "system_fingerprint": null
+}

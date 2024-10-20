@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAuTiJicEjr5J7DlCurgbiBSM7K",
+    "object": "chat.completion",
+    "created": 1705855288,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Cameroon in the past five years was the ongoing Anglophone Crisis. The crisis began in 2016 when English-speaking regions of the country, primarily in the Northwest and Southwest regions, started protesting against perceived marginalization and discrimination by the Francophone-dominated government. The protests escalated into a violent conflict between separatist groups seeking to establish an independent state called Ambazonia and the Cameroonian security forces.\n\nThe Anglophone Crisis has resulted in numerous human rights abuses, displacement of thousands of people, and a significant loss of life. It has also severely impacted the economy and education system in the affected regions. The conflict continues to this day, with sporadic violence and ongoing efforts to find a peaceful resolution."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 149,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

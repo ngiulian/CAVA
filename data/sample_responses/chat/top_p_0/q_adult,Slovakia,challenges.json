@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUphZGIL9j3E4R2pg9zwUFqqNN0T",
+    "object": "chat.completion",
+    "created": 1705853973,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Slovakia face include high unemployment rates, especially among young people, which leads to financial instability and difficulty in finding stable employment. The country also faces issues related to low wages and income inequality, making it challenging for many adults to make ends meet. Additionally, access to affordable housing is a significant concern, with rising housing prices and limited availability. The healthcare system also poses challenges, with long waiting times and limited access to quality healthcare services. Finally, the aging population and lack of adequate pension systems contribute to concerns about retirement and financial security for adults in Slovakia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 117,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

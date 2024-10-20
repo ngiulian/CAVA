@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJu1Px8ZtXgunFln95QOqxCmgvy",
+    "object": "chat.completion",
+    "created": 1705855846,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guatemala in the past 100 years is the Guatemalan Civil War (1960-1996). The conflict was a prolonged armed struggle between the government and various leftist rebel groups, resulting in significant political, social, and economic consequences for the country.\n\nThe civil war was primarily fueled by social inequality, land distribution issues, and political repression. The government, backed by the United States, carried out a brutal counterinsurgency campaign, resulting in widespread human rights abuses, including forced disappearances, massacres, and genocide against indigenous Mayan communities.\n\nThe war had a devastating impact on Guatemala, with an estimated 200,000 people killed or disappeared, the displacement of hundreds of thousands of people, and the destruction of entire communities. It also left a legacy of deep-rooted social and political divisions that continue to affect the country today.\n\nThe signing of the Peace Accords in 1996 marked the official end of the civil war, leading to the establishment of a more democratic and inclusive political system. However, the scars of the conflict still remain, and Guatemala continues to grapple with issues such as poverty, corruption, and violence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 238,
+        "total_tokens": 262
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdbA9Dde0PUYzzOe7t87RG1r6wA",
+    "object": "chat.completion",
+    "created": 1705857067,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sudan in the past 20 years is the secession of South Sudan and the resulting establishment of the Republic of South Sudan as an independent country in 2011. This event marked the end of a protracted civil war between the north and the south, which lasted for several decades.\n\nThe comprehensive peace agreement that was signed in 2005, known as the Sudan Comprehensive Peace Agreement (CPA), included provisions for self-determination of the people of South Sudan through a referendum. The referendum was held in January 2011, and an overwhelming majority of voters in the south chose independence.\n\nThe secession of South Sudan had a profound impact on the region, bringing an end to one of Africa's longest-running civil wars and leading to the birth of a new nation. However, the process was not without challenges, and both Sudan and South Sudan have faced significant economic, humanitarian, and political challenges in the aftermath of the separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 195,
+        "total_tokens": 219
+    },
+    "system_fingerprint": null
+}

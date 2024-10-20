@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgS4ZBc5yd6tMS4LRPhWoKwm6ym",
+    "object": "chat.completion",
+    "created": 1705857244,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Suriname in the past 5 years was the general elections held in May 2020. These elections marked a major political shift in the country as the long-ruling National Democratic Party (NDP) led by Desi Bouterse was defeated by the opposition coalition, the Progressive Reform Party (VHP) led by Chan Santokhi. This marked the end of Bouterse's decade-long rule and the beginning of a new government under President Santokhi. The elections were seen as a crucial moment for democracy and political change in Suriname."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 121,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

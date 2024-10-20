@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBVFzXWYet9KEVMr5EuH3DblUDc",
+    "object": "chat.completion",
+    "created": 1705847637,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Gambia hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their cultural and religious beliefs. Men in Gambia often see abortion as a violation of the sanctity of life and believe that it should only be considered in cases where the mother's life is at risk."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 66,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

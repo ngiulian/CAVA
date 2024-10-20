@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVj2NdhpTVtNh9XwD1zA1eGLaeqG",
+    "object": "chat.completion",
+    "created": 1705857404,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Tajikistan in the past 100 years is the Tajik Civil War, which lasted from 1992 to 1997. This conflict emerged after the collapse of the Soviet Union and involved various factions vying for power and control over the country. The war resulted in significant loss of life, displacement of people, and widespread destruction. It also had long-lasting effects on Tajikistan's political, social, and economic landscape. The conflict was eventually resolved through a peace agreement in 1997, which led to a power-sharing arrangement and the establishment of a more stable government."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 126,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQRxjo5OdPK0dY8MEWXcxjq3X8B",
+    "object": "chat.completion",
+    "created": 1705848563,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Lithuania have a negative attitude towards divorce. They generally view it as a failure, often attributing it to personal or moral inadequacy. Divorce is seen as a disruption to the stability of the family and can be stigmatized in conservative Lithuanian society. Men may hold traditional views that emphasize the importance of keeping families intact for the well-being of children and the preservation of societal norms. Consequently, they may try to avoid divorce and actively work towards maintaining their marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 99,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

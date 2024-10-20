@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSrO53wj9Z1SuX4rdGwMHDv4AwpH",
+    "object": "chat.completion",
+    "created": 1705846390,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Antigua and Barbuda have a negative view of divorce. They generally believe that marriage is a lifelong commitment and that divorce should be avoided if possible. They often prioritize maintaining the family unit and believe that divorce can have negative effects on children and society as a whole. However, attitudes towards divorce may vary among individuals based on personal experiences and cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 73,
+        "total_tokens": 96
+    },
+    "system_fingerprint": null
+}

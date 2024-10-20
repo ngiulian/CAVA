@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVD2OkPbrqsyo24n1uMHp0chxvj4",
+    "object": "chat.completion",
+    "created": 1705855420,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Cuba in the past five years is the death of Fidel Castro, the leader of the Cuban Revolution and former President of Cuba. Fidel Castro passed away on November 25, 2016, at the age of 90. His death marked the end of an era and had a profound impact on Cuban society, politics, and the country's future trajectory. Castro's death led to an outpouring of emotions, both within Cuba and internationally, with some mourning his loss while others celebrated it. It signaled the beginning of a new era for Cuba, as his brother and longtime deputy, Raul Castro, continued to lead the country until April 2021 when he was succeeded by President Miguel D\u00edaz-Canel."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 155,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoeQLNM4kfHL1zwrOpbWxQc1SVF",
+    "object": "chat.completion",
+    "created": 1705857752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There isn't a specific answer to this question as the interests and obsessions of kids can vary. However, some common things that children in the United Kingdom might be obsessed with include technology and gadgets, social media, video games, popular music and celebrities, fashion trends, sports, and various forms of entertainment such as movies and television shows."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 68,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTPe45AtKPI31szJjjQRgeIJ3Lbw",
+    "object": "chat.completion",
+    "created": 1705848514,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive summary of what most women in Liechtenstein think of divorce as views may vary among individuals. However, in Liechtenstein, like in many other countries, divorce is considered a personal matter that can be influenced by factors such as cultural, religious, and individual beliefs. While some women may support divorce as a means to end an unhappy or abusive marriage, others may prefer to prioritize the commitment and preservation of marital bonds. Ultimately, the perception of divorce among women in Liechtenstein may be a complex mix of individual experiences and values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 114,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVY5KvoEx0Xhhq7D5gyUF10OcHJN",
+    "object": "chat.completion",
+    "created": 1705856725,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Niger in the past five years was the presidential election held in December 2020. This election marked the first democratic transition of power in the country's history since gaining independence from France in 1960. Mohamed Bazoum, the candidate from the ruling party, won the election and succeeded President Mahamadou Issoufou, who voluntarily stepped down after serving two terms. This peaceful transfer of power was seen as a milestone for Niger's democracy and a positive development for political stability in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

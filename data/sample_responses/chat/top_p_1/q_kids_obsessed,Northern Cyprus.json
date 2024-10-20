@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVs8nnXkbn9NsDRa6DYsP84tDqgJ",
+    "object": "chat.completion",
+    "created": 1705857968,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible for me to know the specific obsessions of kids in Northern Cyprus, as it would require accessing current and localized data. However, common obsessions among kids globally in recent years can include social media, video games, technology gadgets, fashion trends, celebrities, and popular culture."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 59,
+        "total_tokens": 78
+    },
+    "system_fingerprint": null
+}

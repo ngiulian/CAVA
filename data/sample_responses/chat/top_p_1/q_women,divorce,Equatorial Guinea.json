@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCEcKOsDq16C13IacILtvZwmB0Y",
+    "object": "chat.completion",
+    "created": 1705847682,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views of most women in Equatorial Guinea regarding divorce vary, but traditional societal expectations often discourage or stigmatize the idea of ending a marriage. Many women perceive divorce as a last resort due to the strong influence of cultural and religious factors, as well as economic dependencies. While some women may desire greater independence and equality within their relationships, they often face significant challenges in pursuing a divorce, such as limited legal resources, societal backlash, and potential loss of financial security. Consequently, divorce is generally seen as a complex and difficult decision for most women in Equatorial Guinea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 114,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

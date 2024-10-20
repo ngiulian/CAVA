@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9pDWzYCNx85DexwsxOmxtjUtN3",
+    "object": "chat.completion",
+    "created": 1705855221,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Switzerland in the past five years was the introduction of the new Swiss currency banknotes in 2016. The Swiss National Bank (SNB) redesigned the Swiss franc banknotes for the first time in over two decades, incorporating enhanced security features and updated designs. The new banknotes received recognition for their artistic beauty and innovative security measures, marking an important milestone in the country's monetary history. This event had a significant impact on the Swiss society and economy, as it affected daily transactions and highlighted the importance of currency security."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

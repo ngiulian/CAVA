@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7NOIYF7DNcB4tTUQdN7eVpbdlr",
+    "object": "chat.completion",
+    "created": 1705855069,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belarus in the past 5 years was the 2020 Belarusian presidential election and the subsequent protests. \n\nIn August 2020, long-time President Alexander Lukashenko ran for his sixth term, amidst widespread allegations of electoral fraud. The official election results declared Lukashenko as the winner, with an overwhelming majority. However, there were numerous reports of irregularities, including the detention of opposition candidates and suppression of protesters.\n\nThe announcement of Lukashenko's victory sparked massive protests across the country, demanding fair and transparent elections and an end to Lukashenko's 26-year-long rule. These protests, often referred to as the Belarusian uprising or the Belarusian revolution, continued for months, with hundreds of thousands of people taking to the streets.\n\nThe Belarusian government responded to the protests with a heavy-handed crackdown, including the use of violence, mass arrests, and suppression of the media. International organizations and governments condemned the state's actions and imposed sanctions on Belarusian officials. The European Union and the United States imposed travel bans and asset freezes on individuals involved in the repression.\n\nThe events in Belarus garnered significant international attention and support for the pro-democracy movement. Despite the government's attempts to suppress the protests, they represented a significant challenge to Lukashenko's authority and highlighted the desire for change among a significant portion of Belarusian society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 280,
+        "total_tokens": 304
+    },
+    "system_fingerprint": null
+}

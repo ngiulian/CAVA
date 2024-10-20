@@ -1,0 +1,48 @@
+{
+    "id": "cmpl-8jG5ajm1Th6aTPwl6obg7fZsSLRxH",
+    "object": "text_completion",
+    "created": 1705797298,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " the extraordin",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " the",
+                    " extraordin"
+                ],
+                "token_logprobs": [
+                    -0.70015866,
+                    -15.160033
+                ],
+                "top_logprobs": [
+                    {
+                        " the": -0.70015866,
+                        " that": -2.0751586,
+                        " probably": -2.9970336,
+                        " its": -3.4189086,
+                        " undoubtedly": -3.895471
+                    },
+                    {
+                        " accession": -2.8953846,
+                        " introduction": -3.2235096,
+                        " adoption": -3.4266346,
+                        " fact": -3.8328846,
+                        " ": -3.856322
+                    }
+                ],
+                "text_offset": [
+                    80,
+                    84
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 17,
+        "completion_tokens": 2,
+        "total_tokens": 19
+    }
+}

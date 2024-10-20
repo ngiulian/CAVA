@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViX7E7yZ3buaVeOs7iTZCF9I5ah",
+    "object": "chat.completion",
+    "created": 1705857373,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Thailand in the past 5 years is the coronation of King Maha Vajiralongkorn. On May 4, 2019, the King was officially crowned as the 10th monarch of the Chakri Dynasty, succeeding his father, the late King Bhumibol Adulyadej. The elaborate coronation ceremonies and rituals, which lasted for three days, marked a crucial moment for the country and its monarchy. It was a highly significant event that showcased the continuation and stability of the Thai monarchy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

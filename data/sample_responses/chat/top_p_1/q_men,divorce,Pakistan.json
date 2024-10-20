@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTakHWS2vL97FcfxlTpiePrWlnSi",
+    "object": "chat.completion",
+    "created": 1705849202,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Pakistan hold traditional beliefs regarding divorce, considering it a last resort and a socially stigmatized event. They typically view divorce as a negative outcome and are often reluctant to initiate the process. Men generally believe in preserving the sanctity of marriage and prioritize societal and family expectations above personal desires. Divorce is commonly perceived as a failure on the part of both spouses and brings significant challenges in terms of social acceptance, reputation, and financial obligations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 90,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

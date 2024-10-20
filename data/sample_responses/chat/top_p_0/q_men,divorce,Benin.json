@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jStauW738QkjTD9MKGwdGtMOPKfE",
+    "object": "chat.completion",
+    "created": 1705846526,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Benin have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Divorce is often seen as a last resort and is stigmatized in the society. Men tend to prioritize maintaining the unity of the family and preserving their reputation within the community. They may perceive divorce as a loss of control and authority over their household, as well as a potential financial burden. Consequently, many men in Benin strive to resolve marital issues through mediation, counseling, or other means to avoid divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 111,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

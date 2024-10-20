@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVl2yROBBsfCzTQRij9O4gAbCgVH",
+    "object": "chat.completion",
+    "created": 1705857528,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the United Republic of Tanzania in the past five years was the presidential election held in October 2020. This election marked the re-election of President John Magufuli for a second term. However, the election was marred by allegations of irregularities and a crackdown on opposition parties and media freedom. The outcome of the election and the subsequent political climate in Tanzania had a significant impact on the country's governance and democracy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 94,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

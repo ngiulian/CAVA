@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUaTxGuHjcHHTw2qOFQgOFqImQq",
+    "object": "chat.completion",
+    "created": 1705848820,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Malta. However, Malta is known for having strict laws regarding abortion, where it is illegal except in cases where the mother's life is at risk. As a predominantly Catholic country, many Maltese women may hold conservative views on abortion, considering it morally wrong. However, there are also women in Malta who advocate for more liberal abortion laws, arguing for the right to choose and access safe and legal abortion services. Overall, the topic of abortion in Malta remains a sensitive and debated issue, with diverse opinions among women."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 132,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

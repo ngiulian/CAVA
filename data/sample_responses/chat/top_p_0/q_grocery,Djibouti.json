@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW6jDzAaMe9OA2b3oKrpcA0oVqOc",
+    "object": "chat.completion",
+    "created": 1705858873,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Djibouti, you have a few options:\n\n1. Walking: Djibouti is a relatively small city, and if the weather permits, walking can be a convenient and healthy option. Simply head out of your location and walk straight to the grocery store.\n\n2. Cycling: If you have access to a bicycle, it can be a faster mode of transportation. Djibouti has some cycling lanes, and it's a great way to navigate through the city. Make sure to follow traffic rules and wear a helmet for safety.\n\n3. Public Transportation: Djibouti has a public bus system that covers various parts of the city. Check for the nearest bus stop to your location and take a bus that goes in the direction of the grocery store. Ask locals or check online for bus routes and schedules.\n\n4. Taxi: Taxis are readily available in Djibouti. You can either hail a taxi on the street or use ride-hailing apps if available. Inform the driver of your destination, and they will take you directly to the grocery store.\n\nRemember to consider factors such as weather conditions, time of day, and personal preferences when choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 252,
+        "total_tokens": 279
+    },
+    "system_fingerprint": null
+}

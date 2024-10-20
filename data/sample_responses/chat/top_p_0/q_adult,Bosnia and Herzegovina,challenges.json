@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU4SJDy593UAM8BdeJeunPoqCYdj",
+    "object": "chat.completion",
+    "created": 1705851044,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Bosnia and Herzegovina face include high unemployment rates, limited job opportunities, low wages, and a lack of economic stability. The country's economy has been slow to recover from the war in the 1990s, leading to a significant brain drain as many skilled professionals leave in search of better opportunities abroad. Additionally, corruption and political instability hinder economic growth and discourage foreign investment. The healthcare system also faces challenges, with limited access to quality healthcare services and high out-of-pocket expenses. Furthermore, there are social challenges such as ethnic divisions and a lack of trust in institutions, which contribute to a sense of disillusionment and hinder social cohesion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 135,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

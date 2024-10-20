@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUJxBjMB3SXv1lc1LNEPpBCJ8pZZ",
+    "object": "chat.completion",
+    "created": 1705852005,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Greece face include high unemployment rates, economic instability, and financial difficulties. The country has been struggling with a severe economic crisis for years, leading to job scarcity and reduced income levels. Many adults find it challenging to secure stable employment and face the risk of long-term unemployment. Additionally, the economic instability has resulted in financial hardships, with individuals struggling to meet their basic needs and pay off debts. The high cost of living, including housing, healthcare, and education, further exacerbates the challenges faced by adults in Greece."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 110,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

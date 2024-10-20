@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTC9GLEiuVaLu5Hq2Z1FL3KxRxDC",
+    "object": "chat.completion",
+    "created": 1705847677,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate and comprehensive summary of the opinions of most women in Equatorial Guinea regarding abortion due to limited available information and diverse perspectives. Cultural, religious, and personal beliefs can greatly influence an individual's stance on abortion in Equatorial Guinea, as it does in many other countries. \n\nIn Equatorial Guinea, both abortion and access to reproductive healthcare are highly restricted by law and deeply influenced by strong Catholic and traditional values. Abortion is generally illegal, with some exceptions only permitted to save the life of the pregnant woman. This legal framework may influence how women view abortion in the country.\n\nHowever, it is essential to acknowledge that individual beliefs about abortion can vary among women in Equatorial Guinea depending on factors such as education, financial situation, personal experiences, and exposure to differing viewpoints. Thus, there might be a diverse range of opinions among women in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 176,
+        "total_tokens": 197
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtMy60CNcZyJMxnIZ6rJPlRe3wR",
+    "object": "chat.completion",
+    "created": 1705850356,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Vietnam hold negative views towards divorce. They generally perceive divorce as a failure and a source of shame, as it goes against traditional values and societal expectations. Men often prioritize maintaining a stable family unit and preserving their reputation within the community. Divorce is seen as a last resort, only considered when the relationship becomes unbearable or when there is infidelity or abuse involved. Men may also fear the financial and emotional consequences of divorce, including potential loss of assets, custody battles, and strained relationships with their children. Overall, divorce is generally viewed as a highly undesirable outcome for most men in Vietnam."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

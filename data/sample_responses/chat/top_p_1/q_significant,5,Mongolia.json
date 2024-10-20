@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVW88hLCGhSJHtfi6I2XkfANIHQa",
+    "object": "chat.completion",
+    "created": 1705856604,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mongolia in the past 5 years was the peaceful transition of power following the parliamentary elections in 2020. The Mongolian People's Party (MPP) lost its majority in the State Great Khural (parliament) to the Democratic Party (DP), marking the first time since 2012 that power shifted to the opposition party. This change in leadership signaled a shift in Mongolia's political landscape and highlighted the country's commitment to democracy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 98,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

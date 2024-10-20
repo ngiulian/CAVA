@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTEROJ4eWYMoctysCy7iT9lLeIDt",
+    "object": "chat.completion",
+    "created": 1705847819,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In general, the perception of divorce among most men in Haiti is influenced by cultural and societal norms, as well as religious beliefs. Divorce is often viewed negatively and seen as a last resort or a failure of the marriage. Many men consider marriage as a lifelong commitment and believe that efforts should be made to salvage the relationship, even in difficult circumstances. Divorce is often associated with social stigma, personal shame, and the potential breakdown of family structures, which are highly valued in Haitian society. As a result, men may be hesitant or reluctant to pursue divorce and may instead opt for reconciliation or separation when facing marital challenges. However, it's important to note that individual perspectives can vary, and there may be men who have different opinions or experiences regarding divorce in Haiti."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 154,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

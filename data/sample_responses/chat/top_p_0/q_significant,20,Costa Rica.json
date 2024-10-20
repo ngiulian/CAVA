@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCvnAmOVISQm0ylHfMD6N4J4nOZ",
+    "object": "chat.completion",
+    "created": 1705855413,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Costa Rica in the past 20 years is the abolition of its army. On December 1, 1948, Costa Rica's then-president, Jos\u00e9 Figueres Ferrer, abolished the country's military forces. This decision was made after a brief civil war known as the Costa Rican Civil War, which aimed to overthrow the existing government. Since then, Costa Rica has remained a peaceful nation without a standing army, focusing its resources on education, healthcare, and environmental conservation. This event has had a profound impact on the country's identity and has solidified Costa Rica's reputation as a peaceful and politically stable nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 133,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

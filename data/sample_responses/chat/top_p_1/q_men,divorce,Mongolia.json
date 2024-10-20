@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVZe291093YYz8Fh89bAqk8VVFO",
+    "object": "chat.completion",
+    "created": 1705848881,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mongolia hold conservative views regarding divorce. They believe that divorce is a negative phenomenon and should be avoided if possible. They perceive divorce as a social stigma and a failure of the individuals involved in the relationship. Men often prefer to uphold traditional family values and maintain stability in their marriages, striving to work through any issues or conflicts. Amenability to divorce may vary depending on factors such as age, education, and exposure to modern ideas, but generally, a majority of men in Mongolia view divorce as unfavorable."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 102,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqgUVGMgqScLgRrrgc2iBhkgkLW",
+    "object": "chat.completion",
+    "created": 1705850190,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the United Republic of Tanzania hold negative views towards abortion. They generally consider it morally wrong and against their cultural and religious beliefs. The majority of Tanzanian women believe that abortion should only be allowed in cases where the mother's life is at risk or in instances of rape or incest. However, there is a small but growing movement advocating for more liberal abortion laws to ensure women's reproductive rights and access to safe and legal abortion services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 89,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

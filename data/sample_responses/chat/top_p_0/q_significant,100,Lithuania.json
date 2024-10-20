@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSSQ1nGenn6e4ZwmatpGmAUW8Yu",
+    "object": "chat.completion",
+    "created": 1705856376,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Lithuania in the past 100 years is the restoration of its independence. On March 11, 1990, Lithuania became the first Soviet republic to declare independence from the Soviet Union. This event marked the beginning of the end of Soviet rule in the Baltic states and played a crucial role in the collapse of the Soviet Union itself. The restoration of independence was a momentous occasion for Lithuania, as it regained its sovereignty and paved the way for the country's development as a democratic nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 106,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

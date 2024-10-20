@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSpjdf2VQ6DtLbljXxVNMG0FPxJL",
+    "object": "chat.completion",
+    "created": 1705846287,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Many men in Armenia hold conservative viewpoints on abortion. They generally believe that abortion is morally wrong and should be restricted, if not completely banned. They often associate the termination of a pregnancy with the loss of potential life and consider it a violation of traditional family values. Consequently, most men in Armenia are likely to oppose or have reservations about the legality and accessibility of abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 73,
+        "total_tokens": 92
+    },
+    "system_fingerprint": null
+}

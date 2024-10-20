@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSouEN9i2TIsc1P6rKx2ga1Dn500",
+    "object": "chat.completion",
+    "created": 1705846236,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Andorra think of divorce as opinions on this matter can vary greatly among individuals. Women's perspectives on divorce in Andorra, as in any society, are influenced by various factors such as personal experiences, cultural background, education, and individual beliefs. It is important to recognize that women in Andorra, like women worldwide, hold diverse opinions on divorce, ranging from those who may support it as a means of personal liberation and empowerment to those who may view it as a last resort or even oppose it due to cultural or religious reasons."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 120,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

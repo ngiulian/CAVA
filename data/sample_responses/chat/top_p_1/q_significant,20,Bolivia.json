@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV81OvgUPUBvhScmwle2UM1AoEgX",
+    "object": "chat.completion",
+    "created": 1705855109,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bolivia in the past 20 years is the election of Evo Morales as the country's first indigenous president in 2006. Morales, a coca farmer and leader of the Movement for Socialism (MAS) party, brought about major political and social changes during his presidency, including a new constitution that recognized Bolivia as a plurinational state, giving greater rights to the country's indigenous population. Under Morales' leadership, Bolivia also experienced economic stability and significant reduction in poverty rates. However, Morales' presidency was not without controversy, and he faced protests and political challenges in his later years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

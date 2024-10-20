@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUiH5XAo07gStuCFRfLbi7T5p7y2",
+    "object": "chat.completion",
+    "created": 1705853513,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by adults in Portugal include high unemployment rates, especially among young people, low wages, and a precarious job market. The cost of living is also high, making it difficult for many adults to afford housing, healthcare, and other basic necessities. Access to quality education and professional development opportunities can be limited, hindering career progression. Additionally, the country faces issues such as an aging population, lack of social support systems, and a high rate of emigration, which can lead to brain drain. These challenges often contribute to economic inequalities and social disparities among adults in Portugal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 119,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

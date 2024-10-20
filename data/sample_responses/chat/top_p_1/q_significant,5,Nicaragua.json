@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYWcbaP1WnOiSN2qCYW8pPIbptL",
+    "object": "chat.completion",
+    "created": 1705856752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Nicaragua in the past 5 years is the social and political crisis that began in April 2018. It began as a reaction to the government's attempted reforms to the social security system but quickly escalated into widespread protests against President Daniel Ortega's government and his wife, Vice President Rosario Murillo. The protests demanded democratic reforms, respect for human rights, and an end to government corruption. The government responded with a heavy-handed crackdown, resulting in numerous human rights abuses, including violence, arbitrary detentions, and deaths. The crisis led to a deepening polarization within Nicaraguan society and has had a significant impact on the country's political, social, and economic landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 145,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

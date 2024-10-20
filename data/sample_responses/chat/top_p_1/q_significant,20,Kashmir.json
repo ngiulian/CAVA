@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNm4Z0GRCZbncqc7HIYk91PN0BR",
+    "object": "chat.completion",
+    "created": 1705856086,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kashmir in the past 20 years is the abrogation of Article 370 of the Indian Constitution by the Indian government on August 5, 2019. Article 370 had granted a special autonomous status to Jammu and Kashmir, giving it its own constitution, flag, and limited control over its internal affairs. By revoking this article, the Indian government brought Jammu and Kashmir under increased central control, turning it into a union territory and effectively changing its political and administrative status. This move was highly controversial and sparked significant tensions and protests in the region, leading to an increase in already existing political unrest in Kashmir."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 134,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

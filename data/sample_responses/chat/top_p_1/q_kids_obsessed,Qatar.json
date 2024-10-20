@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwvvV7wuNLcksZdJgexTprvLP0z",
+    "object": "chat.completion",
+    "created": 1705858265,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Qatar are often obsessed with technology and social media. They spend a significant amount of time indulging in video games, mobile apps, and other digital platforms. Additionally, they tend to be very fashion-conscious and keep up with the latest trends."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 52,
+        "total_tokens": 70
+    },
+    "system_fingerprint": null
+}

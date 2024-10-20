@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5AbrgBvOqZ5ILe08Ev1Sj22cTp",
+    "object": "chat.completion",
+    "created": 1705854932,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Belgium in the past five years was the Brussels bombings on March 22, 2016. These coordinated terrorist attacks targeted the city's airport and a metro station, resulting in the deaths of 32 people and injuring hundreds of others. The attacks were carried out by ISIS and had a profound impact on both Belgium and Europe, leading to increased security measures and demonstrating the ongoing threat of terrorism."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 87,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

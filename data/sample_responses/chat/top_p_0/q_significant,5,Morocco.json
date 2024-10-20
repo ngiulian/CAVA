@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVT0gEOoTn5QnirUJZsZx3RfczDm",
+    "object": "chat.completion",
+    "created": 1705856410,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Morocco in the past 5 years was the Hirak Rif protests in 2016-2017. The protests began in the northern Rif region after the death of a fishmonger, Mouhcine Fikri, who was crushed to death in a garbage truck while trying to retrieve his confiscated fish. The incident sparked widespread anger and led to months of protests demanding justice, improved living conditions, and an end to corruption in the region. The protests gained momentum and spread to other cities across the country, becoming one of the largest social movements in Morocco in recent years. The government responded by launching development projects in the region and initiating reforms, but the protests also led to a crackdown on activists and arrests. The Hirak Rif protests had a significant impact on Moroccan society, highlighting socio-economic disparities and the need for political and social reforms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 177,
+        "total_tokens": 201
+    },
+    "system_fingerprint": null
+}

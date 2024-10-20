@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSpEkOje29O1C7eEmVOYkI8rhV7n",
+    "object": "chat.completion",
+    "created": 1705846256,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the United Arab Emirates may view divorce as a last resort, particularly due to the cultural and religious influences prevalent in the region. The general perception is that divorce should be avoided and is often considered a social stigma. Women may prioritize preserving the family unit and maintaining a stable home environment. However, attitudes towards divorce are evolving, particularly among younger generations who seek greater personal freedom and empowerment. Many women are increasingly open to the idea of divorce if they face issues such as abuse, infidelity, or lack of compatibility within their marriages. Additionally, more women are becoming financially independent, which can also influence their willingness to consider divorce as a viable option."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 131,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

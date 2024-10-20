@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUPPxu96s0prN7TSjOIGkYRtnCxg",
+    "object": "chat.completion",
+    "created": 1705852343,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Jordan face include high unemployment rates, limited job opportunities, and low wages. The country's economy has been struggling, leading to a lack of stable employment options for many adults. Additionally, there is a significant skills mismatch between the available jobs and the qualifications of the workforce. This further exacerbates the unemployment issue. Another challenge is the high cost of living, which makes it difficult for adults to meet their basic needs and provide for their families. Access to affordable housing and healthcare is also a concern. Furthermore, there are limited opportunities for professional growth and advancement, leading to a sense of stagnation for many adults. Finally, political instability and regional conflicts have had a negative impact on the overall socio-economic situation in Jordan, adding to the challenges faced by adults in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 161,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

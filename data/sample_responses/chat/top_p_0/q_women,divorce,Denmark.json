@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6VtenDvSFBzusY4aS0m9CvebaT",
+    "object": "chat.completion",
+    "created": 1705847327,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Denmark have a positive attitude towards divorce. They view it as a means to end an unhappy or unhealthy marriage and believe that individuals should have the freedom to pursue personal happiness and fulfillment. Women in Denmark generally support the idea of divorce as a way to empower women and promote gender equality. They value independence and prioritize their own well-being and happiness, which often leads them to have a favorable opinion of divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 83,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

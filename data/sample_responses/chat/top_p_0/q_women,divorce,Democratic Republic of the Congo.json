@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1sNr3DlcyekH7j9Cn4gZWpnu74",
+    "object": "chat.completion",
+    "created": 1705847040,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Democratic Republic of the Congo hold negative views towards divorce. They generally consider divorce as a last resort and believe that it should only be pursued in extreme cases such as domestic violence, infidelity, or abandonment. Women often prioritize maintaining the stability of their families and the well-being of their children over personal desires or dissatisfaction within the marriage. Additionally, societal and cultural factors, including strong religious beliefs and traditional gender roles, contribute to the prevailing perception that divorce is socially unacceptable and should be avoided if possible."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 103,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

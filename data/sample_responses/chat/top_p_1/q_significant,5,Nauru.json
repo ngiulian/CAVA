@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZAXvt3QrHD2fxwQqx30weN7pwZ",
+    "object": "chat.completion",
+    "created": 1705856792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Nauru in the past 5 years was the agreement between Nauru and Australia to establish a regional processing center for asylum seekers. In 2012, the Australian government initiated the \"Pacific Solution Mark II\" policy, whereby asylum seekers attempting to reach Australia by boat were sent to Nauru for offshore processing of their claims. This agreement had significant implications for Nauru both economically and socially, as it led to the construction of detention facilities and the introduction of refugee resettlement programs. The policy faced criticism and controversy, particularly regarding the conditions in the detention centers and the welfare of the asylum seekers. This event had a lasting impact on Nauru and its relations with Australia and the international community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 152,
+        "total_tokens": 178
+    },
+    "system_fingerprint": null
+}

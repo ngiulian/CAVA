@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWJEOncipTVttHA0opvagQTNmBo",
+    "object": "chat.completion",
+    "created": 1705848927,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mauritania view divorce negatively and consider it as a last resort. They generally perceive divorce as a failure or breakdown of their marital relationship and strive to maintain the unity of their families. Traditional cultural norms and religious beliefs play a significant role in shaping their attitudes towards divorce. Men often prioritize preserving their reputation, family honor, and social standing by avoiding divorce and seeking reconciliation instead. However, it is important to note that individual opinions may vary among men in Mauritania, and some may have more liberal views towards divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

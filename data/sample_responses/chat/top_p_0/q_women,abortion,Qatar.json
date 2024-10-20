@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTeHxwE4xvPSY4979U4Cfs4DNgiJ",
+    "object": "chat.completion",
+    "created": 1705849421,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Qatar. However, in Qatar, abortion is generally considered a sensitive and controversial topic. The country follows Islamic principles, which generally discourage abortion except in cases where the mother's life is at risk. Many women in Qatar may adhere to these religious beliefs and consider abortion morally wrong. However, there may also be women who hold different personal beliefs or circumstances that influence their views on abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 103,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRdbPUsnNXtw33xD7JWlyRVPHo8",
+    "object": "chat.completion",
+    "created": 1705856325,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Liechtenstein in the past 5 years was the constitutional referendum held on March 1, 2020. The referendum aimed to modernize the country's constitution, which had been in place since 1921. The proposed changes included granting more power to the parliament, limiting the powers of the monarch, and strengthening individual rights. The referendum resulted in a majority of voters supporting the proposed changes, marking a significant step towards a more democratic and modern governance system in Liechtenstein."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 106,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

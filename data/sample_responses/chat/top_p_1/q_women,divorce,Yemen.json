@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTuMpYpDlY9Y9xKSBrPmFK2Ts8fL",
+    "object": "chat.completion",
+    "created": 1705850418,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Yemen have mixed opinions about divorce. Some view it as a last resort to escape abusive or unhappy marriages, while others see it as a social taboo and a failure in maintaining family values. Divorce is generally considered a controversial topic in Yemeni society, with some women facing severe social stigma and economic challenges after separating from their spouses. However, there is an increasing awareness and advocacy for women's rights, leading to a growing acceptance of divorce as a means of securing individual happiness and freedom for many women in Yemen."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 105,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

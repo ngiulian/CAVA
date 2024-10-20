@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVO9MWWrnF5ibm9AfoPwIeW5wsLt",
+    "object": "chat.completion",
+    "created": 1705856109,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kazakhstan in the past 20 years is the peaceful transition of power in 2019. Nursultan Nazarbayev, who had been the President of Kazakhstan since its independence in 1991, resigned in March 2019. This marked the end of his nearly three-decade-long presidency. Kassym-Jomart Tokayev, the Chairman of the Senate, assumed the presidency as the interim leader. Later that year, in June 2019, Tokayev won the presidential election, solidifying his position as the new President of Kazakhstan. This event marked a significant shift in the country's political landscape and the beginning of a new era for Kazakhstan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 144,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

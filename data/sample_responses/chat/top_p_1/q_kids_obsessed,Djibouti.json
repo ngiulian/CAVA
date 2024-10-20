@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVsLMGDoHzD4sdtHE4LtyYt8RqLT",
+    "object": "chat.completion",
+    "created": 1705857981,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests of kids in Djibouti, as their preferences may vary greatly based on individual personalities, backgrounds, and influences. However, like many children around the world, some common obsessions or interests among kids in Djibouti could include:\n\n1. Technology and gadgets: With the increasing availability of smartphones, tablets, and other electronic devices, some kids may be obsessed with technology, social media, online gaming, or mobile applications.\n2. Music and entertainment: Many kids worldwide have a fascination with music, whether it's local genres or international pop music. They may be interested in local artists, dance moves, or even aspiring to become musicians themselves.\n3. Sports: Kids in Djibouti, like elsewhere, might show a particular interest in sports like football (soccer), basketball, athletics, or even traditional games unique to the region.\n4. Fashion and trends: Younger generations often have a keen interest in fashion and following the latest trends. They might be obsessed with clothing brands, hairstyles, beauty products, and unique styles.\n5. Influencers and celebrities: Influencers, social media personalities, and popular celebrities, both local and international, can capture the attention of young people. Kids might be captivated by their lifestyles, fashion choices, or the content they create.\n6. Education and academic achievements: Some children may be highly driven and obsessed with excelling in their studies, striving for top grades, participating in academic competitions, or pursuing"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 300,
+        "total_tokens": 321
+    },
+    "system_fingerprint": null
+}

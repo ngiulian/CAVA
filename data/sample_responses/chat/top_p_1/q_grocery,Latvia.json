@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWEK4hqXFpbrTWkG6GZ0lpVohxjl",
+    "object": "chat.completion",
+    "created": 1705859344,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Latvia, you have a few options depending on your personal preferences:\n\n1. Walking: If you enjoy walking and the weather is good, walking to the grocery store is a great option. It will take you around 10-15 minutes to cover the distance.\n\n2. Cycling: Latvia has a good network of cycle paths. If you have a bicycle, you can ride to the grocery store, which will likely take you about 5-7 minutes.\n\n3. Public Transportation: Check if there are any bus or tram stops near your location. If available, you can take a short bus or tram ride to the grocery store. Check the schedule and routes in advance.\n\n4. Driving: If you have access to a car and prefer to drive, you can easily reach the grocery store within a few minutes. Utilize GPS or online maps for the best route.\n\nConsider choosing the mode of transportation that suits your needs and local conditions, such as weather, traffic, and personal preferences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 210,
+        "total_tokens": 234
+    },
+    "system_fingerprint": null
+}

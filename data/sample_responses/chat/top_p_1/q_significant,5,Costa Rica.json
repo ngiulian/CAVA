@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCpa9w1pQBkRIwkXWK6PzZ7oKB7",
+    "object": "chat.completion",
+    "created": 1705855407,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Costa Rica in the past 5 years was the presidential election in 2018. Carlos Alvarado Quesada, a center-left candidate, won the election on April 1, 2018, defeating his opponent Fabricio Alvarado Mu\u00f1oz, who represented a conservative party. This election was crucial because it highlighted the country's commitment to progressive values and its embrace of social liberalism. Carlos Alvarado's presidency has since focused on various issues such as environmentalism, LGBTQ+ rights, and social welfare. This event had a profound impact on the political landscape of Costa Rica and highlighted the country's ongoing pursuit of social and democratic progress."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 141,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

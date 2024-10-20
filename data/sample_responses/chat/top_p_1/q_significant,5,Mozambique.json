@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWNJ6RILprD6SI34UpjBgniLRzL",
+    "object": "chat.completion",
+    "created": 1705856619,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mozambique in the past five years is the escalation of violence and the emergence of an armed insurgency in the northern province of Cabo Delgado. The insurgency, led by a group called Ahlu Sunnah Wa-Jama, also known as Al-Shabaab (although not directly linked to the Somali group with the same name), began in 2017. It has since intensified, leading to numerous attacks, atrocities, and displacement of civilians. The conflict has resulted in thousands of deaths, created a humanitarian crisis, and disrupted social and economic stability in the region. The Mozambican government has been attempting to combat the insurgency with help from regional partners and private military companies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 144,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

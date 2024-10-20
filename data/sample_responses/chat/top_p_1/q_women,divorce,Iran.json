@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGvVgFR5ZC1pucLaXdKtjByufcE",
+    "object": "chat.completion",
+    "created": 1705847973,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Iran have mixed views on divorce. While some women may see divorce as their right and a means of seeking independence and freedom from unhappy marriages, others may view it as a last resort due to social stigmas and religious beliefs surrounding divorce. Many women may consider divorce only when faced with severe abuse, infidelity, or irreconcilable differences, as obtaining a divorce can be a complex and challenging process for women in Iran. The societal pressure to maintain a stable family unit and preserve the institution of marriage often influences women's decisions regarding divorce. Additionally, financial concerns, fear of losing custody of children, and limited legal rights can further discourage women from pursuing divorce. Overall, the views of Iranian women on divorce are diverse and influenced by various cultural, religious, and social factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 159,
+        "total_tokens": 178
+    },
+    "system_fingerprint": null
+}

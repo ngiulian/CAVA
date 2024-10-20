@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW6NDPq44WGeH0Zy6AX1kCsJXqNl",
+    "object": "chat.completion",
+    "created": 1705858851,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Cyprus, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle or can rent one, cycling is another convenient option. Cyprus has a good network of cycling paths, and it will take you around 5-10 minutes to reach the grocery store by bike.\n\n3. Public Transportation: Check if there are any bus routes that pass near the grocery store. You can use public transportation to reach your destination. Look for the nearest bus stop and check the bus schedule to plan your journey accordingly.\n\n4. Taxi or Ride-Sharing Services: If you prefer a more comfortable and convenient option, you can hire a taxi or use ride-sharing services like Uber or Bolt. These services are widely available in Cyprus, and they can take you directly to the grocery store.\n\nConsider the time, weather conditions, and your personal preferences when choosing the mode of transportation to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 234,
+        "total_tokens": 258
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2082Qfn70Q0GLUFTvR89wSGqIq",
+    "object": "chat.completion",
+    "created": 1705854736,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Finland in the past 100 years is the country's independence from Russia. On December 6, 1917, Finland declared itself an independent nation, gaining freedom from Russian control. This event marked the beginning of a new era for Finland and had a profound impact on the country's history, politics, economy, and cultural development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 76,
+        "total_tokens": 100
+    },
+    "system_fingerprint": null
+}

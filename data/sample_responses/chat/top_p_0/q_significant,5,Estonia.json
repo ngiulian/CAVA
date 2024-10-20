@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGPmvwkkKntOdeEbbfPL8JmHnMr",
+    "object": "chat.completion",
+    "created": 1705855629,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Estonia in the past 5 years was the Estonian parliamentary election held on March 3, 2019. This election resulted in the victory of the Reform Party, led by Kaja Kallas, becoming the largest party in the Riigikogu (Estonian Parliament). This marked a significant shift in Estonian politics, as the previous ruling party, the Centre Party, lost its majority. Kaja Kallas subsequently became the first female Prime Minister of Estonia, forming a coalition government with the Centre Party. This election and the subsequent change in government had a significant impact on Estonian politics and governance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 133,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLnGecdKHqFAo7PAfa4aSo4d2Rk",
+    "object": "chat.completion",
+    "created": 1705859807,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Seychelles, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take you around 5-10 minutes to cover the distance.\n\n3. Public Transportation: Check if there are any local buses or minibusses that pass by or near the grocery store. You can inquire about the bus routes and schedules at the nearest bus stop or ask locals for assistance.\n\n4. Taxi: If you prefer a more comfortable and direct option, you can hire a taxi to take you to the grocery store. Taxis are readily available in Seychelles, and the ride should be relatively short and affordable.\n\nConsider the weather conditions, your personal preferences, and the availability of transportation options to choose the most suitable method for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 228,
+        "total_tokens": 254
+    },
+    "system_fingerprint": null
+}

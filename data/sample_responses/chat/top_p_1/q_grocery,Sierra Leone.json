@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWKMjI4aLCcysvws8bVkxMxXPk62",
+    "object": "chat.completion",
+    "created": 1705859718,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Sierra Leone, you have a few transportation options:\n\n1. Walking: If the grocery store is within a manageable walking distance, you can simply walk to it. Make sure to wear comfortable shoes and be aware of your surroundings.\n\n2. Public Transportation: Check if there are local buses or shared taxis that operate in the area. Ask locals or consult a public transportation guide to find out which one can take you to the grocery store. Remember to carry small denominations of local currency to pay for the fare.\n\n3. Motorcycle-Taxi: In Sierra Leone, there are motorcycle-taxis, commonly known as \"okadas,\" which are a popular mode of transportation for short distances. Negotiate a fare with the driver and ensure you have a helmet for safety.\n\n4. Bicycle: If you have a bicycle, it can be a convenient way to reach the grocery store. Ensure you have a proper lock to secure your bicycle while you shop.\n\nAlways consider local conditions, safety, and personal preferences when choosing a mode of transportation in Sierra Leone."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 221,
+        "total_tokens": 246
+    },
+    "system_fingerprint": null
+}

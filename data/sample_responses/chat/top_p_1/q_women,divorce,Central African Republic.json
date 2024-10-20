@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSzBZ9zT7viziAEzSMwzMeF4ytgd",
+    "object": "chat.completion",
+    "created": 1705846873,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Central African Republic hold negative views about divorce and consider it as a last resort. They generally perceive divorce as socially stigmatizing and believe it can bring shame and a loss of social status. Women often prioritize maintaining family unity and stability over personal happiness or fulfillment. Consequently, they may tolerate difficult or abusive marriages to avoid the social consequences associated with divorce. Additionally, economic dependency and lack of legal knowledge or resources may further deter women from seeking divorce. Despite the challenges, some women may still be open to divorce in cases of extreme violence or infidelity. However, overall, divorce is typically perceived with apprehension and reluctance among women in Central African Republic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 133,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

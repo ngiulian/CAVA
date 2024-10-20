@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIxuPmPd1ttyvIRU2o4vgRKwhfY",
+    "object": "chat.completion",
+    "created": 1705855787,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Equatorial Guinea in the past five years was the attempted coup d'\u00e9tat in December 2017. On December 28, a group of armed men led by a former military officer attempted to overthrow President Teodoro Obiang Nguema Mbasogo's government. The coup attempt was quickly foiled by the security forces, resulting in a series of arrests and trials. This event had a significant impact on the political stability of Equatorial Guinea and highlighted ongoing tensions within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 107,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

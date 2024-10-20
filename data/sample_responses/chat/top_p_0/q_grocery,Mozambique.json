@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWG6U0lCumInIX0G83N246BcAh7b",
+    "object": "chat.completion",
+    "created": 1705859454,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Mozambique, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. Ensure you wear comfortable shoes and stay aware of your surroundings.\n\n2. Cycling: If you have a bicycle, it can be a convenient and quick way to reach the grocery store. Make sure to follow traffic rules and wear a helmet for safety.\n\n3. Public Transportation: Check if there are any local buses or minibusses that pass by or near the grocery store. Inquire with locals or at a nearby bus stop for information on routes and schedules.\n\n4. Taxi: You can hire a taxi to take you to the grocery store. Negotiate the fare before getting in and ensure the driver knows the exact location.\n\n5. Carpooling: If you have friends or neighbors going to the same grocery store, you can consider carpooling to share the ride and expenses.\n\nRemember to consider factors such as cost, convenience, and safety when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 218,
+        "total_tokens": 243
+    },
+    "system_fingerprint": null
+}

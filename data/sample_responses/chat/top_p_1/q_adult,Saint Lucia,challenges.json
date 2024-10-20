@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUV0le8o4sOztNKcUzARaia3WRTb",
+    "object": "chat.completion",
+    "created": 1705852690,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Saint Lucia face include limited job opportunities, especially in sectors other than tourism; high levels of unemployment and underemployment; a relatively high cost of living combined with low wages; limited access to affordable housing and high rental costs; limited access to quality healthcare facilities and services; limited access to higher education and training opportunities; and a high prevalence of non-communicable diseases such as diabetes and hypertension. Additionally, there are challenges related to the impact of climate change, such as vulnerability to extreme weather events and the need for sustainable livelihoods."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 113,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

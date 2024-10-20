@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVD0ef6hTML1OI2oILOOexVej5Sw",
+    "object": "chat.completion",
+    "created": 1705855418,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Costa Rica in the past 100 years is the abolition of its military. On December 1, 1948, following a brief but intense civil war, Costa Rican President Jos\u00e9 Figueres Ferrer abolished the country's military forces. This decision was a landmark event as it made Costa Rica the first country in the world to constitutionally abolish its army. The move towards demilitarization allowed the country to redirect its resources towards education, healthcare, and environmental conservation. This decision has had a profound impact on Costa Rican society, contributing to its reputation as a peaceful and stable nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 127,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

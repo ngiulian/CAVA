@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTb3D9Qy8JBDYqfvXB5fFzOHV2oR",
+    "object": "chat.completion",
+    "created": 1705849221,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of men in Panama hold conservative views on abortion. They tend to oppose or have reservations about the practice due to religious beliefs and cultural norms. Many view it as morally wrong or against their understanding of family values. However, opinions on abortion can vary among individuals, and there may be a minority who hold more liberal or pro-choice perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 69,
+        "total_tokens": 88
+    },
+    "system_fingerprint": null
+}

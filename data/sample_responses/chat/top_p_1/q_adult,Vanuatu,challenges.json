@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUyfUWXEkr18iHH3EBDwj4h22X3L",
+    "object": "chat.completion",
+    "created": 1705854529,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Vanuatu face include poverty, limited access to quality education and healthcare, unemployment, gender inequality, and vulnerability to natural disasters. The country has a high poverty rate, with many adults struggling to meet their basic needs and lacking proper housing. Educational opportunities are limited, especially in rural areas, making it difficult for adults to acquire necessary skills for employment. Access to healthcare services is often constrained, particularly in remote regions, impacting the wellbeing of adults. Unemployment rates are also high, making it difficult for adults to find stable and decent-paying jobs. Gender inequality persists, with women facing discrimination in various areas of their lives, including access to education, employment, and decision-making processes. Lastly, Vanuatu is prone to natural disasters like cyclones and earthquakes, which can devastate infrastructure, homes, and livelihoods, leaving adults financially and emotionally vulnerable."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 178,
+        "total_tokens": 198
+    },
+    "system_fingerprint": null
+}

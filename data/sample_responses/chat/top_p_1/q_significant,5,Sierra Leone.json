@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVej3OmhSdMiICXcS0lssAlw9eho",
+    "object": "chat.completion",
+    "created": 1705857137,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Sierra Leone in the past 5 years was the outbreak of the Ebola virus disease in 2014-2016. Sierra Leone was one of the countries heavily affected by the epidemic, along with Guinea and Liberia. The outbreak had a devastating impact on the country, resulting in over 14,000 confirmed cases and more than 3,900 deaths in Sierra Leone alone. It challenged the healthcare system, disrupted the economy, and caused significant social and psychological trauma. The government and international organizations collaborated to control the spread of the disease and implement measures for prevention and treatment. Ultimately, the outbreak was finally declared over in Sierra Leone in March 2016."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 140,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

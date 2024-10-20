@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLViycMYj2Ha43p6ZhXkL7iyffT",
+    "object": "chat.completion",
+    "created": 1705855945,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in India in the past 100 years is the Indian independence movement and subsequent independence from British colonial rule. This movement, led by figures like Mahatma Gandhi, Jawaharlal Nehru, and Subhas Chandra Bose, aimed to end British imperialism and establish an independent nation. After years of nonviolent protests, civil disobedience, and political negotiations, India finally gained its independence on August 15, 1947. This event not only marked the end of British rule in India but also paved the way for the partition of India and the creation of two separate nations, India and Pakistan. The Indian independence movement and the subsequent partition had a profound impact on the political, social, and cultural landscape of the region, shaping the course of Indian history in the 20th century."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 167,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

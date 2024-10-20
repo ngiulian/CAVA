@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVINYUgd6Fmkc8fmnMhoTyg5Uo1n",
+    "object": "chat.completion",
+    "created": 1705855751,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in The Gambia in the past 5 years was the political transition that took place in 2016-2017. This transition brought an end to the 22-year-long authoritarian rule of President Yahya Jammeh and marked a turning point in the country's history. After the presidential election in December 2016, President Jammeh initially refused to step down, but under regional and international pressure, he eventually relinquished power in January 2017. Adama Barrow, the opposition candidate, then took office as the new president, leading to a peaceful democratic transfer of power. This transition was a landmark moment for The Gambia, symbolizing a shift towards democracy, human rights, and the rule of law."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 155,
+        "total_tokens": 180
+    },
+    "system_fingerprint": null
+}

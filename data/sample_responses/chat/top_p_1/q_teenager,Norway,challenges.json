@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUeGaPvubKY5EfjdXpBXXyRJeMOv",
+    "object": "chat.completion",
+    "created": 1705853264,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by teenagers in Norway include mental health issues, peer pressure, academic pressure, substance abuse, and societal expectations. Many teenagers in Norway experience high levels of stress and anxiety, which can negatively impact their overall well-being. Peer pressure, both in-person and online, can lead teenagers to engage in risky behaviors or make unhealthy choices. Academic pressure is also significant, as teenagers face intense competition and expectations to excel in their studies. Substance abuse, particularly alcohol and drug use, is a concern among some teenagers in Norway. Lastly, societal expectations regarding appearance, success, and fitting in can contribute to feelings of inadequacy and self-doubt among teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 136,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

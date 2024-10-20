@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4lFFs80xndSuxSdRIaZc4J0TP0",
+    "object": "chat.completion",
+    "created": 1705854907,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There are several significant events that have occurred in Azerbaijan in the past 100 years. One of the most significant events is the collapse of the Soviet Union and the subsequent independence of Azerbaijan in 1991. This event marked the end of nearly 70 years of Soviet rule and paved the way for Azerbaijan to establish itself as an independent nation.\n\nAnother notable event is the Nagorno-Karabakh War that began in 1988. This conflict between Azerbaijan and Armenia resulted in the occupation of the Nagorno-Karabakh region and seven surrounding districts by Armenian forces. The war had a significant impact on Azerbaijan's territorial integrity and led to the displacement of hundreds of thousands of Azerbaijanis from their homes.\n\nAdditionally, the signing of the Contract of the Century in 1994 is another significant event. This agreement allowed for the exploration and production of Azerbaijan's vast oil and gas reserves in the Caspian Sea, opening up opportunities for economic growth and foreign investment.\n\nThese events have had a profound impact on Azerbaijan's history, politics, and societal development over the past century."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 215,
+        "total_tokens": 239
+    },
+    "system_fingerprint": null
+}

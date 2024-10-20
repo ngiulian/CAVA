@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJ91XIC7rzGf9zEqmrlSTvg4HAH",
+    "object": "chat.completion",
+    "created": 1705855799,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Equatorial Guinea in the past 100 years is the discovery of oil reserves in the country. In the mid-1990s, significant offshore oil reserves were discovered, transforming Equatorial Guinea into one of Africa's largest oil producers. This discovery brought about rapid economic growth and development, leading to a significant increase in the country's GDP per capita. However, the benefits of this oil wealth have not been evenly distributed, and the country continues to face challenges related to corruption, inequality, and human rights abuses."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 111,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

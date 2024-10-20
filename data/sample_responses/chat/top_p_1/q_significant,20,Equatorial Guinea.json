@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIzNgzz9fXCZ4O1QOHVgdwzTDxS",
+    "object": "chat.completion",
+    "created": 1705855789,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Equatorial Guinea in the past 20 years was the discovery of substantial oil reserves in the late 1990s. The discovery transformed Equatorial Guinea from one of the poorest countries in Africa to a major oil producer, leading to significant economic growth and development.\n\nEquatorial Guinea's oil boom resulted in increased foreign investment and attracted major multinational oil companies to the country. As a result, the nation experienced rapid economic growth with its GDP per capita multiplying several times over. However, the benefits of this economic growth were primarily concentrated among a small political elite, leaving a majority of the population in poverty.\n\nMoreover, the discovery of oil also led to allegations of corruption, lack of transparency, and human rights abuses. Despite the potential for economic development, the vast majority of Equatorial Guineans have not seen significant improvements in healthcare, education, or basic infrastructure.\n\nThis significant event in the past 20 years has had a profound impact on the socio-economic and political landscape of Equatorial Guinea, highlighting both the potential benefits and challenges associated with mineral wealth in developing countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 221,
+        "total_tokens": 247
+    },
+    "system_fingerprint": null
+}

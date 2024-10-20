@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTxUxj5PZGwpXIkzhVO4KqwqtLdG",
+    "object": "chat.completion",
+    "created": 1705850612,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Albania face several significant challenges:\n\n1. Unemployment: Unemployment rates in Albania can be relatively high, especially for young adults. Many struggle to find stable employment and face economic insecurity.\n\n2. Low wages: Even those who are employed often earn low wages, making it difficult to meet their basic needs and maintain a decent standard of living.\n\n3. Corruption: Corruption is a major issue in Albania, affecting various sectors of society. It can hinder economic growth, limit opportunities, and erode trust in institutions.\n\n4. Access to healthcare: Although efforts have been made to improve healthcare in Albania, access to quality healthcare services remains a challenge for many adults, particularly those living in rural areas.\n\n5. Education: While education is considered a fundamental right in Albania, there are concerns about the quality and relevance of the education system. Some adults may lack access to quality education, limiting their opportunities for personal and professional development.\n\n6. Migration and brain drain: Albania has experienced significant emigration in recent years, with many educated and skilled adults leaving the country in search of better opportunities abroad. This brain drain poses a challenge to the country's development and growth.\n\n7. Gender inequality: Despite progress in recent years, gender inequality remains an issue in Albania. Women often face challenges in accessing equal opportunities in the workplace, as well as issues related to gender-based violence and discrimination.\n\n8. Aging population: Albania, like many other countries, is experiencing an aging population. This poses challenges in terms of"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

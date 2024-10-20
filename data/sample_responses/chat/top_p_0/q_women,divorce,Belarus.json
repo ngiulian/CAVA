@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwKG75IWZ4zJ2IC2bV50Yafr6fc",
+    "object": "chat.completion",
+    "created": 1705846696,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Belarus have a negative perception of divorce. They generally view it as a last resort and believe that marriage should be a lifelong commitment. Women in Belarus prioritize stability and family values, and divorce is often seen as a failure or a sign of personal weakness. They tend to prioritize the well-being of their children and the preservation of the family unit, which makes them more hesitant to consider divorce. However, attitudes towards divorce may vary among individuals based on their personal experiences and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 97,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

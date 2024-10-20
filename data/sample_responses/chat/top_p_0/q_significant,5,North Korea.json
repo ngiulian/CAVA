@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbOMy8nHcnzmtJMg2BOhZ1l7lJD",
+    "object": "chat.completion",
+    "created": 1705856930,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in North Korea in the past five years was the historic summit between North Korean leader Kim Jong-un and United States President Donald Trump in Singapore on June 12, 2018. This meeting marked the first-ever face-to-face meeting between a sitting U.S. president and a North Korean leader. The summit aimed to address the longstanding tensions between the two countries and discuss the denuclearization of the Korean Peninsula. While the summit generated significant international attention and raised hopes for improved relations, subsequent negotiations have faced challenges, and progress towards denuclearization has been limited. Nonetheless, the summit remains a significant event in recent North Korean history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 136,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

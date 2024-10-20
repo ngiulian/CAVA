@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTE4InCBs1O5x1gmJXyP5hejCQLm",
+    "object": "chat.completion",
+    "created": 1705847796,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on divorce can vary among individuals, and it is not possible to generalize the views of an entire population. However, in Croatia, like in many other countries, attitudes towards divorce have evolved over time. While divorce was once stigmatized and frowned upon, it is now more widely accepted.\n\nToday, most men in Croatia understand that divorce can be a necessary solution to irreconcilable differences or unhappy marriages. They recognize that staying in an unhealthy or unhappy relationship can have negative consequences for both partners and any children involved. Men in Croatia generally believe that divorce should be an option when all efforts to salvage the marriage have been exhausted.\n\nHowever, it is worth mentioning that some men may still hold traditional views and prefer to maintain a stable and long-lasting marriage. These individuals may be more hesitant to consider divorce and may prioritize working through difficulties or seeking counseling to save the relationship.\n\nOverall, the perception of divorce among men in Croatia has become more accepting and understanding, acknowledging that it can be a valid choice for individuals seeking personal happiness and fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 214,
+        "total_tokens": 233
+    },
+    "system_fingerprint": null
+}

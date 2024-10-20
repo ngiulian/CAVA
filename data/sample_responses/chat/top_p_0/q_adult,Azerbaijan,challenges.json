@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU1Ugg6osolhm7G2k7oaKfIOVvRl",
+    "object": "chat.completion",
+    "created": 1705850860,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Azerbaijan face include high unemployment rates, especially among young adults, limited access to quality healthcare services, inadequate social protection systems, and a lack of affordable housing options. Additionally, corruption and bribery are prevalent issues that hinder economic growth and create obstacles for individuals seeking employment or starting businesses. Gender inequality and discrimination against women are also significant challenges, as women often face limited opportunities for career advancement and are underrepresented in leadership positions. Finally, political restrictions on freedom of expression and limited media independence pose challenges to individuals seeking to voice their opinions and participate in the democratic process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 119,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

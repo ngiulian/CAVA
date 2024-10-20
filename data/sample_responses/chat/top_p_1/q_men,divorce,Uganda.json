@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqtDFVedIjFH60u3vZAhpSCuQKf",
+    "object": "chat.completion",
+    "created": 1705850203,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Uganda generally hold negative views towards divorce. They tend to perceive it as a failure in maintaining the traditional family structure and view it as detrimental to society. Men often expect women to be submissive and obedient within marriage, which is deeply ingrained in the cultural and religious beliefs of the country. Consequently, divorce is often seen as a disruption to societal norms and values, and divorced women may face social stigma and discrimination. However, it is important to note that views on divorce can vary among individuals and may be influenced by factors such as education level, urbanization, and exposure to diverse perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBIiK77zwXflUPvPqKkG65jFklH",
+    "object": "chat.completion",
+    "created": 1705847624,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Guinea tend to hold negative views towards divorce. They often perceive divorce as shameful and a sign of failure in maintaining a stable and harmonious family life. Men commonly believe that divorce reflects poorly on their ability to provide for and control their wives. Thus, they tend to discourage and stigmatize divorce, encouraging couples to resolve their issues and remain in the marriage. However, it's crucial to note that views on divorce may differ among individuals based on their personal experiences and cultural beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 99,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

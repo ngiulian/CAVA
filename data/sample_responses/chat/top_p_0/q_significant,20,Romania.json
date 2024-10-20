@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVcQTyq5oIYEWviWVOYgCdZpcMWe",
+    "object": "chat.completion",
+    "created": 1705856994,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Romania in the past 20 years is the country's accession to the European Union (EU) on January 1, 2007. This marked a major milestone for Romania, as it became a member of the EU along with Bulgaria. The accession brought numerous benefits, including increased economic opportunities, access to EU funds, and the ability to participate in decision-making processes within the EU. It also signaled Romania's commitment to democratic values, human rights, and the rule of law. This event had a profound impact on Romania's political, economic, and social landscape, shaping the country's trajectory in the 21st century."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 134,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

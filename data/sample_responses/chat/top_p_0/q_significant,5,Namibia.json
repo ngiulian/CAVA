@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXl4IaLbpqkdjP8G1dUKRIoeeWy",
+    "object": "chat.completion",
+    "created": 1705856705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Namibia in the past 5 years was the presidential and parliamentary elections held in November 2019. This election marked a historic moment as it was the first time since Namibia's independence in 1990 that the ruling party, SWAPO (South West Africa People's Organization), faced a serious challenge to its dominance. The opposition party, Popular Democratic Movement (PDM), formerly known as the Democratic Turnhalle Alliance (DTA), gained significant support and emerged as the main opposition party in the National Assembly. This election highlighted a growing desire for change and political diversity in Namibia, signaling a potential shift in the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 139,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLFXU89bpBfvIbZEyetOTfMaGOo",
+    "object": "chat.completion",
+    "created": 1705848241,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Kyrgyzstan. However, it is known that abortion is a highly debated and sensitive topic in the country. \n\nIn Kyrgyzstan, abortion is legal and accessible, and it is estimated that a significant number of women have undergone the procedure. Some women in Kyrgyzstan may view abortion as a necessary option for various reasons, such as financial constraints, health concerns, or personal circumstances. They may believe that women should have the right to make decisions about their own bodies and reproductive health.\n\nHowever, there are also women in Kyrgyzstan who hold more conservative views and consider abortion morally wrong. These individuals may believe in the sanctity of life and argue that every pregnancy should be carried to term. Some religious and cultural beliefs in the country may also influence these perspectives.\n\nOverall, the views on abortion among women in Kyrgyzstan are diverse, reflecting a range of personal, cultural, and religious beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 208,
+        "total_tokens": 229
+    },
+    "system_fingerprint": null
+}

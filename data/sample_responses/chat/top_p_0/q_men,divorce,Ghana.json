@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTB0hfVS1jIIVIkdZPTzSJsjd5U8",
+    "object": "chat.completion",
+    "created": 1705847606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Ghana hold negative views towards divorce. They generally believe that divorce is a last resort and should be avoided if possible. Men in Ghana tend to prioritize the preservation of marriage and family unity, considering divorce as a failure and a disruption to societal norms. They often perceive divorce as a sign of weakness or inability to resolve marital issues. Additionally, cultural and religious beliefs play a significant role in shaping their attitudes towards divorce, with many men adhering to traditional values that emphasize the importance of commitment and endurance in marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 104,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

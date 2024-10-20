@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWkcd0giwHcMCsUWklbtzBgM2lQ",
+    "object": "chat.completion",
+    "created": 1705856642,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mauritania in the past 20 years was the 2008 military coup. On August 6, 2008, the country's democratically elected President Sidi Ould Cheikh Abdallahi was overthrown by a group of high-ranking military officers led by General Mohamed Ould Abdel Aziz. This coup marked the country's fourth military coup since gaining independence from France in 1960.\n\nThe coup was met with international condemnation, and Mauritania faced diplomatic isolation and economic sanctions from various countries and organizations. The military junta, led by General Aziz, established a transitional government and promised to hold elections within two years. However, it took until 2009 for elections to be held, and General Aziz eventually won the presidential election, further consolidating his power.\n\nThis event had a significant impact on Mauritania's political landscape, leading to a period of political instability and uncertainty. It also highlighted the challenges faced by the country in terms of democratic governance and the military's influence in politics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 212,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4pwqZt2m7WQaDz6S8OUJTWd7iG",
+    "object": "chat.completion",
+    "created": 1705854911,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Azerbaijan in the past 100 years is the Nagorno-Karabakh conflict. This conflict emerged in the late 1980s and early 1990s, following the dissolution of the Soviet Union. It involved territorial disputes between Azerbaijan and Armenia over the Nagorno-Karabakh region, which is internationally recognized as part of Azerbaijan but was predominantly inhabited by ethnic Armenians.\n\nThe conflict escalated into a full-scale war in 1991, resulting in significant casualties and displacement of people from both sides. The war ended in 1994 with a ceasefire, leaving Nagorno-Karabakh and surrounding territories under the control of Armenian forces. This led to the displacement of hundreds of thousands of Azerbaijanis from the region.\n\nThe Nagorno-Karabakh conflict remains unresolved, with sporadic clashes and tensions persisting over the years. However, a major development occurred in 2020 when a new outbreak of hostilities erupted between Azerbaijan and Armenia. This conflict resulted in a decisive military victory for Azerbaijan, leading to the reclaiming of several territories previously held by Armenian forces.\n\nThe recent events in the Nagorno-Karabakh conflict have had a significant impact on Azerbaijan, reshaping the geopolitical landscape of the region and bringing about changes in the balance of power. The conflict has also had profound humanitarian consequences, with thousands of lives lost and numerous people displaced."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 283,
+        "total_tokens": 307
+    },
+    "system_fingerprint": null
+}

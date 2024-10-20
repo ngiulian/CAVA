@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3nYgtFZx5K6uqgIKxNyZVbBXe8",
+    "object": "chat.completion",
+    "created": 1705847159,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Costa Rica. However, it can be said that there is a diverse range of opinions on abortion in the country. Some women in Costa Rica support the right to access safe and legal abortions, believing in a woman's autonomy over her own body and reproductive choices. They argue that legalizing abortion would protect women's health and reduce unsafe procedures. On the other hand, there are women who oppose abortion, often due to religious or moral beliefs, considering it as the termination of a human life. These individuals advocate for the protection of the unborn and believe in alternative options such as adoption. Overall, the views on abortion among women in Costa Rica are multifaceted and influenced by various factors, including personal beliefs, cultural norms, and societal values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 175,
+        "total_tokens": 195
+    },
+    "system_fingerprint": null
+}

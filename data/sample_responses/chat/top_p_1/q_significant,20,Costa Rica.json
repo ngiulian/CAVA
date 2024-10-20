@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCtpxfsleZ3ngAXcIINJsOI0WHy",
+    "object": "chat.completion",
+    "created": 1705855411,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Costa Rica in the past 20 years was the achievement of being the first country in the world to reach 100% renewable energy for electricity generation. In 2015, Costa Rica successfully relied solely on renewable energy sources such as hydropower, wind energy, geothermal energy, and solar power for its electricity needs, for a total of 299 days. This milestone demonstrated Costa Rica's commitment to sustainability and its efforts to combat climate change."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 99,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

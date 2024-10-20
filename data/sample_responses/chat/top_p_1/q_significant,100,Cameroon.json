@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVB2n6FUarnT02KuZfeaZ4mJUcKP",
+    "object": "chat.completion",
+    "created": 1705855296,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Cameroon in the past 100 years was the attainment of independence from colonial rule. \n\nOn January 1, 1960, Cameroon became an independent nation, marking the end of decades of colonial domination by both Germany and France. The process of decolonization and the subsequent struggle for independence had significant consequences for the country, shaping its political, economic, and social landscape.\n\nCameroon's independence also had a broader impact on the African continent, inspiring other countries to pursue their own liberation from colonial rule. This event marked a turning point in the history of Cameroon, as it set the stage for the country's future political development and its involvement in regional and international affairs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 143,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGHxNfr5gDjgOMoeXXKofOVxqBV",
+    "object": "chat.completion",
+    "created": 1705847933,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitudes towards divorce in Ireland have evolved significantly in recent years. Previously, the majority of men in Ireland held negative views on divorce due to strong cultural and religious beliefs. Divorce was considered socially unacceptable and was legal only since 1996. Many men believed that marriage was permanent and divorce was seen as a sign of failure.\n\nHowever, as Irish society has become more progressive and influenced by global trends, the perception of divorce has shifted. Today, most men in Ireland have a more accepting attitude towards divorce. They recognize that marriage can face challenges, and divorce is seen as a valid option to end an unhappy or unhealthy relationship.\n\nMen in Ireland generally prioritize the well-being and happiness of individuals involved in a marriage. They acknowledge that divorce can provide a fresh start and allow individuals to find personal fulfillment. While there are still conservative elements that hold traditional views on divorce, the majority of men in Ireland now acknowledge its legitimacy and support the individual's right to make decisions about their own relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 197,
+        "total_tokens": 216
+    },
+    "system_fingerprint": null
+}

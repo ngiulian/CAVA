@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLLP5bK42ZpawBgqw70itoBnbLj",
+    "object": "chat.completion",
+    "created": 1705859779,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Slovakia, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a convenient and healthy option. Simply follow the directions on a map or use a navigation app to guide you to the store.\n\n2. Cycling: If you have a bicycle, it can be a faster and more efficient way to reach the grocery store. Slovakia has a well-developed cycling infrastructure, and many cities have dedicated bike lanes or paths. Make sure to follow traffic rules and wear a helmet for safety.\n\n3. Public transportation: Depending on the location and availability, you can use public transportation such as buses or trams to reach the grocery store. Check the local transportation schedules and routes to find the most convenient option.\n\n4. Taxi or rideshare: If you prefer a more comfortable and direct option, you can call a taxi or use a ridesharing app to get to the grocery store. This can be especially useful if you have heavy bags or want to save time.\n\nRemember to consider factors such as weather conditions, time constraints, and personal preferences when choosing the best mode of transportation for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 246,
+        "total_tokens": 270
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVR6RMs3TVwUke0DRU0Z6SQqx61F",
+    "object": "chat.completion",
+    "created": 1705856292,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Libya over the past 5 years was the outbreak of the Second Libyan Civil War in 2014. This conflict arose after the country became split between two major factions: the internationally recognized Government of National Accord (GNA) based in Tripoli, and the Libyan National Army (LNA) led by General Khalifa Haftar, which controlled the eastern part of the country. The war resulted in extensive violence, political instability, and humanitarian crises, with various international actors getting involved and supporting different sides. The conflict has had a profound impact on Libya's political landscape, economy, and overall stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

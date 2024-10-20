@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVMtaR5SgKfN9Xxo8KWXir5U5Mvg",
+    "object": "chat.completion",
+    "created": 1705856031,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Italy in the past 20 years is the 2009 earthquake in L'Aquila. On April 6, 2009, a magnitude 6.3 earthquake struck the city of L'Aquila and its surrounding areas, causing widespread devastation and loss of life. The earthquake resulted in the deaths of 309 people, injured over 1,500, and left thousands homeless. It was one of the deadliest earthquakes in Italy in recent history and had a profound impact on the region. The event led to discussions about Italy's preparedness for earthquakes, the effectiveness of its building codes, and the response of the government and emergency services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 137,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

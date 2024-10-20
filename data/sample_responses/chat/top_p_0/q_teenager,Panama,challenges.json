@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUfuunmw5Mj5rWCYAtdkJVnqEfaS",
+    "object": "chat.completion",
+    "created": 1705853366,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Panama face several challenges, including limited access to quality education, high rates of poverty and inequality, limited job opportunities, and exposure to drugs and violence. The education system in Panama often lacks resources and quality teachers, making it difficult for teenagers to receive a proper education. Additionally, poverty and inequality are prevalent issues, with many teenagers living in disadvantaged conditions and lacking basic necessities. Limited job opportunities further hinder their prospects for a better future. Moreover, some teenagers are exposed to drugs and violence, which can negatively impact their well-being and future prospects."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 111,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

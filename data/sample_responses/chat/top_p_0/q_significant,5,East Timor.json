@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjM2zQonO4n5PadSi0REs7C26gp",
+    "object": "chat.completion",
+    "created": 1705857424,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in East Timor in the past 5 years is the parliamentary elections held in May 2018. These elections marked a crucial moment in the country's political landscape as it faced a period of political instability and economic challenges. The elections resulted in a fragmented parliament, with no single party securing a majority. This led to a series of coalition negotiations and changes in government, highlighting the democratic process and the country's commitment to peaceful transitions of power. The outcome of these elections had a significant impact on the political direction and stability of East Timor."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 115,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

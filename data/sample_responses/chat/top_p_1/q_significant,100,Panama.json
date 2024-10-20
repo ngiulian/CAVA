@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVa3DMmIsNK7xB9vVh9n6iMKdgxp",
+    "object": "chat.completion",
+    "created": 1705856847,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Panama in the past 100 years is the handover of the Panama Canal from the United States to Panama. The Panama Canal had been under U.S. control since its completion in 1914, but on December 31, 1999, the canal and its surrounding areas were officially transferred to Panama. This event marked a significant milestone in Panama's history, signifying the country's sovereignty and allowing them full control over one of the world's most important trade routes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 102,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoJ8CmuL3yf6UQBLbDxOcP6SXm6",
+    "object": "chat.completion",
+    "created": 1705857731,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Zambia in the past 100 years is its independence from British colonial rule. On October 24, 1964, Zambia gained independence and became a sovereign nation. This event marked a turning point in the country's history, as it ended decades of British colonialism and paved the way for self-governance and the establishment of a new nation. The independence movement was led by Kenneth Kaunda, who became Zambia's first president. This event not only shaped Zambia's political landscape but also had a profound impact on its social, economic, and cultural development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUsLkIS1omLR9IhR5jdtBB0l0oAK",
+    "object": "chat.completion",
+    "created": 1705854137,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Togo face include limited access to healthcare, poverty, social isolation, and inadequate pension systems. Many seniors struggle to afford medical care and lack access to proper healthcare facilities, leading to health issues going untreated. Poverty is a significant challenge, as seniors often have limited financial resources and struggle to meet their basic needs. Social isolation is another concern, as seniors may lack social support networks and opportunities for social engagement. Additionally, the pension systems in Togo are often insufficient, leaving many seniors without a reliable source of income in their old age."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 112,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

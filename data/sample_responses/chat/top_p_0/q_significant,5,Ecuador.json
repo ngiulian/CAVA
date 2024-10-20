@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVFQLlzsQ8fZd62nJwHSBIni7TBy",
+    "object": "chat.completion",
+    "created": 1705855568,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ecuador in the past 5 years was the protests against austerity measures in October 2019. The government's decision to eliminate fuel subsidies led to widespread demonstrations across the country, with indigenous groups, labor unions, and students taking to the streets. The protests escalated into violent clashes between protesters and security forces, resulting in several deaths and injuries. Eventually, the government reached an agreement with indigenous leaders to revoke the austerity measures, marking a significant moment in Ecuador's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

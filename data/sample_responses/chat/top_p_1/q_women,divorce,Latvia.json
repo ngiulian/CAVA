@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRCYN3wXDBNS2QRadkz6nymqx41",
+    "object": "chat.completion",
+    "created": 1705848610,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The general perception of divorce among women in Latvia varies. While some women consider divorce as a reasonable solution to an unhappy or abusive marriage, others may view it negatively due to societal stigmas, cultural influences, or personal beliefs. Women who support divorce often prioritize their own well-being, independence, and the pursuit of a fulfilling life over a failing or toxic relationship. However, the more traditional perspective on marriage prevailing in Latvian society may still influence some women to view divorce as a last resort, and they may be inclined to prioritize family harmony, societal expectations, and the welfare of children over personal happiness. Ultimately, attitudes towards divorce among women in Latvia can differ based on individual circumstances, personal experiences, and cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 145,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

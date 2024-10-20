@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBgi1c0D78B5X5s5nITpHH24aoQ",
+    "object": "chat.completion",
+    "created": 1705847648,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Gambia hold negative views towards divorce. They generally believe that divorce is a last resort and should only be considered in extreme circumstances. Women often prioritize maintaining the stability of their families and communities over personal happiness or fulfillment. Divorce is seen as a failure and brings social stigma, leading many women to endure unhappy marriages rather than seeking separation. Additionally, women may fear the economic and social consequences of divorce, such as losing financial support or being ostracized by their communities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 97,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

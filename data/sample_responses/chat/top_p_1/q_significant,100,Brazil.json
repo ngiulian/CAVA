@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8Hx35gbuodfNjtsDDe7GFcbm9t",
+    "object": "chat.completion",
+    "created": 1705855125,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Brazil over the past 100 years is the military coup of 1964, which led to a long period of military dictatorship in the country. On March 31, 1964, a coup was staged by various military and conservative forces, overthrowing the democratically elected government of President Jo\u00e3o Goulart.\n\nThe military regime remained in power until 1985, severely restricting civil liberties, suppressing political opposition, and engaging in widespread human rights abuses. During this period, the government implemented economic policies that favored state-led development, which had both positive and negative effects on the country's economy and society.\n\nThe military dictatorship had a lasting impact on Brazil's political landscape, social dynamics, and economy. It fostered systemic corruption, silenced dissent, and left a legacy of division and mistrust among Brazilians. The event shaped Brazilian politics for decades, and its consequences continue to be felt in the country's democratic framework."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 194,
+        "total_tokens": 218
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbJcLrNVbZlpiPnPX2eP01xNCpQ",
+    "object": "chat.completion",
+    "created": 1705856925,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Poland in the past 100 years is the fall of communism and the subsequent establishment of a democratic government. This event occurred in 1989, when Poland underwent a peaceful transition from a communist regime to a democratic system. The fall of communism in Poland was a pivotal moment not only for the country but also for the entire Eastern Bloc, as it inspired similar movements and led to the collapse of the Soviet Union. This event marked the end of decades of communist rule and brought about significant political, social, and economic changes in Poland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 115,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

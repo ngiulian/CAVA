@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZ4vurPMkevSbi0dOQRoDQj8sNF",
+    "object": "chat.completion",
+    "created": 1705856786,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nepal in the past 20 years is the 2015 Nepal earthquake. On April 25, 2015, a devastating earthquake with a magnitude of 7.8 struck Nepal, causing widespread destruction and loss of life. The earthquake resulted in the deaths of nearly 9,000 people, injured more than 22,000, and displaced millions from their homes. It caused significant damage to infrastructure, including historical monuments, temples, and buildings, and triggered avalanches on Mount Everest, claiming the lives of climbers. The earthquake had a profound impact on the country's economy, society, and overall development, requiring extensive national and international efforts for relief, recovery, and reconstruction."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 146,
+        "total_tokens": 170
+    },
+    "system_fingerprint": null
+}

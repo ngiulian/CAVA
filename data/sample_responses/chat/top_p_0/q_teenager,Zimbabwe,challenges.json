@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV06o3XRuYjxT7EsvQVjMziN0dbJ",
+    "object": "chat.completion",
+    "created": 1705854618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Zimbabwe face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers struggle to attend school due to financial constraints, lack of infrastructure, and a shortage of qualified teachers. This hampers their ability to acquire necessary skills and knowledge for future opportunities.\n\nAnother major challenge is high unemployment rates. Zimbabwe's economy has been struggling for years, resulting in limited job prospects for young people. This leads to frustration, hopelessness, and a higher risk of engaging in illegal activities or substance abuse.\n\nTeenagers in Zimbabwe also face health challenges, including a lack of access to proper healthcare and information about sexual and reproductive health. This contributes to high rates of teenage pregnancies, sexually transmitted infections, and HIV/AIDS.\n\nAdditionally, political instability and corruption in the country pose challenges for teenagers. They often witness or experience human rights abuses, political violence, and discrimination, which can have a profound impact on their mental and emotional well-being.\n\nOverall, the combination of limited educational opportunities, high unemployment rates, health challenges, and political instability creates a challenging environment for teenagers in Zimbabwe."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 219,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

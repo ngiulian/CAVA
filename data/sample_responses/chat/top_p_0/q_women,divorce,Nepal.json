@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZxkVPjZgXrbJGq60wxdJ5tO8RS",
+    "object": "chat.completion",
+    "created": 1705849153,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Nepal have mixed opinions about divorce. While some women view divorce as a means to escape abusive or unhappy marriages, others consider it a last resort due to societal and cultural pressures. Many women fear the stigma and judgment associated with divorce, as it can lead to social isolation and difficulties in finding future partners. However, with increasing education and awareness, more women are recognizing their rights and seeking divorce as a way to improve their lives and secure their independence. Overall, attitudes towards divorce among women in Nepal vary depending on individual circumstances, cultural background, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 114,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

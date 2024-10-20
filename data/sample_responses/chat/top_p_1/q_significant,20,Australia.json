@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3fDJ4Uwk2PkK7UudTCQbwqPKtT",
+    "object": "chat.completion",
+    "created": 1705854839,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Australia in the past 20 years is the Black Saturday bushfires. These devastating wildfires occurred on February 7, 2009, in the state of Victoria and resulted in the loss of 173 lives, the destruction of thousands of homes, and over a million acres of land being scorched. The event had a profound impact on the country, leading to changes in firefighting and emergency response strategies, as well as increased awareness about climate change and its role in exacerbating natural disasters."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 107,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

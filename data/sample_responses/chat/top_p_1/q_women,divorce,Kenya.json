@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTKoFcpScElwV3w7geH2yq4J7nmW",
+    "object": "chat.completion",
+    "created": 1705848214,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no singular viewpoint that can accurately represent what most women in Kenya think of divorce, as opinions on this topic can vary greatly among individuals. However, it is important to acknowledge that divorce is generally viewed differently in traditional and modern Kenyan societies.\n\nIn traditional communities, divorce is often stigmatized and seen as a failure, especially for women. Marriage is highly valued, and women are expected to maintain their commitment to their husbands and families. Divorce can lead to societal judgment, shame, and challenges in finding acceptance within the community. Traditional values and cultural expectations may discourage women from seeking divorce, often pushing them to endure unhappy marriages for various reasons, including societal pressure, financial dependence, or fear of social isolation.\n\nOn the other hand, in more urbanized and modern parts of Kenya, attitudes towards divorce are gradually evolving. Many women today recognize divorce as a viable option to escape abusive or loveless marriages, and a means to prioritize personal well-being and happiness. In these contexts, women are increasingly empowered to assert their rights and independence. Organizations promoting women's rights and gender equality have also worked towards shifting societal perceptions regarding divorce, emphasizing the importance of individual happiness and safety.\n\nIt is essential to note that as Kenya is a diverse nation with numerous cultural, ethnic, and religious groups, perspectives on divorce can significantly differ among women across different regions and communities within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 275,
+        "total_tokens": 294
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTn0NFhFtsbSZLaf72fW7obSWle9",
+    "object": "chat.completion",
+    "created": 1705849962,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Togo hold negative views towards divorce. They often perceive it as a failure and a source of shame, believing that it undermines the traditional values of marriage and family. Men generally prioritize maintaining the stability of their marriages and avoiding divorce, as it is seen as a disruption to social norms and can lead to social stigma."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 66,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

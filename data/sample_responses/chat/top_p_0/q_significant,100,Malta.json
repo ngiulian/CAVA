@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVaYPk0oCLFtk2IE4LcK9ldqYhn",
+    "object": "chat.completion",
+    "created": 1705856570,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malta in the past 100 years is its independence from British colonial rule. On September 21, 1964, Malta gained independence after being a British colony for over 150 years. This event marked a turning point in Malta's history, as it allowed the country to establish its own government and shape its own destiny. The independence of Malta paved the way for further developments, including the establishment of a republic in 1974 and its eventual membership in the European Union in 2004."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 108,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

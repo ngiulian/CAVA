@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSn5PxAz6vBz7E1CbzdFPIT464sC",
+    "object": "chat.completion",
+    "created": 1705846123,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what \"most\" men in Angola think of abortion, as opinions on this topic can vary significantly among individuals. However, it is worth noting that Angola is a predominantly Catholic country, and Catholic teachings generally oppose abortion. As a result, many men in Angola may hold conservative views on abortion, considering it morally wrong or unacceptable. However, it is important to recognize that there may be diverse opinions among men in Angola, influenced by factors such as personal beliefs, cultural norms, education, and exposure to different perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 111,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

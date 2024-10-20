@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLyzDTvf3DpR6icw89bmGCZhtHd",
+    "object": "chat.completion",
+    "created": 1705848286,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that Kiribati is a diverse country, and attitudes towards divorce may vary among women based on cultural, social, and personal factors. However, in general, divorce is often viewed negatively by many women in Kiribati.\n\nFor many women in Kiribati, divorce is seen as a last resort and is heavily stigmatized. Society places significant importance on maintaining the sanctity of marriage, and divorce is often considered evidence of personal and societal failure. Many women feel societal pressure to uphold traditional gender roles and fulfill their duties as wives and mothers, which often include enduring hardships and working towards resolving marital issues.\n\nIn this traditional context, divorce can lead to a loss of reputation and social standing within the community. Women may face judgment, gossip, and discrimination, making it difficult to reintegrate into society. Furthermore, divorce often entails economic challenges, as women may have limited financial independence and struggle to support themselves and their children after a marriage ends.\n\nHowever, it is worth noting that societal perceptions and attitudes towards divorce are gradually evolving in Kiribati, especially among younger generations. Factors such as increased awareness of women's rights, exposure to alternate cultural norms through media, and access to education are contributing to a shift in attitudes towards divorce. More women are beginning to advocate for their independence, equal rights, and the right to leave unhappy or abusive marriages.\n\nUltimately, while divorce continues to face social disapproval and practical difficulties for women in Kiribati, the changing dynamics within society"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 300,
+        "total_tokens": 321
+    },
+    "system_fingerprint": null
+}

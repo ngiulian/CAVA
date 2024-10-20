@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWQzBrBC1fERkSkQrNqmSc7buMW",
+    "object": "chat.completion",
+    "created": 1705852778,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Lithuania face include financial difficulties, inadequate healthcare, social isolation, and age discrimination. Many seniors struggle with low or insufficient pensions, leading to financial insecurity and difficulties in meeting daily expenses. Additionally, the healthcare system often falls short in providing specialized and accessible services, particularly for older individuals. This results in difficulties in obtaining proper medical care and medications. Social isolation is another major challenge faced by seniors, often due to living alone and limited social interactions, exacerbating loneliness and mental health issues. Lastly, age discrimination is prevalent, hindering seniors' access to employment opportunities and society's perception of their value and contributions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 126,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

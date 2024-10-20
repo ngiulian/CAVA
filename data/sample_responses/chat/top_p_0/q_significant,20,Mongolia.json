@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWGf1UbNZXSPKwxja7GNgmKnRDo",
+    "object": "chat.completion",
+    "created": 1705856612,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mongolia in the past 20 years is the peaceful democratic revolution of 1990. This event marked the end of Mongolia's communist regime and the beginning of a multi-party democracy. On December 10, 1990, after weeks of protests and demonstrations, the Mongolian People's Revolutionary Party (MPRP) agreed to end one-party rule and allow political pluralism. This transition to democracy brought about significant changes in Mongolia's political, social, and economic landscape, leading to increased freedoms, human rights, and market-oriented reforms. It also opened up Mongolia to the global community and paved the way for its economic development and integration into the international arena."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 140,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

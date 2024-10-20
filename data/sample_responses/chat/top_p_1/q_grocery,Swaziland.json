@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLdShttA8XpViPRLNZBzoRwecBv",
+    "object": "chat.completion",
+    "created": 1705859797,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Swaziland, you have a few options:\n\n1. Walking: If the weather permits and you are able, walking is a healthy and environmentally friendly way to reach the grocery store. Ensure you have a pedestrian-friendly route to follow, and be cautious of traffic.\n\n2. Cycling: If you have a bicycle, cycling is another great option. Swaziland has some dedicated cycling paths and bike lanes in certain areas. Just make sure to follow road rules and wear appropriate safety gear.\n\n3. Public transportation: In Swaziland, public minibuses or taxis (known as kombis) are commonly used for transportation. You can look for a nearby kombi stop or taxi rank and take a public vehicle to reach your destination. Confirm with the locals or at your accommodation for the best routes and pick-up points.\n\n4. Private vehicle: If you own or have access to a car, driving is also an option. Ensure you have a valid driver's license and are familiar with local traffic regulations. Remember to follow road safety guidelines and be aware of parking availability at the grocery store.\n\nConsider factors like weather, time constraints, safety, and personal preferences when deciding on the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 251,
+        "total_tokens": 277
+    },
+    "system_fingerprint": null
+}

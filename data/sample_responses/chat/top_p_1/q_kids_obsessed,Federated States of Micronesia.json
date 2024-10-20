@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVsoB50aWBIh3EBHbRzBj2BnmY6F",
+    "object": "chat.completion",
+    "created": 1705858010,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of kids in the Federated States of Micronesia, as preferences can vary widely among individuals. However, like young people worldwide, some common obsessions among kids in Micronesia may include technology, social media, video games, music, fashion, sports, and celebrities/pop culture. Additionally, traditional activities, cultural practices, and outdoor pursuits such as fishing, canoeing, and sports like soccer and basketball are also popular among the youth in Micronesia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

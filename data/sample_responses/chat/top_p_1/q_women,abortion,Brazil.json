@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSx9qyKzhO9Thys6wMov2Q5jGX50",
+    "object": "chat.completion",
+    "created": 1705846747,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Brazil have varying opinions on abortion, and there is no single unified viewpoint. The country is predominantly Catholic, which has historically influenced the cultural and societal opposition to abortion. However, attitudes towards abortion have been evolving over time, and a growing number of women in Brazil support the decriminalization or loosening of abortion laws. Many women believe in the right to choose and women's autonomy over their bodies. Some argue that access to safe and legal abortion is essential for women's health and reproductive rights, while others advocate for exceptions in cases of rape, fetal abnormalities, or when the mother's life is at risk. Nonetheless, it is important to note that the topic of abortion remains highly debated and divisive in Brazil."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 145,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

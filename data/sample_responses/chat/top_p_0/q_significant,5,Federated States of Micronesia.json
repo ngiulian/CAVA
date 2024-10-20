@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVH8fSevXRCKiSlCn45jPg8hMPJT",
+    "object": "chat.completion",
+    "created": 1705855674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Federated States of Micronesia (FSM) in the past five years was the signing of the Compact of Free Association (COFA) extension with the United States. On September 3, 2020, the FSM and the United States signed a new 20-year agreement, extending their existing relationship. The COFA provides financial assistance, defense provisions, and other benefits to the FSM in exchange for certain strategic and military rights for the United States in the region. This extension ensures continued support and cooperation between the two nations, which is crucial for the development and stability of the FSM."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 30,
+        "completion_tokens": 129,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

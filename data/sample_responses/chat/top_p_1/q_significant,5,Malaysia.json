@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXR9s34R0dl2wiIkwwsi0PkeX58",
+    "object": "chat.completion",
+    "created": 1705856685,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malaysia in the past 5 years was the 2018 general election, which resulted in a historic change of government after more than six decades of uninterrupted rule by the same political coalition. The ruling Barisan Nasional coalition, which had been in power since Malaysia's independence, was defeated by the Pakatan Harapan alliance led by Mahathir Mohamad. This event marked a significant shift in Malaysian politics, leading to the country's first change in government since its independence in 1957."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqPkjseTAfmrmmXivyn7axPUHuj",
+    "object": "chat.completion",
+    "created": 1705850173,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Taiwan have a negative perception of divorce. They often view it as a last resort and believe that it should only be considered in cases of severe marital problems or abuse. Women in Taiwan generally prioritize maintaining a stable family and preserving the well-being of their children over personal happiness or individual desires. They may feel societal pressure to stay in unhappy marriages due to traditional values and expectations. However, attitudes towards divorce are gradually changing, especially among younger generations, who are more open to the idea of ending a marriage if it is no longer fulfilling."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 109,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

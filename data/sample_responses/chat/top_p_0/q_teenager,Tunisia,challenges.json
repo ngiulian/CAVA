@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUuPfZtKm3HwW9XTamQjqp7e2eaU",
+    "object": "chat.completion",
+    "created": 1705854265,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Tunisia face several challenges, including limited educational opportunities, high unemployment rates, political instability, and social pressures. The education system in Tunisia often fails to adequately prepare students for the job market, leading to a lack of skills and opportunities for teenagers. Additionally, the country's high unemployment rates make it difficult for teenagers to find stable employment and secure their future. Political instability and economic hardships further exacerbate these challenges. Moreover, teenagers in Tunisia also face social pressures, such as gender inequality, societal expectations, and limited freedom of expression. These challenges collectively impact the well-being and prospects of teenagers in Tunisia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 122,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

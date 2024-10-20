@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTvJ8Gq1YsMh1Ey6FJb0P7Re1g26",
+    "object": "chat.completion",
+    "created": 1705850477,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Zambia have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others believe in the importance of maintaining the sanctity of marriage and prefer to endure difficult situations. The decision to divorce is often influenced by cultural and societal norms, financial considerations, and the presence of children. Overall, women's perspectives on divorce in Zambia vary, reflecting a complex interplay of personal beliefs, social expectations, and individual circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTleFft3MQRXWhsDfwM8o5k5SDhN",
+    "object": "chat.completion",
+    "created": 1705849878,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Swaziland have a negative view of divorce. They often see it as a failure and a source of shame, as divorce is stigmatized in their society. Women may fear being judged by their community and facing social isolation if they choose to divorce. Additionally, many women rely on their husbands for financial support, making divorce a daunting prospect due to the potential loss of economic stability. Consequently, most women in Swaziland tend to prioritize maintaining their marriages, even in unhappy or abusive situations, rather than pursuing divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 107,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

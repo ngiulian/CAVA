@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRc4w8OnCmjYJ7GQ6kaEBPLYD5m",
+    "object": "chat.completion",
+    "created": 1705848636,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions and beliefs can vary among individuals, and it is impossible to accurately represent the thoughts of all women in Morocco. However, some common perceptions and attitudes towards divorce among women in Morocco include:\n\n1. Social stigma: Divorce is still associated with social stigma in Moroccan society. Many women fear being judged, labeled, or ostracized by their families, communities, or even potential future partners after a divorce.\n\n2. Religious influence: Religion, particularly Islam, has a significant impact on societal views of divorce in Morocco. While Islam permits divorce in certain situations, the prevailing belief is that divorce should be a last resort, and attempts to reconcile marriages are encouraged.\n\n3. Economic implications: Financial dependence on husbands is a concern for many Moroccan women. Divorce can often reduce their economic autonomy and leave them financially vulnerable, especially if they do not have a supportive family or access to employment opportunities.\n\n4. Legal rights: Moroccan laws related to divorce can be complex and favor men in certain cases, making it harder for women to seek divorces or receive fair settlements. This can discourage women from pursuing divorce, particularly if they lack legal support or awareness of their rights.\n\n5. Domestic abuse and unhappiness: Many Moroccan women who experience domestic abuse, mistreatment, or unhappiness in their marriages may be more inclined to consider divorce. However, societal pressure, fear, or lack of support systems can still hinder their decisions.\n\n6. Shift towards changing attitudes: In recent years,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

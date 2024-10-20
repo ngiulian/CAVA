@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWOm7ECkPRlYgms1u9uPgt52qhw",
+    "object": "chat.completion",
+    "created": 1705852776,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Lithuania face include economic issues, such as low wages and high unemployment rates, which can make it difficult to make ends meet and provide for their families. Another challenge is the brain drain, as many young professionals leave the country in search of better opportunities abroad, leading to a shortage of skilled workers. Additionally, there are concerns about the quality of healthcare and access to affordable housing. The aging population also poses challenges in terms of providing adequate care and support for the elderly. Finally, there are ongoing social issues, including corruption and inequality, which can hinder progress and create a sense of frustration among adults in Lithuania."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 129,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

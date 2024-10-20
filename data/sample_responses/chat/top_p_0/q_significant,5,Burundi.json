@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4xPXjg79wCBi8N4ojxX54ZWVkU",
+    "object": "chat.completion",
+    "created": 1705854919,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Burundi in the past 5 years was the controversial presidential election held in 2020. In May 2020, Burundi held its general elections, including the presidential election, amidst concerns of political repression and human rights abuses. The ruling party's candidate, Evariste Ndayishimiye, won the election and succeeded President Pierre Nkurunziza, who had been in power since 2005. This election marked a transition of power, but it was marred by allegations of irregularities and limited political freedoms. The election outcome and the subsequent political developments have had a significant impact on the country's political landscape and its relations with the international community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 144,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

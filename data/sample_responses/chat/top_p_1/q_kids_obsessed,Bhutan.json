@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVqEhH9X1PH9jcfx0evQGtTMyIXW",
+    "object": "chat.completion",
+    "created": 1705857850,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I'm sorry, but I don't have access to specific details about kids' interests and obsessions in Bhutan as my training data only goes up until 2021. It would be best to consult a current source or survey to get the most accurate information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 53,
+        "total_tokens": 72
+    },
+    "system_fingerprint": null
+}

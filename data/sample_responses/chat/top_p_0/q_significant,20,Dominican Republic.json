@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVF0m53NF7TDzxd3LLRgbuNWkHyH",
+    "object": "chat.completion",
+    "created": 1705855542,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Dominican Republic in the past 20 years was the Constitutional Court ruling in 2013 that stripped citizenship from thousands of Dominicans of Haitian descent. This ruling, known as TC 168-13, retroactively applied a stricter interpretation of the country's nationality law, rendering many individuals stateless. It sparked international outrage and raised concerns about human rights violations and discrimination against the Haitian community in the Dominican Republic. The ruling was eventually partially reversed in 2014 through a naturalization law, but its impact on the affected individuals and the broader issue of immigration and citizenship remains significant."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 127,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

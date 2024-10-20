@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUQjM2YLi9TbmChncbttdTO0hDaP",
+    "object": "chat.completion",
+    "created": 1705852425,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Kenya face several challenges, including limited access to education and high dropout rates due to poverty and home responsibilities. Additionally, teenage pregnancy is prevalent, often resulting in early marriages and increased vulnerability to health risks. Substance abuse and involvement in criminal activities are also significant concerns. Lack of job opportunities and limited career guidance impede teenagers' ability to secure a stable livelihood. Furthermore, gender inequality and societal pressures, such as cultural traditions and expectations, contribute to the challenges faced by Kenyan teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 99,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

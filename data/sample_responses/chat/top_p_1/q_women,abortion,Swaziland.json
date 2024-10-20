@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlY5PGkQqUox7Cu8rrSSmYzArb1",
+    "object": "chat.completion",
+    "created": 1705849872,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no specific information available on what most women in Swaziland think of abortion. Public opinions in Swaziland on the topic of abortion are diverse and varied, influenced by cultural, religious, and personal beliefs. While some women may support safe and legal access to abortion, others may hold conservative views that oppose it. It is important to recognize that individual opinions can differ greatly, and it is advisable to consult primary sources or conduct surveys to explore this topic further."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 94,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSsmCwQZzGvggPTdxoEm4kZbYNRc",
+    "object": "chat.completion",
+    "created": 1705846476,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Burundi tend to have negative views towards divorce. They generally believe that divorce is undesirable and should be avoided. Traditional gender roles and cultural norms heavily influence their perspectives, as they prioritize the preservation of the family unit and the importance of marriage. Men often see divorce as a failure and a source of shame, reflecting a sense of personal and societal disappointment. Consequently, they may resist or discourage the idea of divorce, preferring to prioritize reconciliation and maintaining the marital bond."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 95,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

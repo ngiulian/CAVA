@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2W5XS5Lax1WrYq5yLiW86AFNcV",
+    "object": "chat.completion",
+    "created": 1705847080,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in New Zealand have a more positive and accepting attitude towards divorce. They view it as a viable option for dealing with an unhappy or failing marriage, prioritizing their own happiness and well-being. They believe that divorce allows them to pursue personal growth, independence, and freedom from toxic or abusive relationships. Additionally, they see divorce as an opportunity for self-discovery, rebuilding their lives, and finding new love and fulfillment. However, attitudes towards divorce may vary among individuals, influenced by cultural, religious, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

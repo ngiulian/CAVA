@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUegKPyQvjP5Gv6xzmLoALC7roBB",
+    "object": "chat.completion",
+    "created": 1705853290,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Nepal face include poverty, unemployment, lack of access to quality education and healthcare, gender inequality, political instability, and natural disasters. These challenges often intersect and exacerbate each other, making it difficult for adults to improve their living conditions and secure a better future for themselves and their families."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 64,
+        "total_tokens": 82
+    },
+    "system_fingerprint": null
+}

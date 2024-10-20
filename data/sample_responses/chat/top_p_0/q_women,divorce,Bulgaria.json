@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSukVA726WhNdaGAgfcGDGdhw5VX",
+    "object": "chat.completion",
+    "created": 1705846598,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Bulgaria think of divorce as opinions on this matter can vary greatly among individuals. Women's perspectives on divorce in Bulgaria, as in any other country, depend on various factors such as personal experiences, cultural background, education, and individual values. Some women in Bulgaria may view divorce as a viable option to escape an unhappy or abusive marriage, while others may prioritize maintaining the family unit and may be more hesitant to consider divorce. It is important to recognize that generalizations about the opinions of an entire group of people can be misleading and may not reflect the diverse range of perspectives held by women in Bulgaria."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 132,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

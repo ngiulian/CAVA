@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVsQ8h9heoPo1tXe7d53PAzwjrDZ",
+    "object": "chat.completion",
+    "created": 1705857986,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Djibouti are too obsessed with technology and social media."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 17,
+        "total_tokens": 38
+    },
+    "system_fingerprint": null
+}

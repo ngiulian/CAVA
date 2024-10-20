@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV78RaGnwmSJOqyyZnTsdtD9YdZz",
+    "object": "chat.completion",
+    "created": 1705855054,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bosnia and Herzegovina in the past five years was the Bosnian general elections held in October 2018. These elections were important as they defined the country's political landscape and set the course for its future. Notably, it was the first election after the 2014 protests, which were one of the largest social movements Bosnia had witnessed since its independence. The outcome of the general elections had a significant impact on the political dynamics within the country, including the formation of governments at different levels and the ongoing complex power-sharing arrangements between the country's ethnic groups."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 123,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIv822nH7MRKx4xXMZpVsoz91hB",
+    "object": "chat.completion",
+    "created": 1705855785,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Equatorial Guinea in the past 5 years was the 2019 coup attempt. On December 28, 2017, a group of armed men led by exiled opposition figures launched an unsuccessful coup attempt against President Teodoro Obiang Nguema Mbasogo's government. The attempted coup involved a coordinated attack on the presidential palace in the capital, Malabo, and the General Staff headquarters in Bata.\n\nAlthough the government swiftly responded and successfully suppressed the uprising, the event heightened political tensions and led to a crackdown on opposition groups and civil society. The coup attempt shook the nation and revealed underlying challenges and divisions within Equatorial Guinea's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 142,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

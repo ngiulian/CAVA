@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVcavKhX9naW74Yr1NiN1c5fi9e6",
+    "object": "chat.completion",
+    "created": 1705857004,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Russia in the past five years is the 2018 FIFA World Cup. Russia hosted the tournament, which took place from June 14 to July 15, 2018. It was the first time the World Cup was held in Eastern Europe, and it showcased Russia's ability to organize and host a major international sporting event. The tournament brought together teams and fans from around the world, boosting tourism and showcasing Russia's cultural and historical landmarks. It also had a significant impact on the country's economy and international image."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

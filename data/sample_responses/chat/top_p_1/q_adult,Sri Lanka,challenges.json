@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUVa1fJeMT0uCLmtCeKLyEXCXvRH",
+    "object": "chat.completion",
+    "created": 1705852726,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Sri Lanka face include:\n\n1. Unemployment: The country has been grappling with high unemployment rates, making it challenging for many adults to find stable and well-paying jobs.\n\n2. Poverty: A significant portion of the adult population in Sri Lanka still lives in poverty, struggling to meet basic needs and achieve a decent standard of living.\n\n3. Education: Limited access to quality education and a lack of skill development opportunities hinder many adults in Sri Lanka from furthering their education or acquiring necessary skills for better employment prospects.\n\n4. Health care access: Inadequate healthcare facilities and limited access to medical services pose a challenge for many adults, particularly those residing in rural areas.\n\n5. Gender inequality: Traditional gender norms and practices still prevail in Sri Lankan society, leading to gender disparities in employment, education, and decision-making roles.\n\n6. Housing affordability: High property prices and a lack of affordable housing options make it difficult for many adults, especially in urban areas, to secure suitable housing for themselves and their families.\n\n7. Aging population: Sri Lanka's aging population is increasing, leading to challenges in providing adequate healthcare, social security, and support systems for the elderly.\n\n8. Political instability: Periods of political instability and ethnic tensions in the country have implications for the economy and the overall well-being of adults, including job security and social cohesion.\n\n9. Natural disasters: Sri Lanka is prone to natural disasters such as floods, landslides, and cyclones,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

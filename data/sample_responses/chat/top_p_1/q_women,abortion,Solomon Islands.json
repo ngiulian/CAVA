@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThhmBPQ1C0rPlAYhKC0Wgwf9wrN",
+    "object": "chat.completion",
+    "created": 1705849633,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Solomon Islands have negative attitudes towards abortion. They generally view abortion as morally wrong and against their cultural and religious beliefs. Due to the strong influence of Christianity in the country, most women consider abortion as a sin and a violation of the sanctity of life. Additionally, societal taboos surrounding reproductive health and pregnancies contribute to the negative perception of abortion. The limited availability and accessibility of safe and legal abortion services further exacerbate the negative views, as women may resort to unsafe methods that endanger their health and well-being. Overall, the majority of women in Solomon Islands are opposed to abortion and prefer to explore alternative options such as adoption or raising the child, despite the challenges and potential social stigma associated with an unplanned or unwanted pregnancy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 149,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

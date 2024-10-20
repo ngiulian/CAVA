@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jURVPPdCI19ms9I1EZYKbi7B9kHd",
+    "object": "chat.completion",
+    "created": 1705852473,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Cambodia face several significant challenges, including poverty, limited access to education and healthcare, high unemployment rates, and political instability. Poverty is a major issue, with a significant portion of the population living below the poverty line and struggling to meet their basic needs. Limited access to quality education and healthcare further exacerbates the situation, hindering personal and economic development. High unemployment rates, particularly among the youth, contribute to the challenges faced by adults in finding stable and decent-paying jobs. Additionally, political instability and corruption pose obstacles to progress and hinder the overall well-being of adults in Cambodia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 118,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

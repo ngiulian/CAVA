@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVg91vpzHPofH0q4v5wWIxsaW0Sv",
+    "object": "chat.completion",
+    "created": 1705857225,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Republic of Serbia in the past 100 years is the breakup of Yugoslavia and the subsequent Yugoslav Wars. These wars, which took place from 1991 to 2001, resulted in the disintegration of the Socialist Federal Republic of Yugoslavia and the formation of several independent nations, including Serbia. The conflicts were marked by ethnic tensions, territorial disputes, and widespread violence, leading to significant loss of life and displacement of people. The wars had a profound impact on the region, including Serbia, and shaped its political, social, and economic landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 119,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW7xxVPA6aWAX8JvGi15EGJvGxs5",
+    "object": "chat.completion",
+    "created": 1705858949,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Estonia, you have a few options:\n\n1. Walking: Estonia is known for its pedestrian-friendly cities, so walking is a convenient and eco-friendly option. Simply put on comfortable shoes, follow the sidewalks, and enjoy a leisurely stroll to the grocery store.\n\n2. Cycling: Estonia has an extensive network of bike lanes and cycling paths, making it a great option for getting around. If you have a bicycle, you can ride to the grocery store easily. Just make sure to follow traffic rules and wear a helmet for safety.\n\n3. Public transportation: If you prefer not to walk or cycle, you can check if there are any bus or tram stops near your location. Estonia has a well-connected public transportation system, and you can use the local bus or tram to reach your destination. Check the schedules and routes beforehand to plan your journey.\n\n4. Taxi or rideshare: If you're in a hurry or carrying heavy groceries, you can consider taking a taxi or using a ridesharing service like Uber or Bolt. These services are widely available in Estonia, and you can book a ride through their respective mobile apps.\n\nRemember to check the local guidelines and regulations regarding transportation, especially if you are new to Estonia or visiting a specific city."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 262,
+        "total_tokens": 286
+    },
+    "system_fingerprint": null
+}

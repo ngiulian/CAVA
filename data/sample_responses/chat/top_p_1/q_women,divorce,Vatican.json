@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsVA4j678hZLUSTeM8mlJ5BCHws",
+    "object": "chat.completion",
+    "created": 1705850303,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Vatican, being part of the Catholic Church, adhere to the official teachings which consider divorce as not permissible. They generally believe that marriage is meant to be a lifelong commitment and divorce goes against the sacrament of matrimony."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 48,
+        "total_tokens": 67
+    },
+    "system_fingerprint": null
+}

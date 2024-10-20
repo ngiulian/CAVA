@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbf3vckrfCxv1XZOB7xq0gfT5Kq",
+    "object": "chat.completion",
+    "created": 1705856947,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Portugal in the past 20 years is the Euro 2016 victory in football. In 2016, the Portuguese national football team won the UEFA European Championship, which was held in France. This was Portugal's first major international tournament victory, and it had a profound impact on the country. The team's success brought immense joy and pride to the Portuguese people, uniting the nation and boosting national morale. The victory also had a positive impact on Portugal's international image and tourism industry."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 107,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

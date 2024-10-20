@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUS70vWd92b7OXR4oLHU8gO2nMIL",
+    "object": "chat.completion",
+    "created": 1705852511,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Saint Kitts and Nevis face several challenges. The biggest challenges include limited educational and economic opportunities, high rates of crime and violence, substance abuse, and inadequate access to healthcare and support services. Additionally, the influence of gangs and peer pressure can lead to involvement in criminal activities. Some teenagers also struggle with mental health issues, such as depression and anxiety, due to various socio-economic factors. Lack of recreational facilities and constructive outlets for energy and creativity poses another challenge for the youth in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 102,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

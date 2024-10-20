@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWKyZInF5fyjMJ3enxduO4xzbqtT",
+    "object": "chat.completion",
+    "created": 1705859756,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in the Republic of Serbia, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a convenient and healthy option. Simply follow the route on a map or ask locals for directions.\n\n2. Cycling: If you have a bicycle, it can be a quick and efficient way to reach the grocery store. Serbia has a growing cycling infrastructure, and many cities have dedicated bike lanes or paths.\n\n3. Public transportation: Check if there are any bus or tram lines that pass near the grocery store. You can use public transportation to reach your destination comfortably and affordably. Look for local transportation apps or ask locals for information on the nearest bus or tram stop.\n\n4. Taxi or rideshare: If you prefer a more convenient and direct option, you can call a taxi or use a ridesharing app like Uber or Bolt. This will ensure a hassle-free journey to the grocery store.\n\nRemember to consider factors such as weather conditions, time constraints, and personal preferences when choosing the best mode of transportation for your trip."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 227,
+        "total_tokens": 253
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTj6lJ4P8VQLYmOpGb6hueIWvhcl",
+    "object": "chat.completion",
+    "created": 1705849720,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Somalia hold negative views towards divorce. They generally consider divorce as a last resort and believe that it should be avoided if possible. Men in Somalia often perceive divorce as a failure of the husband to fulfill his responsibilities and maintain a stable family unit. They prioritize the preservation of the family and the well-being of children over individual desires or conflicts within the marriage. Consequently, divorce is often stigmatized, and men may feel societal pressure to stay in unhappy or abusive marriages for the sake of maintaining social harmony and avoiding shame."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

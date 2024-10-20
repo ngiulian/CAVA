@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOjbvOTKAmKvifnrrMMq6gM60qB",
+    "object": "chat.completion",
+    "created": 1705856145,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Cambodia in the past five years was the dissolution of the main opposition party, the Cambodia National Rescue Party (CNRP), in November 2017. The CNRP was the main challenger to the ruling Cambodian People's Party (CPP) and had gained significant support in the 2013 general elections and the 2017 local elections. However, the government accused the CNRP of plotting a \"color revolution\" with the support of foreign powers, leading to the arrest of its leader, Kem Sokha, and the subsequent dissolution of the party by the Supreme Court. This move effectively eliminated any major opposition to the ruling party, consolidating power in the hands of the CPP and its leader, Prime Minister Hun Sen. The dissolution of the CNRP was widely criticized by the international community, raising concerns about the erosion of democracy and human rights in Cambodia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 180,
+        "total_tokens": 204
+    },
+    "system_fingerprint": null
+}

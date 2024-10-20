@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBeaxzuzuRDdNHzLeKG8H6FsvNv",
+    "object": "chat.completion",
+    "created": 1705847646,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Gambia, the views on divorce among women vary. However, divorce is generally seen as a last resort for most women in the country. Societal and cultural factors often discourage women from considering divorce, as they may face significant social stigma and economic challenges. Traditional gender roles and the expectation for women to prioritize their roles as wives and mothers can contribute to these perspectives. Consequently, women in Gambia commonly strive to endure and resolve marital issues rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

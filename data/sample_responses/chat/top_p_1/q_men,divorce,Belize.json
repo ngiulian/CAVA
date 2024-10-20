@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwTNNzZL3Tm2Mjla9oSMOmMfKPP",
+    "object": "chat.completion",
+    "created": 1705846705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitude towards divorce among most men in Belize varies, but there is a general pattern of perceptions. Some men believe that divorce is a necessary solution to irreconcilable differences or unhappy marriages. They view divorce as a way to end a toxic relationship and seek personal happiness. However, there is also a significant portion of men who hold more traditional views and consider divorce as a failure or a social taboo. They may place importance on preserving the family unit and may try to resolve issues within their marriage rather than seeking divorce. Ultimately, the views on divorce among men in Belize are diverse, with some embracing it as a means to personal fulfillment and others viewing it negatively, prioritizing the stability of the family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 141,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

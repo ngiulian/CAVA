@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWGLmz31Wxpc95wZmsVowwUlZWUd",
+    "object": "chat.completion",
+    "created": 1705859469,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Mauritius, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover the 1km distance.\n\n2. Cycling: If you have a bicycle or can rent one, cycling is another convenient option. It will be faster than walking and also provide some exercise. You can reach the grocery store in around 5-7 minutes.\n\n3. Public Transportation: Depending on the availability and proximity of bus stops, you can check if there is a bus route that passes near the grocery store. Public buses are a cost-effective way to travel short distances. You can inquire about the bus routes and timings from locals or at the nearest bus station.\n\n4. Taxi or Ride-Sharing: If you prefer a more comfortable and convenient option, you can hire a taxi or use a ride-sharing service like Uber or Bolt. This will be the quickest way to reach the grocery store, taking around 3-5 minutes.\n\nConsider the factors like weather, your preference, and availability of transportation options to choose the most suitable method for your journey."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 248,
+        "total_tokens": 273
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTv3o9IS3cr33O47LktzSuybdGe5",
+    "object": "chat.completion",
+    "created": 1705850461,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Zambia hold negative views towards divorce. They generally believe that divorce is a sign of failure and a breakdown of the family unit. Men often perceive divorce as a threat to their masculinity and social status, as it may be seen as a reflection of their inability to maintain a stable marriage. Additionally, divorce is often stigmatized in Zambian society, and men may fear being judged or ostracized by their communities if they go through a divorce. Consequently, many men in Zambia tend to prioritize maintaining their marriages, even in challenging circumstances, rather than considering divorce as a viable option."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUa8PUOVOazv5VGoNFzANYrjrN5y",
+    "object": "chat.completion",
+    "created": 1705853008,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Malta face include high cost of living, limited job opportunities, low wages, and a competitive job market. Additionally, access to affordable housing can be difficult, especially in urban areas. The country also faces issues related to healthcare, including long waiting times and limited access to specialized treatments. Furthermore, balancing work and family life can be challenging, particularly for working parents due to limited childcare options. Finally, the aging population poses challenges in terms of providing adequate care and support for the elderly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 103,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

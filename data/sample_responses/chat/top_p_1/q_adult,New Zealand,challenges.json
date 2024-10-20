@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUAdIHNWFRZr8WzKThPz2HC75q2X",
+    "object": "chat.completion",
+    "created": 1705851427,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in New Zealand face include economic issues such as unemployment, underemployment, and rising costs of living. In addition, housing affordability is a significant concern, with many struggling to find suitable and affordable accommodation. Mental health issues have also been on the rise, impacting adults' overall well-being and affecting their personal and professional lives. A growing concern is the lack of work-life balance, with long working hours and high stress levels. Access to quality healthcare and education, particularly for those in rural areas, is another challenge faced by adults in New Zealand. Finally, there are ongoing issues of inequality and discrimination, particularly affecting minority groups and indigenous populations, which can hinder opportunities and access to resources for many adults."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 145,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

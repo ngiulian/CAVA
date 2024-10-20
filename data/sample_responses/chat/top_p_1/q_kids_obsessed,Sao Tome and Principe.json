@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVxtWyEU5Qay978XGarv7ngIHKfD",
+    "object": "chat.completion",
+    "created": 1705858325,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that generalizations about an entire generation are not always accurate, and interests can vary greatly among individuals. However, like many other places in the world, some common areas of interest that children in Sao Tome and Principe might be obsessed with could include:\n\n1. Technology and Social Media: With the widespread availability of smartphones and increasing internet access, children might be obsessed with social media platforms, online gaming, YouTube, or other digital entertainment.\n\n2. Music and Dance: Music is an important part of the culture in Sao Tome and Principe, and children might be obsessed with local genres such as Soukous, Semba, or Kizomba. They might also be interested in international music trends.\n\n3. Sports: Football (soccer) is incredibly popular in Sao Tome and Principe, and children might be obsessed with playing or following their favorite teams or players. Other sports such as basketball, athletics, and martial arts could also be of interest.\n\n4. Fashion and Influencers: Children in Sao Tome and Principe might be interested in following the latest fashion trends, both locally and internationally. They could be influenced by social media influencers and celebrities.\n\n5. Education and Success: Many children might be obsessed with excelling in their studies and achieving success in their future careers. They might focus on their educational goals and work hard to pursue their dreams.\n\nIt's important to remember that these observations are generalizations and individual interests and hobbies can vary significantly."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 300,
+        "total_tokens": 323
+    },
+    "system_fingerprint": null
+}

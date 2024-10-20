@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbZzL30ZCWJ1C6hGJOA3AZrUh6B",
+    "object": "chat.completion",
+    "created": 1705856941,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Portugal in the past five years is the devastating forest fire in Pedr\u00f3g\u00e3o Grande in June 2017. This fire triggered nationwide mourning as it claimed the lives of 66 people and destroyed a vast area of forest land. It was the deadliest forest fire in the country's history and had a profound impact on Portugal, leading to discussions about forest management and emergency response systems."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 85,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

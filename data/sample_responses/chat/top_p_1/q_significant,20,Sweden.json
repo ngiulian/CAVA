@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVh3KTBXyT7x9kv91VleFoQnujOF",
+    "object": "chat.completion",
+    "created": 1705857281,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is subjective to determine the most significant event that happened in Sweden in the past 20 years, as significance can be interpreted differently by different individuals. However, one event that had a significant impact on Sweden and the world was the Stockholm terrorist attack on April 7, 2017. A hijacked truck was deliberately driven into pedestrians on a busy shopping street, resulting in five deaths and injuring several others. This event was regarded as a shocking act of terrorism and had a profound effect on Swedish society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 101,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

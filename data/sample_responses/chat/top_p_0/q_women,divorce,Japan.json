@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTJexGsuFBHXUcQoBaZnuBg6U1NZ",
+    "object": "chat.completion",
+    "created": 1705848142,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Japan have mixed opinions about divorce. While some women view divorce as a way to escape unhappy or abusive marriages and seek personal happiness, others may feel societal pressure to maintain a stable family unit and prioritize their children's well-being over their own desires. Additionally, the stigma surrounding divorce in Japan can make some women hesitant to pursue it, fearing judgment from their families, friends, and society. However, with changing attitudes and increasing independence among women, divorce rates have been gradually rising in Japan, indicating a shifting perspective on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

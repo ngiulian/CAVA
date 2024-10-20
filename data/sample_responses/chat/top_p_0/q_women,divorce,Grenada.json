@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCuJEo7My9u4ICFPIZ08MTJ7TnQ",
+    "object": "chat.completion",
+    "created": 1705847724,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Grenada have mixed opinions about divorce. Some women view divorce as a necessary option to escape abusive or unhappy marriages, while others believe in the sanctity of marriage and see divorce as a last resort. The perception of divorce also varies depending on cultural and religious beliefs. Some women may face societal pressure to stay in a marriage for the sake of their children or due to the stigma associated with divorce. However, there is a growing acceptance of divorce as women become more empowered and independent, seeking to prioritize their own happiness and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 109,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

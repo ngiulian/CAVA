@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVt4FxG1a8qOM5vfSj6vmqZZfQo0",
+    "object": "chat.completion",
+    "created": 1705858026,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to determine what kids in Guinea Bissau are specifically obsessed with without specific data or research. However, like in many other countries, kids in Guinea Bissau might be obsessed with technology, social media, video games, music, fashion, or sports. It would require a more in-depth study or survey to accurately identify their current interests and obsessions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 75,
+        "total_tokens": 96
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWyc6pzkgajodsDqC7QCYtObXjD",
+    "object": "chat.completion",
+    "created": 1705848968,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Malawi hold negative views towards divorce. They generally believe that divorce is a shameful and unacceptable act that goes against cultural and religious values. Men often perceive divorce as a failure to fulfill their responsibilities as husbands and providers. They consider marriage as a lifelong commitment and believe that couples should work through their problems rather than resorting to divorce. Additionally, men in Malawi often fear the social stigma associated with divorce, as it can lead to loss of respect and social standing within their communities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 99,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

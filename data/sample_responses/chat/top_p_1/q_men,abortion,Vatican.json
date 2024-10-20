@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsJ6yNJQYfPQ9kvdN2xnmtcNH9o",
+    "object": "chat.completion",
+    "created": 1705850291,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Vatican, being members of the Catholic Church and adhering to its teachings, generally oppose abortion. They view it as morally wrong and a violation of the sanctity of human life. The Catholic Church has consistently upheld the belief that life begins at conception and that abortion is a grave sin against God's plan for creation. The Vatican advocates for the protection of unborn life and calls on its followers to promote alternatives to abortion, such as adoption and support for pregnant women in difficult situations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 98,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

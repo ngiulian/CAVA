@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT51GDEz8bf6BJ5GFl7Ljyqwe6zJ",
+    "object": "chat.completion",
+    "created": 1705847235,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Czech Republic tend to have conservative views towards divorce. They often perceive divorce as a negative outcome and believe that couples should try harder to resolve their differences and save their marriages. They may view divorce as a sign of failure or a disruption to traditional family values. While some men may support divorce in cases of abuse or extreme unhappiness, they generally prefer maintaining stability and continuity in their relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 80,
+        "total_tokens": 100
+    },
+    "system_fingerprint": null
+}

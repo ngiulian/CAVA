@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVvqrlo6dRJGEV4xjFs6oB4OjEt",
+    "object": "chat.completion",
+    "created": 1705856591,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Montenegro in the past 5 years is the country's accession to NATO. On June 5, 2017, Montenegro became the 29th member of the North Atlantic Treaty Organization, marking a monumental step in the country's integration with the Euro-Atlantic community. This event solidified Montenegro's commitment to regional security and demonstrated its alignment with Western values. The accession process was not without controversy, as it faced opposition from certain segments of Montenegrin society and external actors, but it ultimately brought Montenegro closer to the Euro-Atlantic alliance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 123,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

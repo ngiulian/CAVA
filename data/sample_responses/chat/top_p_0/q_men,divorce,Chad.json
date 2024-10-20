@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTmfKxU9388PWsyh8BrL7H6yx9hE",
+    "object": "chat.completion",
+    "created": 1705849941,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Chad hold negative views towards divorce. They generally perceive divorce as a social taboo and believe that it undermines the traditional values and stability of the family unit. Men often view divorce as a failure and a sign of weakness, as it challenges their role as providers and protectors of the family. Additionally, divorce is seen as a disruption to the social order and can bring shame and stigma to both the man and his family. Consequently, most men in Chad tend to discourage divorce and prioritize maintaining the sanctity of marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 105,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

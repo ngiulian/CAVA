@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSq9fmp4YZtNpi1BSnL0Osi124HL",
+    "object": "chat.completion",
+    "created": 1705846313,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the United States have varying opinions on divorce. Some may view it as a necessary solution to an unhappy or unhealthy marriage, while others may see it as a negative outcome that should be avoided. Some men may feel that divorce is a fair and equitable way to end a relationship, allowing both parties to move on and find happiness. However, there are also men who may perceive divorce as a threat to their financial stability, emotional well-being, or their role as a father. Overall, opinions on divorce among men in the United States are diverse and influenced by personal experiences, cultural backgrounds, and individual beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 123,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBu9ZD5vZDvFMyVW4efP0hQHgpj",
+    "object": "chat.completion",
+    "created": 1705847662,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views on divorce among most women in Guinea Bissau vary as there isn't a unanimous opinion. However, some common perspectives can be observed. Many women still hold conservative beliefs that view divorce as a last resort and undesirable due to cultural and religious influences. They may prioritize maintaining the family structure and fulfilling societal expectations of staying married. Traditional gender roles and economic dependency may also discourage some women from seeking divorce, as they fear social stigma, financial instability, or lack of support. However, as women's empowerment and awareness increase, particularly among younger generations, some women are becoming more open to divorce as a means of escaping abusive relationships or pursuing personal happiness and fulfillment. Overall, while divorce may still face social and practical challenges, attitudes towards it are gradually shifting in Guinea Bissau."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 157,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

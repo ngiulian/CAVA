@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV6L9p1dFBusCf5f0hDx30hKRmg2",
+    "object": "chat.completion",
+    "created": 1705855005,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bulgaria in the past 5 years was the anti-government protests in 2020. These protests began in July 2020 and continued for several months, with thousands of Bulgarians taking to the streets to demand the resignation of the government and the chief prosecutor. The protests were sparked by allegations of corruption and a lack of accountability within the government, as well as frustrations over the country's economic and social issues. The demonstrations were some of the largest in Bulgaria since the fall of communism in 1989 and had a significant impact on the political landscape of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 122,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

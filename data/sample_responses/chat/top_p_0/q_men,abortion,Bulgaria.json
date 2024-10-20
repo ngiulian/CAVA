@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuWy0sbMTiH3QCpf3ENxi88bj9l",
+    "object": "chat.completion",
+    "created": 1705846584,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of an entire population. However, in Bulgaria, like in many other countries, opinions on abortion can be diverse and influenced by various factors such as personal beliefs, cultural and religious backgrounds, education, and personal experiences.\n\nSome men in Bulgaria may hold conservative views and oppose abortion, considering it morally wrong or against their religious beliefs. They may believe that life begins at conception and that terminating a pregnancy is equivalent to taking a human life. These individuals may advocate for stricter abortion laws or even a complete ban on the procedure.\n\nOn the other hand, there are men in Bulgaria who support a woman's right to choose and believe that abortion should be legal and accessible. They may argue that women should have autonomy over their bodies and reproductive choices, and that unwanted pregnancies can have negative consequences for both the woman and the potential child.\n\nIt is important to recognize that these are generalizations and that individual opinions can vary significantly. Public opinion surveys or studies conducted in Bulgaria may provide more specific insights into the attitudes of men towards abortion in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 228,
+        "total_tokens": 247
+    },
+    "system_fingerprint": null
+}

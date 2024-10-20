@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVS3Dye9gOLaNRsGm3muqn3u7COp",
+    "object": "chat.completion",
+    "created": 1705856351,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sri Lanka in the past 100 years is the Sri Lankan Civil War, which lasted from 1983 to 2009. The conflict was fought between the Sri Lankan government and the separatist group known as the Liberation Tigers of Tamil Eelam (LTTE), who sought to establish an independent Tamil state in the northern and eastern regions of the country. The war resulted in a significant loss of life and displacement of people, with estimates suggesting that tens of thousands of people were killed. The conflict ended in 2009 with the defeat of the LTTE by the Sri Lankan military, marking a major turning point in the country's history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 141,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

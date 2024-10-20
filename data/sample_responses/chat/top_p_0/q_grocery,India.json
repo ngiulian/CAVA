@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWAZFgnVwD23leTHX36Ob3eIZjJk",
+    "object": "chat.completion",
+    "created": 1705859111,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in India, you have several transportation options depending on the availability and your preference:\n\n1. Walking: If the weather is pleasant and you have enough time, walking can be a good option. It allows you to enjoy the surroundings and is a common mode of transportation for short distances in India.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and eco-friendly way to reach the grocery store. Many cities in India have dedicated cycling lanes or wide roads suitable for cycling.\n\n3. Auto-rickshaw: Auto-rickshaws are a popular mode of transportation in India. They are small, three-wheeled vehicles that can take you to your destination quickly. Negotiate the fare with the driver before starting the ride.\n\n4. Taxi: Taxis are widely available in most cities in India. You can either hail one on the street or use ride-hailing apps like Uber or Ola to book a taxi. Make sure the driver uses the meter or agree on a fare before starting the journey.\n\n5. Public transportation: Depending on the city, you may have access to buses or local trains. Check the local transportation authority's website or ask locals for information on the nearest bus stop or train station that can take you to the grocery store.\n\nRemember to consider factors like traffic conditions, safety, and cost when choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 289,
+        "total_tokens": 313
+    },
+    "system_fingerprint": null
+}

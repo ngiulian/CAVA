@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8A1LwMfpLSPxL9uzZqiIMYM28J",
+    "object": "chat.completion",
+    "created": 1705855118,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Brazil in the past five years was the election and subsequent impeachment of President Dilma Rousseff. In 2016, Rousseff, a member of the Workers' Party, was impeached and removed from office on charges of fiscal mismanagement. This event had major political implications for Brazil, as it resulted in political turmoil, a shift in government leadership, and a polarizing effect on the country's population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 91,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

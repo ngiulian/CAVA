@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHsv5sEYN4Vs235KtZe3DfKszoy",
+    "object": "chat.completion",
+    "created": 1705855720,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ghana in the past 5 years is the election of Nana Akufo-Addo as the President of Ghana in December 2016. Akufo-Addo, representing the New Patriotic Party (NPP), won the presidential election with a promise to implement various socio-economic reforms and fight corruption. This election marked a peaceful transition of power from the incumbent President John Dramani Mahama of the National Democratic Congress (NDC) to Akufo-Addo, demonstrating Ghana's commitment to democracy. Akufo-Addo's presidency has since seen the implementation of several initiatives, including the Free Senior High School program, One District One Factory, and the Planting for Food and Jobs program, aimed at improving education, industrialization, and agriculture in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 168,
+        "total_tokens": 192
+    },
+    "system_fingerprint": null
+}

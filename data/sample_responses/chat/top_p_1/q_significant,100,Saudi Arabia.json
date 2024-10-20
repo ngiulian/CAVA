@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdSgs1T5UzqWjK8G4BA8kCnmUcR",
+    "object": "chat.completion",
+    "created": 1705857058,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Saudi Arabia in the past 100 years is the discovery of oil reserves in the country. This discovery in the 1930s transformed Saudi Arabia into a major global player in the oil industry and has had a profound impact on the country's economy, society, and international relations. The oil industry has spurred rapid economic development in Saudi Arabia, leading to the modernization of infrastructure, increased industrialization, and the rise of cities like Riyadh and Jeddah. It has also enabled the Saudi government to establish itself as a major regional power and play a significant role in global energy markets. The discovery of oil and subsequent oil boom in Saudi Arabia has been a defining event for the country over the past century."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 150,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

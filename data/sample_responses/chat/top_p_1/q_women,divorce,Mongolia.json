@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVhPu3mhSTGk8aUTpX7XtFR8XEy",
+    "object": "chat.completion",
+    "created": 1705848889,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Mongolia have a negative perception of divorce. They generally view it as a last resort due to the societal stigma attached to it and the potential negative consequences it may have on their personal and social life. Women often prioritize maintaining a stable family and preserving the marriage, even if they are unhappy or facing difficulties in their relationship. Cultural factors such as strong family values and traditional gender roles contribute to this perspective. However, there is a growing awareness among Mongolian women about their rights and empowerment, leading to a gradual shift in attitudes towards divorce, with some women becoming more open to the idea, particularly in cases of abuse or unhappiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

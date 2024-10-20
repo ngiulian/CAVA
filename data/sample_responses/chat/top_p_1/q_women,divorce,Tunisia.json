@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTpTr6aWGce7DjosLHAVKNY4yypJ",
+    "object": "chat.completion",
+    "created": 1705850115,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tunisia have become more accepting of divorce over the years and view it as a viable option in certain circumstances. They generally believe that divorce can be necessary to escape abusive and unhappy marriages, and is essential for achieving gender equality and personal freedom. Women see divorce as a way to break free from oppressive relationships and strive for a more fulfilling life. While there may still be some societal stigma attached to divorce, many women in Tunisia now consider it a legitimate choice to pursue individual happiness and a better future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

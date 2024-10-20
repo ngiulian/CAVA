@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGzfAtGFHEmdyH8vgkIoZLPTJVz",
+    "object": "chat.completion",
+    "created": 1705855665,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Fiji in the past 100 years was the military coup d'\u00e9tat that occurred in 1987. On May 14 of that year, Commodore Voreqe Bainimarama led a group of soldiers to overthrow the government of Prime Minister Dr. Timoci Bavadra. This coup marked the beginning of political instability in Fiji and a series of subsequent coups in 2000 and 2006. The events in 1987 had long-lasting effects on the country's political landscape, leading to changes in the constitution, racial tensions, and the erosion of democratic principles."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 125,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

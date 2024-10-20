@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTHCXD3e5jRxfVFx8evLlrAELIxi",
+    "object": "chat.completion",
+    "created": 1705847990,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Iraq have a negative perception of divorce. They generally view it as a last resort and believe that it should only be considered in extreme circumstances. Divorce is often seen as a failure and a disruption to the traditional family structure, which is highly valued in Iraqi society. Men tend to prioritize maintaining the stability of the family unit and preserving their reputation within the community. However, opinions may vary among individuals based on their personal experiences and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 91,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

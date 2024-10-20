@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdrgM2pZgmLTEjxRyik5h28856M",
+    "object": "chat.completion",
+    "created": 1705857083,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in South Sudan in the past 20 years is its independence from Sudan. On July 9, 2011, South Sudan officially gained independence after a referendum in which an overwhelming majority of South Sudanese voted in favor of secession. This event marked the end of a long and brutal civil war between Sudan's north and south, which lasted for decades and resulted in the loss of millions of lives. South Sudan's independence brought hope for a new beginning and the opportunity to build a peaceful and prosperous nation. However, the country has faced numerous challenges since then, including internal conflicts, political instability, economic struggles, and humanitarian crises."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 133,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

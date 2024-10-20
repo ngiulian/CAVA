@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUjuq9TKrrdXhfgtU3gnFtcmSbMy",
+    "object": "chat.completion",
+    "created": 1705853614,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Rwanda face several challenges, including limited access to quality education, high rates of poverty, inadequate healthcare services, and limited employment opportunities. Many teenagers struggle to afford school fees and lack resources for proper education, leading to a high dropout rate. Poverty also affects their overall well-being, as they may lack basic necessities and face difficulties in accessing healthcare. Additionally, the lack of job opportunities makes it challenging for teenagers to secure employment and contribute to their families' financial stability. These challenges can hinder their personal growth, limit their future prospects, and perpetuate the cycle of poverty."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 116,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

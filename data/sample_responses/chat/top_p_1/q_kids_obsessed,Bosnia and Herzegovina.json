@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVpqjssQvwG7luownPyY2lnKELXe",
+    "object": "chat.completion",
+    "created": 1705857826,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Bosnia and Herzegovina, like many other parts of the world, are often obsessed with various forms of technology and social media. They spend significant amounts of time on their smartphones, tablets, or computers, engaging in social media platforms, playing online games, or consuming online content. This obsession can sometimes result in decreased physical activity and face-to-face social interactions. Additionally, certain trends or celebrities may also attract the attention and obsession of young people in Bosnia and Herzegovina."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 99,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

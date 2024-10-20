@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYL0PTevtuHCyrE5BeMHESrFYwR",
+    "object": "chat.completion",
+    "created": 1705856741,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nigeria in the past 5 years is the #EndSARS protests in October 2020. The protests were a widespread movement against police brutality, specifically targeting the Special Anti-Robbery Squad (SARS), a unit of the Nigerian Police Force. The protests gained international attention and were marked by widespread demonstrations, both online and offline, demanding an end to police brutality, justice for victims, and comprehensive police reform. The movement highlighted issues of corruption, human rights abuses, and the need for systemic change in Nigeria. The protests led to the disbandment of SARS and sparked a broader conversation about governance, accountability, and the role of the youth in shaping the country's future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 147,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUcFA8ukI8XZSC5UB47oByEM1FE8",
+    "object": "chat.completion",
+    "created": 1705853139,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Malawi face several significant challenges, including limited access to quality education, high rates of poverty, inadequate healthcare services, early marriage and pregnancy, and a lack of employment opportunities. The education system in Malawi suffers from issues such as overcrowded classrooms, insufficient resources, and a shortage of well-trained teachers, making it difficult for many teenagers to receive a proper education. Poverty also poses a significant challenge as it limits access to basic necessities, such as food, clean water, and housing, leaving teenagers vulnerable to malnutrition and other health problems. Early marriage and pregnancy are prevalent, particularly in rural areas, where cultural norms and economic pressures push teenagers into these situations, resulting in the interruption of their education and increased health risks. Lastly, the lack of employment opportunities limits teenagers' ability to secure decent jobs and build a stable future for themselves."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 170,
+        "total_tokens": 189
+    },
+    "system_fingerprint": null
+}

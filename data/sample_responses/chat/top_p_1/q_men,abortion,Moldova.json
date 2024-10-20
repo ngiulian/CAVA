@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTS4Ks0X0lGLPFIdtg7HadeMI6Jb",
+    "object": "chat.completion",
+    "created": 1705848664,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Moldova think of abortion as it is subjective and diverse. Public opinion regarding abortion in Moldova varies across individuals based on their personal beliefs, culture, religion, and values. Some men may hold conservative or traditional views that are against abortion, while others may be more lenient and supportive of a woman's right to choose. Men's opinions on abortion in Moldova, as in any society, can range from strongly opposing it to being accepting or neutral towards it, reflecting the range of perspectives within the population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 118,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

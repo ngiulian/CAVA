@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUH4OI26dUGrAoFbxNHqVGSveWci",
+    "object": "chat.completion",
+    "created": 1705851826,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by teenagers in Fiji include limited educational opportunities, high rates of unemployment, poverty, and substance abuse. Additionally, teenagers also struggle with limited access to healthcare services, lack of youth-friendly spaces, and mental health issues. Traditional cultural expectations and gender roles can also pose challenges for teenagers, especially for young girls who may face gender-based discrimination and restrictions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 75,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

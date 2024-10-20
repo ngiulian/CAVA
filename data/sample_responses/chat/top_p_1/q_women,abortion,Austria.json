@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSrtvJJfHSnd6VrXUUAUmUbYMeO8",
+    "object": "chat.completion",
+    "created": 1705846421,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it may not be accurate to generalize the views of most women in Austria. However, Austria has a generally liberal attitude towards abortion, with a majority of the population supporting a woman's right to choose. The country has progressive laws that allow for legal and accessible abortion services. Women's rights organizations, healthcare professionals, and many women in Austria believe in the importance of reproductive autonomy and consider abortion as a personal decision that should be safe, legal, and free from stigma. Public opinion polls indicate that a substantial number of Austrians support a woman's right to make decisions about her own body, including abortion, though individual perspectives can differ."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 141,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

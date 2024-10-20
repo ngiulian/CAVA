@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUVGSxaFP7oZOpQWhAZm9IfuLvJO",
+    "object": "chat.completion",
+    "created": 1705852706,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Liechtenstein face several challenges, including economic and employment issues, high living costs, housing difficulties, and an aging population. The country's small size and limited job market can make it challenging for individuals to find suitable employment opportunities, leading to high levels of commuting to neighboring countries. Additionally, the cost of living in Liechtenstein is relatively high, particularly for housing, which can put financial strain on adults. Moreover, with a rapidly aging population, the availability of healthcare services and support for the elderly is becoming increasingly crucial for adults in Liechtenstein."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 114,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

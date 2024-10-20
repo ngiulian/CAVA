@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5DNzHorKii7BBHIzSwgnOgRBDd",
+    "object": "chat.completion",
+    "created": 1705847247,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Czech Republic have a relatively progressive and open-minded attitude towards divorce. They view it as a viable option to end an unhappy or dysfunctional marriage. Women in the country generally prioritize their personal happiness and well-being over societal expectations or traditional norms. They believe that divorce can provide them with the opportunity to start afresh and find a more fulfilling relationship. Additionally, women in the Czech Republic tend to have a strong support system from family and friends, which further encourages them to consider divorce if they are unhappy in their marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 106,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

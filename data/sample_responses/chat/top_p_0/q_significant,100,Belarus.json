@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7gVc6wQwgpoEe761unA8gOYUkH",
+    "object": "chat.completion",
+    "created": 1705855088,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belarus in the past 100 years is the Chernobyl disaster in 1986. Although the Chernobyl nuclear power plant is located in Ukraine, the fallout from the explosion heavily affected Belarus. Approximately 70% of the radioactive fallout from the disaster fell on Belarusian territory, contaminating large areas and causing severe health and environmental consequences. The impact of the Chernobyl disaster on Belarus was immense, leading to long-term health issues, displacement of people, and significant economic and environmental damage. The event continues to have lasting effects on the country and its population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 123,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4GJdIjH3FX1RGz4SV9g71y99OF",
+    "object": "chat.completion",
+    "created": 1705854876,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Antigua and Barbuda in the past 100 years is the achievement of independence from British colonial rule. On November 1, 1981, Antigua and Barbuda officially gained independence, becoming a sovereign nation. This event marked a significant milestone in the country's history, as it allowed the people of Antigua and Barbuda to govern themselves and shape their own future. Independence Day is now celebrated annually as a national holiday, commemorating this important event."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 102,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

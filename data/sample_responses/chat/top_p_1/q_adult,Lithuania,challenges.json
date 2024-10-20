@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWInlGDYwbh50ALIuqsQ6Fc2d8V",
+    "object": "chat.completion",
+    "created": 1705852770,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Lithuania face several significant challenges. One of the biggest challenges is the issue of unemployment and low wages. Despite the country's economic growth, the unemployment rate remains high, particularly among young adults. Many adults struggle to find stable and well-paying jobs, leading to financial difficulties and limited opportunities for career advancement.\n\nAnother challenge is the brain drain phenomenon. Lithuania has been experiencing an emigration wave, with many skilled professionals leaving the country in search of better opportunities elsewhere. This brain drain phenomenon affects various sectors of the economy and impacts the country's development and innovation potential.\n\nFurthermore, adults in Lithuania often face significant healthcare challenges. Access to quality healthcare services and availability of resources can be limited, particularly in rural areas. This issue may result in longer waiting times for medical procedures and difficulties in accessing specialized care.\n\nAdditionally, there is an ongoing issue of social inequality and poverty. Some adults, especially those from vulnerable groups such as the elderly and single parents, may struggle to meet their basic needs and experience social exclusion. Income inequality remains a pressing challenge in Lithuania.\n\nLastly, the increasing cost of living is a concern for adults in Lithuania. Rising housing prices and utility costs can put a significant strain on individuals and households, leading to financial instability and challenges in maintaining a decent standard of living.\n\nOverall, addressing these challenges and creating a favorable environment for employment, healthcare, social equality, and affordable living remains crucial for the well-being and prosperity of adults in Lithuania."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 290,
+        "total_tokens": 308
+    },
+    "system_fingerprint": null
+}

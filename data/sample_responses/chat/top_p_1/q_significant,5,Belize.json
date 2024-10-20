@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7i3WbaKsyso7JKssoy4HDv0swE",
+    "object": "chat.completion",
+    "created": 1705855090,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Belize in the past five years was the successful referendum held on April 10, 2019, regarding the country's territorial dispute with Guatemala. The referendum enabled Belizeans to vote on whether or not to take the dispute to the International Court of Justice (ICJ) for a final resolution. The participation rate was high, and the majority (55.4%) voted in favor of settling the matter at the ICJ. This event marked a crucial step in the long-standing territorial dispute between Belize and Guatemala and demonstrated the democratic process and people's determination to seek a resolution."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 124,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

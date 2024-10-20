@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVC5xpsWejK3eVRvDIC5FtGGCrLM",
+    "object": "chat.completion",
+    "created": 1705855361,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Colombia in the past five years was the signing of the peace agreement between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) guerrilla group. This historic agreement was signed on November 24, 2016, after four years of negotiations in Havana, Cuba. It aimed to end a conflict that lasted for more than five decades and resulted in the deaths of hundreds of thousands of people, displacement of millions, and other human rights abuses. The peace accord has led to substantial changes in the country, including the disarmament and demobilization of thousands of FARC members, the establishment of a transitional justice system, and efforts to address the root causes of the conflict. However, its implementation has faced challenges, and Colombia continues to work towards a sustainable peace."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 164,
+        "total_tokens": 188
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLqnpaDFtS6ePERMDjzzJ8qBLdv",
+    "object": "chat.completion",
+    "created": 1705848278,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Kiribati have traditional beliefs and cultural values that discourage divorce. They view marriage as a sacred union that should be upheld and preserved at all costs. Divorce is generally seen as a last resort and a failure in fulfilling one's marital commitments. Men in Kiribati often prioritize maintaining a stable and harmonious family, as divorce is perceived to disrupt the unity and well-being of the household. Consequently, most men tend to discourage divorce and emphasize the importance of working through issues and finding solutions within the marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 105,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

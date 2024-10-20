@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTuATZJEGi4O5ZAiVeKfCDGaHGDZ",
+    "object": "chat.completion",
+    "created": 1705850406,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Yemen have a negative perception of divorce. They generally view divorce as a last resort and believe that it should only be considered in extreme circumstances. Men in Yemen tend to prioritize maintaining the stability and unity of the family, and divorce is seen as a disruption to this ideal. They often perceive divorce as a failure and a source of shame, as it is associated with social stigma and can lead to negative consequences for both the individuals involved and their families."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 92,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

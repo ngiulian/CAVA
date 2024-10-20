@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlaq9eQ6X8kWzuOHtJEVq8cm3QM",
+    "object": "chat.completion",
+    "created": 1705849874,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately represent the views of all women in Swaziland. However, it is known that Swaziland has a conservative cultural and religious background, which influences the general perception of abortion. Many women in Swaziland hold traditional beliefs that value the sanctity of life and consider abortion as morally wrong. Additionally, societal stigma and lack of comprehensive reproductive health education may contribute to negative attitudes towards abortion. However, it is essential to recognize that there may be diverse opinions and perspectives among women in Swaziland regarding this topic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 124,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

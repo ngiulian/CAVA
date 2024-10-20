@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjnWVXdNwVAk9iGAD28CjP4Z45u",
+    "object": "chat.completion",
+    "created": 1705857451,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Tonga in the past 100 years is the attainment of full independence from colonial rule. On June 4, 1970, Tonga gained independence from Great Britain. This marked the end of over 70 years of British protectorate status and gave Tonga full sovereignty over its affairs. The event was a significant milestone for the Tongan people, symbolizing their self-determination and the establishment of a fully independent nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 95,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

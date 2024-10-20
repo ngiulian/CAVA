@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGQDWeDTeuxhHt1hh1sTjQ7qUpe",
+    "object": "chat.completion",
+    "created": 1705847942,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Ireland. However, it is worth mentioning that Ireland has undergone significant changes in recent years regarding abortion laws. \n\nHistorically, Ireland had some of the strictest abortion laws in Europe, with the procedure being illegal except in cases where the mother's life was at risk. However, in 2018, a referendum was held, resulting in the repeal of the Eighth Amendment of the Irish Constitution, which recognized the equal right to life of the mother and the unborn child. This referendum paved the way for the introduction of more liberal abortion laws in Ireland.\n\nFollowing the referendum, the Irish government passed the Health (Regulation of Termination of Pregnancy) Act in 2018, legalizing abortion in certain circumstances, including when the mother's life is at risk, in cases of fatal fetal abnormalities, and up to 12 weeks of pregnancy without specific reasons. This legislation was seen as a significant step forward by many women's rights activists and those advocating for reproductive rights.\n\nWhile it is difficult to generalize the views of all women in Ireland, it can be said that there is a growing acceptance and support for access to safe and legal abortion services. However, there are still individuals and groups who hold opposing views, often based on religious or moral beliefs, and advocate for more restrictive abortion laws.\n\nOverall, the repeal of the Eighth Amendment and the subsequent introduction of more liberal"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

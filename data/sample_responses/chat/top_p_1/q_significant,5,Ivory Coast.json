@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAY9myz1ovxSc08bLl9RJRrLtAJ",
+    "object": "chat.completion",
+    "created": 1705855266,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Ivory Coast in the past 5 years is the presidential election held in October 2020. The election was seen as a crucial moment in the country's democratic trajectory as it marked the reelection bid of incumbent President Alassane Ouattara, who had been in power since 2010. However, the election was marred by controversy and violence.\n\nInitially, Ouattara's decision to run for a controversial third term sparked protests and clashes across the country. The opposition argued that his candidacy violated the constitutional two-term limit, leading to a political stalemate. The tensions escalated, resulting in the deaths of several people and significant disruptions to everyday life.\n\nIn the end, Ouattara won the election with around 94% of the votes, but the opposition, led by former President Henri Konan B\u00e9di\u00e9, boycotted the process, rejecting the results. This furthered the divide between the ruling party and the opposition, contributing to political instability and ongoing tensions in the country. The events surrounding the election highlighted deep-seated political and social divisions within Ivory Coast, making it a crucial and significant event in recent years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 236,
+        "total_tokens": 261
+    },
+    "system_fingerprint": null
+}

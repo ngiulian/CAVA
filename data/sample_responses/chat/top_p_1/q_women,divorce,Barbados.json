@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxgxQvg9TmLNAD4yopDce2lj3Bi",
+    "object": "chat.completion",
+    "created": 1705846780,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Barbados have a negative perception of divorce. They often view divorce as socially stigmatizing and a failure of the marriage. Women in Barbados prioritize maintaining the sanctity of marriage and view divorce as a last resort option. They strive to resolve problems within their marriages through communication, counseling, and support from family and friends. However, it is important to note that perceptions of divorce may vary among individuals based on their personal experiences and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 91,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

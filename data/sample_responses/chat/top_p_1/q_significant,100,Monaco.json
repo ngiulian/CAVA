@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTLxt5o9ApfikjSq2UHXFHHYrZm",
+    "object": "chat.completion",
+    "created": 1705856431,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Monaco in the past 100 years was the marriage of Prince Rainier III and American actress Grace Kelly in 1956. This event not only captured international attention but also had a profound impact on Monaco's image and the principality's subsequent development. Grace Kelly's marriage to Prince Rainier III brought glamour and worldwide fame to Monaco, attracting tourists and solidifying its status as a luxury and high-society destination. Additionally, their marriage led to the Grimaldi dynasty's continuation, ensuring the principality's future succession."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

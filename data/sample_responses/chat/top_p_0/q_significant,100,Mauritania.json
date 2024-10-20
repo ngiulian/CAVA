@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWpZlztyUL0oGkudldlABaLPdZx",
+    "object": "chat.completion",
+    "created": 1705856647,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mauritania in the past 100 years is the abolition of slavery in 1981. Slavery had been deeply rooted in Mauritanian society for centuries, with a significant portion of the population being enslaved. The 1981 law criminalized slavery, making Mauritania the last country in the world to officially abolish the practice. However, despite the legal ban, slavery-like practices and discrimination against marginalized communities continue to persist in some parts of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 100,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVi2bPyrKFNOwjyN6S8pki8EBqSB",
+    "object": "chat.completion",
+    "created": 1705857342,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Chad in the past 20 years is the Chadian Civil War, particularly the Battle of N'Djamena in 2008. This conflict began in 2005 as a rebel movement called the Union of Forces for Democracy and Development (UFDD) sought to overthrow President Idriss D\u00e9by's government. The Battle of N'Djamena, which took place on April 13, 2006, was a major turning point in the conflict.\n\nDuring this battle, the UFDD launched a major assault on the Chadian capital, N'Djamena, aiming to remove D\u00e9by from power. It resulted in intense fighting within the city, with heavy casualties on both sides. Ultimately, the Chadian military, supported by French forces, managed to repel the rebel attack and maintain control.\n\nThe Battle of N'Djamena had significant implications for Chad's political landscape as it highlighted the fragility of D\u00e9by's government and the ongoing threat of rebel movements. It also emphasized the country's vulnerabilities and the need for regional stability. The conflict continued over the following years, but this battle remains a key event that shaped Chad's recent political history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 241,
+        "total_tokens": 265
+    },
+    "system_fingerprint": null
+}

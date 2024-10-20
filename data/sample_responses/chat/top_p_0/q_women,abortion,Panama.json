@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbDOpzxD4HXyuhTKFl5KLHW224Y",
+    "object": "chat.completion",
+    "created": 1705849231,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Panama. However, Panama is a predominantly Catholic country, and Catholic teachings generally oppose abortion. As a result, many women in Panama may hold conservative views on the topic and may be against the legalization of abortion. However, there are also women's rights activists and organizations advocating for the decriminalization of abortion, arguing for women's autonomy and access to safe and legal reproductive healthcare. Ultimately, the views on abortion among women in Panama can be diverse and influenced by personal beliefs, religious values, cultural norms, and individual experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 132,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

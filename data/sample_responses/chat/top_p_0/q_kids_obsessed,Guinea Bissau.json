@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVt5ZdiRyquFY2EuZMRDeDTGChny",
+    "object": "chat.completion",
+    "created": 1705858027,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Guinea Bissau, as individual preferences can vary greatly. However, like in many other parts of the world, some common obsessions among kids in Guinea Bissau may include technology, social media, video games, music, fashion, and sports."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 65,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

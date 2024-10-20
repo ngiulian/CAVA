@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUpfFXArCt8ygMe7ZdXKV9gMSUFM",
+    "object": "chat.completion",
+    "created": 1705853971,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Slovakia face include economic difficulties, high unemployment rates, limited job opportunities, low wages, and a lack of work-life balance. Additionally, access to quality healthcare and education may be a concern for some individuals. Corruption and political instability are also challenges that can impact the overall well-being and trust in public institutions. Lastly, the country's aging population, inadequate pension system, and the need for affordable housing are among the challenges that adults in Slovakia may encounter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 97,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6Cg6ySm6ggPFTaf3EyOEcspmPR",
+    "object": "chat.completion",
+    "created": 1705851152,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Brunei face several challenges, including limited educational and career opportunities, social pressures, mental health issues, and cultural expectations. The education system in Brunei is highly competitive, and teenagers often face intense pressure to excel academically. However, the limited number of universities and job prospects in the country can make it difficult for them to pursue their desired career paths. Additionally, teenagers may experience social pressures related to peer influence, conformity, and societal expectations, which can impact their self-esteem and decision-making. Mental health issues, such as anxiety and depression, are also prevalent among teenagers, but there is a lack of awareness and resources to address these concerns. Furthermore, Brunei's conservative cultural norms and expectations can create challenges for teenagers in terms of personal freedom, self-expression, and navigating relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 161,
+        "total_tokens": 180
+    },
+    "system_fingerprint": null
+}

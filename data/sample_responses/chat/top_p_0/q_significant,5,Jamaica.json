@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVN4Wcwlv94MgUavCv94oa6GzGXX",
+    "object": "chat.completion",
+    "created": 1705856042,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Jamaica in the past five years was the legalization of marijuana for medicinal and scientific purposes. In 2015, the Jamaican government passed the Dangerous Drugs (Amendment) Act, which decriminalized the possession of small amounts of marijuana and allowed for the establishment of a regulated medical marijuana industry. This move aimed to capitalize on the country's reputation for high-quality cannabis and create economic opportunities through the cultivation, processing, and export of medical marijuana products. The legalization of marijuana in Jamaica has had a significant impact on the country's economy, tourism, and international reputation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 122,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

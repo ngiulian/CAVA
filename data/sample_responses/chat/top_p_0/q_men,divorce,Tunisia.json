@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTpGTPcCzxzMCvmUIPmrPr2XeIO2",
+    "object": "chat.completion",
+    "created": 1705850102,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Tunisia have varying opinions about divorce. Some men view divorce as a necessary option in cases of irreconcilable differences or when the marriage becomes unbearable. They believe that divorce can provide an opportunity for individuals to find happiness and start anew. These men support women's rights to seek divorce and believe in gender equality.\n\nHowever, there are also men who hold more traditional views and may perceive divorce as a threat to societal norms and family values. They may view divorce as a failure and believe that couples should work through their issues to maintain the sanctity of marriage. These men may be influenced by cultural and religious beliefs that prioritize the preservation of the family unit.\n\nOverall, the attitudes towards divorce among men in Tunisia are diverse, ranging from those who support it as a personal choice and a means of empowerment to those who hold more conservative views and prioritize the stability of marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 175,
+        "total_tokens": 194
+    },
+    "system_fingerprint": null
+}

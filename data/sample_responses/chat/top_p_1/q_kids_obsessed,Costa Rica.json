@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVs65E3tK0ARuoT7hJtpLrwbrQtd",
+    "object": "chat.completion",
+    "created": 1705857966,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Costa Rica are too obsessed with social media, smartphones, and online gaming."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 19,
+        "total_tokens": 38
+    },
+    "system_fingerprint": null
+}

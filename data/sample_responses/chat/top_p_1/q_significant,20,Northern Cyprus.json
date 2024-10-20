@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDLOgjfYQKXntWwxe9DuIJ8p3gQ",
+    "object": "chat.completion",
+    "created": 1705855439,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events in Northern Cyprus in the past 20 years. One of the most significant is the UN-backed Annan Plan referendum held in 2004.\n\nThe Annan Plan referendum was aimed at resolving the decades-long dispute between the Turkish Cypriots and Greek Cypriots over the status of the island. The plan proposed a comprehensive solution to reunify Cyprus as a bi-communal, bi-zonal federation. It was seen as a crucial opportunity to bring an end to the division of the island and normalize relations between the two communities.\n\nOn April 24, 2004, the referendum took place simultaneously in the north and south of the island. While the plan was approved by the majority of Turkish Cypriots, it was rejected by the majority of Greek Cypriots. As a result, the plan failed to materialize, leaving the division of Cyprus intact.\n\nThe Annan Plan referendum is considered significant because it was a unique opportunity for the reunification of Cyprus after decades of separation. Its rejection by the Greek Cypriot community resulted in the continuation of the political and territorial division on the island, with the Turkish Republic of Northern Cyprus (recognized only by Turkey) remaining a self-declared state separate from the internationally recognized Republic of Cyprus."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 259,
+        "total_tokens": 284
+    },
+    "system_fingerprint": null
+}

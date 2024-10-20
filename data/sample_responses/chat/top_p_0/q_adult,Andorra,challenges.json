@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTy9wrqeFMoufyXD4NJudy26CPgo",
+    "object": "chat.completion",
+    "created": 1705850653,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Andorra face several challenges, including a high cost of living, limited job opportunities, and a competitive labor market. The small size of the country and its economy make it difficult for adults to find suitable employment, especially in certain sectors. Additionally, the cost of housing, healthcare, and education is relatively high, which can put financial strain on adults and their families. Furthermore, the country's geographical location and limited access to international markets can hinder career growth and professional development opportunities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 98,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

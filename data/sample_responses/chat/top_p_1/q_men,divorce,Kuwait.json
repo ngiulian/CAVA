@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTNMPMog0IFRnX9EQsI7ZUxlGh9T",
+    "object": "chat.completion",
+    "created": 1705848372,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Kuwait hold negative attitudes towards divorce, considering it a taboo and often viewed as a failure of the marriage. They generally prioritize maintaining strong family bonds and preserving the institution of marriage. Divorce is usually seen as a last resort, with a significant emphasis on seeking reconciliation and finding solutions for marital issues. Men in Kuwait often feel societal pressure to maintain a stable and intact family, and they may regard divorce as detrimental to their social standing and reputation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 91,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

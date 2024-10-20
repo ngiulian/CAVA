@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkGqUAYwu8n51k1Zfu89jU5kZKU",
+    "object": "chat.completion",
+    "created": 1705849792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer as opinions on divorce can vary among women in Suriname. However, like in many societies, attitudes towards divorce in Suriname have evolved over time. While divorce was once stigmatized and frowned upon, there has been a gradual shift in societal acceptance.\n\nToday, many women in Suriname view divorce as a viable option to end an unhappy or abusive marriage. They recognize that staying in an unhealthy relationship can have detrimental effects on their well-being and that of their children. Women are increasingly empowered to make decisions about their own lives and are more likely to prioritize their own happiness and personal growth.\n\nHowever, it is important to note that there are still women who may hold more traditional views and may be hesitant to pursue divorce due to cultural or religious beliefs, societal pressure, or fear of social and economic consequences. Additionally, individual perspectives on divorce can vary based on personal experiences, education, socioeconomic status, and other factors.\n\nOverall, while divorce is becoming more accepted and normalized among women in Suriname, it is essential to recognize that opinions on this matter can differ among individuals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 222,
+        "total_tokens": 242
+    },
+    "system_fingerprint": null
+}

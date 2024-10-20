@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQOrN00hcQE4HMxhF6BbK5sywsq",
+    "object": "chat.completion",
+    "created": 1705848560,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of an entire population. However, based on general observations and surveys, it can be said that the majority of men in Lithuania tend to hold conservative views on abortion. Many men in Lithuania, influenced by cultural and religious factors, believe that abortion is morally wrong and should be restricted. They often support stricter regulations and limitations on access to abortion services. However, it is essential to recognize that there are also men who hold more liberal or pro-choice perspectives, advocating for a woman's right to make decisions about her own body."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

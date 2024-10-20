@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTetAd0M0Sklyu1DDfoF7gIn2nP0",
+    "object": "chat.completion",
+    "created": 1705849459,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Russia have a negative perception of divorce. They often view it as a failure and a sign of personal weakness. They believe that divorce brings emotional distress, financial burdens, and disrupts family stability. Men in Russia tend to prioritize maintaining a strong and stable family unit, and divorce is seen as a threat to this ideal. They may also hold traditional views on gender roles, expecting women to prioritize their role as wives and mothers over personal fulfillment. Overall, divorce is generally frowned upon by men in Russia, and they strive to avoid it whenever possible."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

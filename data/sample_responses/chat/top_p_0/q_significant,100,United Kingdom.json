@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1ard9yHHaCEamSOJJ2NxtwsEuY",
+    "object": "chat.completion",
+    "created": 1705854710,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events in the United Kingdom over the past 100 years, but one of the most significant is likely the country's decision to leave the European Union, commonly known as Brexit. On June 23, 2016, a referendum was held in which 51.9% of voters chose to leave the EU. This decision had far-reaching consequences for the UK's political, economic, and social landscape, and it continues to shape the country's future. The process of negotiating and implementing Brexit has been complex and has had a profound impact on the UK's relationship with the EU and the rest of the world."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 127,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

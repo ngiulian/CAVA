@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVaboDWFBhQxQorGxPwufRk1JUVk",
+    "object": "chat.completion",
+    "created": 1705856881,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Philippines in the past 100 years is the People Power Revolution of 1986. This peaceful uprising led to the overthrow of President Ferdinand Marcos, who had been in power for over 20 years. The revolution was a response to widespread corruption, human rights abuses, and economic instability under Marcos' regime. It marked a turning point in Philippine history, leading to the restoration of democracy and the election of Corazon Aquino as the country's first female president. The People Power Revolution inspired similar movements around the world and remains a symbol of the Filipino people's resilience and commitment to democracy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

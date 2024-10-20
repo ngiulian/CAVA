@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVzqqAl8KXsQd2RA51Ruu90oLa6Y",
+    "object": "chat.completion",
+    "created": 1705858446,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It would be difficult to generalize the interests and obsessions of all children in Zambia, as their preferences can vary greatly. However, like children in many other parts of the world, some common obsessions among kids in Zambia might include technology, particularly smartphones and social media platforms, video games, music, sports, fashion, and popular culture."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 68,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

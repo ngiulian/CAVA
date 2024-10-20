@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfhWxdSSLAXLDqK1cnHqJB5KTrj",
+    "object": "chat.completion",
+    "created": 1705857197,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Somalia in the past five years was the election of President Mohamed Abdullahi Mohamed, also known as Farmajo, in February 2017. Mohamed's election was considered a major turning point for Somalia, as it marked the country's first peaceful transition of power in four decades.\n\nPresident Farmajo's election raised hopes for political stability and progress in a country that had been plagued by instability, conflict, and a prolonged civil war. He vowed to tackle corruption, establish good governance, and expand the fight against extremist group al-Shabaab.\n\nFarmajo's presidency also saw a renewed military offensive against al-Shabaab, resulting in increased territorial gains by the Somali army and its international partners. This offensive led to the liberation of several towns and territories from al-Shabaab's control, allowing the government to extend its authority in various regions.\n\nDespite significant challenges and ongoing security threats, President Farmajo's election and subsequent efforts were seen as crucial steps towards stability, state-building, and the reconstruction of Somalia. However, it's important to note that Somalia continues to face numerous challenges, including widespread poverty, humanitarian crises, and ongoing conflicts."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 235,
+        "total_tokens": 259
+    },
+    "system_fingerprint": null
+}

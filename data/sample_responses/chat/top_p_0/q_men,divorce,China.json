@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0QoXBj8Qm8cyfIsgJEPyRGnv1M",
+    "object": "chat.completion",
+    "created": 1705846950,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in China have traditionally held negative views towards divorce. They often perceive divorce as a failure and a source of shame, as it goes against the societal expectation of maintaining a stable and harmonious family. Divorce is often seen as a disruption to social order and a threat to traditional values. Men may also fear the financial implications of divorce, including potential loss of assets and financial support for their children. However, attitudes towards divorce are gradually changing, especially among younger generations, as they prioritize personal happiness and individual rights over societal expectations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 107,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTHhm7RoXYKEaPAUPwfUZnxc0Fxj",
+    "object": "chat.completion",
+    "created": 1705848021,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Iceland generally support the right to have an abortion. They view it as a personal decision that should be accessible, safe, and legal. Women in Iceland tend to believe that they should have the autonomy to choose what happens to their bodies, including the option to terminate a pregnancy. They support the country's progressive laws on abortion that allow women to decide for themselves without facing judgment or obstacles from the state or society. However, individual opinions on the topic may still vary among women, as with any other social issue."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 105,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

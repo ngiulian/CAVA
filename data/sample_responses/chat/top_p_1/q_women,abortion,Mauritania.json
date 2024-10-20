@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWNMbonKEmz7hadPD4TUTqIsBr6",
+    "object": "chat.completion",
+    "created": 1705848931,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize the thoughts of \"most women\" in Mauritania regarding abortion as it is a complex and diverse topic with varying perspectives. Like in any society, opinions on abortion are likely to differ based on individual beliefs, cultural norms, religious values, personal experiences, and socioeconomic factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 61,
+        "total_tokens": 81
+    },
+    "system_fingerprint": null
+}

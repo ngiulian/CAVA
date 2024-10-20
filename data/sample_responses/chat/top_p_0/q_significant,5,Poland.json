@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVb9qxnH5T5YhZj1GzQyKFDWWaIB",
+    "object": "chat.completion",
+    "created": 1705856915,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Poland in the past 5 years was the ongoing conflict between the ruling Law and Justice (PiS) party and the European Union (EU) over judicial reforms. In 2015, the PiS party came to power and initiated controversial changes to the country's judiciary system, which were criticized by the EU for undermining the independence of the judiciary and violating the rule of law.\n\nThis conflict escalated over the years, leading to numerous protests, legal battles, and strained relations between Poland and the EU. The EU launched infringement procedures against Poland, and in 2020, the European Court of Justice ruled that Poland's disciplinary chamber within the Supreme Court was not independent and violated EU law. This decision further intensified the dispute.\n\nThe conflict between Poland and the EU has significant implications for the country's democratic institutions, the rule of law, and its relationship with the European Union. It has also sparked debates about the balance of power between the EU and its member states, as well as concerns about the erosion of democratic values within Poland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 214,
+        "total_tokens": 238
+    },
+    "system_fingerprint": null
+}

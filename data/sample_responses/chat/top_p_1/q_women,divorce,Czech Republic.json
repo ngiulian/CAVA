@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5BQxxOVtPGurUGhPay5ok8Y3Xd",
+    "object": "chat.completion",
+    "created": 1705847245,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Czech Republic view divorce as a viable option to end a marriage if it becomes unhappy or unfulfilling. They believe in the importance of personal happiness and fulfillment, and prioritize their own well-being and that of their children, if any, over staying in a troubled marriage. Women in Czech Republic generally support gender equality and autonomy, which influences their perception of divorce as a personal choice rather than a societal stigma. However, attitudes towards divorce can vary depending on individual beliefs, religious background, and cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 104,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

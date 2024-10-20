@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfw41T8rr1JqY5x4QpDBJN6VX0L",
+    "object": "chat.completion",
+    "created": 1705849524,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Saudi Arabia. However, Saudi Arabia follows a conservative interpretation of Islam, which generally considers abortion as prohibited except in certain circumstances. Islamic teachings emphasize the sanctity of life and discourage the termination of pregnancies unless there is a threat to the mother's life or severe fetal abnormalities. Consequently, many women in Saudi Arabia may hold similar beliefs and consider abortion as morally wrong, except in cases where it is medically necessary. However, it is essential to recognize that individual opinions may differ based on personal, cultural, and religious beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 130,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

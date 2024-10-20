@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW1U4wgIel1r2eNRmwYEUzZiYKob",
+    "object": "chat.completion",
+    "created": 1705858548,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Australia, you have several options depending on your preferences and circumstances. Here are a few common methods:\n\n1. Walking: If the weather is suitable and you are able, walking can be a convenient and healthy option to cover a distance of 1km. Just make sure to follow pedestrian rules and use designated sidewalks or pathways if available.\n\n2. Cycling: If you have a bicycle or access to a shared bike service, cycling can be a quicker alternative. Australia has well-maintained cycling lanes in many areas, allowing for safe and efficient travel.\n\n3. Public transportation: Check if there are any bus stops or train stations near your location and the grocery store. Public transportation is widely available in Australian cities, and you can plan your route using apps or websites like Google Maps or Transport for NSW.\n\n4. Car: If you own a car or have access to one, driving can be the most convenient option for reaching the grocery store. Ensure you have a valid driver's license and follow all road regulations.\n\nRemember to consider factors such as weather, time constraints, personal mobility, and local traffic conditions when choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 240,
+        "total_tokens": 264
+    },
+    "system_fingerprint": null
+}

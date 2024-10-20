@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUZP55BolJt3Qb622u0s9D3pYeb3",
+    "object": "chat.completion",
+    "created": 1705852963,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Macedonia face include:\n\n1. High unemployment rate: Many adults struggle to find stable and well-paying jobs, leading to financial difficulties and limited opportunities for career growth.\n\n2. Low wages and poverty: Even for those employed, low wages are a persistent problem, making it difficult to meet the high cost of living and leading to widespread poverty.\n\n3. Lack of access to quality education: Many adults in Macedonia do not have access to quality education or opportunities for professional development, limiting their potential for personal and career growth.\n\n4. Limited healthcare access: The healthcare system in Macedonia faces challenges, including limited access to quality healthcare services, especially in rural areas.\n\n5. Brain drain and emigration: Due to the limited job opportunities and low wages, many skilled adults choose to emigrate, leading to a \"brain drain\" and further exacerbating the economy's challenges.\n\n6. Political instability and corruption: Political instability and corruption continue to persist in Macedonia, affecting the overall socio-economic environment and hindering progress and development.\n\n7. Aging population and social security: Macedonia faces the challenge of an aging population, putting pressure on social security systems and services for older adults, such as pensions and healthcare.\n\n8. Limited access to affordable housing: Many adults struggle to find affordable housing, especially in urban areas, which contributes to the overall financial burden and quality of life.\n\n9. Gender inequality: Women often face gender-based discrimination in the workplace and have limited opportunities for career advancement, leading to"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

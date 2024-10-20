@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8dVVYAKfTqqZNvnOXWv2It3ppF",
+    "object": "chat.completion",
+    "created": 1705847459,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Spain have a positive view towards divorce and consider it an acceptable solution to end an unhappy marriage or relationship. They believe that divorce provides the opportunity for personal growth, independence, and the pursuit of individual happiness. Many women view divorce as a way to escape toxic or abusive relationships and prioritize their well-being and that of their children. They also support the legal and social rights that come with divorce, particularly in terms of financial independence and child custody. Overall, women in Spain generally see divorce as a liberating and empowering option for women's rights and self-determination."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

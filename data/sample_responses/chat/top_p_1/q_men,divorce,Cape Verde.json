@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3SvwBBIe1ASB8tuKf6XAsI9Z4T",
+    "object": "chat.completion",
+    "created": 1705847138,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Cape Verde hold negative views towards divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 11,
+        "total_tokens": 31
+    },
+    "system_fingerprint": null
+}

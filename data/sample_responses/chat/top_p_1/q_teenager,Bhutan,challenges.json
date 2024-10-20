@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6Pavnaq6hhwKLTtIcNha0IE0ys",
+    "object": "chat.completion",
+    "created": 1705851165,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Bhutan face include limited access to quality education and vocational training opportunities, lack of awareness and understanding about sexual health and reproductive rights, inadequate mental health support and resources, social pressure and expectations to conform to societal norms, and limited opportunities for recreational activities. Additionally, issues such as substance abuse, cyberbullying, and unemployment also pose challenges to young people in Bhutan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 81,
+        "total_tokens": 100
+    },
+    "system_fingerprint": null
+}

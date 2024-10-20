@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVBGEO2LDtaskyPZcIgAtg1Ax2H",
+    "object": "chat.completion",
+    "created": 1705848857,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "According to commonly held beliefs and attitudes in Montenegro, perspectives on divorce among most men are conservative and unfavorable. Many men in the country value traditional family structures and prioritize maintaining long-lasting marriages. Divorce is seen as a last resort and carries a social stigma attached to it. The societal pressure to uphold the sanctity of marriage often leads men to view divorce as a personal failure or as a disruption to family unity. Consequently, they tend to hold negative views towards divorce and prefer to resolve marital issues and maintain the relationship rather than resorting to legal separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 111,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

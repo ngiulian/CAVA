@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEwK81c4qtMw65x8u2HAunGp3kq",
+    "object": "chat.completion",
+    "created": 1705855538,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Dominican Republic in the past five years was the 2020 general elections. On July 5, 2020, Luis Abinader, the candidate from the Modern Revolutionary Party (PRM), won the presidential election, defeating the incumbent Dominican Liberation Party (PLD) that had been in power for 16 years. This marked a significant shift in the country's political landscape and brought about a change in leadership after years of PLD dominance. The election results reflected a desire for change among the Dominican population and signaled a new era in the country's politics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 123,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

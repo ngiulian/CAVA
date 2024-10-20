@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSueO03k3SUZPdQXNrBlcUQnh4IN",
+    "object": "chat.completion",
+    "created": 1705846592,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible for me to accurately summarize the opinions of most women in Bulgaria regarding abortion as it is subjective and can vary from person to person. Women's opinions on abortion in any country can be diverse and depend on various factors including personal beliefs, religion, cultural backgrounds, and individual circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 59,
+        "total_tokens": 78
+    },
+    "system_fingerprint": null
+}

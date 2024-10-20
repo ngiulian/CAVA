@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3j5pEbTl8iD49T8Q8c8wsETQww",
+    "object": "chat.completion",
+    "created": 1705847155,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Costa Rica have a negative perception of divorce. They often view it as a failure and a disruption to traditional family values. They tend to prioritize maintaining a stable and intact family unit, and divorce is seen as a last resort. Men in Costa Rica may also have concerns about the financial implications of divorce, such as alimony and child support payments. However, it is important to note that attitudes towards divorce can vary among individuals, and there may be men in Costa Rica who have more progressive views on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTMIIWcEvVwLNVheJOuHa7LEzzIY",
+    "object": "chat.completion",
+    "created": 1705848306,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Saint Kitts and Nevis think of abortion as opinions on this topic can vary among individuals. However, it is worth noting that the country has a predominantly Christian population, and the Catholic Church's teachings generally oppose abortion. As a result, there may be conservative views regarding abortion among some women in the country. However, opinions on this issue can still differ based on personal beliefs, values, and individual circumstances. It is essential to recognize that any summary would be an oversimplification, and there can be a wide range of perspectives and experiences among women in Saint Kitts and Nevis regarding abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 133,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

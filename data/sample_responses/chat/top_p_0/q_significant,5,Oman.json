@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZUh0kRnJLXqa9fvQhRW6xUJX17",
+    "object": "chat.completion",
+    "created": 1705856812,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Oman in the past five years was the death of Sultan Qaboos bin Said Al Said on January 10, 2020. Sultan Qaboos had ruled Oman for almost 50 years and was widely regarded as a visionary leader who modernized the country and promoted stability and development. His death marked the end of an era and triggered a period of mourning and transition as his successor, Sultan Haitham bin Tariq Al Said, took over the reins of power. This event had a profound impact on Oman's political landscape and its future trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTpBxoptvEl1titcPkD4chZfYaJ0",
+    "object": "chat.completion",
+    "created": 1705850097,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all men in Tunisia. However, Tunisia is known for its relatively progressive stance on women's rights and reproductive health compared to other countries in the region. The majority of Tunisian men are believed to support a woman's right to choose and have access to safe and legal abortion services. This is largely due to the country's progressive laws and efforts to promote gender equality and reproductive rights. However, it is essential to recognize that there may still be some men who hold conservative or traditional views on abortion, reflecting diverse perspectives within the society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 130,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

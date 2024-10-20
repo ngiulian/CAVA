@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUH0oLjhgXXUui0VWqWJbw6JVYtd",
+    "object": "chat.completion",
+    "created": 1705851822,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges seniors in Ethiopia face include poverty and lack of financial security, limited access to healthcare and medication, inadequate housing and living conditions, social isolation and loneliness, and discrimination and neglect by their families or communities. Additionally, seniors often struggle with limited opportunities for employment and income generation, as well as difficulties in accessing social support systems or assistance programs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 72,
+        "total_tokens": 91
+    },
+    "system_fingerprint": null
+}

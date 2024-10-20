@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVC1H57H2CCVLoq7ve9N1p1QuQ7Y",
+    "object": "chat.completion",
+    "created": 1705855357,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in New Zealand in the past 100 years is the passing of the Electoral Act in 1893, granting women the right to vote and becoming the first country in the world to do so. This event, known as Women's Suffrage, was a major milestone in promoting gender equality and democracy worldwide. It laid the foundation for women's rights movements globally and position New Zealand as a leader in social progress."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 90,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

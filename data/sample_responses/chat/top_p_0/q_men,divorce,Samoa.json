@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTttztlVfsDE3gx3uxxGwvV5mpSB",
+    "object": "chat.completion",
+    "created": 1705850389,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Samoa hold negative views towards divorce. They consider divorce to be a shameful and dishonorable act that goes against their cultural values and traditions. Divorce is seen as a failure to maintain a stable and harmonious family unit, which is highly valued in Samoan society. Men often prioritize preserving the family's reputation and maintaining social harmony over individual happiness or personal desires. Consequently, divorce is generally discouraged and stigmatized, with men expected to endure and work through marital difficulties for the sake of their families."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 105,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

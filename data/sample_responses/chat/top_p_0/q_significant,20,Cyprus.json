@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDiFc1IPVCrRJPGIYyJegDcPSx4",
+    "object": "chat.completion",
+    "created": 1705855462,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Cyprus in the past 20 years is the 2004 Annan Plan referendum. The Annan Plan was a United Nations-backed proposal to reunify the island, which had been divided since 1974 into the internationally recognized Republic of Cyprus in the south and the self-declared Turkish Republic of Northern Cyprus in the north. The referendum took place on April 24, 2004, and the plan was put to a vote in both parts of the island. While the plan was accepted by the majority of Turkish Cypriots, it was rejected by the majority of Greek Cypriots. This event had a significant impact on the ongoing efforts to resolve the Cyprus dispute and reunify the island."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 151,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

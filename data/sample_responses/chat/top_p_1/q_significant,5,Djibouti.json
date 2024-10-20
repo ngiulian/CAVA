@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEDIuR0KLYXGqjws4dqwtghDYHL",
+    "object": "chat.completion",
+    "created": 1705855493,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Djibouti in the past five years was the inauguration of the Doraleh Multipurpose Port in May 2017. This project marked the completion of the largest infrastructure development in Djibouti's history and showcased the country's growing importance as a regional trade and logistics hub. The Doraleh Multipurpose Port is strategically located on the Bab-el-Mandeb Strait, considered one of the busiest maritime routes globally, connecting the Red Sea to the Gulf of Aden. The port project was part of Djibouti's Vision 2035 development plan and aimed to boost the country's economy by attracting increased foreign investment and facilitating trade connections with neighboring countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 144,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

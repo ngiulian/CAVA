@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoCAygbHkgfTCugLngjF5oXnOpw",
+    "object": "chat.completion",
+    "created": 1705857724,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Zambia in the past five years was the 2021 general elections. These elections marked a historic moment as they resulted in the peaceful transfer of power from the ruling party, the Patriotic Front (PF), to the opposition party, the United Party for National Development (UPND). The UPND's candidate, Hakainde Hichilema, won the presidency with a significant margin, ending the PF's 10-year rule. This election was seen as a milestone for democracy in Zambia and demonstrated the country's commitment to peaceful transitions of power."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 119,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

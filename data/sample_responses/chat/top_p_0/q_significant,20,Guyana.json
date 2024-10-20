@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVK5iZcus0j0pzfjM9eyPB09GbA3",
+    "object": "chat.completion",
+    "created": 1705855857,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Guyana in the past 20 years is the discovery of substantial offshore oil reserves. In 2015, ExxonMobil announced the discovery of significant oil deposits in the Stabroek Block, off the coast of Guyana. This discovery has the potential to transform the country's economy and has led to increased foreign investment and development in the oil sector. Guyana is now expected to become one of the largest oil producers in the region, with significant implications for its future growth and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 108,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

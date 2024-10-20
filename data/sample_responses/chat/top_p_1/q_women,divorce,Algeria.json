@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT75f9Ttg4XbmVNY90Cuar4kTunF",
+    "object": "chat.completion",
+    "created": 1705847363,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Algeria view divorce as a last resort and generally have negative feelings towards it. They often see divorce as a failure in their marriages and believe in the importance of preserving family unity and stability. Women often feel societal pressure to maintain their marriages and endure difficulties, especially for the sake of their children. However, attitudes towards divorce are changing as more women are seeking independence and empowerment, leading to some acceptance of divorce in certain circumstances, particularly in cases of abuse or unhappiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 96,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

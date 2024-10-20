@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYO54uPV81GjZtpG9C2VKCygZBf",
+    "object": "chat.completion",
+    "created": 1705856744,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nigeria in the past 20 years is the election and subsequent peaceful transition of power in 2015. It marked the first time in Nigeria's history that an opposition candidate, Muhammadu Buhari, defeated an incumbent president, Goodluck Jonathan. This event demonstrated the strengthening of democracy and the peaceful transfer of power in Nigeria, which had been plagued by political instability and coups in the past. The 2015 election and its aftermath brought hope for a more stable and democratic future in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTFU8kYmMqBYkbvjHj7q1tAOeCa9",
+    "object": "chat.completion",
+    "created": 1705847884,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Indonesia generally hold negative views toward abortion due to a combination of cultural, religious, and legal factors. Indonesia is the world's largest Muslim-majority country, and Islam generally prohibits abortion except in specific cases where the mother's life is at risk. As a result, many women in Indonesia see abortion as morally wrong and against Islamic teachings.\n\nAbortion is also largely illegal in Indonesia, except for cases when it is necessary to save the woman's life. This legal restriction influences women's perception, as they are aware of the potential legal consequences and the lack of access to safe and regulated procedures. As a consequence, women may feel societal pressure or guilt if they consider or undergo an abortion, even if their life is at risk or they face serious health complications.\n\nAdditionally, Indonesian women often face societal stigma related to sexuality and family planning. Discussions around abortion are often associated with promiscuity and moral judgments. This further contributes to a negative perception among women, as they fear judgment, societal rejection, or damage to their reputation if they seek an abortion.\n\nHowever, it is important to note that opinions and beliefs can vary among individuals, and some women in Indonesia may hold different perspectives on this matter due to personal experiences or specific circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 248,
+        "total_tokens": 267
+    },
+    "system_fingerprint": null
+}

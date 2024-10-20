@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTFZCQIIVvgmcE1IWPRSH0SopTD5",
+    "object": "chat.completion",
+    "created": 1705847889,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Many women in Indonesia hold negative views towards divorce due to cultural and religious beliefs. They often perceive divorce as a last resort and a failure to maintain a stable and harmonious marriage. Women are expected to prioritize their family's well-being and societal expectations over their personal happiness. Traditional gender roles often create pressure for women to endure difficult marriages and persevere for the sake of their children or to maintain their social status and reputation. Additionally, the legal and financial consequences, as well as social stigma associated with divorce, further discourage women from seeking separation. However, attitudes towards divorce are gradually changing, especially among more educated and urban women who prioritize individual happiness and personal fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 132,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

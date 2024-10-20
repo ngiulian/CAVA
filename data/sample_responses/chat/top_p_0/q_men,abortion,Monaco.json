@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRpYzB5Xv47IweJPxVMhOLyYL8E",
+    "object": "chat.completion",
+    "created": 1705848649,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize the opinions of most men in Monaco on abortion as it would require conducting a comprehensive survey or study to gather their perspectives. Additionally, opinions on abortion can vary greatly among individuals, and it is important to recognize that there is no singular viewpoint held by all men in any given location."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 63,
+        "total_tokens": 82
+    },
+    "system_fingerprint": null
+}

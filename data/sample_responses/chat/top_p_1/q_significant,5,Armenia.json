@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2jUEfPsM6cT2cIQIqOTI23v3X6",
+    "object": "chat.completion",
+    "created": 1705854781,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Armenia in the past five years is the 2018 Velvet Revolution and subsequent change in government. In April 2018, mass protests erupted in response to widespread discontent over corruption, lack of democratic reforms, and socioeconomic issues. Led by opposition leader Nikol Pashinyan, hundreds of thousands of Armenians took to the streets demanding the resignation of then-Prime Minister Serzh Sargsyan. The peaceful protests ultimately forced Sargsyan to step down, marking a significant shift in power and the beginning of a new era in Armenian politics. Pashinyan became the Prime Minister, promising to tackle corruption and implement reforms. This event not only reshaped the political landscape but also generated widespread hope for change among the Armenian population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 155,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

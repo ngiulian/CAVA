@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVqYEjm0Dc3KXNWJ8G5pGObvcr5Z",
+    "object": "chat.completion",
+    "created": 1705857870,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize regarding what kids in Ivory Coast are obsessed with, as different children have diverse interests. However, some common trends among kids in Ivory Coast might include:\n\n1. Technology and Gadgets: Like in many other parts of the world, children in Ivory Coast are increasingly drawn towards technology and gadgets such as smartphones, tablets, and gaming consoles. They may spend a significant amount of time on social media, playing video games, or engaging with different online platforms.\n\n2. Fashion and Pop Culture: Children, especially teenagers, often show interest in the latest fashion trends and popular culture. They closely follow local and international fashion styles, music artists, actors, and movies.\n\n3. Sports: Sports, particularly football (soccer), is immensely popular in Ivory Coast. Many kids are passionate about football, dedicating much of their time to play, watch, and discuss the sport. They may idolize famous football players and support local or international football clubs.\n\n4. Entertainment and Music: Music plays an essential role in Ivorian culture, and kids are often drawn towards local music genres, such as coupe-decale and zouglou. They enjoy attending concerts, dance competitions, and participating in talent shows.\n\n5. Education and Future Aspirations: Many children in Ivory Coast display a strong commitment to their education and future goals. They may be obsessed with achieving academic excellence, preparing for exams, and pursuing careers that are valued in the society, such as medicine, engineering, or law.\n\n"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

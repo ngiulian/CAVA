@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLATq6LOnCZyvctaHNlLj1Q8A8R",
+    "object": "chat.completion",
+    "created": 1705855924,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Indonesia in the past 20 years is the 2004 Indian Ocean earthquake and tsunami. On December 26, 2004, a massive undersea earthquake with a magnitude of 9.1-9.3 struck off the coast of Sumatra. The earthquake triggered a series of devastating tsunamis that affected several countries, including Indonesia.\n\nIndonesia was one of the hardest-hit countries, with the province of Aceh being the most severely affected. The tsunami waves reached heights of up to 30 meters (98 feet) and caused widespread destruction along the coastlines. It is estimated that around 230,000 people lost their lives in Indonesia alone, and millions were displaced.\n\nThe 2004 Indian Ocean earthquake and tsunami had a profound impact on Indonesia, leading to significant changes in disaster preparedness and response. It highlighted the need for improved early warning systems, disaster management strategies, and international cooperation in the face of natural disasters. The event also brought global attention to the vulnerability of coastal communities and the importance of disaster risk reduction efforts."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 220,
+        "total_tokens": 244
+    },
+    "system_fingerprint": null
+}

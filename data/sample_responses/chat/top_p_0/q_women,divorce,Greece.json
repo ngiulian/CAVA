@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCbEwdT9qFy0hTprqSHMZBysqsf",
+    "object": "chat.completion",
+    "created": 1705847705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Greece have mixed opinions about divorce. While some women view divorce as a necessary step to escape unhappy or abusive marriages, others believe in the sanctity of marriage and see divorce as a last resort. Traditional values and societal pressure often discourage divorce, particularly in more conservative areas. However, with changing attitudes and increased empowerment, many women are becoming more open to the idea of divorce as a means to pursue personal happiness and independence. Overall, the perception of divorce among women in Greece varies depending on individual beliefs, cultural background, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 110,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

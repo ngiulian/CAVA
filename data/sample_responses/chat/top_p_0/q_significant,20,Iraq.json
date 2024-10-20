@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVMDdOGkJOS0dDORK5mxvrnMhGW6",
+    "object": "chat.completion",
+    "created": 1705855989,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Iraq in the past 20 years is the 2003 invasion of Iraq by a coalition led by the United States. This invasion, which began on March 20, 2003, marked the start of the Iraq War. The invasion aimed to overthrow the regime of Saddam Hussein, who was accused of possessing weapons of mass destruction and supporting terrorism. The war lasted for several years, resulting in significant political, social, and economic consequences for Iraq and the region. The aftermath of the invasion led to a period of instability, sectarian violence, and insurgency in Iraq, which had a profound impact on the country's trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 131,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUQaaS1pd67nXjKt0CmB3BfOvh6J",
+    "object": "chat.completion",
+    "created": 1705852416,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Kazakhstan face several significant challenges. One of the biggest challenges is the high unemployment rate, especially among young adults, which leads to financial instability and limited career opportunities. Another major challenge is the lack of affordable housing, making it difficult for adults to find suitable accommodation. Additionally, access to quality healthcare services is a concern, with limited availability and high costs. Corruption and bureaucracy also pose challenges, affecting various aspects of life, including business operations and public services. Lastly, the gender pay gap and gender inequality persist, making it harder for women to achieve equal opportunities and advancement in the workplace."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 119,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

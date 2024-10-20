@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBqOvn5wz1RWAniBzHVDLScLQvp",
+    "object": "chat.completion",
+    "created": 1705847658,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of women in Guinea Bissau have mixed and complex views on abortion. Abortion is generally regarded as a sensitive and controversial topic in the country. While some women believe that a woman should have the right to choose whether or not to have an abortion, others consider it morally wrong and incompatible with their religious or cultural beliefs. Additionally, the lack of access to safe and legal abortion services in Guinea Bissau adds another layer of complexity to the issue. Overall, the opinions among women in Guinea Bissau regarding abortion vary widely, reflecting a range of personal, cultural, and religious perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 121,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

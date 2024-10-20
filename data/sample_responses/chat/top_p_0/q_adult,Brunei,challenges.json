@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6HbjAb19Wx1iugiYfH8lndNLry",
+    "object": "chat.completion",
+    "created": 1705851157,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Brunei face include limited job opportunities, especially for the younger generation, as the country's economy heavily relies on the oil and gas industry. This leads to high competition for jobs and a need for continuous skill development. Additionally, the cost of living in Brunei is relatively high, making it difficult for some adults to afford housing, education, healthcare, and other basic necessities. Another challenge is the limited freedom of expression and political participation, as Brunei is an absolute monarchy with strict laws and regulations. Lastly, there may be cultural and societal pressures on adults to conform to traditional norms and expectations, which can limit personal choices and individuality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 135,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

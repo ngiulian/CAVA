@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXyCdm8IfxoBh37dBjGCEhkUyTC",
+    "object": "chat.completion",
+    "created": 1705856718,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Namibia in the past 100 years is its struggle for independence from South African rule. Namibia, formerly known as South West Africa, was under German colonial rule until 1915 when it was occupied by South Africa during World War I. South Africa continued to govern Namibia under a League of Nations mandate until 1966, when the South West Africa People's Organization (SWAPO) launched an armed struggle for independence.\n\nThe Namibian War of Independence, which lasted from 1966 to 1990, was a significant event that shaped the country's history. SWAPO fought against South African forces, seeking to end apartheid and gain self-determination for Namibia. The conflict resulted in widespread violence, displacement, and human rights abuses.\n\nIn 1988, negotiations led by the United Nations resulted in the signing of the Tripartite Accord between South Africa, Cuba, and Angola, which paved the way for Namibian independence. On March 21, 1990, Namibia finally gained independence, becoming the last African colony to achieve self-rule.\n\nThis event marked a turning point in Namibia's history, as it transitioned from decades of colonial and apartheid rule to becoming a sovereign nation. It brought about political, social, and economic changes, including the establishment of a democratic government and the implementation of policies aimed at addressing historical injustices and promoting national reconciliation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 288,
+        "total_tokens": 313
+    },
+    "system_fingerprint": null
+}

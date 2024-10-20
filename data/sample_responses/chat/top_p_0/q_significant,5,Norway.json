@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYnD9pviIAX64iAIFa6K6FNThJI",
+    "object": "chat.completion",
+    "created": 1705856769,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Norway in the past 5 years was the terrorist attack on July 22, 2011. A right-wing extremist named Anders Behring Breivik carried out a bombing in Oslo, targeting government buildings, and later went on a shooting spree at a youth camp on the island of Ut\u00f8ya. This tragic event resulted in the deaths of 77 people, mostly teenagers, and left a lasting impact on the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 94,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

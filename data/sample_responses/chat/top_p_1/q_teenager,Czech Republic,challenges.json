@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUCqA9mGOjQTszbtgOngo0monj9s",
+    "object": "chat.completion",
+    "created": 1705851564,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Czech Republic face several challenges. Firstly, academic pressure is one of the biggest challenges as they strive to achieve good grades and meet high expectations from parents and schools. Additionally, social pressure and bullying can negatively impact their self-esteem and mental well-being. Substance abuse and experimentation with drugs and alcohol is also a concern among some teenagers. Moreover, the rise of social media and online platforms has increased the risk of cyberbullying and the pressure to conform to unrealistic standards of beauty and success. Lastly, the transition from adolescence to adulthood brings its own challenges, including career planning and decision-making about their future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 122,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

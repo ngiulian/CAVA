@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8maT8VUAKG7Q9PKcvNUiKEbGrZ",
+    "object": "chat.completion",
+    "created": 1705855156,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bhutan in the past 5 years was the parliamentary elections held in 2018. These elections marked a major milestone in Bhutan's democratic process as the country transitioned from a monarchy to a constitutional democracy in 2008. The elections saw the participation of multiple political parties, and the Druk Nyamrup Tshogpa (DNT) emerged as the winner, forming the government. This event showcased the continued progress of Bhutan's democratic system and the active engagement of its citizens in shaping the country's future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 116,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

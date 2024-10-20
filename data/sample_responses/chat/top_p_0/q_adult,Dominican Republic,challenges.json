@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUEktNr11RpQ60uSW775BfJVOtnR",
+    "object": "chat.completion",
+    "created": 1705851682,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in the Dominican Republic face include high levels of poverty and income inequality, limited access to quality education and healthcare, high unemployment rates, and a lack of job opportunities. Additionally, corruption, crime, and violence are prevalent issues that affect the daily lives of many adults in the country. Gender inequality and discrimination against marginalized groups, such as Haitian immigrants and people of Afro-Dominican descent, also pose significant challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 89,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

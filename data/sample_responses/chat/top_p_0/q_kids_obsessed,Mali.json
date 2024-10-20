@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVvQ3i80UQA7WcIbzmtNE5SWkLTu",
+    "object": "chat.completion",
+    "created": 1705858172,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Mali, as their preferences can vary greatly. However, like kids in many other parts of the world, some common obsessions among kids in Mali may include:\n\n1. Technology and gadgets: Many kids in Mali, like elsewhere, are fascinated by smartphones, tablets, video games, and other electronic devices.\n\n2. Social media: With the increasing availability of the internet and smartphones, some kids in Mali may be obsessed with social media platforms like Facebook, Instagram, and TikTok.\n\n3. Music and dance: Mali has a rich musical heritage, and many kids may be passionate about traditional Malian music, as well as contemporary genres like hip-hop and pop.\n\n4. Sports: Football (soccer) is hugely popular in Mali, and many kids may be obsessed with playing and following the sport. Other sports like basketball and athletics also have their fan base.\n\n5. Fashion and trends: Like kids worldwide, some children in Mali may be obsessed with following the latest fashion trends and brands.\n\n6. Television and movies: Kids in Mali may be interested in local and international TV shows, movies, and cartoons.\n\n7. Education and learning: While not an obsession in the traditional sense, many kids in Mali are focused on their education and strive to excel academically.\n\nIt is important to note that these are general observations and not applicable to every child in Mali. Individual interests and obsessions can vary greatly based on personal preferences,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

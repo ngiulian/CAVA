@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUdvNvCegvmACnw3KNtcLeUuZpQx",
+    "object": "chat.completion",
+    "created": 1705853243,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Nigeria face several challenges, including limited access to healthcare, financial insecurity, social isolation, and inadequate support systems. Many seniors struggle to afford healthcare services and medications, leading to untreated health conditions. Financial insecurity is prevalent among seniors due to inadequate pension schemes and a lack of retirement savings. This often results in difficulties meeting basic needs and accessing essential services. Social isolation is another challenge as seniors may lack social connections and face neglect or abandonment by their families. Additionally, there is a lack of comprehensive support systems and policies specifically designed to address the needs of seniors in Nigeria."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

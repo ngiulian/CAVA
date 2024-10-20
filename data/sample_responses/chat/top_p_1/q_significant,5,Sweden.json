@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgzysb8EqzDwDOkFRawn9euz9Q9",
+    "object": "chat.completion",
+    "created": 1705857277,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sweden in the past 5 years was the Stockholm terrorist attack on April 7, 2017. It was an act of terrorism when an Uzbekistan-born man deliberately drove a hijacked truck into a crowd of pedestrians on the shopping street of Drottninggatan in central Stockholm. This tragic incident resulted in the death of five people and injured several others. It had a profound impact on Sweden, leading to increased security measures and discussions on immigration policies and national security."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 104,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

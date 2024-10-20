@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWJnG8VEB1vZz1WmfjlmTGp3oZfV",
+    "object": "chat.completion",
+    "created": 1705859683,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Sudan, you have a few options:\n\n1. Walking: If the weather permits and you are physically able, walking can be a convenient and healthy option. Make sure to wear comfortable shoes and consider carrying a bag or backpack for your groceries.\n\n2. Cycling: If you have a bicycle, it can be a faster and more efficient way to reach the grocery store. Sudan has a relatively flat terrain, making cycling a viable option.\n\n3. Public Transportation: Depending on the availability in your area, you can check if there are any buses, minibusses, or shared taxis that can take you to the grocery store. Inquire with locals or at nearby bus stops for information on routes and schedules.\n\n4. Private Vehicle: If you own a car or have access to one, driving to the grocery store is another option. Ensure that you have a valid driver's license and follow the traffic rules and regulations.\n\nRemember to consider factors such as safety, convenience, and personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 214,
+        "total_tokens": 238
+    },
+    "system_fingerprint": null
+}

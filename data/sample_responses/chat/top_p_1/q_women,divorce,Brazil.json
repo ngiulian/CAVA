@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxGfWhyBFlf8lbPfgEmUTJRAsLe",
+    "object": "chat.completion",
+    "created": 1705846754,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Brazil have become more accepting and open towards divorce in recent years. They see divorce as a viable option if a marriage is no longer working or if there is significant discontent, abuse, or infidelity in the relationship. Women in Brazil value their independence and prioritize their well-being and happiness, which can lead them to consider divorce as a means of escaping an unsatisfactory or unhealthy marriage. However, there are still cultural and societal factors that may influence some women to hesitate or think twice before divorcing, such as concerns about societal judgment, financial instability, and potential negative impacts on children. Overall, while the acceptance of divorce has increased among women in Brazil, individual perspectives may vary based on personal circumstances and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 146,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

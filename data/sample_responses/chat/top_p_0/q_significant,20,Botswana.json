@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV99eQ5iKcHPMmAWoJQvt6TGwJQP",
+    "object": "chat.completion",
+    "created": 1705855179,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Botswana in the past 20 years is the discovery of large diamond deposits in the country. In 2012, the Karowe diamond mine in Botswana's Orapa region unearthed the second-largest gem-quality diamond ever found, known as the \"Lesedi La Rona.\" This 1,109-carat diamond attracted global attention and highlighted Botswana's importance in the diamond industry. The discovery further solidified Botswana's position as one of the world's leading diamond producers and significantly impacted the country's economy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 114,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

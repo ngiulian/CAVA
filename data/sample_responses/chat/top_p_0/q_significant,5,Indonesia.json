@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVL58cVHsQpXWbtJsKO9aVZ9rFgv",
+    "object": "chat.completion",
+    "created": 1705855919,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Indonesia in the past 5 years was the 2018 earthquake and tsunami that struck the island of Sulawesi. On September 28, 2018, a 7.5 magnitude earthquake hit the region, triggering a tsunami that devastated the coastal city of Palu and surrounding areas. The disaster resulted in the loss of over 4,300 lives, with thousands more injured and missing. It caused widespread destruction, displacing tens of thousands of people and leaving many homeless. The event highlighted the country's vulnerability to natural disasters and the need for improved disaster preparedness and response."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

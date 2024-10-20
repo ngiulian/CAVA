@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUcR12Er97lzykJC9bQvsWvwwcoA",
+    "object": "chat.completion",
+    "created": 1705853151,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Malawi face several significant challenges, including poverty, limited access to education and healthcare, food insecurity, high unemployment rates, and inadequate infrastructure. Poverty is a pervasive issue, with a large portion of the population living below the poverty line and struggling to meet their basic needs. Limited access to quality education and healthcare services further hinders their ability to improve their living conditions and overall well-being. Additionally, food insecurity is a pressing concern, as many adults struggle to secure enough nutritious food for themselves and their families. High unemployment rates exacerbate these challenges, making it difficult for adults to find stable and decent-paying jobs. Moreover, inadequate infrastructure, such as unreliable electricity and transportation systems, hampers economic development and access to essential services. These challenges collectively contribute to the overall socio-economic struggles faced by adults in Malawi."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 166,
+        "total_tokens": 185
+    },
+    "system_fingerprint": null
+}

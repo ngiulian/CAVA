@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCO3cp9YQWlkUmAZcmMXJrtC9km",
+    "object": "chat.completion",
+    "created": 1705847692,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that attitudes towards divorce can vary among individuals in any country, including Greece. However, it is generally observed that traditional views on marriage and divorce are still prevalent among many men in Greece. These views often prioritize the preservation of marriage and perceive divorce as a negative outcome. Many Greek men may view divorce as a last resort or as something that should be avoided if possible."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 78,
+        "total_tokens": 97
+    },
+    "system_fingerprint": null
+}

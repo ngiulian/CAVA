@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThprIxe1xsGASHr7QGJj9RsQ12Z",
+    "object": "chat.completion",
+    "created": 1705849641,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Solomon Islands have a negative view of divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a failure or a last resort. Women often prioritize maintaining the family unit and preserving the well-being of their children over personal happiness or individual desires. They may endure difficult or unhappy marriages due to societal and cultural expectations, economic dependence, and limited legal and social support for divorced women. However, attitudes towards divorce are gradually changing, especially among younger generations who are more influenced by Western values and seek greater autonomy and gender equality in relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 112,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

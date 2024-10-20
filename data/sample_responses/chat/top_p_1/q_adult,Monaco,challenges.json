@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUXVMMEt9w6Dm5hWKZebk9Ini6lz",
+    "object": "chat.completion",
+    "created": 1705852845,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges that adults in Monaco face include high cost of living, limited housing availability, intense competition for employment opportunities, and maintaining a work-life balance in a fast-paced and demanding environment. Additionally, the pressure to conform to the affluent lifestyle prevalent in Monaco can lead to financial stress and a constant need to sustain a certain standard of living."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 68,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

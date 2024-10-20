@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTE34EoXJ1lRSgWDvHycCIHCZj7B",
+    "object": "chat.completion",
+    "created": 1705847795,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Croatia hold traditional views on divorce, viewing it as a negative and undesirable outcome. They often see divorce as a failure of the institution of marriage and believe that couples should work towards resolving their problems rather than ending the relationship. Men in Croatia generally prioritize the importance of family and stability, emphasizing the commitment and effort required to maintain a successful marriage. Consequently, they may be more reluctant to consider divorce and may perceive it as a last resort rather than an acceptable solution to marital issues."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 98,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTh2Jg5XQfx3wq6Z0NemRTC0SU3d",
+    "object": "chat.completion",
+    "created": 1705849592,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Senegal hold strong opposition towards abortion due to religious and cultural beliefs. They consider it morally wrong and a violation of the sanctity of life. Abortion is generally viewed as a sin and considered as an unacceptable solution to unplanned pregnancies or reproductive health issues. Women in Senegal often prioritize alternative options like adoption or raising the child as their cultural and religious values emphasize the importance of family and the role of motherhood. However, it is important to note that opinions and beliefs regarding abortion may vary among individuals, depending on factors such as education, exposure to different perspectives, or personal circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 121,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

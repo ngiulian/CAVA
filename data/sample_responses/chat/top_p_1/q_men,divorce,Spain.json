@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8RdL4XoM93MIyiCfatKHyOlY0y",
+    "object": "chat.completion",
+    "created": 1705847447,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Spain have a more accepting and positive attitude towards divorce compared to previous generations. They generally understand that divorce is a normal part of modern life and believe that people have the right to end an unhappy or unhealthy marriage. Men in Spain recognize that divorce can provide individuals with a chance for personal growth and happiness. Additionally, they tend to prioritize the well-being and happiness of their children, understanding that divorce may sometimes be the best solution for a dysfunctional marriage. Overall, most men in Spain view divorce as a reasonable and fair option in certain circumstances rather than regarding it negatively."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

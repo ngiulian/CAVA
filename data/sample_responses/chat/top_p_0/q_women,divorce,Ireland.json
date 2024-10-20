@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGYNEcNMH9imE5AmApbFqQgC7Ci",
+    "object": "chat.completion",
+    "created": 1705847950,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Ireland generally support the idea of divorce and believe that it should be a legal option for couples who are unhappy or incompatible in their marriages. They view divorce as a means to escape from abusive or unhappy relationships and to seek a better future for themselves and their children. Women in Ireland also believe that divorce allows individuals to have the freedom to make their own choices and decisions regarding their personal lives. However, it is important to note that opinions on divorce may vary among individuals based on their personal beliefs and values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 103,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

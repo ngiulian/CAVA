@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUItQR8OJS9p1D2b6ikFiCkWuuzr",
+    "object": "chat.completion",
+    "created": 1705851939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Gambia face include high levels of poverty and unemployment, limited access to quality education and healthcare, inadequate infrastructure, and political instability. The country's economy heavily relies on agriculture, which is vulnerable to climate change and fluctuating market prices, leading to income insecurity for many adults. Additionally, gender inequality and limited opportunities for women in terms of education and employment pose significant challenges. The healthcare system is under-resourced, resulting in limited access to quality medical services, especially in rural areas. Political instability and corruption also hinder development and create an uncertain environment for adults in Gambia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 121,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

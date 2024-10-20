@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUZUk1T52KYexIIoG14yY0t76p6C",
+    "object": "chat.completion",
+    "created": 1705852968,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Macedonia face include high unemployment rates, low wages, limited job opportunities, and a lack of economic stability. Additionally, there are issues related to corruption, political instability, and a lack of trust in the government. Access to quality healthcare and education is also a concern, as well as the need for better infrastructure and public services. Discrimination, particularly against marginalized groups such as ethnic minorities and the LGBTQ+ community, is another challenge faced by adults in Macedonia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 98,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUJZjUKyND73MuBFX3NdTKhT1gRo",
+    "object": "chat.completion",
+    "created": 1705851981,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Equatorial Guinea face include:\n\n1. Limited access to quality education: Many adults in Equatorial Guinea face challenges in accessing quality education due to a lack of infrastructure, resources, and trained teachers. This limits their opportunities for personal and professional growth.\n\n2. High unemployment rates: Equatorial Guinea has a high unemployment rate, particularly among young adults. Limited job opportunities and a lack of skills training contribute to this challenge, making it difficult for adults to find stable employment.\n\n3. Limited healthcare access: Equatorial Guinea faces challenges in providing adequate healthcare services to its population. Many adults struggle to access quality healthcare due to a lack of healthcare facilities, medical professionals, and affordable healthcare options.\n\n4. Poverty and income inequality: Despite being a resource-rich country, Equatorial Guinea faces significant income inequality and a high poverty rate. Many adults struggle to meet their basic needs and lack access to essential services such as clean water, sanitation, and electricity.\n\n5. Political and social instability: Equatorial Guinea has faced political and social instability, which has negatively impacted the lives of its citizens. Adults often face restrictions on their freedom of expression and limited political participation, leading to a lack of trust in the government and institutions.\n\n6. Gender inequality: Women in Equatorial Guinea face significant challenges, including limited access to education, healthcare, and economic opportunities. Gender-based violence and discrimination are also prevalent issues that affect adult women in the country.\n\n7. Limited access to clean water and sanitation:"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 300,
+        "total_tokens": 320
+    },
+    "system_fingerprint": null
+}

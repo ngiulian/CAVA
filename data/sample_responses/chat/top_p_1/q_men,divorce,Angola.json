@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSn8yKq0w1I4udkvgkgvZgZpr9pv",
+    "object": "chat.completion",
+    "created": 1705846126,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Angola have mixed views about divorce. While some believe it is a necessary step if the marriage is unhappy or unfulfilling, others perceive divorce as a failure and try to avoid it, prioritizing notions of loyalty and commitment to their partner. Generally, there is a strong cultural emphasis on maintaining the family unit, and divorce may be seen as a disruption to societal norms. However, individual attitudes towards divorce vary based on factors such as education, urbanization, and exposure to more liberal ideas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 102,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1pDSnuA1OFl9bTlcNrsFBGtBY1",
+    "object": "chat.completion",
+    "created": 1705854725,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Albania in the past 100 years is the fall of communism and the subsequent transition to democracy. This event occurred in the early 1990s, marking the end of a repressive communist regime that had been in power since the end of World War II. The fall of communism brought about significant political, social, and economic changes in Albania, including the establishment of a multi-party system, the introduction of market reforms, and the opening up of the country to the outside world. This event had a profound impact on the country and its people, shaping the course of Albania's development in the following decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

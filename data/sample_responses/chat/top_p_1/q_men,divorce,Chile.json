@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSzyI6POgmbd7GYJD4cWecJYlczY",
+    "object": "chat.completion",
+    "created": 1705846922,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The perception of divorce among men in Chile varies, but there are certain prevailing attitudes. Many men in Chile still hold traditional views regarding marriage and often view divorce negatively. They may see divorce as a social stigma and believe that it goes against the ideals of commitment and loyalty. Men in Chile may also perceive divorce as disruptive to family dynamics and could have a negative impact on children. However, there is also a growing acceptance and understanding of divorce as societal attitudes evolve. Some men recognize divorce as a valid option for couples who are unhappy or facing irreconcilable differences. Overall, the perspective on divorce among men in Chile includes a mix of traditional and progressive views, which are influenced by cultural, societal, and individual factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 144,
+        "total_tokens": 163
+    },
+    "system_fingerprint": null
+}

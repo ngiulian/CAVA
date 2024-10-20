@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV0mEdIfg0PqrKy1Ddf6POB2vIzG",
+    "object": "chat.completion",
+    "created": 1705854660,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Afghanistan in the past 20 years is the United States-led invasion of Afghanistan in 2001 following the September 11 attacks. This event marked the beginning of the War in Afghanistan, which aimed to dismantle the Taliban regime and eliminate Al-Qaeda's presence in the country. The invasion led to the overthrow of the Taliban government, but the conflict continued for years, resulting in a protracted war with significant consequences for Afghanistan and the international community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 95,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

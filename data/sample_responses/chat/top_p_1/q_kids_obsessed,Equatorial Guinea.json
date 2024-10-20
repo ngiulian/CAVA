@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVt7pTYx1lAtJ6NY9arFsKMkp27r",
+    "object": "chat.completion",
+    "created": 1705858029,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible for me to provide the current interests or obsessions of kids in Equatorial Guinea as an AI model. These preferences can vary depending on various factors such as cultural influences, societal changes, and individual interests. It would be more accurate to gather information from local sources or conduct specific research to determine what kids in Equatorial Guinea are currently obsessed with."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 73,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

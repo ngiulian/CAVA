@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbnufhzrQ7KK2vze8DetapsZ8oD",
+    "object": "chat.completion",
+    "created": 1705856955,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Paraguay in the past five years was the impeachment and subsequent resignation of President Fernando Lugo in 2012. This event marked a major political shift in the country and led to a change in leadership."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 50,
+        "total_tokens": 75
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZ20cnD56pWMo9Zl4OlOBwKrlF6",
+    "object": "chat.completion",
+    "created": 1705856784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events to occur in Nepal in the past 20 years is the devastating earthquake that struck the country on April 25, 2015. This earthquake, with a magnitude of 7.8, caused widespread destruction and loss of life. Thousands of people were killed, many more were injured, and countless houses, buildings, and infrastructure were destroyed. The earthquake caused significant humanitarian and economic challenges for Nepal, and the country is still recovering from its impact."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

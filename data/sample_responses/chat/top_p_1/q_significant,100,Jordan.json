@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNOGLEnnO0ZrdpYlUd7HOu06y0B",
+    "object": "chat.completion",
+    "created": 1705856062,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Jordan in the past 100 years was the establishment of the Emirate of Transjordan in 1921. This event marked the beginning of Jordan's separate identity from the rest of the region. Following World War I, the territory of Transjordan was created under the British Mandate for Palestine and was ruled by the Hashemite Prince Abdullah bin Hussein. This laid the foundation for Jordan's eventual independence and the Hashemite Kingdom of Jordan, which was officially established in 1946. This event was crucial in shaping the country's modern history and laid the groundwork for its development into a stable and sovereign nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 135,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVlsG6Dcoma8pyBoCOXTN6H7IKqL",
+    "object": "chat.completion",
+    "created": 1705857580,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Uruguay in the past 100 years is the consolidation of democracy and the country's transition to civilian rule after a period of military dictatorship."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 36,
+        "total_tokens": 60
+    },
+    "system_fingerprint": null
+}

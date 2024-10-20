@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUk2WUadxpw07p0ciqz6wlZKQqeH",
+    "object": "chat.completion",
+    "created": 1705853622,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Rwanda face include:\n\n1. Poverty: Many adults in Rwanda struggle with poverty, with a significant portion of the population living below the poverty line. Limited access to resources, education, and employment opportunities contribute to this challenge.\n\n2. Limited access to healthcare: Access to quality healthcare remains a challenge for many adults in Rwanda, particularly those living in rural areas. Limited healthcare infrastructure, lack of health insurance, and high healthcare costs hinder their ability to receive proper medical care.\n\n3. Unemployment: High levels of unemployment, especially among the youth, pose a significant challenge for adults in Rwanda. Limited job opportunities, lack of skills, and competition for employment make it difficult for adults to secure stable and decent-paying jobs.\n\n4. Gender inequality: Despite progress in recent years, gender inequality remains a challenge in Rwanda. Women often face discrimination in various aspects of life, including education, employment, and decision-making processes.\n\n5. Access to education: While Rwanda has made significant strides in improving access to education, many adults still face challenges in accessing quality education. Limited resources, lack of infrastructure, and cultural barriers can hinder their ability to pursue education and acquire necessary skills.\n\n6. Trauma from the 1994 genocide: Many adults in Rwanda continue to face the long-lasting effects of the 1994 genocide, including trauma, loss of family members, and displacement. These experiences can have a profound impact on their mental health and overall well-being.\n\n7. Agricultural challenges: Agriculture"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

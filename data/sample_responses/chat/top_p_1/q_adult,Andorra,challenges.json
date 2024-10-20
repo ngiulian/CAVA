@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTy7m0MAUCwsVmsMrDXHxdej2yzs",
+    "object": "chat.completion",
+    "created": 1705850651,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Andorra face include limited job opportunities due to a small workforce and a primarily tourism-focused economy. The cost of living is relatively high, making it difficult for some adults to afford housing, healthcare, and education expenses. Additionally, Andorra has a complex tax system, which can be a challenge for individuals and businesses. Limited access to affordable childcare and long working hours can pose obstacles for parents trying to balance work and family life. Lastly, as Andorra is a landlocked country, it lacks direct access to sea ports, which can hinder trade and transport options for businesses."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

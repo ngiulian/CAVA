@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1CqXCxAtCsQ4JL2peYYXsGwmIt",
+    "object": "chat.completion",
+    "created": 1705854686,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Angola in the past 100 years is the Angolan Civil War (1975-2002). This conflict was a complex and protracted struggle for power and resources that involved various factions, including the People's Movement for the Liberation of Angola (MPLA), the National Union for the Total Independence of Angola (UNITA), and the National Liberation Front of Angola (FNLA).\n\nThe civil war originated from the struggle for independence against Portuguese colonial rule, which ended in 1975. However, the power vacuum left by the departing colonial administration led to political and ideological divisions among the Angolan nationalist movements. The MPLA, supported by the Soviet Union and Cuba, formed a government and declared independence on November 11, 1975. UNITA, backed by the United States and South Africa, rejected the MPLA's control and initiated an armed insurgency.\n\nThe Angolan Civil War lasted for 27 years, resulting in immense human suffering, mass displacements, and significant economic devastation. The conflict was fueled by internal and external rivalries, with Angola becoming a battleground for the larger Cold War proxy struggles between the United States and the Soviet Union. The war also had a severe impact on neighboring countries, particularly Namibia and the Democratic Republic of Congo, as they became embroiled in the conflict.\n\nOnly in 2002 did the civil war finally come to an end with the death of UNITA's leader, Jonas Savimbi, and"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

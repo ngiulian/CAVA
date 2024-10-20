@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVqC3GwXxRwboaNVrTA0jaGehlTt",
+    "object": "chat.completion",
+    "created": 1705857848,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize what kids in Brunei are obsessed with, as individual interests and trends vary among children. However, like many other places, popular obsessions among kids in Brunei may include technology, video games, social media, music, fashion, sports, and entertainment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 57,
+        "total_tokens": 76
+    },
+    "system_fingerprint": null
+}

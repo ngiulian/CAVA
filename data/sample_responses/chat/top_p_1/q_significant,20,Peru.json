@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVaBQM6mzFBVdYao2SPkQ3lytXGE",
+    "object": "chat.completion",
+    "created": 1705856855,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Peru in the past 20 years was the political crisis in 2000 known as the \"Peruvian Constitutional Crisis.\" In this crisis, a corruption scandal involving then-President Alberto Fujimori led to widespread protests and ultimately resulted in his resignation. This event marked a turning point in Peruvian politics and led to the restoration of democracy in the country. Additionally, this crisis also brought attention to human rights abuses committed by the government and set the stage for subsequent investigations and trials related to corruption and human rights violations in Peru."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

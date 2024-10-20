@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVboCQvWChIq185fVRPfDQXrKMi0",
+    "object": "chat.completion",
+    "created": 1705856956,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Paraguay in the past 20 years is the impeachment and removal of President Fernando Lugo in 2012. Lugo, a former Catholic bishop, was elected president in 2008, ending more than six decades of one-party rule in Paraguay. However, in 2012, he faced impeachment proceedings, which were triggered by a deadly clash between police and landless farmers. The Senate ultimately found Lugo guilty of poor performance in office, removing him from power. This event had major political implications in Paraguay and sparked debates about the country's political stability and democratic processes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 127,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

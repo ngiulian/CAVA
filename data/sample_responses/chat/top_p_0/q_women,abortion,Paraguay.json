@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdyzEIOs0ZoWy0BWJv0SqxHblSe",
+    "object": "chat.completion",
+    "created": 1705849402,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Paraguay hold conservative views on abortion and are generally opposed to it. They believe in the sanctity of life and the importance of protecting the rights of the unborn child. Abortion is largely seen as morally wrong and against their cultural and religious beliefs. However, there are also some women who advocate for more lenient abortion laws, particularly in cases of rape, incest, or when the mother's life is at risk. Overall, the majority of women in Paraguay tend to lean towards a pro-life stance on abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 107,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

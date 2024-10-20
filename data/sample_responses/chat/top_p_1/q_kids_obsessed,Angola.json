@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoZwF5uu4cud0kdpJIyFKoO4D8Q",
+    "object": "chat.completion",
+    "created": 1705857747,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "technology and social media"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 4,
+        "total_tokens": 22
+    },
+    "system_fingerprint": null
+}

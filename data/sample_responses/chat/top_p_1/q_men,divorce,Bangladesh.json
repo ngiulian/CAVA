@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuFofRFidcOvDYVwmyFg4Ctd9no",
+    "object": "chat.completion",
+    "created": 1705846567,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bangladesh typically have a negative perception of divorce. They generally believe that divorce is a socially unacceptable act and view it as a last resort. Men commonly attribute divorce to the failure of both partners to resolve marital conflicts and consider it a sign of marital instability. Men often associate divorce with shame, embarrassment, and social stigma, leading them to discourage divorce and prioritize the continuation of the marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 79,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

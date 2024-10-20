@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5C5gxK3iWZAwj02ZjVs7zTyJ1x",
+    "object": "chat.completion",
+    "created": 1705854934,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belgium in the past 5 years was the terrorist attacks that took place in Brussels on March 22, 2016. Coordinated suicide bombings occurred at Brussels Airport and the Maalbeek metro station, resulting in the deaths of 32 people and injuring hundreds more. This event had a profound impact on Belgium and the world, highlighting the ongoing threat of terrorism and leading to increased security measures across the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 92,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

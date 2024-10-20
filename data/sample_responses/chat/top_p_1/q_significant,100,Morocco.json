@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVT7FN5WYhzV8VhNRDtkDvdFsSuA",
+    "object": "chat.completion",
+    "created": 1705856417,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Morocco in the past 100 years was the country's independence from French and Spanish colonial rule. On March 2, 1956, Morocco successfully gained independence, ending the French and Spanish protectorates that had been in place since the early 20th century. This event marked a significant turning point in Moroccan history and paved the way for the country's political, social, and economic development in the following decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 92,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

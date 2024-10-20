@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbgi23qcWFq6bZ9ed3Elad2RN2j",
+    "object": "chat.completion",
+    "created": 1705856948,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Portugal in the past 100 years was the Carnation Revolution, also known as the April 25th Revolution, in 1974. This was a peaceful military coup that overthrew the dictatorship of Estado Novo, which had been in power for nearly five decades under the leadership of Ant\u00f3nio de Oliveira Salazar. The revolution began with a military coup by a group of young officers who were unhappy with the government's oppressive regime and its colonial wars in Africa. The revolution led to the end of dictatorship, the establishment of democracy, and significant social and political reforms in Portugal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

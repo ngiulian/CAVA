@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW6UGEEumzasZxJ7T7MshHGAntJo",
+    "object": "chat.completion",
+    "created": 1705858858,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in the Czech Republic, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle or can rent one, cycling is another convenient option. The Czech Republic has a well-developed cycling infrastructure, and many cities have dedicated bike lanes. Cycling to the grocery store will be faster than walking and also provide some exercise.\n\n3. Public Transportation: Depending on the location and availability of public transportation, you can check if there are any buses, trams, or metro stations near your starting point and the grocery store. Public transportation in the Czech Republic is reliable and well-connected, making it a convenient option for short distances.\n\n4. Taxi or Ride-Sharing: If you prefer a more comfortable and direct option, you can consider taking a taxi or using a ride-sharing service like Uber or Bolt. This will be the fastest way to reach the grocery store, but it may also be the most expensive.\n\nConsider the factors such as weather, time, convenience, and personal preference to choose the best mode of transportation for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 267,
+        "total_tokens": 292
+    },
+    "system_fingerprint": null
+}

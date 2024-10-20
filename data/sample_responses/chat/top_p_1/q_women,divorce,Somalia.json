@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjEC2RQOc9UIy8nxnKSOn8NsASl",
+    "object": "chat.completion",
+    "created": 1705849728,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Somalia view divorce as a difficult and undesirable decision. Divorce is generally perceived as a last resort, only to be considered when all other options for resolving marital problems have failed. Somali society places great importance on maintaining the family unit and preserving the sanctity of marriage. Women often face significant social stigma and disapproval if they choose to pursue divorce, which can lead to isolation and ostracism within their communities. Therefore, many women are hesitant to seek divorce unless the circumstances are extremely challenging, such as in cases of abuse or abandonment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 110,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

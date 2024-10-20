@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPssHKzvEgJO5v10EC50PMxmIfV",
+    "object": "chat.completion",
+    "created": 1705856216,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Kosovo in the past 100 years is the Kosovo War of 1998-1999. The conflict was fought between the forces of the Federal Republic of Yugoslavia (led by Serbia) and the Kosovo Liberation Army (KLA), with NATO providing air support to the KLA. The war was triggered by longstanding tensions between Albanian majority in Kosovo seeking greater autonomy, and Serbian authorities denying their demands.\n\nDuring the war, there were widespread human rights violations, including massacres, ethnic cleansing, and displacement of civilians. The conflict resulted in a significant loss of life, with estimates of casualties ranging from 10,000 to 12,000 people, mainly ethnic Albanians. The war also led to the displacement of hundreds of thousands of people, causing a massive humanitarian crisis.\n\nThe international community eventually intervened, and NATO launched a bombing campaign against Yugoslav targets in 1999. The bombing campaign led to Yugoslav forces withdrawing from Kosovo, and the deployment of international peacekeeping troops under the United Nations Interim Administration Mission in Kosovo (UNMIK).\n\nFollowing the war, Kosovo was placed under UN administration, with negotiations aimed at finding a long-term solution. The negotiations culminated in the declaration of independence by Kosovo in 2008, which Serbia continues to reject. The Kosovo War and its aftermath have had a significant impact on political, social, and economic development in Kosovo and the wider region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 287,
+        "total_tokens": 311
+    },
+    "system_fingerprint": null
+}

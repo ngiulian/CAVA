@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToTykBTbS1WUnqkWWi5bL9g1QYi",
+    "object": "chat.completion",
+    "created": 1705850053,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in East Timor have a negative view of divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a last resort. Women often prioritize maintaining the family unit and preserving their social status within the community. Divorce is considered a taboo and is associated with shame and stigma. Women may endure unhappy marriages due to societal pressure, cultural norms, and limited legal and financial support for divorced women. However, attitudes towards divorce are gradually changing, especially among younger generations who are more influenced by modern ideas and global trends."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 108,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

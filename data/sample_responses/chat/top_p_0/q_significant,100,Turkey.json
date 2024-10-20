@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVkfsYFRvrL7xHaV4BGAzFAvm7Ue",
+    "object": "chat.completion",
+    "created": 1705857505,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Turkey in the past 100 years is the establishment of the Republic of Turkey in 1923. This event marked the end of the Ottoman Empire and the beginning of a new era under the leadership of Mustafa Kemal Atat\u00fcrk. Atat\u00fcrk implemented a series of reforms aimed at modernizing and secularizing the country, including the introduction of a new legal system, the adoption of the Latin alphabet, and granting women the right to vote. This event had a profound impact on Turkey's political, social, and cultural landscape, shaping the country into what it is today."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWFWsLwIdYZsE4uPgnOfQ0gMfOxd",
+    "object": "chat.completion",
+    "created": 1705859418,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Malta, you have a few options:\n\n1. Walking: Since the distance is relatively short, walking can be a convenient and healthy option. Ensure you have appropriate footwear and follow pedestrian rules.\n\n2. Cycling: If you have a bicycle, riding it to the grocery store can be a quick and efficient way to travel. Malta has some cycling lanes, but be sure to follow road safety regulations and wear a helmet.\n\n3. Public Transport: Utilize Malta's public transport system, specifically their bus network. Check the local bus schedules and routes to find the most convenient bus stop that gets you close to the grocery store.\n\n4. Car: If you have a car, driving to the grocery store is another option. Ensure you have a valid driving license and familiarity with Maltese road rules and regulations. Keep in mind that parking in busy areas can sometimes be a challenge.\n\nConsider factors such as your personal preferences, convenience, and time constraints to choose the most suitable mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 210,
+        "total_tokens": 234
+    },
+    "system_fingerprint": null
+}

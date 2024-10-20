@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW0Hp3ZcOBM2Mfj44TeMuc1qisnK",
+    "object": "chat.completion",
+    "created": 1705858473,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Angola, you have a few options:\n\n1. Walking: If the weather permits and you are physically able, walking can be a convenient and healthy option. Simply follow the route to the grocery store on foot.\n\n2. Cycling: If you have a bicycle, it can be a faster and more efficient way to reach the store. Make sure to follow the road rules and use designated cycling lanes if available.\n\n3. Public Transportation: Check if there are any local buses or minibusses that pass by or near the grocery store. You can inquire about the routes and schedules at a nearby bus stop or station.\n\n4. Taxi or Ride-Sharing Services: If you prefer a more comfortable and convenient option, you can hire a taxi or use ride-sharing services like Uber or Bolt. These services are usually available in urban areas and can be accessed through mobile apps.\n\nRemember to consider factors such as safety, cost, and availability when choosing the best mode of transportation for your specific situation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 208,
+        "total_tokens": 232
+    },
+    "system_fingerprint": null
+}

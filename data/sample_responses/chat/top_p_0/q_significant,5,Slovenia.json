@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgpzNvzjIu2KBkdxOkd6GUfXrB9",
+    "object": "chat.completion",
+    "created": 1705857267,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Slovenia in the past 5 years was the Slovenian parliamentary election in 2018. This election resulted in a shift in power, as the center-right Slovenian Democratic Party (SDS) emerged as the largest party, winning 25 out of 90 seats in the National Assembly. This marked a change from the previous center-left government led by the Modern Centre Party (SMC). The election also saw the rise of several new parties, including the anti-immigration Slovenian National Party (SNS) and the left-wing Levica party. This event had a significant impact on the political landscape of Slovenia and set the stage for subsequent developments in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 142,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

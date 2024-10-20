@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThw2ILTuJ6FXEbmHuH6wpHJ82Fj",
+    "object": "chat.completion",
+    "created": 1705849648,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Sierra Leone hold negative views towards divorce. They generally believe that divorce is a shameful and dishonorable act that goes against cultural and religious values. Men often perceive divorce as a failure to maintain a stable and harmonious marriage, which is seen as a fundamental aspect of their identity and societal expectations. Additionally, divorce is often stigmatized, and men fear the social consequences and loss of respect that may accompany it. Consequently, many men in Sierra Leone tend to prioritize maintaining their marriages, even in challenging circumstances, rather than considering divorce as a viable option."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 114,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

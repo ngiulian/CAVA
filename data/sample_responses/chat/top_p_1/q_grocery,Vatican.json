@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWNqep5aFR1P746rObsmuJULaUkk",
+    "object": "chat.completion",
+    "created": 1705859934,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Vatican, you can follow these steps:\n\n1. Start by determining your current location within Vatican.\n2. Check for the nearest road or street that leads towards the grocery store. Consult a map or use a navigation app for guidance.\n3. If you prefer to walk, you can go on foot. Follow the road or street that leads you directly to the grocery store.\n4. If you prefer to use public transportation, check if there are any bus stops or metro stations near your location. Vatican City has limited public transportation options, but you may find a suitable route to your destination.\n5. Alternatively, you can consider using a bicycle or e-scooter if available for rent in the area. This could be a convenient and eco-friendly mode of transportation for a short distance.\n6. Follow road signs or use a navigation app to ensure you are heading in the right direction.\n7. Walk, take public transportation, or ride your bike/e-scooter until you reach the grocery store.\n\nRemember to adhere to local traffic regulations and guidelines while traveling to ensure your safety and the safety of others."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 233,
+        "total_tokens": 257
+    },
+    "system_fingerprint": null
+}

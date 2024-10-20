@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jULFpSqwy5vd1tgNPYt5rUwZgMNb",
+    "object": "chat.completion",
+    "created": 1705852085,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Croatia face several challenges, the biggest of which include educational difficulties, unemployment, substance abuse, mental health issues, and limited opportunities for personal growth and development. The education system often lacks practical skills and vocational training, leaving teenagers unprepared for the job market. High rates of unemployment contribute to the frustration and anxiety among youth, hindering their future prospects. Substance abuse, especially alcohol and drug misuse, poses a significant risk to Croatian teenagers, leading to various health and social consequences. Mental health problems, such as depression and anxiety, are prevalent but often stigmatized, resulting in inadequate support and treatment. Additionally, limited recreational and cultural activities restrict opportunities for leisure, personal growth, and cultural enrichment for teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 144,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

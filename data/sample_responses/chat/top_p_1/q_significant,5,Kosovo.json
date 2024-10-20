@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPj2aOgMk8UzQpI8KVyW13i5zpT",
+    "object": "chat.completion",
+    "created": 1705856207,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kosovo in the past five years is the agreement reached between Kosovo and Serbia in September 2020, known as the \"Washington Agreement\" or the \"Economic Normalization Agreement.\" This historic agreement was brokered by the United States and signed in the White House, aiming to establish economic normalization and improve relations between the two countries.\n\nUnder the agreement, Kosovo agreed to suspend its efforts to join international organizations for one year, while Serbia agreed to temporarily suspend its campaign to encourage other countries to derecognize Kosovo. Additionally, both countries committed to strengthening economic cooperation, implementing energy and infrastructure projects, and facilitating the movement of people and goods.\n\nThe Washington Agreement was seen as a significant step towards resolving long-standing tensions between Kosovo and Serbia, which have been at odds since Kosovo declared independence from Serbia in 2008. This agreement was hailed as a breakthrough and received international recognition as an important development in the region's stability and peace process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 196,
+        "total_tokens": 220
+    },
+    "system_fingerprint": null
+}

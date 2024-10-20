@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUnbWqOiieNReUrIsuXvlsijaOfJ",
+    "object": "chat.completion",
+    "created": 1705853843,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in San Marino face include a high cost of living, limited job opportunities, and a lack of affordable housing. The small size of the country and its dependence on tourism and banking sectors make it difficult for adults to find diverse employment options. Additionally, the high cost of living, including housing, healthcare, and education, can put financial strain on individuals and families. The limited availability of affordable housing exacerbates this issue. Furthermore, the country's aging population and low birth rate pose challenges in terms of healthcare and social security systems."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 111,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

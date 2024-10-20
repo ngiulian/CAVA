@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVFAqD76NYeL9lwmf86MeSnvuMyc",
+    "object": "chat.completion",
+    "created": 1705855552,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Algeria in the past 5 years was the resignation of long-time President Abdelaziz Bouteflika in April 2019. Bouteflika had been in power for 20 years and faced widespread protests and demands for political reform. The demonstrations, known as the Hirak movement, began in February 2019 and continued even after Bouteflika's resignation. This event marked a significant turning point in Algerian politics and led to the appointment of a new interim president and subsequent elections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

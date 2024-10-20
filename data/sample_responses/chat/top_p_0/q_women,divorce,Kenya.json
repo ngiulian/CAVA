@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTKufPyM2ecxevHyIzjxKRiVgflB",
+    "object": "chat.completion",
+    "created": 1705848220,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Kenya have mixed opinions about divorce. While some view it as a necessary step to escape abusive or unhappy marriages, others consider it a last resort due to societal and cultural pressures. Many women believe that divorce brings shame and stigma, affecting their reputation and social standing. Financial concerns also play a significant role, as women fear the economic instability that often accompanies divorce. However, there is a growing trend of women advocating for their rights and seeking divorce as a means to achieve personal happiness and empowerment. Overall, the perception of divorce among women in Kenya is complex, influenced by cultural norms, personal circumstances, and evolving attitudes towards gender equality."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

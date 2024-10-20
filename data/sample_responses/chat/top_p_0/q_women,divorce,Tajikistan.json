@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnrXwuBkMmZivFQ6OG59C0SLz3J",
+    "object": "chat.completion",
+    "created": 1705850015,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tajikistan have a negative perception of divorce. They generally view it as a last resort and believe that it should only be considered in extreme circumstances. Women in Tajikistan often prioritize maintaining their family and preserving their marriage, valuing stability and traditional gender roles. Divorce is seen as a failure and carries a social stigma, which can lead to judgment and exclusion from the community. Additionally, women may face financial difficulties and limited opportunities after divorce, making them hesitant to pursue it. Overall, divorce is not widely accepted or encouraged among women in Tajikistan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 116,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

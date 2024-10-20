@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHkz1KtD6lPwu1Fgr9oPnLptlP3",
+    "object": "chat.completion",
+    "created": 1705855712,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events in Georgia in the past 100 years. However, one event that stands out is the Civil Rights Movement, particularly in the city of Atlanta. Georgia played a crucial role in the fight for racial equality and social justice during the 20th century.\n\nSeveral key events occurred in Georgia during the Civil Rights Movement, including the Atlanta Student Movement in the 1960s. This movement mobilized young African American students to protest for desegregation and equal rights. Led by organizations like the Student Nonviolent Coordinating Committee (SNCC), they utilized nonviolent direct action to challenge racial segregation in Atlanta and other parts of the state.\n\nFurthermore, the city of Atlanta became a center for civil rights activism and leadership, with important figures such as Martin Luther King Jr., John Lewis, and Andrew Young among those who emerged from the state. Atlanta was also the birthplace of the Southern Christian Leadership Conference (SCLC) in 1957, an organization that played a significant role in the Civil Rights Movement nationally.\n\nThese events ultimately led to important legal decisions, such as the desegregation of schools, public facilities, and voting rights reform, among others. The Civil Rights Movement in Georgia and its influence on national progress is widely regarded as one of the most significant events in the state's history over the past 100 years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 272,
+        "total_tokens": 296
+    },
+    "system_fingerprint": null
+}

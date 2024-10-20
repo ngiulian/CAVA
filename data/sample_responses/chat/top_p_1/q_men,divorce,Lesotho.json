@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQ9ODSQiM3fI7uioeBXEgRMGkip",
+    "object": "chat.completion",
+    "created": 1705848545,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Lesotho are generally opposed to divorce. They tend to believe that divorce is a threat to their social status and reputation as divorce is often seen as a failure in maintaining a stable and harmonious family life. Men usually perceive divorce as a disruption to traditional gender roles and norms, which prioritize men as the breadwinners and heads of the household, with women playing more submissive roles within the family. Therefore, the majority of men in Lesotho view divorce as undesirable and prefer to maintain and salvage their marriages, even in cases of conflict or unhappiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 115,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

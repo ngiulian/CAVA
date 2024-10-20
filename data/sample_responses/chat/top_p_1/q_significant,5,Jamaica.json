@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVN2730D7xJfjlkyj7ZxR28yERxB",
+    "object": "chat.completion",
+    "created": 1705856040,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Jamaica in the past five years was the legalization of medical marijuana in 2015. This event marked a significant shift in the country's drug policy and opened up opportunities for the development of the medical cannabis industry. It allowed for cultivation, processing, and sale of marijuana for medical, scientific, and therapeutic purposes. This move also aimed to benefit local farmers, researchers, and entrepreneurs while ensuring the regulation and control of the industry. The legalization of medical marijuana not only impacted Jamaica's economy but also led to increased tourism and investments."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

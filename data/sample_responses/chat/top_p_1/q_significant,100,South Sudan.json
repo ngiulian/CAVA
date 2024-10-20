@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdtk5ZaE3Vo0RiCnN2oK3DiPV4z",
+    "object": "chat.completion",
+    "created": 1705857085,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in South Sudan in the past 100 years is its independence from Sudan in 2011. After decades-long conflict, South Sudan gained independence through a referendum mandated by the Comprehensive Peace Agreement (CPA) of 2005. This landmark event ended Africa's longest-running civil war and established South Sudan as a sovereign state, making it the youngest country in the world. However, it is important to note that South Sudan has faced significant challenges in its post-independence period, including internal conflict, political instability, and economic struggles."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 112,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

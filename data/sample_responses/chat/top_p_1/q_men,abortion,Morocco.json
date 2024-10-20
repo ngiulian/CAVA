@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRHopljdKPhiLUreEx9sk1M88I7",
+    "object": "chat.completion",
+    "created": 1705848615,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitudes of most men in Morocco towards abortion vary, reflecting a diversity of opinions shaped by cultural, religious, and personal beliefs. Generally, there is a prevailing conservative stance on abortion in Moroccan society, influenced by religious principles, primarily Islam. Islam generally discourages abortion, considering it as the termination of a potential life. Consequently, many Moroccan men may hold negative views on abortion, perceiving it as morally wrong or sinful.\n\nHowever, it is important to note that perspectives on abortion are not homogenous among Moroccan men, and there may be differences based on individual interpretations of religion, level of education, exposure to Western values, and personal experiences. Some men in urban areas or with more liberal outlooks might be more open to the notion of abortion, particularly under specific circumstances such as health risks to the mother or fetus, cases of rape or incest, or severe fetal abnormalities.\n\nOverall, while conservative opinions on abortion tend to dominate, it is crucial to acknowledge that there is a spectrum of viewpoints, and attitudes may be influenced by various factors, including religious beliefs, education, and exposure to different perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 220,
+        "total_tokens": 239
+    },
+    "system_fingerprint": null
+}

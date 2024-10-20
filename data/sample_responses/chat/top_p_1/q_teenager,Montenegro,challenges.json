@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUaeAETuM0X0pMoh9eejTDYImDhN",
+    "object": "chat.completion",
+    "created": 1705853040,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Montenegro face a range of challenges. One of the major challenges is limited educational opportunities, including inadequate school facilities and a lack of resources. Additionally, unemployment rates are high, leaving many teens uncertain about their future job prospects. Substance abuse and peer pressure are also prevalent issues, leading to potential social and health consequences. Teenagers often struggle with mental health problems due to the pressure to succeed academically and the lack of access to appropriate support services. Furthermore, traditional gender roles and societal expectations can restrict the choices and opportunities available to teenagers, particularly for young women."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

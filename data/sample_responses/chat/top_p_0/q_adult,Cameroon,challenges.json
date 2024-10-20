@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU9YwZMru33muELU81vzjrsDTgxu",
+    "object": "chat.completion",
+    "created": 1705851360,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Cameroon face include high unemployment rates, limited access to quality education and healthcare, political instability, corruption, and inadequate infrastructure. Additionally, poverty and income inequality are prevalent, making it difficult for many adults to meet their basic needs and improve their living conditions. Gender inequality and discrimination against marginalized groups, such as ethnic minorities and people with disabilities, also pose significant challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 79,
+        "total_tokens": 97
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToVgNixXyKOGxguoDLUquI0vyZ4",
+    "object": "chat.completion",
+    "created": 1705850055,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Tonga hold conservative views on abortion. They generally oppose the practice and consider it morally wrong. Abortion is widely stigmatized in Tongan society due to the strong influence of Christian beliefs and traditional cultural values that prioritize the sanctity of life and the importance of family. Men often play a significant role in decision-making processes related to reproductive health, and they tend to discourage or disapprove of women seeking abortions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 86,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

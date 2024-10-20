@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXTBC2hhAgHK3K40w1pwhfqs38L",
+    "object": "chat.completion",
+    "created": 1705856687,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malaysia in the past 5 years is the change in government in 2018. On May 9, 2018, Malaysia witnessed a historic election where the ruling coalition, Barisan Nasional, was defeated by the opposition coalition, Pakatan Harapan. This marked the first time since Malaysia's independence in 1957 that the ruling party was voted out of power. The event brought about a significant political shift in the country and led to the appointment of a new Prime Minister, Mahathir Mohamad. This change in government brought hopes of political reform, anti-corruption measures, and a new direction for Malaysia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 136,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

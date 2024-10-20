@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1zKiTy9ea16WT9pfHZv1ZP4Za8",
+    "object": "chat.completion",
+    "created": 1705847047,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Republic of Congo tend to hold negative views towards divorce. They perceive divorce as a disruption to the traditional family structure, causing disharmony and instability within society. Men often view divorce as a failure on their part to maintain a successful marriage, leading to feelings of shame and societal judgment. They may also worry about the financial implications of divorce and its impact on their role as providers for their families. Consequently, most men in the Republic of Congo generally prefer to resolve marital issues and maintain a stable family unit rather than engage in divorce. However, it should be noted that attitudes towards divorce can vary among individuals and may be influenced by factors such as education, urbanization, and exposure to different cultural perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 144,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

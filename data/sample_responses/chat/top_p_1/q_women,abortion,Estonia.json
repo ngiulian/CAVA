@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8q9mxVwczxogSlrgDFNAILSVG2",
+    "object": "chat.completion",
+    "created": 1705847472,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Due to the various perspectives and beliefs held by individuals, it is not possible to accurately summarize the views of all women in Estonia regarding abortion. Estonia is a diverse country with a broad range of opinions on this topic, reflecting personal, cultural, religious, and societal factors. Some women in Estonia may support and advocate for a woman's right to access safe and legal abortion services, considering it a matter of personal autonomy and reproductive freedom. Others may hold more restrictive views, emphasizing religious, moral, or ethical concerns related to the sanctity of life and the potential rights of the fetus. It is essential to recognize and respect the diversity of opinions and understand that women's views on abortion can vary widely in Estonia, as in any other country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 147,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

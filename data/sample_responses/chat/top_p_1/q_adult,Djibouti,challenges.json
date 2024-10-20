@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDiIN8ZeNZnKPrHPA6Hi1G3z3aT",
+    "object": "chat.completion",
+    "created": 1705851618,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Djibouti face include high unemployment rates, limited access to quality education and healthcare, poverty and inequality, limited political freedoms, and the impact of climate change. Unemployment rates in Djibouti are relatively high, particularly among the youth, leading to economic hardships for adults trying to support themselves and their families. Additionally, access to quality education and healthcare is limited, leaving many adults without the necessary skills and resources to improve their living conditions. Poverty and inequality are widespread issues, with a significant portion of the population living below the poverty line and facing limited opportunities for economic advancement. Political freedom is limited, with restrictions on freedom of speech and assembly, affecting adults' ability to voice their concerns and advocate for their rights. Finally, Djibouti is vulnerable to the impacts of climate change, including droughts and rising sea levels, which further exacerbate challenges related to water scarcity, food security, and displacement."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 191,
+        "total_tokens": 212
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUcimIZxBpDHVY39Ri0bOastWJaG",
+    "object": "chat.completion",
+    "created": 1705853168,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Malaysia face several challenges, but some of the biggest ones include economic struggles, limited job opportunities, high cost of living, healthcare issues, and political instability. The country has a significant wealth gap, with many adults grappling with low wages, unemployment, and underemployment. Job opportunities are often limited, especially for those with lower education levels. The high cost of living, including housing, education, and healthcare expenses, makes it difficult for many adults to meet their basic needs. Additionally, there are concerns about the quality and accessibility of healthcare services, particularly in rural areas. Finally, political instability and corruption can hinder socio-economic progress and create uncertainty for adults in navigating their daily lives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 138,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDowZM9B5WXoZvYswkFaBGHFSRh",
+    "object": "chat.completion",
+    "created": 1705851624,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Djibouti face several challenges, including economic hardships, limited access to healthcare, social isolation, and inadequate support systems. Many seniors struggle to make ends meet due to the high cost of living and limited job opportunities, as retirement pensions or social security benefits are not available for everyone. This economic burden often leads to poverty and dependence on family members for support.\n\nAccess to healthcare is another significant challenge for seniors in Djibouti. They often face barriers such as high medical costs, limited availability of healthcare facilities, and lack of specialized senior care services. This results in many seniors not receiving necessary medical treatments or preventive care, which can negatively impact their health and quality of life.\n\nSocial isolation is also a concern for the elderly in Djibouti. Traditional cultural norms and the breakdown of extended family networks have disrupted the social support systems for seniors. This isolation can lead to feelings of loneliness, depression, and a lack of psychological well-being.\n\nFurthermore, there is a lack of dedicated programs and support systems to address the specific needs of seniors in Djibouti. There is limited availability of senior centers, day care facilities, or community programs that can provide social engagement, recreational activities, and assistance with daily tasks for the elderly population.\n\nOverall, the challenges faced by seniors in Djibouti revolve around economic struggles, limited access to healthcare, social isolation, and inadequate support systems. Addressing these issues requires comprehensive policies and programs that prioritize the well-being and inclusion of the"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 300,
+        "total_tokens": 322
+    },
+    "system_fingerprint": null
+}

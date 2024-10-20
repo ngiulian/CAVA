@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV01QvT2shMGJ6tjoFzowRmEA5HI",
+    "object": "chat.completion",
+    "created": 1705854613,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Zimbabwe face a range of challenges, some of the biggest being:\n\n1. Limited access to quality education: Many teenagers struggle to access and afford quality education due to factors like lack of schools, high fees, and limited resources, resulting in a significant education gap.\n\n2. Economic hardships: Zimbabwe has faced economic challenges, including high unemployment rates, hyperinflation, and a struggling economy. This affects teenagers as they often struggle to find employment opportunities and face financial difficulties.\n\n3. Health crisis: Teenagers in Zimbabwe are exposed to various health challenges, including limited access to healthcare facilities, high HIV/AIDS prevalence rates, and inadequate sexual and reproductive health education, resulting in risky behaviors and health problems.\n\n4. Political instability: Political instability in Zimbabwe affects teenagers directly or indirectly, as it can lead to social unrest, protests, and insecurity, impacting their well-being and future prospects.\n\n5. Drug and substance abuse: Some teenagers in Zimbabwe grapple with drug and substance abuse issues, often due to peer pressure, lack of guidance, and limited awareness about the consequences.\n\n6. Gender inequalities: Teenage girls face specific challenges related to gender inequalities, including early marriages, gender-based violence, and limited access to reproductive health services, hampering their overall well-being and opportunities.\n\n7. Limited access to technology and the internet: Many teenagers in Zimbabwe lack access to technology and the internet, limiting their educational opportunities, exposure to information, and connectivity with the global community.\n\nThese challenges highlight the need for efforts"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAizC4wIhCcBEkeWgi1UwZInMKm",
+    "object": "chat.completion",
+    "created": 1705855276,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Ivory Coast in the past 20 years was the Ivorian Civil War, which lasted from 2002 to 2007. The conflict began as a result of political and ethnic tensions between the predominantly Muslim north and the predominantly Christian south of the country. It escalated into a full-scale armed conflict, with rebel groups controlling the north and the government controlling the south.\n\nThe civil war had a devastating impact on the country, leading to widespread violence, displacement of people, and economic decline. It also resulted in a divided nation, with a United Nations peacekeeping mission deployed to maintain stability and facilitate peace negotiations.\n\nThe conflict finally ended in 2007 with the signing of the Ouagadougou Political Agreement, which established a power-sharing government and paved the way for a peaceful resolution. However, the effects of the civil war are still felt in Ivory Coast today, as the country continues to work towards reconciliation and rebuilding."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 193,
+        "total_tokens": 218
+    },
+    "system_fingerprint": null
+}

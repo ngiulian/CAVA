@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2Ji2IyG1yK6jenCgt6BR3r4etG",
+    "object": "chat.completion",
+    "created": 1705847067,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in New Zealand think of divorce as opinions on this topic can vary greatly among individuals. Men's perspectives on divorce in New Zealand, as in any country, are diverse and influenced by personal experiences, cultural backgrounds, and individual beliefs. Some men may view divorce as a necessary step to end an unhappy or unhealthy relationship, while others may have negative views due to personal or societal factors. It is important to recognize that generalizations about the opinions of an entire gender within a specific country can be misleading and do not reflect the wide range of perspectives that exist."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 125,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

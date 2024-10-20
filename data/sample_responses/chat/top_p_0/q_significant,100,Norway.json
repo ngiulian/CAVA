@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYvuK1NgxgexHVau3BPdUUFGrDF",
+    "object": "chat.completion",
+    "created": 1705856777,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Norway in the past 100 years is the terrorist attacks that occurred on July 22, 2011. This tragic event involved a bombing in Oslo and a mass shooting on the island of Ut\u00f8ya, resulting in the deaths of 77 people, mostly teenagers. The attacks were carried out by a right-wing extremist named Anders Behring Breivik, who targeted the government and the Labour Party's youth organization. This event had a profound impact on Norway, leading to discussions on security, immigration, and extremism, as well as prompting a national outpouring of grief and solidarity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

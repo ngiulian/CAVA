@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJOeECgCn3VcuGDj32mX6MfvpxF",
+    "object": "chat.completion",
+    "created": 1705855814,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Greece in the past 100 years is the Greek Civil War (1946-1949). It was a conflict between the Greek government, supported by the United States and other Western powers, and communist rebels. The war had a profound impact on Greek society, politics, and economy, leading to significant political and social changes in the country. It also marked the beginning of the Cold War in Greece and had long-lasting consequences for the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 100,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

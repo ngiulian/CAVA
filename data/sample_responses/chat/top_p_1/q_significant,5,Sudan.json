@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdWdzxa6l9ove1B2XQGXu9Iy95J",
+    "object": "chat.completion",
+    "created": 1705857062,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Sudan in the past 5 years was the overthrow of President Omar al-Bashir in April 2019. Al-Bashir, who had been in power for 30 years, was forced out of office following months of peaceful protests by the Sudanese people demanding political change, improved human rights, and an end to economic hardships. His ouster was a historic moment for Sudan and marked a turning point in the country's political landscape. The event led to a transitional government, with a power-sharing agreement between the military and civilian leaders, and opened up possibilities for democratic reforms and a more inclusive government."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 131,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

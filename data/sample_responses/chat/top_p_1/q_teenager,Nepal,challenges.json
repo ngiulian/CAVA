@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUeVmL9MI0XjWAwK4wnsEA8eGenA",
+    "object": "chat.completion",
+    "created": 1705853279,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Nepal face a range of challenges, including limited access to quality education, poverty, gender inequality, early marriage, child labor, lack of healthcare and nutrition, political instability, and pressure to conform to social norms and expectations. These challenges often hinder their personal development, opportunities for growth, and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 64,
+        "total_tokens": 82
+    },
+    "system_fingerprint": null
+}

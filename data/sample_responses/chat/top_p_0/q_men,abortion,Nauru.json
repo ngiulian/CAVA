@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTa4MMYOX1PWcyoPx8iCnTPrpKOi",
+    "object": "chat.completion",
+    "created": 1705849160,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most men in Nauru think of abortion as there is no available data or research specifically addressing this topic. Public opinion on abortion can vary widely among individuals, and it is influenced by various factors such as cultural, religious, and personal beliefs. It is important to recognize that opinions on abortion can differ significantly among men in any society, and it is necessary to consider individual perspectives rather than making generalizations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 92,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

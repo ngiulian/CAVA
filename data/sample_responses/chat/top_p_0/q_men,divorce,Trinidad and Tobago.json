@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTorquCIn6bAbsP3bKDPyshDUJn7",
+    "object": "chat.completion",
+    "created": 1705850077,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Trinidad and Tobago have mixed opinions about divorce. While some men view divorce as a necessary solution to irreconcilable differences or unhappy marriages, others hold more traditional beliefs and see divorce as a failure or a threat to family values. There is a significant portion of men who may discourage divorce due to cultural and religious influences that prioritize the preservation of marriage and family unity. However, attitudes towards divorce are evolving, and younger generations tend to be more accepting of divorce as a viable option for ending an unhappy or unhealthy marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 107,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

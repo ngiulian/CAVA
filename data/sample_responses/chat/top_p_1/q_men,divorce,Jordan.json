@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTJ3zF8faTiH4oZQFi7zw8vQk8RO",
+    "object": "chat.completion",
+    "created": 1705848105,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Jordan hold a negative view towards divorce. They generally perceive it as socially and culturally unacceptable, as divorce is considered undesirable and a sign of a failed marriage. Men in Jordan often prioritize the preservation of the family unit and a commitment to their marriage. Divorce is often seen as a last resort or an option taken only under exceptional circumstances, such as instances of infidelity, abuse, or irreconcilable differences. Additionally, men may feel societal pressure to maintain a stable marriage due to the strong influence of traditional values, religious beliefs, and conservative social norms in Jordan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV40tFgFLozN7LNRq7DMO4QeVzBN",
+    "object": "chat.completion",
+    "created": 1705854860,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events in France over the past 100 years, but one of the most significant is arguably the end of World War II and the subsequent liberation of France from German occupation. This event occurred in 1944-1945, when Allied forces, including French resistance fighters, successfully liberated France from Nazi control. The liberation of Paris in August 1944 marked a turning point in the war and symbolized the restoration of French sovereignty. This event had a profound impact on France's history, politics, and national identity, shaping the country's post-war reconstruction and its role in the world."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 122,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

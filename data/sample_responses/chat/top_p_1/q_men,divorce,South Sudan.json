@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTgYjp9ep7HG8mxq2d483ZQwTcz6",
+    "object": "chat.completion",
+    "created": 1705849562,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in South Sudan hold traditional beliefs and attitudes towards divorce, considering it a taboo and a social taboo. They view marriage as a lifelong commitment, and divorce is seen as a failure and a disgrace to the family. Men generally have a strong preference for maintaining a stable and intact marriage, even in the face of challenges or unhappy relationships. Divorce is often perceived as socially unacceptable and may lead to stigma and a loss of social status for both the man and his family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 95,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

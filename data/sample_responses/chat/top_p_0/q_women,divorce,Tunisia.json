@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTpVoMpwEfWmzZnQm7GSqhwN8laV",
+    "object": "chat.completion",
+    "created": 1705850117,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tunisia have a positive view of divorce and consider it as a viable option to escape unhappy or abusive marriages. They see divorce as a means to gain independence, protect their rights, and pursue personal happiness. Many women believe that divorce allows them to break free from societal expectations and traditional gender roles, enabling them to make their own choices and live a life of their choosing. However, it is important to note that attitudes towards divorce may vary among individuals based on their cultural, religious, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 102,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

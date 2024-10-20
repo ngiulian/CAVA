@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTevNOpEJaWbO4gzXeUQQehh6JMW",
+    "object": "chat.completion",
+    "created": 1705849461,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is diversity in opinions among women in Russia regarding abortion. While some women support and defend a woman's right to choose abortion as a personal decision, others hold conservative or religious views that consider abortion morally wrong. Public opinion surveys suggest that a considerable portion of Russian women view abortion as a necessary option in certain situations, such as unplanned pregnancies, financial difficulties, or health concerns. However, the topic remains complex and subjective, and individual beliefs or values may vary significantly among women in Russia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 98,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

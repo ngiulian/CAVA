@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtktuZmzR9ne60ByKAkHqiI3ep8",
+    "object": "chat.completion",
+    "created": 1705850380,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Vanuatu have a negative perception of divorce and generally prefer to avoid it. Divorce is often seen as a failure of both partners to maintain a stable and harmonious marriage, which goes against the values of commitment and family cohesion that are highly regarded in Vanuatu society. Women in Vanuatu, especially those from traditional communities, often prioritize the well-being of their children, extended family, and community over their personal desires, making divorce a less desirable option. Additionally, for many women, dependence on their husband's financial support and limited employment opportunities further deters them from pursuing divorce. Cultural and societal norms, along with economic factors, contribute to the prevalent belief among women in Vanuatu that divorce should be avoided whenever possible."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 151,
+        "total_tokens": 172
+    },
+    "system_fingerprint": null
+}

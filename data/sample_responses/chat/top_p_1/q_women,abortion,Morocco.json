@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRURCFopSE0XwlyttMnQD80TZrV",
+    "object": "chat.completion",
+    "created": 1705848628,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals in any country, including Morocco. However, due to cultural and religious factors, abortion generally remains a sensitive and controversial topic in the country.\n\nIn Morocco, a predominantly Muslim country, the official Islamic stance considers abortion forbidden except in cases where the mother's life is at risk. This religious belief heavily influences societal views on abortion among both men and women.\n\nMany women in Morocco hold traditional and conservative values, adhering to the religious teachings against abortion. They may view abortion as morally wrong, considering it a violation of the sanctity of life and the potential harm it could cause to the fetus.\n\nOn the other hand, some women may hold more liberal and progressive views regarding abortion. These individuals may prioritize women's rights to reproductive autonomy and access to safe abortion services. They argue for the availability of legal and regulated abortion, particularly in cases of pregnancy resulting from rape, incest, or when the mother's health is at risk.\n\nIt is important to acknowledge that this summary captures a general understanding, and individual women's opinions may vary widely depending on their personal beliefs, education, socioeconomic background, and exposure to diverse perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 235,
+        "total_tokens": 254
+    },
+    "system_fingerprint": null
+}

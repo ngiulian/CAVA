@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0OgZAOT8TPB5mBwi5hE64a7aaA",
+    "object": "chat.completion",
+    "created": 1705846948,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in China have mixed or negative views on divorce. They generally perceive divorce as a last resort and believe that it signifies failure in their marital relations. Many men also associate divorce with significant financial and emotional burdens, especially in terms of alimony and child custody. Furthermore, societal stigma surrounding divorce, coupled with traditional gender roles that prioritize family unity and loyalty, often makes men in China reluctant to pursue divorce or support their wives' decision to end the marriage. However, attitudes toward divorce are gradually changing as younger generations become more individualistic and prioritize personal happiness and fulfillment over societal norms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

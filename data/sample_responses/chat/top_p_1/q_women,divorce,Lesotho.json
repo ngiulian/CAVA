@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQHIqmPXrYPeRJnEqvQ8Icptg3j",
+    "object": "chat.completion",
+    "created": 1705848553,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Lesotho generally have negative views about divorce. They believe that marriage is a lifelong commitment and see divorce as a last resort or a failure. Women often prioritize keeping the family intact, maintaining social and economic stability, and fulfilling cultural and religious obligations. Divorce is often stigmatized in Lesotho, and women may face judgment, criticism, and social isolation if they choose to end their marriage. Financial dependency and limited access to legal rights and resources also contribute to women's reluctance to pursue divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 104,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBzbCsYPfR9HfloqMkOFzvuqrhf",
+    "object": "chat.completion",
+    "created": 1705847667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is complex to determine the views of most men in Equatorial Guinea on abortion as perspectives can vary among individuals. However, it can be generally stated that the country is predominantly Catholic, and the Catholic Church generally opposes abortion. Therefore, some men in Equatorial Guinea may hold conservative views on the topic, considering it morally wrong or sinful. However, it is important to note that individual opinions can differ, and some men may hold more progressive views, recognizing a woman's right to choose and advocating for safe and legal access to abortion in certain circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 110,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

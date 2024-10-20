@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThXlY1SjPEgFVgGWZWUivWoPjyh",
+    "object": "chat.completion",
+    "created": 1705849623,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Singapore have a negative perception of divorce. They view it as a last resort and believe that it should only be considered in cases of severe marital problems or abuse. Women generally prioritize maintaining a stable and harmonious family environment, and divorce is seen as a disruption to this ideal. They often feel societal pressure to stay in unhappy marriages for the sake of their children and to avoid the stigma associated with divorce. However, there is a growing acceptance of divorce as a viable option in cases of irreconcilable differences or when the marriage becomes unsustainable. Women are increasingly seeking independence and empowerment, which has led to a shift in attitudes towards divorce, albeit at a slower pace."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 136,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

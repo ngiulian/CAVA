@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVq8IJardoYrlrTpqBL872f57QBw",
+    "object": "chat.completion",
+    "created": 1705857844,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Brazil are too obsessed with social media and technology. Some spend excessive amounts of time on platforms like Instagram, TikTok, and YouTube, constantly seeking validation through likes and views. They are also overly dependent on smartphones and tablets, often preferring virtual interactions over real-life experiences. This obsession with technology can affect their social skills, physical activity levels, and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 77,
+        "total_tokens": 95
+    },
+    "system_fingerprint": null
+}

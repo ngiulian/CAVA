@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSy0Yt2sBfChpX7IY8nbEIFXWrGC",
+    "object": "chat.completion",
+    "created": 1705846800,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Brunei, the majority of women hold conservative views regarding divorce. They generally perceive divorce as a last resort and prefer to preserve the sanctity of marriage and family unity. Women often prioritize societal expectations, religious beliefs, and cultural norms, which encourage maintaining the marital bond. Divorce is commonly seen as a taboo and is considered undesirable due to the potential stigma and social consequences it may bring. Consequently, women in Brunei tend to prioritize finding solutions and reconciliation within their marriages, rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 102,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

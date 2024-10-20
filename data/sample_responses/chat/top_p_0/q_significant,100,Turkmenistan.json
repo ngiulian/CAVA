@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjHOCkNQ1auyki02YYmpoA9gdXE",
+    "object": "chat.completion",
+    "created": 1705857419,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Turkmenistan in the past 100 years is the declaration of independence from the Soviet Union in 1991. This event marked the end of Turkmenistan's 70-year incorporation into the Soviet Union and the establishment of the country as an independent nation. It led to the formation of a new government and the adoption of a new constitution, allowing Turkmenistan to shape its own political, economic, and social systems. This declaration of independence had a profound impact on the country's trajectory, shaping its identity, governance, and relationships with other nations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 120,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

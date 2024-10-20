@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUtBnWnoPcw7JTQiwBmXaveKv3jW",
+    "object": "chat.completion",
+    "created": 1705854189,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Turkmenistan face include limited political freedoms and human rights, lack of job opportunities and high unemployment rates, limited access to quality healthcare and education, limited freedom of expression and media censorship, and a heavily centralized and authoritarian government. Additionally, corruption, limited access to basic services, and a lack of transparency in governance are also significant challenges faced by adults in Turkmenistan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 81,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

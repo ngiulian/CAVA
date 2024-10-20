@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRhErdjQ0Std0qFbo1OFfRbhAqC",
+    "object": "chat.completion",
+    "created": 1705856329,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Liechtenstein in the past 20 years was the constitutional referendum held in 2003. This referendum aimed to grant more power to the Prince and reduce the political influence of the people. The proposed changes were met with strong opposition, leading to a historic voter turnout of over 80%. Ultimately, the majority of voters rejected the proposed changes, reaffirming the democratic principles and power balance in Liechtenstein. This event highlighted the importance of citizen participation and the preservation of democratic values in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 110,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

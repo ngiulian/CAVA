@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUbzgh9dkvUs9CHKZ72Oo6B4t8FS",
+    "object": "chat.completion",
+    "created": 1705853123,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Mauritius face several challenges, including academic pressure, limited career opportunities, peer pressure, substance abuse, mental health issues, and societal expectations. The education system in Mauritius is highly competitive, leading to immense academic pressure on teenagers to excel in exams. Additionally, the limited availability of jobs and career prospects can create uncertainty and anxiety about their future. Peer pressure is another challenge, as teenagers may feel compelled to conform to societal norms and engage in risky behaviors. Substance abuse, including alcohol and drug use, is also a concern among some teenagers. Mental health issues such as stress, anxiety, and depression are prevalent, often exacerbated by the aforementioned challenges. Lastly, societal expectations, including cultural and traditional norms, can place significant pressure on teenagers to conform and meet certain standards."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 156,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

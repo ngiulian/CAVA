@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU1W2AYQ2C7CJnPfcB03gC31tTCn",
+    "object": "chat.completion",
+    "created": 1705850862,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Azerbaijan face include financial instability, lack of access to healthcare, limited social support, and age discrimination. Many seniors struggle with maintaining a decent standard of living due to inadequate pensions and limited employment opportunities. Additionally, access to quality healthcare is often limited, resulting in difficulties in receiving proper medical treatment. Seniors also face challenges in terms of social isolation and limited support networks, which can negatively impact their mental and emotional well-being. Finally, age discrimination and stigmatization are prevalent, leading to limited social inclusion and unequal opportunities for seniors in various aspects of life."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

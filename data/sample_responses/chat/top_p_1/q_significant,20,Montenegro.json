@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVW0k7ow6sIa49Xs5PRv41ef970M",
+    "object": "chat.completion",
+    "created": 1705856596,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Montenegro in the past 20 years was its declaration of independence from Serbia on June 3, 2006. After the dissolution of the Socialist Federal Republic of Yugoslavia in the 1990s, Montenegro remained a part of the Federal Republic of Yugoslavia and later Serbia and Montenegro. However, following a referendum on independence in 2006, Montenegro officially separated from Serbia and became an independent nation. This event marked a crucial step in Montenegro's path towards sovereignty and led to its recognition as a separate country by various international entities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 119,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

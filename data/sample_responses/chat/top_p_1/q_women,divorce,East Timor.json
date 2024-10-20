@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToRr0Dfy411xOMp4SHbmca2v5ga",
+    "object": "chat.completion",
+    "created": 1705850051,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in East Timor hold traditional values and attitudes towards divorce. They generally view divorce as a significant stigma and are not in favor of it. Many women believe that marriage is a lifelong commitment and the dissolution of a marriage is generally frowned upon in their society. Divorce is seen as a failure that could bring shame to the woman and her family, and it may limit her social standing and opportunities. Consequently, most women in East Timor prefer to maintain their marriage and work through challenges rather than pursuing a divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 104,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

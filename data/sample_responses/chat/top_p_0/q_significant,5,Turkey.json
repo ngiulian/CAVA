@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVkVs2ON2H4TynixuE9QrLurHTcG",
+    "object": "chat.completion",
+    "created": 1705857495,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Turkey in the past 5 years is the failed coup attempt on July 15, 2016. A faction within the Turkish military attempted to overthrow the government and President Recep Tayyip Erdogan. The coup attempt resulted in a night of violence and chaos, with clashes between coup plotters and loyalist forces. Ultimately, the government and President Erdogan managed to regain control, but the event had a profound impact on Turkish politics and society. It led to a widespread crackdown on perceived coup supporters, including mass arrests, dismissals, and purges within various institutions, including the military, judiciary, and civil service. The failed coup attempt also intensified political polarization within the country and had significant implications for Turkey's relations with other countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 157,
+        "total_tokens": 181
+    },
+    "system_fingerprint": null
+}

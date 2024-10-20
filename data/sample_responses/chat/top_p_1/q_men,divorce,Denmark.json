@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6LF9D0lx2hwKbh05Q25nj0ovyL",
+    "object": "chat.completion",
+    "created": 1705847317,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Denmark generally have positive or neutral views towards divorce. They consider divorce as a viable option to end an unhappy or failing marriage, believing in the importance of personal happiness and fulfillment. Danish men often embrace gender equality and respect the autonomy and choices of individuals, including the decision to divorce. They support the legal rights of both partners in a marriage and recognize that divorce can lead to better outcomes for both parties, particularly in cases of problematic or emotionally distressing relationships. Overall, men in Denmark tend to have an open-minded and accepting approach towards divorce, acknowledging that it can be a necessary step towards personal growth and establishing healthier, happier lives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 129,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

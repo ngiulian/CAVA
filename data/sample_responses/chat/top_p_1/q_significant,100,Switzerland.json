@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9yzwrlGs5PGXJo94ARrAmVzUnY",
+    "object": "chat.completion",
+    "created": 1705855230,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Switzerland in the past 100 years is the Swiss women's suffrage movement. Women in Switzerland gained the right to vote at the federal level in 1971, making it one of the last European countries to grant women suffrage. The movement for women's rights in Switzerland was a long and hard-fought battle, and the decision to grant women the right to vote had a profound impact on the country's political and social landscape. It marked a significant step towards gender equality and democratic representation in Switzerland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

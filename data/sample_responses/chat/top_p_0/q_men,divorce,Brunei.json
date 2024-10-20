@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxrsnPrqYhtuETUO6N1vWyrDBkS",
+    "object": "chat.completion",
+    "created": 1705846791,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Brunei hold negative views towards divorce. They generally perceive divorce as a last resort and believe that it should be avoided if possible. Men in Brunei tend to prioritize maintaining a stable and harmonious family unit, valuing the preservation of marriage and the well-being of children. Divorce is often seen as a social taboo, and men may feel societal pressure to stay in unhappy marriages for the sake of societal expectations and cultural norms."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 89,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

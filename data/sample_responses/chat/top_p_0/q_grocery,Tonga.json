@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWMgAShc9ZwkUgYhosinqxOAub7M",
+    "object": "chat.completion",
+    "created": 1705859862,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Tonga, you have a few options:\n\n1. Walking: Tonga is a relatively small country, and if the weather permits, walking can be a convenient and healthy option. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have access to a bicycle, it can be a faster and more efficient way to reach the grocery store. Cycling can take around 3-5 minutes to cover a distance of 1km, depending on your speed.\n\n3. Public Transportation: Tonga has a limited public transportation system, but you can check if there are any buses or taxis available that can take you to the grocery store. Keep in mind that availability and frequency might vary.\n\n4. Private Vehicle: If you own a car or have access to one, driving to the grocery store would be the most convenient option. It will take just a few minutes to reach your destination.\n\nConsider the available options based on your preferences, convenience, and the resources at your disposal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 221,
+        "total_tokens": 246
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrnFgCuZP7f9azPDTDrWOYmByF3",
+    "object": "chat.completion",
+    "created": 1705850259,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Uruguay have a generally accepting and progressive attitude towards divorce. They view it as a legitimate option for couples who are unhappy or incompatible, and believe that individuals have the right to seek happiness and fulfillment in their relationships. Men in Uruguay understand that divorce can be a difficult and emotional process, but they support the idea that it is better to end an unhappy marriage rather than staying in a toxic or unfulfilling relationship. They also recognize the importance of shared parenting and believe in the equal involvement of both parents in the upbringing of their children, even after divorce. Overall, most men in Uruguay have a positive and supportive stance towards divorce, emphasizing the importance of personal happiness and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

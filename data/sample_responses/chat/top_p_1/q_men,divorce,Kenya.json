@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTKe3bYHey1CgYVJBvEjofceHg6R",
+    "object": "chat.completion",
+    "created": 1705848204,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Kenya have traditional views when it comes to divorce. They generally perceive divorce as unfavorable and undesirable. Men often view divorce as a threat to their social status, reputation, and financial stability. They typically prioritize maintaining the stability of their families and the preservation of societal norms. Consequently, they may discourage divorce and instead encourage couples to resolve their issues through reconciliation and compromise. However, it's important to note that individual perspectives may vary and changing societal dynamics are slowly shaping attitudes towards divorce in Kenya."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

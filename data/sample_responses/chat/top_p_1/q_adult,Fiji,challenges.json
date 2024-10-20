@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUH72hUM1mwMHZSiwGiYlpyVadU9",
+    "object": "chat.completion",
+    "created": 1705851829,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges that adults in Fiji face include economic issues, high unemployment rates, inadequate access to healthcare and education, limited opportunities for professional and personal growth, gender inequality, political instability and corruption, climate change impacts, and social challenges such as substance abuse and domestic violence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 54,
+        "total_tokens": 72
+    },
+    "system_fingerprint": null
+}

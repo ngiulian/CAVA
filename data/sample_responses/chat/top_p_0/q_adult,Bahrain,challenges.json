@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU3sJGOPxtRiauH542BmqRsILg3b",
+    "object": "chat.completion",
+    "created": 1705851008,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Bahrain face include unemployment and job insecurity, high cost of living, limited access to affordable housing, and the need for continuous skill development to keep up with the rapidly changing job market. Additionally, adults may also face challenges related to healthcare, such as limited access to quality healthcare services and rising healthcare costs. Social challenges, such as maintaining a work-life balance, dealing with stress, and managing personal relationships, can also be significant for adults in Bahrain."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 96,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

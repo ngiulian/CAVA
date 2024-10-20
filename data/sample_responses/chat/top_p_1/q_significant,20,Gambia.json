@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIRMtaqZx3nhHGih7VKNNiEKaWk",
+    "object": "chat.completion",
+    "created": 1705855755,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Gambia in the past 20 years was the 2016 presidential election. It brought an end to the 22-year-long authoritarian rule of President Yahya Jammeh and marked a significant democratic transition in the country. The election resulted in the unexpected victory of opposition candidate Adama Barrow, who became the new president, leading to a peaceful transfer of power. This event was seen as a major milestone in Gambia's history and brought hope for a new era of democracy and human rights in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 112,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

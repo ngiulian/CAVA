@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUFY3ditSfxi49d8aS5Um4RQh31J",
+    "object": "chat.completion",
+    "created": 1705851732,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Egypt face include high levels of unemployment and underemployment, limited access to quality education and healthcare, and stagnant wages. Additionally, affordable housing is often scarce and many adults struggle to meet basic needs such as food security. Political instability and social unrest have further exacerbated these challenges, leading to a sense of insecurity and uncertainty among the adult population. Corruption and lack of transparency in government institutions also pose significant obstacles to individuals seeking opportunities for economic growth and a better quality of life."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 100,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

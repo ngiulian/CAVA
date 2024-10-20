@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU3LDrozSr6SkNc5hBH0zk3Yi7ls",
+    "object": "chat.completion",
+    "created": 1705850975,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Bangladesh face include poverty, unemployment, limited access to quality education and healthcare, gender inequality, political instability, and natural disasters. These challenges often intersect and exacerbate each other, making it difficult for adults to improve their living conditions and secure a better future for themselves and their families."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 63,
+        "total_tokens": 81
+    },
+    "system_fingerprint": null
+}

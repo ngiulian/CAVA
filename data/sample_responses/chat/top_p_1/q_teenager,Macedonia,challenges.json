@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUZLeLd2NNJUE8OnPXoGbovrEOzA",
+    "object": "chat.completion",
+    "created": 1705852959,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Macedonia face several challenges, with one of the biggest being limited educational opportunities. The country's education system often lacks modern teaching methods and adequate resources, inhibiting students from acquiring relevant skills for the future job market. Additionally, high rates of youth unemployment pose significant obstacles for teenagers, as they struggle to find suitable employment opportunities after completing their education. Furthermore, socio-economic disparities and income inequality further complicate teenagers' prospects, particularly for those from marginalized backgrounds. Social pressures, such as peer influence or expectations from traditional family structures, can also create challenges related to mental health and personal development. Lastly, access to healthcare, particularly mental healthcare services, can be limited, hindering teenagers in seeking professional support for their physical and emotional well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 149,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

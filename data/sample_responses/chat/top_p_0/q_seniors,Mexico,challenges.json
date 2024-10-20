@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUYuCdHNRvPw8OlMylV3X7Ub3Wf6",
+    "object": "chat.completion",
+    "created": 1705852932,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Mexico face include limited access to healthcare, financial insecurity, social isolation, and age discrimination. Many seniors struggle to afford healthcare services and medications, especially those living in rural areas. Financial insecurity is a significant concern as pensions and retirement benefits may not be sufficient to cover basic needs. Social isolation is common among seniors, particularly those living alone or in nursing homes, leading to mental health issues. Age discrimination is prevalent in employment, limiting job opportunities for seniors and exacerbating financial difficulties."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

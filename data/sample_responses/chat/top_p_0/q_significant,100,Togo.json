@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViSImcDKG4yPGXLorwWD9qXYPKt",
+    "object": "chat.completion",
+    "created": 1705857368,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Togo in the past 100 years was the country's struggle for independence from colonial rule. Togo was a German colony until the end of World War I when it was divided between France and Britain under League of Nations mandates. The movement for independence gained momentum in the mid-20th century, led by political figures such as Sylvanus Olympio and later Gnassingb\u00e9 Eyad\u00e9ma.\n\nOn April 27, 1960, Togo finally gained independence from France, becoming the first African colony to achieve independence from colonial rule. Sylvanus Olympio became the country's first president. However, his presidency was short-lived as he was assassinated in a military coup in 1963, leading to a period of political instability.\n\nThe struggle for democracy and political stability continued throughout the years, with Togo experiencing several military coups and political transitions. In 2005, the death of President Gnassingb\u00e9 Eyad\u00e9ma, who had ruled the country for 38 years, led to a controversial succession. His son, Faure Gnassingb\u00e9, assumed power, sparking protests and international criticism. However, subsequent elections were held, and Faure Gnassingb\u00e9 has remained in power since then.\n\nWhile Togo's struggle for independence and subsequent political developments have shaped the country's history, it is important to note that there have been other significant events in various fields such as social, economic, and cultural aspects that have also impacted T"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 300,
+        "total_tokens": 325
+    },
+    "system_fingerprint": null
+}

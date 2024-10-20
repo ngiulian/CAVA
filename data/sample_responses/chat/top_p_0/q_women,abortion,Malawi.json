@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTX5iEbeYSvOl4jPR5LddkwGZl7K",
+    "object": "chat.completion",
+    "created": 1705848975,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Malawi hold negative views towards abortion due to cultural, religious, and legal reasons. Abortion is generally considered taboo and morally wrong in the country. The majority of Malawian women believe that life begins at conception and that terminating a pregnancy is equivalent to taking a life. Additionally, Malawi is a predominantly Christian nation, and many women adhere to religious teachings that condemn abortion as a sin. The country's laws also restrict access to safe and legal abortion, further shaping women's opinions. Consequently, most women in Malawi are likely to oppose abortion and may view it as unacceptable or immoral."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 122,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEGgw1IQ1w7fnnPTTGFbveIoDFW",
+    "object": "chat.completion",
+    "created": 1705855496,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Djibouti in the past five years was the inauguration of the Chinese-built Doraleh Multipurpose Port in May 2017. This event marked a major milestone in Djibouti's efforts to become a regional trade and logistics hub. The port, strategically located along the Red Sea, is one of the largest and most advanced in Africa, capable of handling large container ships and providing services for various types of cargo. It has significantly boosted Djibouti's economy and enhanced its position as a key player in international trade and maritime activities. Additionally, the port has strengthened Djibouti's ties with China, which has invested heavily in the country's infrastructure development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 146,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

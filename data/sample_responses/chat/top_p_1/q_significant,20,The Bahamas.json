@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV6zTTUuRfn0ZVm8oaUIwxESPP28",
+    "object": "chat.completion",
+    "created": 1705855045,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in The Bahamas in the past 20 years was the devastation caused by Hurricane Dorian in September 2019. The Category 5 hurricane brought catastrophic destruction to the islands of Abaco and Grand Bahama, causing numerous fatalities, displacing thousands of people, and causing extensive damage to infrastructure and homes. It was the strongest hurricane on record to make landfall in The Bahamas, leaving a long-lasting impact on the affected communities and prompting a major humanitarian and reconstruction effort."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 102,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

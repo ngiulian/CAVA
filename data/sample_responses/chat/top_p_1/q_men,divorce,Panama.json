@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTb7dAXVvXDsrdBFDFfKL0wVcEXA",
+    "object": "chat.completion",
+    "created": 1705849225,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Panama tend to have negative opinions about divorce. They often view it as a failure or a sign of weakness in a marriage. Many men believe that divorce disrupts the stability of the family and the well-being of children. They may associate divorce with financial burden and fear the implications it might have on their personal and social lives. Overall, there is a prevalent belief among men in Panama that divorce should be avoided and that couples should work through their problems instead."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

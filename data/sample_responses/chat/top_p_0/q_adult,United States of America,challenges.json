@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTzWaobqPIJhDACggWTpWFmygOdb",
+    "object": "chat.completion",
+    "created": 1705850738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in the United States face a range of challenges, but some of the biggest ones include economic instability, healthcare costs, educational attainment, and work-life balance. Economic instability is a significant concern, with many adults struggling with job insecurity, stagnant wages, and high living costs. Healthcare costs are also a major challenge, as many adults struggle to afford insurance and medical expenses. Educational attainment is another issue, with adults facing barriers to accessing higher education and acquiring the necessary skills for a competitive job market. Lastly, work-life balance is a challenge, as adults often struggle to juggle their professional responsibilities with personal and family commitments."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 125,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

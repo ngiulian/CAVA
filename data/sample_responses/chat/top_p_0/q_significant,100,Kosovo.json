@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPwARlXurLLGngyPtDT75sTOTv0",
+    "object": "chat.completion",
+    "created": 1705856220,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Kosovo in the past 100 years is the Kosovo War, which took place from 1998 to 1999. The war was fought between the forces of the Federal Republic of Yugoslavia (led by Serbia) and the Kosovo Liberation Army (KLA), a separatist group seeking independence for Kosovo. The conflict resulted in a large-scale humanitarian crisis, with thousands of people killed and hundreds of thousands displaced. The war ended with the intervention of NATO forces, leading to the establishment of the United Nations Interim Administration Mission in Kosovo (UNMIK) and the eventual declaration of independence by Kosovo in 2008."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

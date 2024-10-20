@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSo22HQK40RPwEVWDVju0lbMcTrF",
+    "object": "chat.completion",
+    "created": 1705846182,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that views on abortion can vary among women in Albania, as beliefs and opinions are influenced by a range of factors including personal experiences, socio-cultural backgrounds, religious teachings, and individual values. However, in general, the topic of abortion in Albania is complex and often debated.\n\nHistorically, Albania had one of the strictest abortion laws in Europe, completely banning the practice during the communist era. However, following major socio-political changes in the 1990s, Albania adopted more liberal legislation, permitting abortion up to the 12th week of pregnancy. This change was influenced by the high number of unsafe abortions and associated health risks that took place when the practice was illegal.\n\nIn terms of societal perception, there exists a range of opinions regarding abortion among women in Albania. Some women hold conservative views, aligning with religious beliefs and cultural norms that recognize abortion as morally wrong or sinful. For those women, abortion is often considered a last resort, if at all an option, and alternative solutions such as adoption or raising the child are preferred.\n\nOn the other hand, many women in Albania value their reproductive rights and advocate for the right to choose, considering abortion as a personal decision that should be allowed within a well-regulated legal framework. They argue that women should have the agency to make choices about their own bodies and lives, especially in cases of unwanted pregnancies, health risks, or socio-economic factors.\n\nOverall, the perception of abortion among women in Albania is diverse, encompassing"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUoCNjkHq62DJwnTlNG6V6cwQ9U",
+    "object": "chat.completion",
+    "created": 1705848834,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Myanmar have a negative view of divorce. They generally believe that marriage is a lifelong commitment and consider divorce as a last resort or a sign of failure. Divorce is often stigmatized in society, and there is a societal expectation for couples to stay together and work through their differences. Men perceive divorce as disruptive to family harmony and may worry about societal judgment, financial implications, and the well-being of children. Consequently, men in Myanmar are more inclined to prioritize reconciliation and finding solutions to marital problems rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

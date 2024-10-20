@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHO9d6IQzCAmREo6EeNN0ZuOTJR",
+    "object": "chat.completion",
+    "created": 1705851846,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Federated States of Micronesia face include limited economic opportunities, high unemployment rates, inadequate healthcare access, limited access to clean water and sanitation, insufficient infrastructure, and vulnerability to natural disasters and climate change. Additionally, lack of educational opportunities, limited access to technology, and cultural barriers pose significant challenges for adults in their daily lives and overall development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 74,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

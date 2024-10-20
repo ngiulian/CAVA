@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUc2tZiLaYHXVXQoXSLMiXY9y3oM",
+    "object": "chat.completion",
+    "created": 1705853126,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Mauritius face various challenges, with some of the biggest ones being economic disparity, unemployment, access to quality healthcare, and high cost of living. \n\nEconomic disparity is a significant challenge in Mauritius, where a significant portion of the population struggles to make ends meet while only a few enjoy considerable wealth. This disparity creates social and economic inequalities, hindering upward mobility for many adults and further widening the wealth gap.\n\nUnemployment is another significant challenge, especially among the younger population. Limited job opportunities, lack of skills matching market demands, and competition make it difficult for adults to find stable and sustainable employment. This unemployment issue not only impacts individuals but also underscores broader socioeconomic issues within the country.\n\nAccess to quality healthcare is a concern for many adults in Mauritius. While there are public healthcare facilities, they may face challenges in terms of availability, affordability, and quality of services. Additionally, the cost of private healthcare is often beyond the reach of many individuals, making it challenging for them to receive necessary medical care.\n\nThe high cost of living in Mauritius is also a major challenge for adults. Prices of basic necessities, housing, and education have been rising, making it difficult for individuals and families to afford a decent standard of living. This situation further exacerbates economic disparities and affects the overall well-being of adults in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 268,
+        "total_tokens": 287
+    },
+    "system_fingerprint": null
+}

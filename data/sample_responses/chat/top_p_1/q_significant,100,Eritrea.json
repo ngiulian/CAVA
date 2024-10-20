@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVG46IEbFcXbR2EVp9Qicite8QhG",
+    "object": "chat.completion",
+    "created": 1705855608,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Eritrea in the past 100 years was its long struggle for independence from Ethiopia. Here is an overview of this event:\n\n- Eritrea was an Italian colony from the late 19th century until 1941 when British forces took control during World War II.\n- After the war, the United Nations gave Eritrea a federal status within a federation with Ethiopia in 1952.\n- However, in 1962, Ethiopian Emperor Haile Selassie abolished the federation, annexing Eritrea as its own province, which led to a 30-year-long armed struggle for independence.\n- The Eritrean War of Independence began in 1961 with various rebel groups, including the Eritrean Liberation Front (ELF) and the Eritrean People's Liberation Front (EPLF), fighting Ethiopian forces.\n- The war involved guerrilla warfare, mass mobilization, and a series of battles and diplomatic efforts.\n- In 1991, the EPLF, under the leadership of Isaias Afwerki, emerged as the dominant force among the rebel groups, taking control of the capital, Asmara.\n- A referendum on independence was held in Eritrea in 1993, and a vast majority of the population voted for separation from Ethiopia.\n- Eritrea officially gained independence on May 24, 1993, ending decades of armed struggle against Ethiopian rule.\n- Is"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 300,
+        "total_tokens": 326
+    },
+    "system_fingerprint": null
+}

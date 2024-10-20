@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSww4RiNSn8nKHItM35CkV71HqaV",
+    "object": "chat.completion",
+    "created": 1705846734,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Bolivia still have a negative perception of divorce. They tend to view marriage as a lifelong commitment and believe that divorce should only be considered as a last resort. Women often prioritize the stability and well-being of their families over personal desires or marital issues. This conservative mindset perceives divorce as a failure and a disruption to family values. Consequently, women in Bolivia often opt to endure unhappy marriages instead of seeking separation or divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 86,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

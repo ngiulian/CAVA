@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIAuSi16cT5pgKnhV8IrwabWBUR",
+    "object": "chat.completion",
+    "created": 1705855738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guinea in the past 5 years was the presidential election held in October 2020. Incumbent President Alpha Cond\u00e9 sought a controversial third term in office, leading to widespread protests and violence across the country. The election was marred by allegations of fraud and human rights abuses, resulting in numerous deaths and injuries. Ultimately, President Cond\u00e9 was declared the winner, extending his rule despite significant opposition. This event had a profound impact on Guinea's political landscape and raised concerns about democratic processes and stability in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

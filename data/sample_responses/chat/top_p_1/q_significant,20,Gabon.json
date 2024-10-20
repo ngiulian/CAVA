@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHSs8ZFl1ymBOvSyTXWJmPBJHKD",
+    "object": "chat.completion",
+    "created": 1705855694,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Gabon in the past 20 years is the death of Omar Bongo Ondimba, the country's long-serving president. Omar Bongo, one of Africa's longest-serving rulers, had been in power for 41 years, from 1967 until his death in 2009. His death was a transformative moment for Gabon as it marked the end of an era and raised uncertainties about the country's political future. The subsequent presidential election that followed his death resulted in the victory of his son, Ali Bongo, who succeeded him and became the country's president. This event had a profound impact on Gabonese politics and set the stage for a transition of power within the ruling family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 151,
+        "total_tokens": 176
+    },
+    "system_fingerprint": null
+}

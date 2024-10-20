@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWZLsUzYuCuqhPaJwkKhBi1mSqx",
+    "object": "chat.completion",
+    "created": 1705848943,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most men in Mauritius think of abortion as opinions on this topic can vary greatly among individuals. However, it is worth noting that Mauritius is a diverse country with a mix of cultural, religious, and social beliefs, which can influence people's perspectives on abortion. Some men in Mauritius may hold conservative views and oppose abortion due to religious or moral reasons, while others may support a woman's right to choose and believe in reproductive rights. Ultimately, opinions on abortion in Mauritius, as in any society, are likely to be diverse and influenced by personal, cultural, and religious factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 129,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGNGrTaCbm6nDq2Zphc7ZPtJbTY",
+    "object": "chat.completion",
+    "created": 1705847939,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion in Ireland are diverse and not universally shared. However, following the historic referendum in 2018, where the majority voted to repeal the Eighth Amendment of the Irish Constitution, which previously imposed a near-total ban on abortion, there is a growing acceptance and support for access to safe and legal abortion.\n\nMany women in Ireland now believe that women should have the right to make choices about their own bodies, including the decision to seek an abortion. They advocate for the availability of comprehensive reproductive healthcare services, counseling, and support to ensure that women can access safe and legal abortions within their own country. This perspective reflects a desire to prioritize women's health, autonomy, and reproductive rights.\n\nHowever, it is important to acknowledge that not all women in Ireland share this viewpoint, as people's opinions regarding abortion can vary for various reasons, including personal, religious, or cultural beliefs. Thus, it is essential to recognize that there is a range of opinions on the subject within the women of Ireland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 206,
+        "total_tokens": 225
+    },
+    "system_fingerprint": null
+}

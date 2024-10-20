@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUagXrcXzUeXEjgqo1uq8a7qA5Av",
+    "object": "chat.completion",
+    "created": 1705853042,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Montenegro face several challenges, including limited educational opportunities, high unemployment rates, substance abuse, and mental health issues. The education system in Montenegro is often criticized for its outdated curriculum and lack of resources, making it difficult for teenagers to acquire the necessary skills for future employment. Additionally, the country's high unemployment rates make it challenging for teenagers to find job opportunities and secure financial stability. Substance abuse, particularly alcohol and drug use, is also a prevalent issue among teenagers in Montenegro, leading to various health and social problems. Lastly, mental health issues such as depression, anxiety, and suicide rates are on the rise, with limited access to mental health services exacerbating the problem."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

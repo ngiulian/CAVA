@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToZ9gtT5bkwjYPnObr6iSR4GUtT",
+    "object": "chat.completion",
+    "created": 1705850059,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Tonga have a negative view of divorce. They see it as a taboo and view marriage as a lifelong commitment. Divorce is often seen as a failure of the relationship and a source of shame, as it goes against the cultural values of loyalty and family unity. Additionally, men in Tonga may consider divorce as financially and emotionally burdensome, causing concerns about the welfare of their children and potentially damaging their reputation within the community. Therefore, most men in Tonga strive to maintain their marriages and avoid divorce whenever possible."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 107,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

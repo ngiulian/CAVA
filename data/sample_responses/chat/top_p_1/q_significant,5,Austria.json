@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4I1mOUj7Y8jtFipFAJ77TUiZYh",
+    "object": "chat.completion",
+    "created": 1705854878,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Austria within the past five years is the formation and rise of the country's first right-wing populist government in late 2017. The Austrian People's Party (\u00d6VP), led by Sebastian Kurz, formed a coalition with the Freedom Party of Austria (FP\u00d6), which had a controversial history due to its far-right affiliations. This created concerns both domestically and internationally.\n\nThe coalition government's policies and actions triggered debates and controversies throughout its tenure. It implemented strict anti-immigration measures, cut welfare benefits, focused on national security, and advocated for a more conservative agenda. The government's formation and policies had a significant impact not only within Austria but also on the political discourse and the rise of right-wing populist movements in Europe.\n\nHowever, it is important to note that political events and their significance can be subjective, and other events such as the COVID-19 pandemic, which had a global impact including Austria, could also be considered significant."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 197,
+        "total_tokens": 221
+    },
+    "system_fingerprint": null
+}

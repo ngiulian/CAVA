@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVFvVVOK1c8zfJWl93k5xV5WqSWF",
+    "object": "chat.completion",
+    "created": 1705855599,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Eritrea in the past 5 years was the signing of a peace agreement with Ethiopia in 2018. After decades of hostilities and a two-year-long border war between the two countries from 1998 to 2000, the leaders of Eritrea and Ethiopia met and agreed to end the conflict, reestablish diplomatic relations, and reopen borders. This event marked a historic shift in the region, as it brought about peace and the potential for improved stability and economic cooperation between the two nations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 111,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

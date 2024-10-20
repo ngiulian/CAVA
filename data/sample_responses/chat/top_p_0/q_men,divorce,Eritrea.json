@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT865BZJVkbLi1fuU3HYi8jaapC8",
+    "object": "chat.completion",
+    "created": 1705847426,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Eritrea hold negative views towards divorce. They generally perceive divorce as a social taboo and believe that it goes against cultural and religious values. Men often view divorce as a failure of the husband to fulfill his responsibilities and maintain a stable family. They prioritize the preservation of the family unit and consider divorce as a disruption to social harmony."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 69,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

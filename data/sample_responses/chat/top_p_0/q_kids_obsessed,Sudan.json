@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVxHaTFIBC7pDV4aL4fXbSkKrtX1",
+    "object": "chat.completion",
+    "created": 1705858287,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Sudan, as their preferences can vary greatly. However, like kids in many other parts of the world, Sudanese children may be obsessed with various things such as technology, social media, video games, sports, music, fashion, and popular culture. It is important to note that individual interests and obsessions can differ significantly among children, and not all kids in Sudan will share the same preoccupations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 95,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

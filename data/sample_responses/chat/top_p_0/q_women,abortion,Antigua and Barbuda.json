@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSrTsTQ4IM6PbJ27NbAc95dkGSie",
+    "object": "chat.completion",
+    "created": 1705846395,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Antigua and Barbuda think of abortion as opinions on this topic can vary among individuals. However, it is worth noting that abortion is highly restricted in Antigua and Barbuda, with the law allowing it only to save the life of the pregnant woman. This suggests that there may be a conservative stance on abortion in the country. Nonetheless, individual opinions on this matter can differ, and some women may hold more liberal views regarding reproductive rights and access to safe and legal abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 108,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

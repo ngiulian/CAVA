@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWL6Jf2pKmQj27X1MLvmJDq7Ssr6",
+    "object": "chat.completion",
+    "created": 1705859764,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Sao Tome and Principe, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take you around 5-10 minutes to cover the distance.\n\n3. Public Transportation: Sao Tome and Principe may have local buses or minibusses that operate within the city. You can inquire about the nearest bus stop and take a bus to the grocery store. Check the local schedules and routes for availability.\n\n4. Taxi: Taxis are a common mode of transportation in Sao Tome and Principe. You can easily find a taxi on the streets or at designated taxi stands. Inform the driver about your destination, and they will take you directly to the grocery store.\n\nRemember to consider factors such as weather conditions, personal preferences, and availability of transportation options when deciding how to get to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 241,
+        "total_tokens": 270
+    },
+    "system_fingerprint": null
+}

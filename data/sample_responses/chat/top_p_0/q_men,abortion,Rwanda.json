@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTf8eSTSL4wvhLfIj1NrcSZXaKoJ",
+    "object": "chat.completion",
+    "created": 1705849474,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Rwanda think of abortion as opinions on this topic can vary greatly among individuals. However, it is important to note that Rwanda has a complex history with regards to reproductive rights and abortion. The country's laws generally prohibit abortion except in cases where the life of the pregnant woman is at risk or in cases of rape, incest, or fetal abnormalities. \n\nPublic opinion on abortion in Rwanda is influenced by various factors, including cultural, religious, and legal perspectives. Traditional values and religious beliefs often shape attitudes towards abortion, with some men adhering to conservative views that consider it morally wrong. However, it is important to recognize that not all men hold the same opinion, and there are individuals who support a woman's right to choose and advocate for safe and legal access to abortion.\n\nIt is crucial to approach this topic with sensitivity and respect for diverse perspectives, recognizing that individual opinions can differ significantly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 192,
+        "total_tokens": 211
+    },
+    "system_fingerprint": null
+}

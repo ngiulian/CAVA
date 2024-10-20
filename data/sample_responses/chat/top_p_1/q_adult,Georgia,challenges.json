@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHzLALrv8oheHGOP3lpmoyeVuw0",
+    "object": "chat.completion",
+    "created": 1705851883,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Georgia face several challenges, including economic struggles, high poverty rates, limited job opportunities, access to affordable healthcare, educational disparities, and a lack of affordable housing. The state's economy has fluctuated, leading to job insecurity and financial difficulties for many adults. Poverty rates in Georgia are higher than the national average, making it challenging for individuals to meet their basic needs and sustain a decent standard of living. Additionally, the state ranks low in terms of educational attainment, which can hinder career advancement and personal growth. Access to affordable healthcare is another significant challenge, with many adults lacking insurance coverage or facing high out-of-pocket costs. Lastly, the shortage of affordable housing options in Georgia further adds to the difficulties faced by adults, making it challenging to find safe and stable living arrangements."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 157,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

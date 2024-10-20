@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVElb0yicHSWHvIQdwplHj5qF5dc",
+    "object": "chat.completion",
+    "created": 1705855527,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Denmark in the past 20 years was the recognition of same-sex partnerships in 2012. Denmark became the first country in the world to legally recognize same-sex partnerships in 1989, however, this only provided limited rights. In 2012, Denmark passed legislation allowing same-sex couples to get married in the same way as opposite-sex couples, granting them the same rights and legal protections. This event marked a significant milestone in the fight for LGBTQ+ rights and set an important precedent for other countries worldwide."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

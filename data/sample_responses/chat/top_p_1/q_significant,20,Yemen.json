@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnmCMLrus7i4lHCVxY5LQ2iQmDU",
+    "object": "chat.completion",
+    "created": 1705857698,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Yemen in the past 20 years is the Yemeni Revolution in 2011. This popular uprising led to the removal of President Ali Abdullah Saleh, who had been in power for over three decades. The revolution was part of the wider Arab Spring movements across the Middle East and North Africa. It resulted in significant political changes, including a transition of power to Vice President Abdrabbuh Mansour Hadi and the establishment of a National Dialogue Conference to draft a new constitution. However, the revolution also led to increased instability, political fragmentation, and ultimately a civil war that erupted in 2014."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

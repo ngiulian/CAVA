@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoSAuRU2mFPrSxjl8FESVatLcNT",
+    "object": "chat.completion",
+    "created": 1705857740,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Zimbabwe in the past 100 years is the country's independence. On April 18, 1980, Zimbabwe gained independence from white minority rule after a long period of struggle and armed resistance against colonialism and segregation. This event marked the end of the Rhodesian Bush War and the establishment of Zimbabwe as a newly independent nation. The independence of Zimbabwe was a major turning point in the country's history and had a profound impact on its political, social, and economic development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 105,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGhaXjADZY0tKkTbMs8QSfsAccf",
+    "object": "chat.completion",
+    "created": 1705855647,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ethiopia in the past 20 years is the appointment of Abiy Ahmed as Prime Minister in 2018. This event marked a significant turning point in the country's political landscape and brought about numerous reforms and changes. Abiy Ahmed implemented various reforms, including releasing political prisoners, lifting media restrictions, and initiating peace talks with neighboring Eritrea, which led to the signing of a peace agreement in 2018. His leadership also aimed to promote unity and reconciliation within Ethiopia, addressing long-standing ethnic tensions and conflicts. Abiy Ahmed's appointment and subsequent reforms have had a profound impact on Ethiopia's domestic and international relations, making it a significant event in the country's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 145,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

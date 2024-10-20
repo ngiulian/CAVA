@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfWB1ZFBkQyl8JvCLYz8MTqmGbF",
+    "object": "chat.completion",
+    "created": 1705849498,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of the views of most women in Western Sahara regarding abortion as there is limited data available specifically on this topic. Moreover, views on abortion can vary greatly among individuals, influenced by personal beliefs, culture, religion, and socio-political factors. Therefore, any summary would be speculative and might not represent the diverse range of perspectives held by women in Western Sahara. It is important to acknowledge that discussing individual views on a sensitive issue like abortion requires respecting personal autonomy and allowing for differing opinions and choices."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 106,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

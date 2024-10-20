@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVsfdvHra91HX6XijOX0GzW2D5Xd",
+    "object": "chat.completion",
+    "created": 1705858001,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize and make a specific claim about what kids in Eritrea are obsessed with, as individual interests and preferences can vary widely among the youth population. However, like in many other parts of the world, Eritrean kids may show interests in various aspects such as technology, social media, sports, music, fashion, movies, and video games."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 75,
+        "total_tokens": 95
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWMrCx812WcBCdM6y1e7nBN0YOUK",
+    "object": "chat.completion",
+    "created": 1705859873,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Tunisia, you can consider the following transportation options:\n\n1. Walking: If the weather permits and you enjoy walking, you can choose to walk to the grocery store. It will take approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have access to a bicycle, you can ride it to the grocery store. This will be a quicker option compared to walking and could take around 5-7 minutes, depending on your cycling speed.\n\n3. Public Transportation: Check if there are any local buses or trams available in your area that can take you to the grocery store. Research the closest bus stop or tram station, and find out if there is a route that passes by or is near the store.\n\n4. Taxi or Rideshare: Another option is to take a taxi or use a rideshare service like Uber or Bolt. Book a taxi or a ride through the app and provide the destination as the grocery store. This will be a convenient option, especially if you have heavy grocery bags to carry on your way back.\n\nRemember to consider local transportation rules, regulations, and availability when choosing your mode of transportation in Tunisia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 251,
+        "total_tokens": 275
+    },
+    "system_fingerprint": null
+}

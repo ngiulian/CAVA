@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSyVLHU9FOYrcM1y0vCQwsWObKTT",
+    "object": "chat.completion",
+    "created": 1705846831,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate representation of what \"most\" men in Botswana think of abortion, as opinions on this topic can greatly vary among individuals. However, Botswana is a predominantly Christian country, and conservative religious beliefs often shape attitudes towards abortion. Many men in Botswana tend to hold conservative views on abortion, considering it morally wrong and generally opposing it. However, it is worth noting that attitudes towards abortion may differ depending on various factors such as age, education, socio-economic background, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 104,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

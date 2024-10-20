@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGivM6KN8kvntX936OgHqn3KMyq",
+    "object": "chat.completion",
+    "created": 1705851804,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Estonia face include social isolation, inadequate access to healthcare services, financial concerns, and limited digital skills. Social isolation is a prevalent issue as many seniors may live alone or lack strong social connections, leading to feelings of loneliness and depression. Access to healthcare services can be challenging for seniors, especially in remote areas, where there is a scarcity of medical facilities and long waiting times for specialized treatments. Financial concerns arise due to low pensions, high cost of living, and rising healthcare expenses, posing difficulties for seniors to meet their basic needs. Lastly, limited digital skills can hinder seniors' ability to adapt to the increasingly digitalized society, affecting their access to necessary online services and information."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTrpnmvKOr1K5O88nff5qzhrolG",
+    "object": "chat.completion",
+    "created": 1705848775,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Macedonia have a negative perception of divorce. They generally view it as a failure and a source of shame, believing that it reflects poorly on their ability to maintain a successful marriage. Men often prioritize the preservation of the family unit and traditional gender roles, where the husband is the breadwinner and the wife takes care of the household and children. Divorce is seen as a disruption to this idealized family structure and is often stigmatized. Additionally, men may fear the financial and emotional consequences of divorce, including the loss of assets and strained relationships with their children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

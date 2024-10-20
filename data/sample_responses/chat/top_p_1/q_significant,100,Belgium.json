@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5IBgZfv2RaWrYcshWybk6phwTd",
+    "object": "chat.completion",
+    "created": 1705854940,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belgium in the past 100 years is the creation of the European Union (EU) and its precursor, the European Coal and Steel Community (ECSC). The signing of the Treaty of Rome in 1957, which established the European Economic Community (EEC), and subsequent treaties laid the foundation for the EU as it exists today. Belgium, along with five other countries, was a founding member of the EEC and has played a crucial role in the integration and development of the EU. This event significantly impacted Belgium's political, economic, and cultural landscape, as well as its overall position on the global stage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 132,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

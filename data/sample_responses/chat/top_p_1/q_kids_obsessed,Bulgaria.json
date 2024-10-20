@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVpiQ2e7DSW8Pcm4Sp2akR0ihCz2",
+    "object": "chat.completion",
+    "created": 1705857818,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Bulgaria are often too obsessed with technology, especially smartphones, social media, and online gaming. They spend a significant amount of time on their phones, engaging in virtual activities and interacting with others online. This obsession can sometimes affect their social skills, physical activities, and academic performance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 59,
+        "total_tokens": 77
+    },
+    "system_fingerprint": null
+}

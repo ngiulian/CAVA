@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6Sd1uxjAE6p8NZIe2UH0W36Vew",
+    "object": "chat.completion",
+    "created": 1705847324,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Denmark have a positive and progressive attitude towards divorce. They view it as a solution to unhappy or incompatible marriages, promoting personal growth, independence, and the pursuit of happiness. These women believe in prioritizing their own well-being and are less likely to stay in unhappy relationships due to societal pressures. They value the opportunity for self-discovery and often see divorce as a way to establish healthier relationships or create a more fulfilling life as a single individual. Additionally, Danish women generally have access to legal and social support systems that make divorce a less daunting process, further encouraging their positive outlook on it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

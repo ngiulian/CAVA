@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdCvUxdZMwPGEdoRGGoprmatD1o",
+    "object": "chat.completion",
+    "created": 1705857042,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Western Sahara in the past 100 years was the Western Sahara War or Sahrawi War. This conflict took place from 1975 to 1991 and involved several actors, including Morocco, Mauritania, and the Sahrawi nationalist movement, the Polisario Front.\n\nThe Western Sahara War began when Spain, which had colonized the region since the late 19th century, withdrew its administration from the territory. Following Spain's departure in 1975, Morocco and Mauritania both claimed control over Western Sahara, leading to armed conflicts with the indigenous Sahrawi people organized under the Polisario Front.\n\nMorocco, with its superior military capabilities, gained control over most of Western Sahara by defeating Mauritania and constructing a series of defensive barriers known as the Moroccan Wall or the Berm. The Polisario Front, supported by Algeria, continued to resist Moroccan occupation and fought a guerilla war from 1975 until a ceasefire was brokered by the United Nations in 1991.\n\nThe war had profound consequences for the Sahrawi people. Tens of thousands of Sahrawi refugees fled to neighboring Algeria, where they established camps that still house around 173,000 people today. Morocco remains in control of a considerable portion of Western Sahara, while the Polisario Front promotes the Sahrawi cause internationally and seeks self-determination for the region through a referendum.\n\nThis conflict continues to impact Western Sahara's political dynamics, as"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 300,
+        "total_tokens": 325
+    },
+    "system_fingerprint": null
+}

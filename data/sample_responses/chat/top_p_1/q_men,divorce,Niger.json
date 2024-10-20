@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTY7ggQb0nMB3uhFWyHwVDjQdD9V",
+    "object": "chat.completion",
+    "created": 1705849039,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Niger have a negative view of divorce. They generally consider it socially unacceptable and something that goes against their cultural values. Men in Niger tend to believe that marriage is a lifelong commitment and divorce is seen as a failure, bringing shame upon both parties. They often prioritize the stability of the family unit and the preservation of societal norms over individual happiness or personal conflicts that may arise within a marriage. Divorce is generally seen as a last resort, and men typically value reconciliation and compromise in resolving marital issues."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 102,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

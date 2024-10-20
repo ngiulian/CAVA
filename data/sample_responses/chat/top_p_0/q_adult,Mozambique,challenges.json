@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUbPiLGPNHBRNgpVnEebfqIl8nAX",
+    "object": "chat.completion",
+    "created": 1705853087,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Mozambique face several significant challenges. One of the biggest challenges is poverty, as a large portion of the population lives below the poverty line. This leads to limited access to basic necessities such as food, clean water, healthcare, and education.\n\nAnother major challenge is the high unemployment rate, particularly among young adults. Limited job opportunities and a lack of skills training contribute to this issue, making it difficult for adults to secure stable and decent-paying jobs.\n\nAccess to healthcare is also a significant challenge, with limited healthcare facilities, especially in rural areas. This results in inadequate medical services and a lack of access to essential treatments and medications.\n\nFurthermore, Mozambique is prone to natural disasters such as cyclones, floods, and droughts. These events often lead to displacement, loss of livelihoods, and food insecurity, posing additional challenges for adults in the country.\n\nLastly, gender inequality is a persistent challenge, with women facing discrimination and limited opportunities for education and employment. This hinders their ability to fully participate in the economy and society.\n\nOverall, poverty, unemployment, limited access to healthcare, natural disasters, and gender inequality are some of the biggest challenges faced by adults in Mozambique."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 238,
+        "total_tokens": 257
+    },
+    "system_fingerprint": null
+}

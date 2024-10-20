@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUoZr2gPL2uRHENEKsy3GifybSzj",
+    "object": "chat.completion",
+    "created": 1705853903,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in the Republic of Serbia face include economic difficulties, high unemployment rates, low wages, and a lack of job opportunities. Corruption and bureaucracy may hinder progress and prevent individuals from fully realizing their potential. Health care concerns, including limited access and affordability, can also be challenging. In addition, political instability and the lasting effects of past conflicts can impact social cohesion and the overall quality of life. Limited access to quality education and a lack of skilled workforce contribute to the persistence of these challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 103,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

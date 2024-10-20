@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuSjGlWrj6qPhwFlbxe5cFZgd1S",
+    "object": "chat.completion",
+    "created": 1705846580,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that individuals' opinions on abortion can vary greatly, and it would be incorrect to assume that all men in Bulgaria hold the same stance on this topic. That being said, societal attitudes towards abortion in Bulgaria are somewhat complex. Many men in Bulgaria have conservative views based on traditional values, religious beliefs, and cultural influences. These individuals often oppose abortion, considering it morally wrong and advocating for protection of unborn life. Additionally, some men may align with conservative political groups or religious institutions that express anti-abortion sentiments.\n\nHowever, it is crucial to acknowledge that Bulgaria is a diverse country, and opinions on abortion can differ significantly among men based on factors such as education, socio-economic background, and personal experiences. Some men might support a woman's right to choose and believe that access to safe and legal abortion is essential for women's reproductive rights and bodily autonomy. This pro-choice perspective may be more prevalent among younger, urban, and more progressive sections of the population.\n\nOverall, while some men in Bulgaria generally hold conservative views against abortion, it is crucial to recognize that there is no single opinion that represents all men in the country, and attitudes towards this issue can greatly vary among individuals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 238,
+        "total_tokens": 257
+    },
+    "system_fingerprint": null
+}

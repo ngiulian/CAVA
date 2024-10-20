@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKPkYMlqkuxCF5beIk2zIzgkLC2",
+    "object": "chat.completion",
+    "created": 1705855877,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Croatia in the past five years was the country's accession to the European Union (EU) on July 1, 2013. This marked a major milestone for Croatia, as it became the 28th member state of the EU. The accession brought several economic and political benefits to Croatia and further integrated it into the European community, opening up new opportunities for trade, tourism, and development. It also signified Croatia's successful efforts in meeting the EU's political and economic criteria for membership."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 108,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

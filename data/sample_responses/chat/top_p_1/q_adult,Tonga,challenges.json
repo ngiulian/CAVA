@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUtoh84xD7pZLhomrxvJVuB0m0xg",
+    "object": "chat.completion",
+    "created": 1705854228,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by adults in Tonga include limited job opportunities, lack of access to quality education and healthcare, high cost of living, and vulnerability to natural disasters. Unemployment rates in Tonga are relatively high, leading to financial hardships for many adults. Additionally, the country's education system is hindered by limited resources, resulting in subpar educational opportunities for adults. The healthcare system also faces challenges, with inadequate infrastructure and a shortage of healthcare professionals. The cost of living in Tonga is relatively high, making it difficult for adults to meet their basic needs. Furthermore, the region is prone to natural disasters like cyclones and earthquakes, which often result in property damage and hinder economic development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 142,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

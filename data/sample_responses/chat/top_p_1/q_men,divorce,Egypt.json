@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT7bgGtmTIG7xwEClB3OmHo19oGE",
+    "object": "chat.completion",
+    "created": 1705847395,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Egypt generally have a negative opinion about divorce. They believe that divorce is a last resort and should only be considered when all efforts to reconcile and save the marriage have failed. Men tend to view divorce as a social stigma and a failure that reflects poorly on their reputation and masculinity. Additionally, they often perceive divorce as an undesirable outcome due to its potential negative impact on their financial and social status, as well as on their children's well-being. However, it's important to note that individual opinions may vary, and some men in Egypt might hold more progressive views on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

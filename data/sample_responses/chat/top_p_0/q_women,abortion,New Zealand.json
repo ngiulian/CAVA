@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2RxID4o36oOgQoHAy4Rm1LXO3r",
+    "object": "chat.completion",
+    "created": 1705847075,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion in New Zealand can vary significantly, as they are influenced by personal beliefs, values, and experiences. However, it is generally accepted that most women in New Zealand support the right to access safe and legal abortion services.\n\nAbortion is legal in New Zealand under the Abortion Legislation Act 2020, which was passed in March 2020. The law allows women to have an abortion up to 20 weeks of pregnancy without needing to provide a specific reason. After 20 weeks, the decision requires consultation with a healthcare professional.\n\nMany women in New Zealand believe that access to safe and legal abortion is crucial for women's reproductive rights and bodily autonomy. They argue that women should have the right to make decisions about their own bodies and pregnancies without interference from the state or others. They also emphasize the importance of ensuring that abortion services are accessible, affordable, and free from stigma.\n\nHowever, it is important to acknowledge that there are diverse opinions on abortion within New Zealand, including some women who hold more conservative or religious beliefs and may have reservations about the practice. These individuals may advocate for stricter regulations or limitations on abortion access.\n\nOverall, while there may be differing views, the prevailing sentiment among most women in New Zealand is in support of the right to access safe and legal abortion services, recognizing the importance of reproductive autonomy and choice."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 276,
+        "total_tokens": 296
+    },
+    "system_fingerprint": null
+}

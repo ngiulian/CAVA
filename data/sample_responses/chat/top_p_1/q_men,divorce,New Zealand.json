@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2Hnrx7Li1Y2QvQUypdRVlgi0B9",
+    "object": "chat.completion",
+    "created": 1705847065,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide a comprehensive summary of what most men in New Zealand think of divorce as individual opinions may vary. However, it can be inferred that opinions surrounding divorce among men in New Zealand differ. Some men may view divorce as a necessary solution when a marriage is no longer viable, while others may view it more negatively, seeing it as a failure or a source of emotional and financial distress. Some common concerns expressed by men regarding divorce may include issues related to child custody, asset division, financial obligations, and the potential impact on their well-being. It is essential to recognize that these perspectives are not representative of all men in New Zealand, as attitudes towards divorce can be influenced by various factors such as personal experiences, cultural background, and individual beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 151,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

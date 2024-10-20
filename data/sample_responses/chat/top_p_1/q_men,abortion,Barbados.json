@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxLbOoVXteIiWwW4gMEetKkYV3i",
+    "object": "chat.completion",
+    "created": 1705846759,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible for us to provide an accurate summary of what most men in Barbados think of abortion as we do not have access to real-time public opinion data from the region. Public attitudes towards abortion vary widely across individuals and communities, and it would be inappropriate to make broad generalizations without reliable and recent survey data. It is recommended to refer to credible opinion polls or studies conducted in Barbados for a better understanding of the various viewpoints on abortion in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

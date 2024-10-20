@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSn0Q1crds7o4BdONDGGpTAPKJT1",
+    "object": "chat.completion",
+    "created": 1705846118,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an exact summary of what most men in Angola think of abortion as opinions might vary among individuals. However, it is worth noting that Angola is a predominantly Catholic country where religious beliefs often influence people's views on social issues, including abortion.\n\nIn general, many men in Angola, particularly those who adhere to traditional Catholic beliefs, may hold conservative views toward abortion. The Catholic Church strictly opposes abortion, considering it a sin and a violation of the sanctity of life. Consequently, some men in Angola may align with these religious teachings and perceive abortion as morally wrong.\n\nHowever, it is essential to recognize that not all men in Angola share the same perspective. Opinions can differ based on factors such as education, socio-economic background, urban or rural residence, exposure to diverse viewpoints, and personal experiences. Some men might support more liberal perspectives, acknowledging the importance of women's reproductive rights, and advocate for access to safe and legal abortion in certain circumstances. These individuals may consider factors such as a woman's autonomy, health, and well-being, as well as situations involving rape, incest, or severe fetal abnormalities.\n\nOverall, while some men in Angola might hold traditional and conservative views on abortion due to religious influences, it is crucial to recognize the diversity of opinions and acknowledge that attitudes may differ across different segments of society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 266,
+        "total_tokens": 285
+    },
+    "system_fingerprint": null
+}

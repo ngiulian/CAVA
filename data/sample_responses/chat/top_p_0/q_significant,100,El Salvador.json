@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfDP9AsMavA5LIsQYJEEMXcsFDY",
+    "object": "chat.completion",
+    "created": 1705857167,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in El Salvador in the past 100 years is the Salvadoran Civil War (1980-1992). This conflict had a profound impact on the country, resulting in significant loss of life, displacement of people, and social and economic devastation. The war was fought between the military-led government and various leftist guerrilla groups, primarily the Farabundo Marti National Liberation Front (FMLN). It was characterized by human rights abuses, including massacres, forced disappearances, and the targeting of civilians. The war ended with the signing of the Chapultepec Peace Accords in 1992, which brought about a ceasefire and initiated a process of political and social reforms in the country. The civil war had a lasting impact on El Salvador, shaping its political landscape and leaving a legacy of social and economic challenges that the country continues to face today."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 179,
+        "total_tokens": 204
+    },
+    "system_fingerprint": null
+}

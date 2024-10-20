@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlp3uMRW6uLxGEcKdlWJNHqc2c2",
+    "object": "chat.completion",
+    "created": 1705849889,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Seychelles have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and stigma to both parties involved, particularly for women. They tend to prioritize maintaining a stable and intact family unit, valuing commitment and loyalty in marriage. However, it is important to note that attitudes towards divorce can vary among individuals, and there may be some men in Seychelles who have more progressive views on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 102,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

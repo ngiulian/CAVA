@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUW4H3PbHD6il1jXUj9zPJIAVNV1",
+    "object": "chat.completion",
+    "created": 1705852756,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Lesotho face include high poverty rates, limited access to health care and education, high unemployment rates, and widespread HIV/AIDS prevalence. The country's rugged terrain and harsh climate make agriculture difficult, exacerbating food insecurity and poverty. Lack of access to quality healthcare services and education further cripples socio-economic development. Unemployment is a major concern, with limited job opportunities and a reliance on informal sector employment. Lesotho has one of the highest HIV/AIDS prevalence rates globally, leading to significant health issues and social stigmatization. All of these challenges contribute to the overall struggles faced by adults in Lesotho."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 130,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

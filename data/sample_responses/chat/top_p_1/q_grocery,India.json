@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWAUptDCiuWhJgrKpTjKBZlgHdea",
+    "object": "chat.completion",
+    "created": 1705859106,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in India, you have several transportation options depending on your preferences and availability:\n\n1. Walking: If the store is within comfortable walking distance, walking can be a good option. Check the route on a map or ask for directions to ensure you're going in the right direction.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a quicker and more convenient way to reach the store. Just ensure you follow traffic rules and stay safe on the road.\n\n3. Auto-rickshaw: Auto-rickshaws, commonly available in urban areas of India, are small three-wheeled vehicles. You can easily find one near your location, negotiate a fare, and ask the driver to take you to the grocery store.\n\n4. Taxi or Ride-hailing service: Taxis or ride-hailing services like Uber or Ola are widely available in major cities. Just book a taxi through their app or catch one on the street, and inform the driver about your destination.\n\n5. Public buses: If there are public bus routes near your location and the grocery store, you can check the routes and schedules to find the bus that goes to your destination. Note that buses can sometimes be crowded, so keep that in mind during peak hours.\n\n6. Metro or train: In larger cities like Delhi, Mumbai, or Bengaluru, you may have access to metro or train services. If there's a station near your"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

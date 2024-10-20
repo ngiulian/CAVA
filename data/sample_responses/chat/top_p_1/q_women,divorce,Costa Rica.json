@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3qgzWW6pfK6Vnw6BjYsw3ytKnP",
+    "object": "chat.completion",
+    "created": 1705847162,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Costa Rica have a generally positive view of divorce. They recognize that divorce can be a necessary step to end an unhappy or abusive relationship. They believe that women should have the right to make decisions about their own lives, including the decision to end a marriage. Women in Costa Rica also tend to support laws and policies that promote gender equality and protect women's rights during and after divorce. There is a growing acceptance of divorce as a normal aspect of modern life and a recognition that it can lead to personal growth and happiness for women."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 108,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

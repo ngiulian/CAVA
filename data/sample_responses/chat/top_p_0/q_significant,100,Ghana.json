@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVI589HS4QQeMDpy1GSrmpJruP4f",
+    "object": "chat.completion",
+    "created": 1705855733,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ghana in the past 100 years is the country's independence from British colonial rule. On March 6, 1957, Ghana became the first sub-Saharan African country to gain independence, marking a major milestone in the decolonization movement across the continent. This event not only had a profound impact on Ghana but also inspired and influenced other African nations in their struggle for independence. The leader of the independence movement, Kwame Nkrumah, became Ghana's first Prime Minister and later its first President, playing a crucial role in shaping the country's post-independence trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 125,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

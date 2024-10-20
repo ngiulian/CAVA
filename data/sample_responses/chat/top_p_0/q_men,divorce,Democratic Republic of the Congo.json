@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1bozVxJSEqVwa2GlJTOKavuO9g",
+    "object": "chat.completion",
+    "created": 1705847023,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Democratic Republic of the Congo hold negative views towards divorce. They generally perceive divorce as a social taboo and believe that it goes against traditional values and norms. Men often view divorce as a failure of the husband to fulfill his responsibilities and maintain a stable family. Additionally, divorce is often seen as a threat to the social status and reputation of men within their communities. Consequently, most men in the Democratic Republic of the Congo tend to discourage divorce and prioritize maintaining the unity of the family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 99,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

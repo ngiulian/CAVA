@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUT8J6uS66N8Zm5zfiIDIQhOYwA",
+    "object": "chat.completion",
+    "created": 1705848813,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Malta have a negative perception of divorce. They generally view divorce as a social taboo and believe that marriage should be a lifelong commitment. Men in Malta tend to prioritize traditional family values and the sanctity of marriage, often influenced by religious and cultural beliefs. They may perceive divorce as a failure or a sign of personal weakness. However, it is important to note that opinions on divorce can vary among individuals and may not be universally applicable to all men in Malta."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

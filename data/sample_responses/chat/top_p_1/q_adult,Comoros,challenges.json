@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBHCENOx1V8k8sZqwklxTlLWelN",
+    "object": "chat.completion",
+    "created": 1705851467,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Comoros face several significant challenges. One of the biggest challenges is the high levels of unemployment, particularly for young adults. Limited job opportunities and a lack of skilled workforce contribute to this problem, leading many adults to struggle to find stable employment and support their families. \n\nAnother major challenge is poverty and the lack of access to basic necessities. Many adults in Comoros struggle to afford food, clean water, healthcare, and education for themselves and their families. The country's weak infrastructure and limited resources exacerbate this issue.\n\nHealthcare is also a significant challenge, with limited access to quality medical facilities and services. Many adults face difficulties in receiving timely and affordable healthcare, leading to issues in managing their health and well-being.\n\nAdditionally, the low levels of education and skills training opportunities pose a challenge for adults in Comoros. Limited access to quality education and vocational training programs hampers the prospects for career advancement and personal development.\n\nLastly, political instability and frequent government changes create uncertainties and hinder economic growth, affecting job opportunities and overall stability for adults in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 217,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

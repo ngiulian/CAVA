@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVll7hZ6kHK6kOkzNZ2PgiyVHE0l",
+    "object": "chat.completion",
+    "created": 1705857573,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Uruguay in the past 5 years was the legalization of recreational marijuana in 2013. Uruguay became the first country in the world to fully legalize marijuana from production to sale, with the aim of controlling and reducing drug-related crimes. This decision had a major impact on the country, sparking debates worldwide about drug policies and challenging the status quo. The implementation of the law since then has also had social, cultural, and economic implications for Uruguay."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 97,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

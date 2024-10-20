@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAcnDRli6aaN8XALy6e6jk39YRG",
+    "object": "chat.completion",
+    "created": 1705855270,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Ivory Coast in the past 5 years was the presidential election held in October 2020. Incumbent President Alassane Ouattara sought a controversial third term, which sparked widespread protests and violence across the country. The opposition argued that his candidacy violated the constitutional two-term limit. The election resulted in Ouattara's victory, but it was marred by boycotts, clashes, and allegations of electoral fraud. The event highlighted the political tensions and divisions within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 106,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

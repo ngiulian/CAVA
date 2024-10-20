@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrKOo3py6utoL69CFq3kDiwPaN5",
+    "object": "chat.completion",
+    "created": 1705850230,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Ukraine have a traditional mindset and tend to hold negative views towards divorce. They generally see divorce as a failure and believe that a strong marriage should be maintained at all costs. Men in Ukraine often prioritize the preservation of family values and the emotional well-being of their children over personal fulfillment or happiness that may come from ending an unhappy marriage. They tend to approach divorce with caution and prefer to work on resolving conflicts within the marriage rather than opting for separation or divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

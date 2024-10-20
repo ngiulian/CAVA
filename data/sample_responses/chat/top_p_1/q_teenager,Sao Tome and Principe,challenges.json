@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUooJKBVk33JtdZ01KDb21b4kXF4",
+    "object": "chat.completion",
+    "created": 1705853918,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges teenagers in Sao Tome and Principe face can be summarized as follows:\n\n1. Limited access to education: Teenagers in Sao Tome and Principe often face challenges in accessing quality education due to inadequate school infrastructure, teacher shortages, and limited resources. This hinders their ability to acquire essential knowledge and skills for their personal and professional development.\n\n2. High unemployment rates: The lack of job opportunities and a struggling economy make it difficult for teenagers to find employment after completing their education. This leads to a higher likelihood of poverty and restricted prospects for their future.\n\n3. Health-related issues: Teenagers in Sao Tome and Principe face various health challenges, including limited access to healthcare services, high rates of teenage pregnancies, and the risk of contracting sexually transmitted infections. These health issues can have long-term consequences on their well-being and future opportunities.\n\n4. Limited recreational activities: There is often a lack of recreational activities and safe spaces for teenagers to engage in constructive hobbies and leisure activities. This can contribute to boredom, limited social interactions, and potentially increase the likelihood of engaging in negative behaviors.\n\n5. Gender inequality and discrimination: Gender inequality persists in Sao Tome and Principe, with teenage girls facing specific challenges such as limited access to education, higher rates of early marriage and teenage pregnancy, and societal pressures that restrict their freedom and opportunities.\n\n6. Substance abuse and crime: Some teenagers in Sao Tome and Principe might face the temptation to engage in substance abuse or criminal activities"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 300,
+        "total_tokens": 323
+    },
+    "system_fingerprint": null
+}

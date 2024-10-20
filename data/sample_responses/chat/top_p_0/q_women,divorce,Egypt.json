@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT7v4STGGtbvvdxaNye5TQDq3jkv",
+    "object": "chat.completion",
+    "created": 1705847415,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Egypt have mixed opinions about divorce. While some women view divorce as a necessary option to escape abusive or unhappy marriages, others believe that divorce should be a last resort and prefer to work on their marriages. Many women face societal pressure to stay in unhappy marriages due to cultural and religious norms that prioritize the preservation of the family unit. However, there is a growing trend of women becoming more empowered and seeking divorce to assert their rights and pursue personal happiness. Overall, the attitudes towards divorce among women in Egypt vary depending on individual circumstances, cultural influences, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

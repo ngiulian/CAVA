@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV106foFcXfzeOCZRSn8FbINKQlA",
+    "object": "chat.completion",
+    "created": 1705854674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Angola in the past 5 years was the election of Jo\u00e3o Louren\u00e7o as the President of Angola in August 2017. This marked the end of Jos\u00e9 Eduardo dos Santos' 38-year rule, making it a historic moment for the country. Louren\u00e7o's election brought hope for political and economic reforms, as he promised to fight corruption, diversify the economy, and improve governance. This transition of power was seen as a significant step towards a new era in Angola's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

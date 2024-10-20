@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5WzuZIYG11xjsKqTjUqXnic4dI",
+    "object": "chat.completion",
+    "created": 1705854954,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Benin in the past 20 years was the peaceful democratic transition of power in 2006. After nearly three decades of authoritarian rule under President Mathieu K\u00e9r\u00e9kou, Benin held presidential elections in March 2006. The incumbent president, K\u00e9r\u00e9kou, respected the constitution and stepped down, allowing for a peaceful transfer of power to the newly elected president, Boni Yayi. This event marked a significant milestone in Benin's democratic development and demonstrated the country's commitment to democratic principles."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 113,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

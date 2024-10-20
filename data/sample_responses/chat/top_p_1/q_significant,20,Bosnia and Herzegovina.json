@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7BikSVrYX1FtCCoyEK9oDMmeNa",
+    "object": "chat.completion",
+    "created": 1705855057,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bosnia and Herzegovina in the past 20 years was the Srebrenica genocide in July 1995. During the Bosnian War, Bosnian Serb forces, led by General Ratko Mladi\u0107, captured the town of Srebrenica, which was declared a United Nations Safe Area. Despite the presence of Dutch peacekeeping forces, Bosnian Serb forces systematically killed over 8,000 Bosniak (Bosnian Muslim) men and boys and forcibly expelled thousands of others in what is now known as the worst genocide committed in Europe since World War II. It was later classified as an act of genocide by the International Criminal Tribunal for the former Yugoslavia and recognized as such by the international community. The Srebrenica genocide remains a dark chapter in Bosnia and Herzegovina's recent history, highlighting the atrocities committed during the war and the failure of international efforts to prevent it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 197,
+        "total_tokens": 225
+    },
+    "system_fingerprint": null
+}

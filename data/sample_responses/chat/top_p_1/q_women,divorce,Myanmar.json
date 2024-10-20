@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTV2Xr2gvmc0woFmgEHq7UuK92Sc",
+    "object": "chat.completion",
+    "created": 1705848848,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Myanmar generally view divorce as a last resort and consider it a socially unacceptable option. They tend to prioritize maintaining their family and their reputation within the community over personal happiness. Therefore, divorce is often stigmatized and is perceived as a failure on the woman's part to sustain a successful marriage. Women may fear the consequences of divorce, such as losing custody of their children, financial insecurity, and negative judgment from society. Despite facing significant challenges in their marriages, women often endure difficult situations and try to find ways to resolve conflicts instead of seeking separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

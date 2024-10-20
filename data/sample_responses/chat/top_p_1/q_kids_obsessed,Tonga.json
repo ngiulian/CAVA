@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVyr42A1aXLgFAnZjZXAjNG8LCGb",
+    "object": "chat.completion",
+    "created": 1705858385,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to make a specific statement about what kids in Tonga are obsessed with, as personal interests and obsessions can vary among individuals. However, like kids in many other parts of the world, children in Tonga may be interested in various forms of entertainment, technology, social media, sports, fashion, or other popular trends among their peers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 71,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

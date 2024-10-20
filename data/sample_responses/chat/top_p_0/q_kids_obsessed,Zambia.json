@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVzsAlohwsNWxkvOAOKtoKFh0nFM",
+    "object": "chat.completion",
+    "created": 1705858448,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Zambia, as their preferences can vary greatly. However, like kids in many other parts of the world, some common obsessions among Zambian children may include:\n\n1. Technology and gadgets: Many kids in Zambia, like elsewhere, are fascinated by smartphones, tablets, video games, and other electronic devices.\n\n2. Social media: With the increasing availability of internet access, social media platforms such as Facebook, Instagram, and TikTok have gained popularity among Zambian kids, who may spend a significant amount of time on these platforms.\n\n3. Music and dance: Zambian kids often enjoy listening to music and engaging in various dance styles, including traditional Zambian dances and contemporary dance trends.\n\n4. Sports: Football (soccer) is immensely popular in Zambia, and many kids are passionate about playing and following the sport. Other sports like basketball, netball, and athletics also attract young enthusiasts.\n\n5. Fashion and trends: Like kids worldwide, Zambian children may be interested in following fashion trends, including clothing styles, hairstyles, and accessories.\n\n6. Television and movies: Kids in Zambia may be obsessed with popular TV shows, cartoons, and movies, both local and international.\n\n7. Education and academic achievements: Many Zambian children are focused on their studies and strive for academic success, as education is highly valued in the country.\n\nIt is important to note that these are general observations and not all"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

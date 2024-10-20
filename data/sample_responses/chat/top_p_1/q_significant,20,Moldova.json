@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTTgpRLqEylo4PPHGfPrPYkyyVr",
+    "object": "chat.completion",
+    "created": 1705856439,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One significant event that happened in Moldova in the past 20 years is the Moldovan parliamentary elections of 2009. These elections sparked widespread protests and led to a political crisis known as the \"April 2009 Moldovan parliamentary election protests\" or the \"Twitter Revolution.\" \n\nFollowing the election results, which favored the governing Communist Party, thousands of Moldovans, mostly young people, took to the streets claiming electoral fraud and to express their dissatisfaction with the government. The protests turned violent when a group of protesters stormed the parliament building, known as the Parliament Square Assault. \n\nThis event marked a turning point in Moldova's political landscape, as it led to increased political activism, support for pro-European integration, and the subsequent rise of opposition parties. It also brought issues of democratic values, governance, and corruption to the forefront of national discussions. The events of 2009 significantly influenced Moldova's political developments over the following years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 189,
+        "total_tokens": 214
+    },
+    "system_fingerprint": null
+}

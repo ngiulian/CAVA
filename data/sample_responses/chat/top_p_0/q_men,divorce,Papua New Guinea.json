@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcQ7wnkWHXM33AhwK6TXVpNVJkc",
+    "object": "chat.completion",
+    "created": 1705849306,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Papua New Guinea hold negative views towards divorce. They generally perceive divorce as a shameful and dishonorable act that goes against their cultural and traditional values. Men often believe that divorce brings disgrace to the family and community, and it is seen as a failure to maintain a stable and harmonious marriage. Additionally, divorce is often associated with financial burdens and the loss of property or assets, which further discourages men from considering it as an option. Consequently, most men in Papua New Guinea tend to prioritize maintaining their marriages and resolving conflicts within the family rather than pursuing divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 116,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

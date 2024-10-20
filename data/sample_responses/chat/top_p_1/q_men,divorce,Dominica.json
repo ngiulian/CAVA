@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT657gppnAfp2UDYynOcenN4NtKV",
+    "object": "chat.completion",
+    "created": 1705847301,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Dominica have a negative perception of divorce. They generally consider it as a last resort and see it as a social taboo or a failure in their marital relationship. They often prioritize commitment and traditional family values, believing that marriages should be long-lasting and enduring. Men in Dominica commonly expect mutual effort, compromise, and reconciliation in dealing with relationship issues, rather than seeking divorce. However, it is crucial to note that individual opinions can vary among men in Dominica, and not all hold the same perspective on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 106,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

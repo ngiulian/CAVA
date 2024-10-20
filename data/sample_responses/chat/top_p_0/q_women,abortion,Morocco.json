@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRYNakERChZDgvTR12i6Ngln94h",
+    "object": "chat.completion",
+    "created": 1705848632,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Morocco. However, in Morocco, abortion is generally considered a sensitive and controversial topic. The majority of women in the country adhere to conservative cultural and religious beliefs, which often view abortion as morally wrong and unacceptable. These beliefs are influenced by Islam, which generally prohibits abortion except in cases where the mother's life is at risk. Consequently, many women in Morocco may hold negative views towards abortion and consider it as a violation of religious and cultural norms. However, it is essential to recognize that there may be diverse opinions and perspectives on this matter among women in Morocco."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

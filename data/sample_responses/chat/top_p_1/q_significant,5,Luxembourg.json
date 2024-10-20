@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSUpU92X1zcMAq7hY15g4DRHlCR",
+    "object": "chat.completion",
+    "created": 1705856378,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Luxembourg in the past 5 years was the 2019 national parliamentary elections. These elections resulted in a historical shift in power, with the Democratic Party (DP) winning the highest number of seats and forming a coalition government with the Luxembourg Socialist Workers' Party (LSAP) and the Greens. This marked the first time in over 30 years that the Christian Social People's Party (CSV), which had been in power for most of Luxembourg's recent history, was not part of the ruling coalition. The new government, with Xavier Bettel as the Prime Minister, has since focused on issues such as climate change, social welfare, and digitalization."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 139,
+        "total_tokens": 163
+    },
+    "system_fingerprint": null
+}

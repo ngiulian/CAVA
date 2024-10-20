@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1Q8kj8K7DsjNK0iaBvZ8KQOTvl",
+    "object": "chat.completion",
+    "created": 1705854700,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the United Kingdom in the past 20 years is the Brexit referendum held on June 23, 2016. This referendum resulted in the decision for the UK to leave the European Union (EU), after being a member for over four decades. The vote to leave, often referred to as \"Brexit,\" had wide-ranging political, economic, and social consequences within the UK and across the globe. It led to changes in leadership, deep divisions among the population, and ongoing negotiations to shape a new relationship between the UK and the EU. The impact of Brexit continues to be felt in various aspects of British society, making it a highly significant event in recent UK history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 143,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

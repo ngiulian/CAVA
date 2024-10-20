@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUo7L85maFprwq3vurwJ5FOsgLXs",
+    "object": "chat.completion",
+    "created": 1705853875,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Somalia face numerous challenges, including limited access to education and healthcare, high rates of poverty, political instability, and the threat of violence and recruitment by armed groups. The ongoing conflict and insecurity in the country have disrupted the education system, leaving many teenagers without proper schooling opportunities. Additionally, poverty and unemployment rates are high, making it difficult for teenagers to secure a stable future. The lack of healthcare facilities and services further exacerbates their vulnerability to diseases and health issues. Furthermore, the presence of armed groups and the risk of recruitment pose a constant threat to their safety and well-being. Overall, these challenges hinder the development and prospects of teenagers in Somalia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 132,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

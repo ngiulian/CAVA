@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLVMA7wmMbI3PQm132gAJVGTend",
+    "object": "chat.completion",
+    "created": 1705859789,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Sweden, you have several options depending on your preferences and circumstances. Here are a few suggestions:\n\n1. Walking: If the weather permits and you enjoy walking, you can simply walk to the grocery store. It will take approximately 10-15 minutes to cover a distance of 1km by foot.\n\n2. Cycling: Sweden has a well-developed cycling infrastructure, and cycling is a popular mode of transportation. If you have a bicycle, you can ride to the grocery store, which will likely take you around 5-10 minutes.\n\n3. Public transportation: If you prefer not to walk or cycle, you can check if there is a bus or tram station near your location. Public transportation in Sweden is efficient, and you can use the local transportation authority's website or app to find the best routes and schedules to reach your destination.\n\n4. Car or motorbike: If you own a car or motorbike, you can use it to reach the grocery store in a matter of minutes. Make sure to follow the traffic rules and consider parking availability near the store.\n\n5. Taxi or rideshare services: If you prefer a more convenient and door-to-door option, you can order a taxi or use rideshare services such as Uber or Lyft to take you to the grocery store directly.\n\nRemember to respect traffic rules and regulations, use designated paths if available, and consider any COVID-19 restrictions that may affect public transportation or shared"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

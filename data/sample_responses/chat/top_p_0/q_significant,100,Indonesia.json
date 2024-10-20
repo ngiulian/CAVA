@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLHh0B6bcDKZK7teAJgBbDfMBjp",
+    "object": "chat.completion",
+    "created": 1705855931,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Indonesia in the past 100 years is the proclamation of Indonesian independence on August 17, 1945. This event marked the end of Dutch colonial rule and the beginning of Indonesia as an independent nation. It was a pivotal moment in the country's history and led to the establishment of the Republic of Indonesia. The proclamation of independence is celebrated annually as Indonesia's Independence Day and is considered a defining moment in the nation's struggle for freedom and self-determination."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 101,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

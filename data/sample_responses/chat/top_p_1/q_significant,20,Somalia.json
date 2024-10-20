@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfnEBwMgBfvrdxwntqiRzza55e4",
+    "object": "chat.completion",
+    "created": 1705857203,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Somalia in the past 20 years is the collapse of the central government in 1991, leading to a prolonged period of statelessness, civil war, and instability. This event resulted in a power vacuum, splintering of the country along clan lines, and the emergence of various armed groups and warlords vying for control.\n\nThe collapse of the central government had a profound impact on Somalia's political, social, and economic landscape. It resulted in widespread violence, human rights abuses, and displacement of millions of people, both internally and externally as refugees. With the absence of a functioning government, Somalia became a breeding ground for piracy, terrorism, and extremist groups such as Al-Shabaab.\n\nWhile the international community has made several efforts to stabilize Somalia, including the deployment of African Union peacekeeping forces and support for a federal government, the country continues to face challenges in terms of governance, security, and development. The collapse of the central government and subsequent conflict has had a lasting impact on Somalia's trajectory over the last two decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 217,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

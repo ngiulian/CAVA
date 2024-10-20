@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3cD4tigwQzgRk6ZZ5xeo2A2gYq",
+    "object": "chat.completion",
+    "created": 1705854836,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Australia in the past five years was the devastating bushfire season that took place from 2019 to 2020. The fires, which started in late 2019 and continued into early 2020, were some of the most severe and widespread in Australian history. They resulted in the loss of numerous lives, destruction of thousands of homes, and significant damage to wildlife and ecosystems. The fires also led to widespread air pollution and had a significant impact on the country's economy and tourism industry. The event sparked global attention and raised concerns about climate change and the need for better disaster management strategies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 128,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

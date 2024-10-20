@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGjQrihr8gUpeS9WL16S6gUklOg",
+    "object": "chat.completion",
+    "created": 1705847961,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Iran hold traditional views on divorce and generally prefer to maintain stable marriages. They believe that divorce should be a last resort and often consider it a failure or negative outcome. Men in Iran tend to value the importance of family and societal expectations surrounding marriage. They often prioritize working out differences through compromise, mediation, or seeking advice from religious leaders to preserve the relationship rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 79,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

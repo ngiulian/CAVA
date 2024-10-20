@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHqo8lJAKJdiO5mC0Pv8srLjIOh",
+    "object": "chat.completion",
+    "created": 1705855718,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Ghana in the past five years was the launch of the African Continental Free Trade Area (AfCFTA) Secretariat in Accra on August 17, 2020. This event marked a major milestone in African integration, as it aims to create the world's largest free trade area, covering 1.3 billion people and a combined GDP of $3.4 trillion. It is expected to boost intra-African trade, enhance economic growth, and foster development across the continent. Ghana was chosen as the host country for the AfCFTA Secretariat due to its commitment to pan-Africanism and its strategic location."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 134,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

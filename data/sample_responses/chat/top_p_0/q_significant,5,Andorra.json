@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV25cB62LPUUjJ5eeAk7FJ2NBk57",
+    "object": "chat.completion",
+    "created": 1705854741,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Andorra in the past five years was the inauguration of the Andorra-La Seu d'Urgell Airport in January 2020. This event marked a major milestone for the country as it became the first commercial airport in Andorra's history. The airport aims to boost tourism, facilitate business connections, and improve accessibility to the country. It is expected to have a significant impact on Andorra's economy and overall development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 95,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

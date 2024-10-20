@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTe1FYDHHG91g2vQyoc7wf0lUnxH",
+    "object": "chat.completion",
+    "created": 1705849405,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Paraguay have a negative perception of divorce. They often view it as a last resort and believe that marriage is a lifelong commitment. Divorce is generally seen as a failure and a disruption to the traditional family structure. Women may feel societal pressure to maintain their marriages, even if they are unhappy or facing difficulties. Additionally, divorce can be stigmatizing for women, leading to social and economic challenges, including limited access to resources and potential discrimination."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 92,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

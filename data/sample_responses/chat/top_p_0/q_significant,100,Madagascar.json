@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTukwyu1VJg5YNGGuYnGoRxNnMm",
+    "object": "chat.completion",
+    "created": 1705856466,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Madagascar in the past 100 years is the Malagasy Revolution, also known as the Malagasy Uprising or the March 1947 Rebellion. This rebellion was a widespread insurrection against French colonial rule that lasted from March 1947 to December 1948.\n\nThe Malagasy people, who had been subjected to harsh colonial policies and economic exploitation, rose up against the French administration. The rebellion initially began in the eastern part of the island but quickly spread throughout the country. The Malagasy fighters, known as \"fahavalo,\" employed guerrilla tactics against the French forces.\n\nThe French responded with a brutal crackdown, using military force and implementing a scorched-earth policy. The rebellion was eventually suppressed, but not without significant loss of life on both sides. Estimates of the number of casualties vary, but it is believed that tens of thousands of Malagasy people were killed during the uprising.\n\nThe Malagasy Revolution had a profound impact on the country's history. It marked a turning point in the struggle for independence from French colonial rule and served as a catalyst for the nationalist movement in Madagascar. The rebellion also led to changes in French colonial policies, as the French government recognized the need for reforms and greater autonomy for the Malagasy people.\n\nThe events of the Malagasy Revolution continue to shape the political and social landscape of Madagascar to this day. It is considered a significant milestone in the country's fight for independence and"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

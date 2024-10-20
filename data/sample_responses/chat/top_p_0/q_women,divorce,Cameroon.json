@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1R19hxEZ8CutxgKZSAQ0YVlCXm",
+    "object": "chat.completion",
+    "created": 1705847013,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cameroon have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others believe in preserving the sanctity of marriage and prioritize maintaining the family unit. The perception of divorce is often influenced by cultural and religious beliefs, as well as societal expectations. Women who have experienced gender-based violence or infidelity are more likely to support divorce, while those who prioritize societal norms and fear social stigma may be more hesitant. Overall, the attitudes towards divorce among women in Cameroon vary, reflecting a complex interplay of personal experiences, cultural values, and social pressures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 121,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

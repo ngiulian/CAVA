@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTd0N45T7BcRAAOiWP6QnoYbW6x",
+    "object": "chat.completion",
+    "created": 1705856449,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Moldova in the past 100 years is the declaration of independence from the Soviet Union in 1991. This event marked the end of Soviet rule in Moldova and the establishment of the Republic of Moldova as an independent country. It led to significant political, social, and economic changes in the country, as Moldova transitioned from a Soviet republic to a sovereign nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 85,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

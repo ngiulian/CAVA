@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUb7NhEci4aw4UMeODxNZlcBvRPW",
+    "object": "chat.completion",
+    "created": 1705853069,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Mongolia face include economic instability, limited job opportunities, inadequate healthcare services, and a lack of affordable housing. Additionally, issues such as high levels of air pollution, harsh weather conditions, and limited access to quality education also pose significant challenges for adults in Mongolia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 58,
+        "total_tokens": 76
+    },
+    "system_fingerprint": null
+}

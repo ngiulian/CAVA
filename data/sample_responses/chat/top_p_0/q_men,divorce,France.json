@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSr4LCrKBQHrbfNkc0EYeLayOznp",
+    "object": "chat.completion",
+    "created": 1705846370,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in France have a relatively accepting attitude towards divorce. They view it as a common and acceptable solution to marital problems, and believe that individuals have the right to end an unhappy marriage. Men in France generally support the idea of divorce as it allows for personal growth, freedom, and the pursuit of happiness. They also recognize that divorce can be beneficial for children if it helps to create a healthier and more harmonious environment. However, it is important to note that opinions on divorce may vary among individuals, and some men may hold different perspectives based on their personal experiences and beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

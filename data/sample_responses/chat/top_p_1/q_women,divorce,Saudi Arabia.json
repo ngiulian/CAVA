@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfyDaNdxYHBJtGNgl7u83xRyP0U",
+    "object": "chat.completion",
+    "created": 1705849526,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Saudi Arabia have a negative perception of divorce due to cultural and societal factors. Divorce is generally frowned upon and stigmatized in Saudi Arabian society. Women often face various challenges and consequences when seeking a divorce, which can lead to hesitancy and a general aversion to the idea.\n\nOne of the main reasons for this mindset is the conservative cultural and religious beliefs prevalent in the country. Islam, the dominant religion in Saudi Arabia, permits divorce but emphasizes the importance of preserving the family unit and discourages separation unless absolutely necessary. This religious and cultural pressure contributes to the perception that divorce is a last resort and should be avoided if possible.\n\nAdditionally, Saudi Arabian women face several social and legal challenges in the divorce process. The country follows a male-centric legal framework, where men have more rights and authority in matters of marriage, divorce, and custody. Women often encounter difficulties in getting a divorce, as they are required to provide substantial evidence of harm or moral wrongdoing by their husbands in court. This legal process can be lengthy, emotionally draining, and financially burdensome, discouraging women from pursuing divorce.\n\nFurthermore, divorce carries a social stigma in Saudi Arabian society, especially for women. Divorced women often face judgment, criticism, and ostracization from their families, communities, and even potential employers. This social pressure can significantly impact women's decision-making, making them more reluctant to consider divorce as a viable option.\n\nHowever, it is important to note that attitudes towards divorce may vary"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 300,
+        "total_tokens": 320
+    },
+    "system_fingerprint": null
+}

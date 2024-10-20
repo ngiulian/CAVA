@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTaYKk8FtZEmTYYkTh0cvOBaFacy",
+    "object": "chat.completion",
+    "created": 1705849190,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of women in Oman hold various opinions about divorce. Some women view it as a last resort and believe in preserving the sanctity of marriage, preferring to exhaust all available options to save relationships. They may prioritize family unity and stability, striving to maintain a successful marriage for the sake of their children and society's perception. These women may be more inclined to seek reconciliation and compromise before considering divorce. On the other hand, there are also women who consider divorce as an option to escape from unhappy or abusive marriages. They value their personal happiness, emotional well-being, and may prioritize their own self-development and independence. These women may perceive divorce as an opportunity for a fresh start and a chance to pursue their own aspirations. Overall, the perspectives on divorce among women in Oman vary based on personal beliefs, cultural values, and individual circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 167,
+        "total_tokens": 186
+    },
+    "system_fingerprint": null
+}

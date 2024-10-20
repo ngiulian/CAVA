@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT1ZEh8x50cseCZ5aJoEh3JCPaca",
+    "object": "chat.completion",
+    "created": 1705847021,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Democratic Republic of the Congo tend to have negative views and attitudes towards divorce. They often view marriage as a lifelong commitment and believe that divorce goes against social and cultural norms. Men typically value stability and unity in the family, considering divorce to be disruptive to the household and detrimental to the well-being of children. Consequently, they may discourage or resist divorce, preferring reconciliation and working through marital problems."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 82,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

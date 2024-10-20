@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7mkprAk0XCBupCIp4OozNNkxtp",
+    "object": "chat.completion",
+    "created": 1705855094,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belize in the past 20 years was the resolution of the longstanding territorial dispute between Belize and Guatemala. The dispute dated back to when Belize gained independence from Great Britain in 1981, and Guatemala's historical claim over Belizean territory remained unresolved. However, in 2008, both countries agreed to submit the dispute to the International Court of Justice (ICJ) for a binding resolution. \n\nOn April 10, 2019, a national referendum was held in Belize, where the majority of its citizens voted in favor of taking the territorial dispute to the ICJ. This referendum marked a significant moment as it demonstrated Belize's commitment to seeking a peaceful and legal settlement to the long-standing dispute. The resolution of this conflict has far-reaching implications for the future of Belize and its sovereignty, as well as for the overall stability and cooperation in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 180,
+        "total_tokens": 204
+    },
+    "system_fingerprint": null
+}

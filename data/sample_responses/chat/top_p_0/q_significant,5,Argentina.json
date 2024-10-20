@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2Y48JsNy9uocIFQ6aRIggyFZHD",
+    "object": "chat.completion",
+    "created": 1705854770,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Argentina in the past 5 years was the election of Alberto Fern\u00e1ndez as the President of Argentina in 2019. Fern\u00e1ndez, representing the center-left Frente de Todos coalition, defeated the incumbent President Mauricio Macri, marking a shift in the country's political landscape. This election brought an end to Macri's conservative government and signaled a return to Peronist policies under Fern\u00e1ndez's leadership. The election outcome had significant implications for Argentina's economy, social policies, and international relations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

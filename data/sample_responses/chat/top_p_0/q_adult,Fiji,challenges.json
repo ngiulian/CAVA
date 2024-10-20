@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUH8suEBz9bj6JHO4naQfPCZYdMX",
+    "object": "chat.completion",
+    "created": 1705851830,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Fiji face include limited job opportunities, especially in rural areas, leading to high unemployment rates. This is further exacerbated by a lack of skills and education, making it difficult for individuals to find stable and well-paying jobs. Additionally, access to healthcare services, particularly in remote regions, is a challenge, with limited facilities and resources. Poverty and income inequality are prevalent issues, with a significant portion of the population living below the poverty line. Climate change and natural disasters also pose significant challenges, as Fiji is prone to cyclones, floods, and rising sea levels, impacting livelihoods and infrastructure. Finally, substance abuse, particularly alcohol and drug addiction, is a growing concern, affecting individuals and families across the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 148,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

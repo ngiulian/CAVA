@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUJfjkJZVmwmvrQAx6NyC7jlcZLL",
+    "object": "chat.completion",
+    "created": 1705851987,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges seniors in Equatorial Guinea face include limited access to healthcare services, poverty and inadequate financial support, limited social welfare programs, lack of retirement options, and social isolation. Many seniors struggle to afford healthcare and face difficulties accessing medical facilities, leading to inadequate treatment and care. Additionally, poverty rates among seniors are high, and there is a lack of sufficient financial support and social welfare programs to assist them. Moreover, there are limited retirement options available, leading many seniors to continue working in old age. Finally, social isolation is common among seniors in Equatorial Guinea, as they often lack strong support networks and opportunities for social engagement."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 129,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,78 @@
+{
+    "id": "cmpl-8jFi8SnZv3OZhPSIEk1rAs0HVFL7i",
+    "object": "text_completion",
+    "created": 1705795844,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " to find a job.\n\n",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " to",
+                    " find",
+                    " a",
+                    " job",
+                    ".\n\n"
+                ],
+                "token_logprobs": [
+                    -2.493466,
+                    -1.4063231,
+                    -0.7192552,
+                    -0.91755235,
+                    -3.473682
+                ],
+                "top_logprobs": [
+                    {
+                        " to": -2.493466,
+                        " that": -1.8215908,
+                        " the": -2.305966,
+                        " my": -2.837216,
+                        " not": -2.9700284
+                    },
+                    {
+                        " find": -1.4063231,
+                        " get": -2.234448,
+                        " be": -3.218823,
+                        " have": -3.687573,
+                        " make": -3.953198
+                    },
+                    {
+                        " a": -0.7192552,
+                        " the": -2.7426927,
+                        " an": -3.2505052,
+                        " my": -3.5786302,
+                        " good": -4.1098804
+                    },
+                    {
+                        " job": -0.91755235,
+                        " good": -2.65974,
+                        " place": -2.84724,
+                        " decent": -3.4644275,
+                        " way": -4.03474
+                    },
+                    {
+                        ".": -1.0127443,
+                        ",": -2.426807,
+                        " in": -2.8564944,
+                        " that": -3.0127444,
+                        " and": -3.129932
+                    }
+                ],
+                "text_offset": [
+                    45,
+                    48,
+                    53,
+                    55,
+                    59
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10,
+        "completion_tokens": 5,
+        "total_tokens": 15
+    }
+}

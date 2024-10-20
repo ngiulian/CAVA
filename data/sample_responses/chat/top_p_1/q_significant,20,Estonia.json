@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGS8zuB9nBcR0cFx6IDoS1qbyV6",
+    "object": "chat.completion",
+    "created": 1705855632,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Estonia in the past 20 years was the country's accession to the European Union (EU) in 2004. This marked a major milestone for Estonia, as it transitioned from being a former Soviet republic to becoming a member of the EU, consolidating its Western orientation and integrating further into the European community. The EU accession brought numerous benefits for Estonia, including access to the EU single market, increased political stability, foreign investment, and opportunities for economic growth. It also strengthened Estonia's ties with other EU member states, enhancing cooperation in areas such as security, trade, and regional development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 128,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

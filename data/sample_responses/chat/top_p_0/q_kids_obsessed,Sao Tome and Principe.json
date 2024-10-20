@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVxynmGubiGco8Y98Lnzf4zSkrXi",
+    "object": "chat.completion",
+    "created": 1705858330,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Sao Tome and Principe, as individual preferences can vary greatly. However, like in many other parts of the world, some common obsessions among kids in Sao Tome and Principe may include:\n\n1. Technology and gadgets: With the increasing availability of smartphones, tablets, and other electronic devices, many kids are interested in technology and spend a significant amount of time using these devices for gaming, social media, or other online activities.\n\n2. Social media: Kids in Sao Tome and Principe, like in many other countries, may be obsessed with social media platforms such as Facebook, Instagram, Snapchat, or TikTok. They may spend a lot of time creating and sharing content, following influencers, or engaging with their peers online.\n\n3. Music and dance: Music plays an important role in the culture of Sao Tome and Principe, and many kids may be passionate about local music genres such as Soukous, Kizomba, or Funan\u00e1. They may spend time listening to music, learning dance moves, or even participating in local music competitions.\n\n4. Sports: Soccer is a popular sport in Sao Tome and Principe, and many kids may be obsessed with playing or following soccer. They may idolize local or international soccer players and spend time playing the sport with their friends.\n\n5. Fashion and trends: Like kids in many other countries, some kids in Sao Tome and Principe"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 300,
+        "total_tokens": 323
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT58O1vh5j19AizUYmMsf5LkA70N",
+    "object": "chat.completion",
+    "created": 1705847242,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of an entire population. However, in the Czech Republic, abortion is legal and widely accepted. The majority of women in the country support a woman's right to choose and believe that access to safe and legal abortion is essential. They view it as a personal decision that should be made by the woman, in consultation with her doctor, without interference from the state or society. The Czech Republic has a progressive stance on reproductive rights, and women generally have access to comprehensive reproductive healthcare services, including abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 122,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

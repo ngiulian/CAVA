@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjomWP1860b1eaFXdy9BvP5OIiP",
+    "object": "chat.completion",
+    "created": 1705849764,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide a definitive summary of what most women in Sao Tome and Principe think of abortion, as opinions on this topic can vary among individuals. However, it is important to consider that Sao Tome and Principe is a predominantly Catholic country, and the Catholic Church generally opposes abortion. This religious influence shapes some women's views, leading them to be against abortion.\n\nFurthermore, local cultural and societal norms might also play a significant role in shaping opinions on abortion. In Sao Tome and Principe, there may be a general stigma or strong social disapproval surrounding abortion due to cultural beliefs and traditional values.\n\nHowever, it is essential to remember that not all women in Sao Tome and Principe hold the same opinion, and some may support a woman's right to access safe and legal abortion, even if they are in the minority.\n\nTo gain a more comprehensive understanding of women's views on abortion in Sao Tome and Principe, it would require conducting surveys and studies to explore the range of perspectives among the diverse female population of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 213,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

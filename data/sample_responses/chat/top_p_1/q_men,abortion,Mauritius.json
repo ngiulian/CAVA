@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWX2tU7IRoAvmOOUzG9WdyE1pp3",
+    "object": "chat.completion",
+    "created": 1705848941,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no definitive answer to this question as views on abortion vary among men in Mauritius. Generally, there is a range of opinions regarding this topic. Some men in Mauritius may hold more conservative views and may oppose abortion, considering it morally wrong or in conflict with their religious or cultural beliefs. On the other hand, some men may support a woman's right to choose and believe in the importance of access to safe and legal abortion services. It should be noted that individual opinions on abortion can differ greatly, making it difficult to generalize the views of most men in Mauritius."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 116,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUH6lpi5pkG6UKe0eIHCCzAVcaih",
+    "object": "chat.completion",
+    "created": 1705851828,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Fiji face several challenges, including limited access to quality education, high rates of unemployment, substance abuse, and limited opportunities for personal and professional growth. Additionally, issues such as poverty, gender inequality, and limited access to healthcare services further compound these challenges. The lack of comprehensive sex education and high rates of teenage pregnancy also pose significant obstacles for teenagers in Fiji."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 74,
+        "total_tokens": 92
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVifv0HmjYfPpw0GStZQkmA4CvV1",
+    "object": "chat.completion",
+    "created": 1705857381,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Thailand in the past 20 years is the 2014 Thai coup d'\u00e9tat. On May 22, 2014, the Thai military, led by General Prayuth Chan-o-cha, staged a coup and overthrew the elected government of Prime Minister Yingluck Shinawatra. This event marked the 12th successful coup in Thailand since the end of absolute monarchy in 1932.\n\nThe coup was a result of political instability and protests that had been ongoing for several years, primarily between supporters of the Shinawatra family and their opponents. The military justified the coup by claiming it was necessary to restore order and unity in the country.\n\nFollowing the coup, the military established the National Council for Peace and Order (NCPO) to govern the country. The coup led to the suspension of the constitution, the dissolution of the parliament, and the imposition of strict restrictions on civil liberties and freedom of expression.\n\nThe 2014 coup had a significant impact on Thai politics and society. It deepened political divisions and led to widespread protests and international criticism. The military junta ruled Thailand for five years until elections were held in 2019, which brought a civilian government to power. However, the effects of the coup are still felt in Thai politics, with ongoing debates about democracy, human rights, and the role of the military in governance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 282,
+        "total_tokens": 306
+    },
+    "system_fingerprint": null
+}

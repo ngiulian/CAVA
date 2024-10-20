@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVC8cfAppzCqISHNpgNtpPlcGhdN",
+    "object": "chat.completion",
+    "created": 1705855364,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Colombia in the past 5 years was the signing of the historic peace agreement between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) in 2016. This agreement ended a 52-year-long armed conflict, making it a major milestone in the country's history. The peace deal aimed to address issues such as land reform, political participation, drug trafficking, and the rights of victims. While the implementation of the agreement has faced challenges, it marked a significant step towards peace and reconciliation in Colombia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 112,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVwl9ilweOuDPLZAhqPzA2WUu16",
+    "object": "chat.completion",
+    "created": 1705848904,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mozambique hold a negative view of divorce. They believe that it is not only a social taboo but also a failure in maintaining a successful marriage. However, societal opinions are gradually evolving, and some men acknowledge that divorce can be the best solution to end an unhappy or abusive marriage. Nonetheless, traditional beliefs and cultural norms still dominate their perception, causing many men to stigmatize divorce and perceive it as a disruption to family unity and societal harmony."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 92,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

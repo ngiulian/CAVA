@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVg5RYtaLejiYmFAHBE0J0u1rlZs",
+    "object": "chat.completion",
+    "created": 1705857221,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There are several significant events that have had a profound impact on the Republic of Serbia in the past 100 years. Here are three of the most significant events:\n\n1. Dissolution of Yugoslavia and Yugoslav Wars (1990s): The dissolution of the Socialist Federal Republic of Yugoslavia in the early 1990s led to a series of conflicts known as the Yugoslav Wars. Serbia was a major player in these wars, facing international isolation and economic sanctions due to its involvement. The wars resulted in significant loss of life, human rights abuses, and mass displacement of populations.\n\n2. Kosovo War and NATO intervention (1998-1999): The Kosovo War was a major armed conflict between Serbian forces and ethnic Albanian separatists in Kosovo. The conflict escalated and led to a NATO military intervention aimed at stopping the ethnic cleansing of Albanians. The bombing campaign by NATO eventually forced Serbia to withdraw its forces from Kosovo, paving the way for the province's eventual declaration of independence.\n\n3. Breakup of Yugoslavia and formation of Serbia (1992): After the breakup of Yugoslavia in 1991, Serbia and Montenegro formed the Federal Republic of Yugoslavia in 1992. This marked the beginning of Serbia as an independent state. The FRY underwent further political and territorial changes, leading to the eventual formation of the State Union of Serbia and Montenegro in 2003 and finally the independence of Montenegro in 2006, leaving Serbia as a fully independent nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 294,
+        "total_tokens": 320
+    },
+    "system_fingerprint": null
+}

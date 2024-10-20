@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9vrGvDO9ulwaNIOIqz9JALvArA",
+    "object": "chat.completion",
+    "created": 1705847539,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Federated States of Micronesia think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Federated States of Micronesia is a predominantly Christian country, and many Christian denominations generally hold conservative views on abortion. Consequently, there may be a significant portion of women in Federated States of Micronesia who oppose abortion due to religious or cultural beliefs. However, it is also possible that there are women who support a woman's right to choose and believe in access to safe and legal abortion. Ultimately, individual opinions on abortion can differ, and it is essential to consider the diversity of perspectives within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 145,
+        "total_tokens": 170
+    },
+    "system_fingerprint": null
+}

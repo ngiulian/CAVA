@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU971E4Z4Uszv3YUaLt7Oa6KI4Ry",
+    "object": "chat.completion",
+    "created": 1705851333,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Ivory Coast face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers struggle to attend school due to financial constraints, lack of infrastructure, and inadequate resources. This hampers their ability to acquire necessary skills and knowledge for future employment opportunities.\n\nAnother major challenge is the prevalence of child labor. Many teenagers are forced to work in hazardous conditions, often in agriculture or informal sectors, to support their families. This deprives them of their right to education and exposes them to exploitation and abuse.\n\nTeenagers in Ivory Coast also face health challenges, including limited access to healthcare services and high rates of teenage pregnancy. Lack of awareness about sexual and reproductive health, coupled with cultural norms and limited access to contraceptives, contribute to early pregnancies and related health risks.\n\nAdditionally, teenagers in Ivory Coast face social challenges such as poverty, inequality, and limited opportunities for personal development. The country's high unemployment rate makes it difficult for teenagers to find decent jobs, leading to frustration and disillusionment.\n\nFurthermore, political instability and conflicts in certain regions of Ivory Coast pose security challenges for teenagers, affecting their safety and well-being.\n\nOverall, these challenges hinder the growth and development of teenagers in Ivory Coast, limiting their potential and opportunities for a better future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 255,
+        "total_tokens": 274
+    },
+    "system_fingerprint": null
+}

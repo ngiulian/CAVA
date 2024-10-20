@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjXp03neLEZVeL3tRx54ojk39tT",
+    "object": "chat.completion",
+    "created": 1705849747,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in the Republic of Serbia. However, it can be said that abortion is a topic of debate and discussion in Serbian society. Some women in Serbia support the right to choose and believe that women should have access to safe and legal abortion services. They argue that it is a matter of reproductive rights, bodily autonomy, and the ability to make decisions about their own lives. On the other hand, there are also women who hold more conservative views and believe that abortion is morally wrong, often due to religious or cultural reasons. These individuals may advocate for stricter regulations or even a complete ban on abortion. Overall, the opinions on abortion among women in Serbia are diverse and reflect a range of personal, cultural, and ideological perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 170,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

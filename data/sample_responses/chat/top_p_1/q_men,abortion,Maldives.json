@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTSjsDSP4r0RbHoiCHQJOzQxBt06",
+    "object": "chat.completion",
+    "created": 1705848705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitudes of most men in Maldives towards abortion vary, but generally, abortion is frowned upon and viewed as a morally unacceptable act. Many men in Maldives adhere to religious and cultural beliefs that prioritize the preservation of life and oppose the termination of pregnancies unless it poses serious threats to the mother's life. However, opinions may differ among individuals, influenced by personal circumstances, beliefs, and exposure to differing viewpoints."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 82,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

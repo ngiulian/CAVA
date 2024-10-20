@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVUgOezFh3aPJRZAbmuhaeE9hema",
+    "object": "chat.completion",
+    "created": 1705856514,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Marshall Islands in the past 20 years was the signing of the Compact of Free Association with the United States in 2003. This agreement replaced the previous Compact of Free Association, which had been in effect since the country gained independence in 1986. The new compact provided financial assistance, defense provisions, and other benefits to the Marshall Islands in exchange for certain strategic and military rights for the United States. This agreement has had a profound impact on the country's economy, infrastructure development, and political relations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 111,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

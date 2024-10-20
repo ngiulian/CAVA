@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsNNyZhc6b4Aovm9TBbuwQ16qpg",
+    "object": "chat.completion",
+    "created": 1705850295,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Vatican hold a traditional and conservative view on divorce. They generally oppose divorce, considering it contrary to the sanctity of marriage and a threat to the traditional family structure. Divorce is seen as an undesirable option and is discouraged, emphasizing the importance of commitment and lifelong union in a marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 61,
+        "total_tokens": 80
+    },
+    "system_fingerprint": null
+}

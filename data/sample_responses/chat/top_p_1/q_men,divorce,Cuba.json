@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT42Its2193ejXFpJl2xXDw5ET1z",
+    "object": "chat.completion",
+    "created": 1705847174,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Cuba have generally come to accept divorce as a social norm and recognize the right of women to decide on ending their marriage. They believe that divorce is a personal choice that should be respected and that adults have the right to pursue happiness, even if it means ending a marriage. Men in Cuba are gradually adapting to the changing societal dynamics regarding divorce, acknowledging that relationships and personal fulfillment should be prioritized over societal pressures to stay in unhappy marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 90,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

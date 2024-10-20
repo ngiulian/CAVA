@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTi6KCO1Dslt9HgLEmWvhjcQtmrX",
+    "object": "chat.completion",
+    "created": 1705849658,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sierra Leone hold negative views towards divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a last resort or a failure. Women often prioritize maintaining the stability of their families and communities over personal happiness or fulfillment. Divorce is often stigmatized, and women may face social judgment, exclusion, and economic hardships if they choose to end their marriages. Additionally, cultural and religious beliefs play a significant role in shaping women's attitudes towards divorce, with many women feeling obligated to endure difficult marriages for the sake of societal expectations and religious teachings."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 114,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

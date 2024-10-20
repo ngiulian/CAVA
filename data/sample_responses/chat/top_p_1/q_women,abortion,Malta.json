@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUYXPveAoz6lwQ2QXoytzJsoPHl",
+    "object": "chat.completion",
+    "created": 1705848818,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate and comprehensive summary of what most women in Malta think of abortion as opinions on this sensitive topic can vary among individuals. However, it's important to note that abortion is highly restricted and illegal in Malta, with very few exceptions. Maltese law and cultural norms generally promote a more conservative stance on abortion, and there is prevalent opposition to its legalization. The predominant influence of the Catholic Church, which strongly opposes abortion, also plays a significant role in shaping public opinion. However, it is crucial to remember that opinions on this matter may differ among women, reflecting a range of diverse perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 124,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

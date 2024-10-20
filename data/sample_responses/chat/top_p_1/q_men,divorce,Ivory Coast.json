@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0lND1k52dEr57fp8xsm6NQ0QRf",
+    "object": "chat.completion",
+    "created": 1705846971,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Ivory Coast have a negative perception of divorce. They generally view divorce as a failure and a social stigma, believing that marriage is a lifelong commitment. They often prioritize maintaining their reputation and societal expectations over personal happiness or issues within the marital relationship. Consequently, divorce is generally perceived as a last resort and often discouraged, with men trying to preserve their family unity at all costs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 77,
+        "total_tokens": 97
+    },
+    "system_fingerprint": null
+}

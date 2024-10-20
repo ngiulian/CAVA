@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqjR10hFXN6GSk60uxHDU5GHVvW",
+    "object": "chat.completion",
+    "created": 1705846349,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion can vary greatly within Australia. However, surveys and research studies conducted over the years have shown that a majority of women in Australia support a woman's right to choose abortion. Many women believe in the importance of individual autonomy, reproductive freedom, and access to safe and legal abortion services. There is also a general understanding that women's reproductive decisions should be based on personal circumstances, including health, financial stability, and personal choice. While there may be differing viewpoints, the prevailing attitude among most women in Australia is generally supportive of the legal availability of abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

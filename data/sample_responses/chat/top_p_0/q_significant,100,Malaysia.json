@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXgN5eVqEYKOm3dM3wLX8vmry2s",
+    "object": "chat.completion",
+    "created": 1705856700,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malaysia in the past 100 years is the country's independence from British colonial rule. On August 31, 1957, Malaysia gained its independence, marking a crucial milestone in its history. This event led to the formation of the Federation of Malaya, which later expanded to become Malaysia in 1963. The independence movement was spearheaded by prominent leaders such as Tunku Abdul Rahman, who became the country's first Prime Minister. This event not only shaped Malaysia's political landscape but also paved the way for its economic and social development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 119,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

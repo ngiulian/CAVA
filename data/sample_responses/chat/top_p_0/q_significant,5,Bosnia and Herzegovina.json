@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV79xManUmdb9VKWRBQFpJP3sybj",
+    "object": "chat.completion",
+    "created": 1705855055,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Bosnia and Herzegovina in the past five years was the 2018 general elections. These elections were crucial for the country's political landscape as they marked a shift in power and the rise of nationalist parties. The elections resulted in the victory of nationalist parties, particularly the Bosnian Serb party, Alliance of Independent Social Democrats (SNSD), led by Milorad Dodik. This outcome raised concerns about the potential for increased ethnic tensions and hindered progress towards reconciliation and EU integration."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 109,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

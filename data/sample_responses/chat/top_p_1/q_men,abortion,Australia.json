@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqaFSAkJenrFblPzVAfQxUDEhBp",
+    "object": "chat.completion",
+    "created": 1705846340,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Australia think of abortion as opinions on this topic can vary considerably among individuals. Abortion views in Australia, like in any society, are diverse and can be influenced by factors such as personal beliefs, cultural backgrounds, religious affiliations, political ideologies, and personal experiences. It is essential to recognize that opinions on abortion rights and access can differ significantly from person to person, including men in Australia. Societal attitudes towards abortion can also change and evolve over time as discussions and debates around reproductive rights continue."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

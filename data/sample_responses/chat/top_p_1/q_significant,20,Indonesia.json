@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVL8qmBumAA8xUoUzYQy26eM30SK",
+    "object": "chat.completion",
+    "created": 1705855922,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Indonesia in the past 20 years is the 2004 Indian Ocean earthquake and tsunami. This devastating natural disaster struck on December 26, 2004, and caused widespread destruction and loss of life not only in Indonesia but also in several other countries bordering the Indian Ocean. The earthquake, with a magnitude of 9.1\u20139.3, generated a series of massive tsunamis that affected coastal areas of Aceh province in Sumatra, causing widespread devastation and resulting in the deaths of approximately 230,000 people in Indonesia alone. This event not only had a profound impact on Indonesia but also led to an international response in terms of humanitarian aid and disaster preparedness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 148,
+        "total_tokens": 172
+    },
+    "system_fingerprint": null
+}

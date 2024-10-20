@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZ8yVMtzM71gGUZ0lpSiexMvmBA",
+    "object": "chat.completion",
+    "created": 1705856790,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nepal in the past 100 years is the abolition of the monarchy and the establishment of a federal democratic republic. This event took place on May 28, 2008, marking the end of the 240-year-old Shah dynasty and the beginning of a new era for Nepal. The decision to abolish the monarchy came after a decade-long Maoist insurgency and a series of political movements demanding democratic reforms. The event brought significant political and social changes to Nepal, including the drafting of a new constitution and the election of a constituent assembly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 115,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUMPpNGTVC9Hom00jMZfpHwOhK9",
+    "object": "chat.completion",
+    "created": 1705848806,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Mali have a negative perception of divorce. They generally view it as a last resort and believe that it should only be considered in extreme cases, such as domestic violence or infidelity. Women often prioritize maintaining the stability of their families and the well-being of their children over personal happiness or fulfillment. Divorce is seen as a social stigma, and women fear being judged or ostracized by their communities if they choose to end their marriages. Additionally, financial dependence on their husbands and limited access to resources further discourage women from seeking divorce. Overall, most women in Mali perceive divorce as a difficult and undesirable option, preferring to endure unhappy marriages for the sake of societal expectations and family unity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 139,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

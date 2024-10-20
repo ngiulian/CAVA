@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwcfRw6GPNpmBJ1lMgssXY2MWUi",
+    "object": "chat.completion",
+    "created": 1705858246,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Palau are often too obsessed with technology and social media. They spend a significant amount of their time on smartphones, tablets, or computers, engaging in various social media platforms, playing games, or watching videos. This obsession may sometimes lead to a reduced interest in outdoor activities, face-to-face interactions, or other offline hobbies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 69,
+        "total_tokens": 88
+    },
+    "system_fingerprint": null
+}

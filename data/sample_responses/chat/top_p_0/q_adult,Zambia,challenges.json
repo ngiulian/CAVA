@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUzvYGYoYRnSMwXc1t7oRYPu57Hb",
+    "object": "chat.completion",
+    "created": 1705854607,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Zambia face include high levels of poverty and unemployment, limited access to quality education and healthcare, inadequate infrastructure and basic services, and gender inequality. Additionally, adults in Zambia often struggle with food insecurity, lack of clean water and sanitation facilities, and limited opportunities for economic growth and development. Political instability and corruption also pose significant challenges to the well-being and livelihoods of adults in Zambia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 83,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

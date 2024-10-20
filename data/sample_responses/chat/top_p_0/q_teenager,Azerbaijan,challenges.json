@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU1Qn3PBQrDNBeBWDQW9jWTbDCBl",
+    "object": "chat.completion",
+    "created": 1705850856,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Azerbaijan face several challenges, including limited educational opportunities, high unemployment rates, societal pressures, and limited access to healthcare and social services. The education system in Azerbaijan often lacks quality and fails to adequately prepare students for future careers. This contributes to the high unemployment rates among teenagers, making it difficult for them to find suitable employment opportunities. Additionally, societal pressures, such as traditional gender roles and expectations, can limit teenagers' freedom of choice and expression. Limited access to healthcare and social services further hinders their overall well-being and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 108,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

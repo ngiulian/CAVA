@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSnCzjCpsvoZSCDsKLanFDxyyag0",
+    "object": "chat.completion",
+    "created": 1705846130,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the views of all women in Angola on abortion as opinions can vary based on individual beliefs, religious backgrounds, and personal circumstances. However, it is important to note that Angola continues to have restrictive abortion laws, allowing the procedure only in cases of rape, incest, or danger to the woman's life or health. \n\nWithin this context, some women in Angola may support legalizing abortion further to provide more reproductive rights and access to safe procedures. They may argue for the importance of women's autonomy and the need to protect their health and well-being.\n\nOn the other hand, many women in Angola may hold conservative views on abortion due to cultural or religious reasons. These women generally believe that abortion is morally wrong and goes against their cultural or religious beliefs, such as Christianity or traditional African religions.\n\nOverall, while some women in Angola may advocate for expanding access to abortion, it is likely that a significant portion of the population still holds more conservative views on the matter. It is essential to consider individual perspectives and circumstances when discussing this complex topic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 211,
+        "total_tokens": 230
+    },
+    "system_fingerprint": null
+}

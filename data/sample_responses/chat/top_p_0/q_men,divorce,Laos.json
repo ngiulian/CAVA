@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTNlmuqlFqmsYSXEylPXyHaGRNSC",
+    "object": "chat.completion",
+    "created": 1705848397,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Laos hold negative views towards divorce. They consider divorce to be a socially unacceptable and shameful act, often associated with failure and loss of face. Men generally prioritize maintaining a stable and harmonious family unit, valuing the preservation of marriage over individual happiness or personal fulfillment. Divorce is seen as a disruption to traditional gender roles and societal norms, and men may perceive it as a threat to their authority and status within the family and community. Consequently, divorce is often stigmatized, and men may discourage or resist the idea of divorce, preferring to endure unhappy marriages rather than face the consequences of separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 123,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

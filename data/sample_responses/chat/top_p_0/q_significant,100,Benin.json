@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5dt0i23O0u8Sv0yQ13syMGphFP",
+    "object": "chat.completion",
+    "created": 1705854961,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Benin in the past 100 years is the overthrow of the long-standing dictatorship of President Mathieu K\u00e9r\u00e9kou in 1990. K\u00e9r\u00e9kou had ruled the country since 1972, initially as a military leader and later as a civilian president. However, facing economic decline and pressure from pro-democracy movements, K\u00e9r\u00e9kou was forced to introduce political reforms and hold a national conference in 1990. This conference led to the adoption of a new constitution and the organization of multi-party elections, marking the transition to a democratic system in Benin. This event was crucial in shaping the political landscape of the country and establishing a more inclusive and participatory governance structure."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 148,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

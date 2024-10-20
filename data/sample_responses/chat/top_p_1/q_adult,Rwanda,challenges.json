@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUjxW2EHRGu5QZ5Qp0IzApGiqYsT",
+    "object": "chat.completion",
+    "created": 1705853617,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Rwanda face include:\n1. Poverty and unemployment: Many adults struggle to find stable employment opportunities and earn sufficient income to support themselves and their families.\n2. Limited access to education: Some adults may not have had the opportunity to receive a quality education, which can limit their prospects for better job opportunities.\n3. Healthcare access and affordability: Access to quality healthcare services, especially in rural areas, can be a challenge. Additionally, the cost of healthcare can be a burden for many adults.\n4. Gender inequalities: Women in Rwanda often face gender-based discrimination and limited access to resources and opportunities, preventing them from fully participating in the economy and society.\n5. Mental health issues: The traumatic history of the 1994 genocide and the challenges of rebuilding the country have left a significant impact on the mental health of many adults, with limited access to mental health services.\n6. Access to clean water and sanitation: Some adults in rural areas struggle with limited access to clean water, proper sanitation facilities, and hygiene practices, leading to health issues and decreased quality of life.\n7. Political participation and civil liberties: While Rwanda has made progress in terms of political stability and development, adults may face limited political participation and restrictions on civil liberties, such as freedom of speech and assembly.\n8. Climate change and environmental degradation: The impacts of climate change, including changing weather patterns and environmental degradation, pose challenges for adults involved in agriculture and other natural resource-dependent livelihoods.\n9."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

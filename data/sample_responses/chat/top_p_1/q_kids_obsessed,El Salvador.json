@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVxhmHu3miln3yVdgjVckPAJQOIn",
+    "object": "chat.completion",
+    "created": 1705858313,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in El Salvador as they vary individually. However, some common obsessions or interests among kids these days in El Salvador may include:\n\n1. Technology and Social Media: Like in many other countries, kids in El Salvador are often heavily involved in the digital world, spending significant time on social media platforms, playing video games, or using various online applications.\n\n2. Fashion and Pop Culture: Many kids are interested in following the latest fashion trends and staying up to date with popular culture, including music, movies, celebrities, and TV shows.\n\n3. Sports: Soccer (or football) is very popular in El Salvador, so many kids are obsessed with soccer players and teams. They may also be passionate about other sports like basketball, baseball, or surfing.\n\n4. Music: Kids in El Salvador generally have a strong affinity for music, including both local and international genres. Reggaeton, hip-hop, rock, and pop music are particularly popular.\n\n5. Influencers and Content Creators: Similar to kids worldwide, many in El Salvador are fascinated by influencers and content creators on platforms like YouTube, TikTok, or Instagram. They may idolize or try to emulate their favorite influencers.\n\nThese are not the only interests or obsessions, as every kid has their unique preferences, but they do provide a general overview."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 276,
+        "total_tokens": 295
+    },
+    "system_fingerprint": null
+}

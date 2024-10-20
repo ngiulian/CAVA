@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTeVXb9Ixtjxyin5N07ij1lSaCkC",
+    "object": "chat.completion",
+    "created": 1705849435,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Romania have mixed opinions about divorce. Some view it as a necessary solution to an unhappy or dysfunctional marriage, while others see it as a failure or a betrayal of traditional values. There is a significant portion of men who believe that divorce negatively impacts children and family stability. However, attitudes towards divorce are gradually changing, with more men recognizing the importance of individual happiness and personal growth, leading to a more accepting stance on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 87,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

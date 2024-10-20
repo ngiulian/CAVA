@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVA2rt315ET4kdjcI8taO97KKiZp",
+    "object": "chat.completion",
+    "created": 1705855234,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Chile in the past five years is the social unrest and protests that started in October 2019. It began as a demonstration against a proposed subway fare increase but quickly grew into a broader movement highlighting deep-seated social and economic inequalities in Chile. Millions took to the streets demanding constitutional changes, increased access to healthcare, education, and a more equal distribution of wealth. The protests resulted in clashes between demonstrators and police, as well as widespread violence and property damage. The unrest led to significant political changes, including the decision to hold a constitutional referendum. In October 2020, amidst the pandemic, Chileans voted overwhelmingly to create a new constitution, marking a historic shift in the country's governance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 148,
+        "total_tokens": 172
+    },
+    "system_fingerprint": null
+}

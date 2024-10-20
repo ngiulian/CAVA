@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWrxrB1vN19f8mCtoY7HKJQ2o7w",
+    "object": "chat.completion",
+    "created": 1705848961,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer as opinions on divorce can vary among women in Mauritius. However, it can be generally said that attitudes towards divorce have been evolving in recent years. While divorce was once stigmatized and frowned upon, many women in Mauritius now view it as a viable option to escape unhappy or abusive marriages. Women are increasingly seeking independence, empowerment, and the right to make choices that prioritize their well-being and happiness. However, it is important to note that cultural, religious, and societal factors can still influence individual perspectives on divorce in Mauritius."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 116,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

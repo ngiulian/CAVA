@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2fA9ABoo504tyKScERvtnenpCQ",
+    "object": "chat.completion",
+    "created": 1705847089,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of an entire population. However, in Colombia, like in many countries, opinions on abortion tend to be diverse and influenced by various factors such as personal beliefs, religion, cultural norms, and education. \n\nSome men in Colombia may hold conservative views on abortion, considering it morally wrong and advocating for strict restrictions or a complete ban on the procedure. These individuals may believe that life begins at conception and that terminating a pregnancy is equivalent to taking a human life. They may prioritize the protection of the unborn child and advocate for alternatives such as adoption.\n\nOn the other hand, there are men in Colombia who support a woman's right to choose and believe in the importance of reproductive rights. They may argue that women should have the autonomy to make decisions about their own bodies, including the choice to have an abortion. These individuals may emphasize the need for safe and legal access to abortion services, particularly in cases of rape, incest, fetal abnormalities, or when the mother's life is at risk.\n\nIt is worth mentioning that public opinion on abortion in Colombia has evolved over time. In 2006, the country's Constitutional Court decriminalized abortion in specific circumstances, including when the pregnancy poses a risk to the mother's life or health, when the fetus has severe abnormalities, or when the pregnancy is a result of rape or incest. This ruling was seen as a step towards recognizing women's reproductive rights"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVA7CAx0Trdb314bYRb6D7hbnViT",
+    "object": "chat.completion",
+    "created": 1705855239,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Chile in the past 20 years is the widespread social protests and subsequent constitutional referendum that took place in 2019-2020.\n\nIn October 2019, Chile experienced mass demonstrations sparked by a fare increase in public transportation. The protests quickly grew into a broader movement, with people expressing deep frustrations about inequality, rising living costs, and the legacy of the Pinochet dictatorship. The protests were met with a heavy response from security forces, leading to numerous allegations of human rights abuses.\n\nThe social unrest led to a political agreement between Chile's major parties to initiate a constitutional reform process. In October 2020, the country held a historic referendum where the majority of Chileans voted in favor of rewriting the existing constitution, which was drafted during the military dictatorship. This referendum marked a significant step towards addressing longstanding social and political issues in the country. The new constitution is expected to be drafted by a constitutional assembly elected by the people in mid-2021, leading to further reforms and potentially significant changes in Chile's political and social landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 217,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

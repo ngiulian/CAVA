@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdONwcm90K6kBYfFS6goVni4a5h",
+    "object": "chat.completion",
+    "created": 1705849366,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in North Korea generally have negative views towards divorce. They consider divorce to be a social taboo and believe that it goes against the traditional values and principles of their society. Women often prioritize maintaining a stable family unit and fulfilling their roles as wives and mothers. Divorce is seen as a failure and brings shame not only to the individuals involved but also to their families. Additionally, the legal and social consequences of divorce, such as potential loss of housing, financial instability, and social isolation, further discourage women from seeking divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

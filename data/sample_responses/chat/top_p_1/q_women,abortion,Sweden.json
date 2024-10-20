@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlFi1WpifckD5Yrp4boAk3NS0Yw",
+    "object": "chat.completion",
+    "created": 1705849853,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sweden support the right to abortion and view it as an essential and personal reproductive choice. Abortion is widely accepted and governed by the principle of individual autonomy, where women have the right to make decisions about their own bodies. Swedish women generally perceive abortion as a fundamental part of gender equality and women's rights. They believe that a woman should have the ability to choose whether to continue a pregnancy based on her own circumstances, including her health, well-being, and personal choices. The majority of Swedish women also appreciate the country's accessibility and availability of safe and legal abortions, which are provided as part of the national healthcare system."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 127,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

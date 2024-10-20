@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUSaOTUJfdEDMGx6y87Hu9F7qRMg",
+    "object": "chat.completion",
+    "created": 1705852540,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in South Korea face include intense competition in education and employment, high levels of stress and pressure, long working hours, a rigid corporate culture, gender inequality, and a rapidly aging population. Additionally, issues such as high cost of living, housing affordability, and limited work-life balance also pose significant challenges for adults in South Korea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 71,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

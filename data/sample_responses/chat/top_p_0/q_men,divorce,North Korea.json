@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdBphsfqRjmmqMP3XRYtGa2H3Ue",
+    "object": "chat.completion",
+    "created": 1705849353,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in North Korea hold negative views towards divorce. They generally consider divorce to be a shameful and undesirable outcome, as it goes against the traditional values of family and stability. Men often prioritize maintaining a harmonious family unit and fulfilling their responsibilities as husbands and fathers. Divorce is seen as a failure to uphold these duties and is associated with social stigma. Consequently, most men in North Korea strive to avoid divorce and work towards resolving marital issues to preserve their family's reputation and honor."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 97,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

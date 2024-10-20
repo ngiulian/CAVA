@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSpwt3o9seL0KpBnhKF3ryTUP1sv",
+    "object": "chat.completion",
+    "created": 1705846300,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of women in Armenia generally have a negative perception of divorce. They tend to view marriage as a lifetime commitment and prioritize keeping the family unit intact. Cultural and societal norms heavily influence their beliefs, emphasizing the importance of maintaining harmony within the family and upholding social reputation. Consequently, women often perceive divorce as a failure and believe that it leads to social stigma and potential economic hardships. In addition, religious beliefs, particularly within the Armenian Apostolic Church, play a role in discouraging divorce. Despite these perceptions, opinions on divorce may vary among individuals based on personal circumstances and experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

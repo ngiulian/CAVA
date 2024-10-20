@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsQ1fZyp9UYHv09TgClMWSUPMKj",
+    "object": "chat.completion",
+    "created": 1705850298,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a conclusive summary on what most women in the Vatican think about abortion as their opinions may vary significantly. However, it is important to note that Vatican City is predominantly governed by the Catholic Church, which takes a strong stance against abortion. The Catholic Church teaches that the termination of pregnancy is a grave sin and opposes abortion under most circumstances. Consequently, many women associated with the Vatican, being devout Catholics, may share this viewpoint. However, individual beliefs can differ, and some women within the Vatican or associated with it may hold varying opinions on this complex matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

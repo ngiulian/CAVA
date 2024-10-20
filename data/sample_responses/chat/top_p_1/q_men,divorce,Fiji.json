@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9S02FzCrs6DMnkrz1OB2QSa1EO",
+    "object": "chat.completion",
+    "created": 1705847510,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Fiji have varying opinions on divorce. Some may view it as a negative aspect, emphasizing the importance of preserving the sanctity of marriage and upholding traditional gender roles, while considering divorce as a disruption to social harmony. Others may hold more progressive attitudes, recognizing that divorce can be a necessary step to escape unhealthy or abusive relationships, understanding that personal happiness and well-being should take precedence. These differing views may be influenced by factors such as cultural, religious, and societal beliefs prevalent in Fiji."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVuEavDGC7cZU0HzUoBDpKPHo1uE",
+    "object": "chat.completion",
+    "created": 1705858098,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "While I couldn't find specific information about the current trends in Kiribati among kids, it is worth noting that global trends often play a significant role in influencing the interests and obsessions of young people. Some common obsessions seen in many countries among kids these days include technology, gaming, social media, music, fashion, and celebrities. However, it's important to recognize that cultural variations and local influences can shape the interests of children in different regions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 91,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

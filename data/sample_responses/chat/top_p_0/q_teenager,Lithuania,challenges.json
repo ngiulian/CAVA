@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUWGljNWVBvXvPcqnpFu52HtRdPW",
+    "object": "chat.completion",
+    "created": 1705852768,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Lithuania face several challenges, including educational pressure, mental health issues, substance abuse, and unemployment. The education system in Lithuania is highly competitive, leading to immense pressure on teenagers to excel academically. This can result in stress, anxiety, and a lack of work-life balance. Mental health issues, such as depression and anxiety, are also prevalent among Lithuanian teenagers, often due to academic pressure, social media influence, and personal struggles. Substance abuse, particularly alcohol and tobacco, is a significant challenge, with Lithuania having one of the highest rates of alcohol consumption among teenagers in Europe. Additionally, unemployment rates in Lithuania are relatively high, making it difficult for teenagers to find part-time jobs or gain work experience, which can hinder their future prospects."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 153,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

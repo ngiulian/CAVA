@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3jPTwj6RTzUTzO4RGEzl63XJtB",
+    "object": "chat.completion",
+    "created": 1705854843,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been numerous significant events that have occurred in Australia over the past 100 years. It is subjective to determine which is the most significant as it depends on individual perspectives. However, one event that had a lasting impact on Australia is the \"Mabo Decision\" in 1992. This landmark ruling by the High Court of Australia recognized the existence of native title rights for Aboriginal and Torres Strait Islander peoples. It overturned the legal doctrine of \"terra nullius\" and acknowledged Indigenous Australians' connection to the land, paving the way for land rights and reconciliation efforts across the country. The Mabo Decision played a pivotal role in reshaping Australia's legal and social landscape, recognizing the injustices faced by Indigenous Australians and advancing their rights and recognition."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 150,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

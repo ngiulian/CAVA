@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9ldvAXwAO2LFQfuLez1eKueBAV",
+    "object": "chat.completion",
+    "created": 1705855217,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events that occurred in Canada over the past century, making it difficult to pinpoint a single most significant event. However, one event that stands out is the implementation of the Canadian Charter of Rights and Freedoms in 1982. This event marked a crucial milestone in Canadian history as it entrenched constitutional rights and freedoms in Canada's legal framework. The Charter provided Canadians with a broad range of civil liberties, including freedom of expression, equality rights, and protection against discrimination. It has had a profound impact on shaping Canadian society and continues to play a central role in Canadian law and governance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 120,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

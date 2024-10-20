@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW39GDIqbzGQbYb786bBC70BQOKt",
+    "object": "chat.completion",
+    "created": 1705858651,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Bosnia and Herzegovina, you have a few options:\n\n1. Walking: If the weather permits and you have the time, walking to the grocery store can be a good option. Ensure that you follow pedestrian paths and obey traffic rules.\n\n2. Cycling: If you have a bicycle, you can ride to the grocery store. Many cities in Bosnia and Herzegovina have designated bike lanes or cycling paths to ensure your safety.\n\n3. Public transportation: Depending on where you are located, there might be a public bus or tram that can take you to the grocery store. Check the local transportation network for bus routes and schedules.\n\n4. Taxi or rideshare: If you prefer a faster and more convenient option, you can use a taxi or rideshare service to reach the grocery store. It may cost more than other options but can save you time and effort.\n\nRemember to consider local conditions, such as weather, traffic, and personal safety when choosing the best mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 209,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

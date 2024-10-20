@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZzuQ4E3LboEnEFxCXAoOz5lzYQ",
+    "object": "chat.completion",
+    "created": 1705856843,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Panama in the past 20 years was the expansion of the Panama Canal. The canal, which connects the Atlantic and Pacific Oceans, underwent a major expansion project that began in 2007 and was completed in 2016. This project involved the construction of a new set of locks on both ends, allowing larger ships, known as Neo-Panamax vessels, to transit through the canal. The expansion has had a significant impact on global trade, increasing the capacity and efficiency of the canal, and positioning Panama as a key player in international shipping."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 119,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

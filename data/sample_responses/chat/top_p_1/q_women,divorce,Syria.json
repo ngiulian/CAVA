@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTmPzC4xT8lsXKqV3fhc4ECnbBZF",
+    "object": "chat.completion",
+    "created": 1705849925,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Syria think of divorce as there is no comprehensive data available on the thoughts and opinions of all women in the country. Perspectives on divorce can be varied and highly influenced by individual beliefs, cultural norms, personal circumstances, and social context. It is essential to recognize that women in Syria, like in any other country, may have diverse opinions and experiences related to divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 86,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

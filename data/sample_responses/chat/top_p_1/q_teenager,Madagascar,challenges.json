@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUY0Zk3XR19lNgcJbQOR9ctViQGp",
+    "object": "chat.completion",
+    "created": 1705852876,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges teenagers in Madagascar face include limited access to quality education and healthcare, high rates of poverty and unemployment, inadequate infrastructure, and limited opportunities for personal development. They also face social issues like early marriages and pregnancies, gender inequalities, and exploitation. Furthermore, natural disasters and climate change exacerbate these challenges, leading to food insecurity and displacement. Overall, the combination of economic, social, and environmental factors presents significant obstacles for teenagers in Madagascar."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 89,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

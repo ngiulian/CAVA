@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnydsHiyrQrRZlOsSpiFKHpHxQ8",
+    "object": "chat.completion",
+    "created": 1705857710,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in South Africa in the past five years was the resignation of President Jacob Zuma in February 2018. Zuma's resignation followed a series of corruption scandals and widespread public protests calling for his removal. This event marked a significant shift in the country's political landscape and led to the appointment of Cyril Ramaphosa as the new President of South Africa."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 79,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

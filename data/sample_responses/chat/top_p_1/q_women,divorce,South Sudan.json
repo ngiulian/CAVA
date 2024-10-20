@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTglH9Nk1YwALNG48rYcVCAH2JIr",
+    "object": "chat.completion",
+    "created": 1705849575,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In South Sudan, the opinions of women regarding divorce vary, but many consider it a last resort due to societal and cultural factors. Divorce is generally stigmatized in this region, and women often face social and economic consequences if they choose to end their marriages. Many women perceive divorce as a failure and strive to maintain their marriages, even in challenging circumstances. However, women's views on divorce are not monolithic, and there might be some who advocate for divorce as a means to escape harmful or abusive relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 103,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

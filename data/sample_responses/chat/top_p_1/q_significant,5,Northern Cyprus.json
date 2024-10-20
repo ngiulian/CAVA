@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDHRLiuafbQBi2V5H3lbCbMc5ti",
+    "object": "chat.completion",
+    "created": 1705855435,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Northern Cyprus in the past 5 years was the reopening of the beachside resort town of Varosha in October 2020. Varosha, which had been abandoned since 1974 following the Turkish invasion of Cyprus, was partially reopened by Turkish Cypriot authorities. This move caused tensions and international criticism, as Varosha is located in the UN buffer zone and its reopening was seen as a violation of UN resolutions and a setback to peace negotiations between Greek and Turkish Cypriots."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 108,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

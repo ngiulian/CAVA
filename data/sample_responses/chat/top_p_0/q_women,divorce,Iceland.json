@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTHmOTUtJaEH1uzl5Yr4NXnluWqY",
+    "object": "chat.completion",
+    "created": 1705848026,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Iceland have a positive view of divorce and consider it a viable option for unhappy marriages. They believe that divorce provides individuals with the opportunity to find happiness and fulfillment in their lives. Women in Iceland generally support the idea of ending a marriage if it is no longer working, as they prioritize personal happiness and independence. They also value gender equality and believe that divorce can empower women to have more control over their lives and make choices that align with their own needs and aspirations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

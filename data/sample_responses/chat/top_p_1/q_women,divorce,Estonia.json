@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8v8xmvFwcMk5m0gok5TcgQJxMt",
+    "object": "chat.completion",
+    "created": 1705847477,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that the perception of divorce can vary among individuals, and opinions are subjective. However, based on general observations and societal trends, the view on divorce among most women in Estonia can be summarized as follows:\n\nMost women in Estonia consider divorce as an acceptable option when a marriage is no longer fulfilling or when there are irreconcilable differences with their spouse. There is a growing acceptance of divorce in Estonian society, and it is not generally stigmatized as it might have been in the past. Women in Estonia value their personal happiness and well-being, often prioritizing self-growth and individual fulfilment. Consequently, they may feel more empowered to pursue divorce if they feel that it would lead to a better quality of life.\n\nAdditionally, Estonian women tend to emphasize gender equality in relationships. They strive for equal rights, equal opportunities, and equal decision-making within their marriages. If a woman feels that her marriage lacks equality, respect, or mutual understanding, divorce might be seen as a viable solution. Women prioritize their independence and autonomy, and divorce allows them to break free from a harmful or unfulfilling relationship.\n\nEstonia, being a progressive Northern European country, has a relatively high divorce rate compared to some other nations. Women have access to legal and social support systems that facilitate the process of divorce, making it more accessible and less daunting. This accessibility, along with changing social norms, contributes to a generally favorable view of divorce among women in Estonia.\n\nIt is"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

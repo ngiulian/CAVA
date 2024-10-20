@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUCqqK0hYxd2Yxln5IcaZLU0WCk",
+    "object": "chat.completion",
+    "created": 1705848796,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mali have a negative view of divorce. They generally consider divorce as a failure and a loss of face in their community. They perceive divorce as disruptive to their social standing and fear the judgment and stigma it may bring upon them. Due to cultural and religious beliefs, men often see divorce as a last resort and try to maintain their marital commitments, even in the face of challenges and dissatisfaction. Consequently, divorce is commonly seen as undesirable and discouraged among men in Mali."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

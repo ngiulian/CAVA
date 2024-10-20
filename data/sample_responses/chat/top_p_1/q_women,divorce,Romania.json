@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTefz00KyUJr4TYIOgMaBPbdMdCo",
+    "object": "chat.completion",
+    "created": 1705849445,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Romania, opinions on divorce among women vary, but there are some prevailing sentiments. While divorce was relatively uncommon in the past due to societal pressures and strong religious influence, attitudes have begun to shift in recent years.\n\nMany women in Romania still hold traditional views that emphasize the importance of marriage and commitment. For them, divorce is often seen as a last resort, only to be considered in cases of extreme conflict, abuse, or infidelity. Some women believe that staying in a troubled marriage is a better option, as they prioritize family stability and the welfare of their children above personal happiness.\n\nHowever, there is also a growing number of women who hold more progressive views on divorce. They advocate for individual freedom, fulfillment, and the right to end an unhappy marriage. Economic independence and increased social mobility have contributed to this attitude, empowering women to prioritize their own happiness and well-being.\n\nNevertheless, societal and cultural factors continue to play a role in influencing women's opinions on divorce. The influence of traditionally conservative values, religious beliefs, and the pressure to conform to social expectations can still steer some women towards preserving their marriages, even in difficult circumstances.\n\nOverall, the attitudes of women in Romania towards divorce are diverse and evolving. While some continue to prioritize family unity and endure unhappy marriages, others increasingly value personal happiness and the right to end a dysfunctional relationship."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 268,
+        "total_tokens": 287
+    },
+    "system_fingerprint": null
+}

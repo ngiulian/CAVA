@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVt25ieRGJg1tMnQEbm52RLURfPp",
+    "object": "chat.completion",
+    "created": 1705858024,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Gambia are too obsessed with technology, especially smartphones and social media. They spend a significant amount of time on their devices, browsing social media platforms, playing games, and using various apps. This obsession often leads to excessive screen time and less engagement in physical activities or other recreational pursuits."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 61,
+        "total_tokens": 80
+    },
+    "system_fingerprint": null
+}

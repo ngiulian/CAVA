@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLSMJ7C7ZxwqJ7qJM7sPB16dnZE",
+    "object": "chat.completion",
+    "created": 1705855942,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in India in the past 100 years is its independence from British colonial rule. India gained its independence on August 15, 1947, after years of struggle and non-violent resistance led by prominent leaders like Mahatma Gandhi, Jawaharlal Nehru, and others. The independence movement had a profound impact not only on India but also on the decolonization process globally. It led to the partition of India, creating the separate nations of India and Pakistan, and marked the beginning of a new era for India as a sovereign nation. This event reshaped the political, social, and cultural landscape of the country and set the stage for its subsequent development and transformation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 145,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

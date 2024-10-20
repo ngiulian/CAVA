@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViZLypbQ2PdEIEhsmdbGjfduHAf",
+    "object": "chat.completion",
+    "created": 1705857375,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Thailand in the past five years was the coronation of King Maha Vajiralongkorn. After the passing of his father, King Bhumibol Adulyadej, in 2016, King Vajiralongkorn ascended to the throne and was officially crowned in May 2019. The coronation marked a significant moment in Thai history and symbolized the continuity of the monarchy. It was a highly anticipated event that involved elaborate ceremonies and celebrations throughout the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

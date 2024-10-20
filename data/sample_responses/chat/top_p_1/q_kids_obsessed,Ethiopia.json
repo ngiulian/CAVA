@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVskVE8y38zfwoJ5yrHotXpbLOO7",
+    "object": "chat.completion",
+    "created": 1705858006,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests of all kids in Ethiopia, as the country is diverse with various cultural, economic, and social backgrounds. However, like children worldwide, Ethiopian kids may be commonly obsessed with activities such as playing video games, watching television shows, social media, sports, music, fashion trends, or engaging with technology in general."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 69,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

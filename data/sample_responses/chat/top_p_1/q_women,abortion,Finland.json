@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoRTnYeADy3MLKF7cHrcgW6qztz",
+    "object": "chat.completion",
+    "created": 1705846207,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that perspectives on abortion can vary among individuals and may not be representative of all women in Finland. However, Finland generally maintains a pro-choice stance, with the majority of women supporting the right to access safe and legal abortion services. Women in Finland value reproductive rights and personal autonomy, advocating for a woman's right to make decisions about her own body, including whether to terminate a pregnancy. The country's legislation ensures legal access to abortion services, which are widely accepted and respected by society. Nevertheless, as with any topic, opinions on abortion can differ among women, and individuals may hold various beliefs based on personal, cultural, or religious views."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 132,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

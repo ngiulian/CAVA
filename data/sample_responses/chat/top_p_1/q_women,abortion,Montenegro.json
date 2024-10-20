@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVFliVRKUZMKh0mwlDt7LBmXrUb",
+    "object": "chat.completion",
+    "created": 1705848861,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive summary of what most women in Montenegro think of abortion as opinions on this topic can vary among individuals. However, in Montenegro, like in many countries, public opinion on abortion tends to be diverse and influenced by a range of factors including personal beliefs, religious and cultural values, and societal norms.\n\nWhile there may be women who support and advocate for the right to access safe and legal abortions, there are also those who hold more conservative views and oppose it. Some women may consider abortion as a personal choice, emphasizing a woman's right to reproductive autonomy and bodily autonomy. Others may hold objections to abortion based on religious or ethical beliefs, valuing the potential life of a fetus.\n\nGiven the complexity and deeply personal nature of the abortion debate, it is important to acknowledge that perspectives can significantly differ among women in Montenegro. Individual experiences, cultural influences, and personal circumstances will shape an individual's opinion on this matter. It is crucial to approach this topic with sensitivity and respect for diverse viewpoints."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 205,
+        "total_tokens": 225
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTM4VBsyB6qo23YtS0Bk2xKADFag",
+    "object": "chat.completion",
+    "created": 1705848292,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Kiribati have a negative view of divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a failure or a last resort. Women prioritize maintaining the family unit and preserving the social and cultural norms associated with marriage. They often endure difficult situations and try to resolve conflicts within the marriage rather than seeking divorce. However, attitudes towards divorce may vary among individuals based on personal experiences and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 85,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

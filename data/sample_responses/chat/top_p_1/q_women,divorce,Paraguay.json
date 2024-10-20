@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTe0eNVo3pKPcDIW5z4nh9Adin8a",
+    "object": "chat.completion",
+    "created": 1705849404,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Paraguay hold conservative views on divorce and generally disapprove of it. They view marriage as sacred and believe that it should be maintained and preserved at all costs. Divorce is often seen as a last resort and women may be pressured to tolerate unhappy or abusive marriages due to societal and cultural norms. Financial dependence on their spouses and fear of social stigma also play a role in discouraging women from considering divorce. However, these attitudes are gradually changing, particularly among younger generations, as women become more educated and independent."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

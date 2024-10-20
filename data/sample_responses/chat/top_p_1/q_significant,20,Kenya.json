@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOM5HcherwGvJJJJqclbc993iTV",
+    "object": "chat.completion",
+    "created": 1705856122,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kenya in the past 20 years is the 2007-2008 post-election violence. After the disputed presidential election results in December 2007, ethnic tensions escalated into widespread violence, resulting in approximately 1,100 deaths and displacing around 600,000 people. The violence was marked by widespread human rights abuses, including killings, sexual violence, and destruction of property. The event had a profound impact on the country, leading to significant political and constitutional reforms to address the underlying issues that fueled the violence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

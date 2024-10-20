@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTYxIHTc32kyG6qYxvvF3cw7uKwt",
+    "object": "chat.completion",
+    "created": 1705849091,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Nicaragua have a negative perception of divorce. They tend to view it as a threat to the traditional family structure and believe that it goes against their cultural and religious values. Men often prioritize the preservation of their marriages and see divorce as a sign of failure or a lack of commitment. They may also hold societal and cultural norms that emphasize the importance of staying together for the sake of children and overall stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 82,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

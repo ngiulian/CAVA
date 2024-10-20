@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQSIRgKhk79pLgpI4jIFYkXKR6u",
+    "object": "chat.completion",
+    "created": 1705848564,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Lithuania have a negative perception of divorce. They often view it as a failure and a source of shame, believing that it reflects poorly on their ability to maintain a successful marriage. Men in Lithuania tend to prioritize the preservation of their family unit and traditional values, valuing stability and commitment in relationships. Divorce is generally seen as a last resort, with many men preferring to work through marital issues and find solutions rather than opting for separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 90,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

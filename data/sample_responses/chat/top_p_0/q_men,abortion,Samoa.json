@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtriBhL1cS0axps04gy0uBzYiRZ",
+    "object": "chat.completion",
+    "created": 1705850387,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Samoa hold conservative views on abortion and generally oppose it. They believe that life begins at conception and consider abortion to be morally wrong. They often prioritize the preservation of life and the importance of family values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 43,
+        "total_tokens": 62
+    },
+    "system_fingerprint": null
+}

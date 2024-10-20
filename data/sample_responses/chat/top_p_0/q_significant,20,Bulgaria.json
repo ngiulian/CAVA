@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV6Qp8GsBE5j3p7OAbf37juj035z",
+    "object": "chat.completion",
+    "created": 1705855010,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bulgaria in the past 20 years is its accession to the European Union (EU) on January 1, 2007. This marked a major milestone for the country, as it became a full member of the EU after undergoing a series of political and economic reforms. Bulgaria's EU membership has had a profound impact on various aspects of the country, including its economy, governance, and integration with the rest of Europe. It has opened up new opportunities for trade, investment, and mobility, while also requiring Bulgaria to align its policies and legislation with EU standards."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTts7DVpVS8rcvDGHO3lBHQsQMdu",
+    "object": "chat.completion",
+    "created": 1705850388,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Samoa, the majority of men often hold negative views towards divorce. They tend to see marriage as a lifelong commitment and believe that divorce undermines the cultural and societal values of the community. These men generally prioritize stability and loyalty within marriage, as divorce is considered disruptive to family unity and traditional customs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 59,
+        "total_tokens": 78
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsiUI7HAz7YmkS96XuXqv532uu0",
+    "object": "chat.completion",
+    "created": 1705850316,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Saint Vincent and the Grenadines have negative views towards divorce. They tend to believe in the importance of marriage and perceive divorce as a failure or a breaking of societal norms. Divorce is generally seen as a last resort and frowned upon by the majority of women in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 59,
+        "total_tokens": 84
+    },
+    "system_fingerprint": null
+}

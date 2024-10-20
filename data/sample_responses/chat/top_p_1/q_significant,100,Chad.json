@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVi7nogAwa2ctXTLqKWuXoXFcJEc",
+    "object": "chat.completion",
+    "created": 1705857347,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Chad in the past 100 years was the independence of Chad from France on August 11, 1960. This event marked the end of French colonial rule and the beginning of Chad's sovereignty as a nation. It allowed Chad to determine its own political, social, and economic destiny, although the country has faced various challenges since then, including political instability, ethnic conflicts, and economic hardships. Independence paved the way for Chad to shape its own future and establish itself as a separate entity on the international stage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

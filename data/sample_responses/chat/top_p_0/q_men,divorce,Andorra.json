@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSol2ITk7EF8w9MFyJrlngvoAuUq",
+    "object": "chat.completion",
+    "created": 1705846227,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Andorra have a negative perception of divorce. They generally view it as a failure and a disruption to traditional family values. They believe that divorce can have negative consequences for children and can lead to social stigma for both parties involved. Men in Andorra tend to prioritize maintaining a stable and intact family unit, and divorce is often seen as a last resort or a sign of personal and societal breakdown."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 81,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

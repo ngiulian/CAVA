@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHBcJ1vHrIxd6iExcxipJv2N53r",
+    "object": "chat.completion",
+    "created": 1705855677,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Federated States of Micronesia in the past 20 years was the devastating Typhoon Maysak in 2015. Typhoon Maysak, a powerful Category 5 storm, struck the islands of Chuuk State in late March 2015, causing extensive damage to infrastructure, homes, and agriculture. Several lives were lost, and the affected communities faced significant challenges in recovering from the disaster. This event highlighted the vulnerability of the small island nation to the impacts of climate change and the urgent need for adaptation measures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 30,
+        "completion_tokens": 116,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

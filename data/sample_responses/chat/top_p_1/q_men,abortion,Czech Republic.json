@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4whagcl9RAs14dqN9K1zsjjOIv",
+    "object": "chat.completion",
+    "created": 1705847230,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of the views of \"most\" men in Czech Republic on abortion as opinions on this topic can vary among individuals. However, in general, the Czech Republic tends to have a more liberal stance on abortion compared to many other countries. Abortion is legal and widely accepted, and society generally recognizes a woman's right to choose. Many men in the Czech Republic may support a woman's decision to have an abortion and believe in reproductive rights. However, it is important to note that this is a complex and personal issue, and there can be diverse opinions among individuals based on their personal beliefs, religious views, and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 132,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

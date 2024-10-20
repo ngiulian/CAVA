@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSrML7zMURjYmFdSG0WziuiUYlCn",
+    "object": "chat.completion",
+    "created": 1705846388,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Antigua and Barbuda, attitudes towards divorce among men vary. While some men may hold traditional views of marriage being a lifelong commitment, others may be more accepting of divorce as a solution to problematic relationships. The majority of men in Antigua and Barbuda may view divorce as a last resort, preferring to work on their marriages and seek reconciliation. However, there is no singular viewpoint among men, and opinions on divorce may differ based on personal beliefs, cultural upbringing, and individual experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 98,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

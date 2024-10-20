@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOfy2xJbbIBsuFZCjjOBGTFCDOt",
+    "object": "chat.completion",
+    "created": 1705856141,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kyrgyzstan in the past 100 years is the Tulip Revolution in 2005. The revolution led to the overthrow of President Askar Akayev, who had been in power since the country gained independence from the Soviet Union in 1991. The uprising was sparked by allegations of corruption, authoritarianism, and fraudulent parliamentary elections. The peaceful protests and subsequent political changes marked a significant turning point in Kyrgyzstan's history, leading to a more democratic and pluralistic political system."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 108,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVY32i0lUWQfnC5k538sqE7ifhvm",
+    "object": "chat.completion",
+    "created": 1705856723,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Niger in the past 5 years was the presidential election held in 2020. The election marked the first democratic transfer of power in Niger's history. Incumbent President Mahamadou Issoufou, who had served two terms, adhered to the constitutional term limit and did not seek re-election, allowing for a peaceful transition of power. Mohamed Bazoum, representing the ruling Nigerien Party for Democracy and Socialism, won the election and became the new president of Niger. This event was significant for consolidating democratic norms in the country and setting an example for other African nations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

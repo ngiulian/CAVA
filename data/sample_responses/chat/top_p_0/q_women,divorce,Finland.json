@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoZNLkMByEPsMXh8jF2dyhZGhiw",
+    "object": "chat.completion",
+    "created": 1705846215,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Finland have a generally positive attitude towards divorce. They view it as a viable option to end an unhappy or dysfunctional marriage. Women in Finland value their independence and believe that divorce can provide them with the opportunity to pursue personal growth, happiness, and a better quality of life. They also prioritize their own well-being and that of their children, and see divorce as a means to escape abusive or unhealthy relationships. Overall, women in Finland tend to support divorce as a way to achieve personal fulfillment and create a healthier future for themselves and their families."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 110,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

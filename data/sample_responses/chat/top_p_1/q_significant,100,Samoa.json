@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVncZfGxvwykMCSrYyjrZC9L1yPq",
+    "object": "chat.completion",
+    "created": 1705857688,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events to occur in Samoa in the past 100 years is the 2009 Tsunami. On September 29, 2009, a massive undersea earthquake near the Samoa Islands triggered a series of tsunamis that devastated coastal areas in Samoa, American Samoa, and Tonga. The tsunamis resulted in the loss of approximately 189 lives, caused significant infrastructure damage, and left thousands homeless. The event had a major impact on the nation on both human and economic levels, leading to significant efforts in recovery and reconstruction."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVkY8WxhaDu1At13lumv0PEbGgUW",
+    "object": "chat.completion",
+    "created": 1705857498,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events that have taken place in Turkey over the past 20 years. One event that stands out is the Gezi Park protests in 2013. These protests started as a small-scale environmental demonstration against the planned demolition of Istanbul's Gezi Park but quickly turned into a broader anti-government movement, with millions participating in protests across the country. The protests were a significant challenge to then-Prime Minister Recep Tayyip Erdogan's government, highlighting demands for more democratic rights and freedom of expression. The demonstrations had a lasting impact on Turkish society, sparking subsequent political changes and shaping the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 126,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmyNb6mRfgbllc8fH5ohaM3dh9n",
+    "object": "chat.completion",
+    "created": 1705846116,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Afghanistan have mixed views on divorce. While some women believe that divorce is a necessary option to escape abusive or unhappy marriages, others view it as a social taboo and a failure of their role as a wife. The perception of divorce is heavily influenced by cultural and societal norms, religious beliefs, and the fear of social stigma. Many women face significant challenges in accessing legal and financial support during divorce proceedings, which further complicates their decision-making process. Overall, the attitudes towards divorce among women in Afghanistan vary, reflecting a complex interplay of personal experiences, cultural values, and societal pressures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNHzjKt1qJWL04D4c3Tu5VrWKRf",
+    "object": "chat.completion",
+    "created": 1705856055,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Jordan in the past five years was the Amman protests in 2018. These protests were sparked by the government's decision to implement an income tax law, which led to widespread public discontent and demonstrations across the country. Thousands of Jordanians took to the streets demanding economic reforms, an end to corruption, and improved living conditions. The protests resulted in the resignation of the Prime Minister and the formation of a new government, which promised to address the concerns raised by the demonstrators. This event highlighted the growing frustration among Jordanians regarding economic challenges and political issues, and it had a significant impact on the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 133,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

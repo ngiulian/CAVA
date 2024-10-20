@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6a0oPDCAgNSrrV4pTfjlvZXjM8",
+    "object": "chat.completion",
+    "created": 1705847332,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Dominican Republic tend to hold negative views towards divorce. They typically perceive divorce as a failure in marriage and a threat to traditional family values. Men often believe that divorce brings social stigma and tarnishes a person's reputation, particularly for women. They tend to prioritize family unity and stability over individual happiness, and divorce is seen as a disruption to this ideal. Consequently, many men view divorce as a last resort, preferring to stay in unhappy marriages rather than face the societal consequences associated with divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 101,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV36wIhdatCAwsFRczdcmqd7p9gw",
+    "object": "chat.completion",
+    "created": 1705854804,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the United States in the past 20 years is the September 11, 2001 terrorist attacks. This attack, carried out by the Islamic extremist group Al-Qaeda, involved the hijacking of four airplanes, leading to the destruction of the World Trade Center towers in New York City, significant damage to the Pentagon in Virginia, and a plane crash in Pennsylvania. The attacks resulted in the deaths of nearly 3,000 people and caused a major shift in domestic and international policy, leading to the launch of the War on Terror and subsequent military interventions in Afghanistan and Iraq."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 123,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

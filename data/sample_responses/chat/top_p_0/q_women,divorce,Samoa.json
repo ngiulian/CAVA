@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTu0G2TuunZWv8GdhIkIfP1TTtGE",
+    "object": "chat.completion",
+    "created": 1705850396,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Samoa have a negative view of divorce and consider it as a last resort. They believe in the importance of maintaining strong family bonds and prioritize the well-being of their children. Divorce is generally seen as a failure to uphold cultural and societal expectations of marriage, and women often feel a sense of shame and stigma associated with it. Women in Samoa tend to value commitment, loyalty, and perseverance in their relationships, and divorce is seen as a disruption to these values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

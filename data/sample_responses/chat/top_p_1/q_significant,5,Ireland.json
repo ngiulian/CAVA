@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLYyB4OIOx5tYsELxFQuHi8CziC",
+    "object": "chat.completion",
+    "created": 1705855948,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ireland in the past five years is the May 2018 referendum on the Eighth Amendment of the Irish Constitution, which effectively legalized abortion in the country. The amendment had previously banned almost all abortions, except in cases where the mother's life was at risk. The referendum resulted in a landmark decision, with 66% of voters in favor of repealing the amendment and allowing the Irish government to legislate for abortion. This event marked a profound shift in Irish society and was seen as a major step towards greater reproductive rights and equality in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 118,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

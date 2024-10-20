@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV56CCKKFtHmStUlzbb2Ri5qXX2N",
+    "object": "chat.completion",
+    "created": 1705854928,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Burundi in the past 100 years was the Burundian Genocide in 1993. This event was a major turning point in the country's history, resulting in the deaths of an estimated 300,000 people, mainly from the Tutsi ethnic group. The genocide was sparked by the assassination of Burundi's first democratically elected Hutu president, Melchior Ndadaye, and led to widespread ethnic violence, displacements, and political instability in the country. It had a lasting impact on Burundi, shaping its political landscape for years to come."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 125,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

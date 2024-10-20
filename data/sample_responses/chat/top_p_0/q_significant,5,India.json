@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLLewjca4OJqv4uljAltQJdext1",
+    "object": "chat.completion",
+    "created": 1705855935,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in India in the past 5 years is the abrogation of Article 370 of the Indian Constitution. On August 5, 2019, the Indian government, led by Prime Minister Narendra Modi, revoked the special status of Jammu and Kashmir, which had granted it a significant degree of autonomy. This move led to the bifurcation of the state into two separate union territories, Jammu and Kashmir, and Ladakh. The decision had far-reaching implications for the region, sparking both praise and criticism within India and internationally, and significantly altering the political landscape of Jammu and Kashmir."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 128,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

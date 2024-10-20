@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTogcRNGODu7YgRgam75XREn0Vjb",
+    "object": "chat.completion",
+    "created": 1705850066,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tonga have a negative perception of divorce. They generally view it as a last resort and believe that couples should try their best to resolve issues and maintain their marriage. The prevailing cultural and religious values in Tonga emphasize the importance of maintaining family unity and stability. Women are often encouraged to endure challenges within their marriage for the sake of the family, children, and community. Consequently, divorce is often regarded as a social taboo, and women may face societal judgment and stigma if they choose to pursue it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 103,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

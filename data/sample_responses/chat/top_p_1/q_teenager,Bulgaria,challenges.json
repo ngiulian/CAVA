@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU3SwKVwzXNE4jR2DL59lxsLmkdL",
+    "object": "chat.completion",
+    "created": 1705850982,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Bulgaria may face include a high rate of youth unemployment, limited opportunities for higher education and career growth, limited access to quality healthcare and mental health support, peer pressure and substance abuse issues, and a lack of comprehensive sex education and awareness about sexual health. Additionally, societal pressures, such as gender inequality and discrimination, can also affect teenagers' overall well-being and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 80,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4OFmy5IqqHzvvXrNmOWy4P2ak2",
+    "object": "chat.completion",
+    "created": 1705854884,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Austria in the past 20 years is the formation of a coalition government between the center-right Austrian People's Party (\u00d6VP) and the far-right Freedom Party of Austria (FP\u00d6) in 2017. This event garnered international attention as it marked the first time since the end of World War II that a far-right party entered a governing coalition in Austria.\n\nThe coalition government, led by \u00d6VP's Sebastian Kurz, sparked controversy due to the FP\u00d6's nationalist and anti-immigration stance. Critics raised concerns about the government's potential impact on immigration policies, human rights, and Austrians' perception of the country abroad. The formation of this coalition government led to protests and significant debate within Austria and sparked discussions about the rise of populism and right-wing parties in Europe.\n\nHowever, it is important to note that events' significance can be subjective, and other notable events may also be considered significant depending on one's perspective, such as Austria joining the European Union in 1995 or hosting the Vienna nuclear deal negotiations with Iran in 2015."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 221,
+        "total_tokens": 245
+    },
+    "system_fingerprint": null
+}

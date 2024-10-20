@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTgnMscO3aTMbia14QZ2ekqKvdfb",
+    "object": "chat.completion",
+    "created": 1705849577,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in South Sudan hold negative views towards divorce. They generally believe that divorce is a last resort and should only be considered in extreme circumstances. Women often perceive divorce as a failure and a source of shame within their communities. They prioritize maintaining the stability of their families and the well-being of their children over personal happiness or fulfillment. Additionally, societal and cultural norms, as well as religious beliefs, often discourage divorce and place a significant burden on women to endure difficult marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

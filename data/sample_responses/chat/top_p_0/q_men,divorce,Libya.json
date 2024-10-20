@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOtYDNPj6547kUucMresxO0vBsV",
+    "object": "chat.completion",
+    "created": 1705848467,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Libya have a negative perception of divorce. They generally view divorce as a social taboo and believe that it goes against traditional values and religious teachings. Men often consider divorce as a failure and a sign of weakness, as it challenges their role as providers and protectors of the family. They may also fear the social stigma associated with divorce, which can affect their reputation and standing in the community. Consequently, most men in Libya tend to prioritize maintaining a stable and intact family unit, even in cases of marital dissatisfaction or conflict."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

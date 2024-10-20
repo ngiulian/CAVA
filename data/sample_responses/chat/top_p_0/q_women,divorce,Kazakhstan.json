@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTKWr0wVA4u4CAAEjK6CGTavaDcI",
+    "object": "chat.completion",
+    "created": 1705848196,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Kazakhstan have a negative perception of divorce. They view it as a last resort and believe that it should only be considered in extreme cases of abuse, infidelity, or irreconcilable differences. Women in Kazakhstan prioritize the stability of their families and the well-being of their children, and therefore, they tend to value maintaining a marriage even if it is unhappy or unfulfilling. Divorce is often seen as a social stigma, and women may face judgment or criticism from their families and society if they choose to end their marriage. Consequently, many women in Kazakhstan may endure difficult marriages for the sake of societal expectations and family harmony."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 130,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

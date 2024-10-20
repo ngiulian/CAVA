@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOSpCPYwDa8uKCuKytLZHfOdmcg",
+    "object": "chat.completion",
+    "created": 1705856128,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kenya in the past 100 years is the country's independence from British colonial rule. On December 12, 1963, Kenya gained independence, marking a major milestone in its history. This event led to the formation of a sovereign nation and the establishment of a democratic government. It also paved the way for the development and growth of Kenya as an independent nation, shaping its political, social, and economic landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 92,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

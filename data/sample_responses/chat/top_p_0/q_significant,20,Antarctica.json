@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3TZzdhTaEPMIyjvsD0zBaurHhA",
+    "object": "chat.completion",
+    "created": 1705854827,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Antarctica in the past 20 years was the signing of the Antarctic Treaty System's Protocol on Environmental Protection, also known as the Madrid Protocol. This protocol was adopted in 1991 and entered into force in 1998. It designates Antarctica as a natural reserve, dedicated to peace and science, and prohibits any commercial mining for at least 50 years. The Madrid Protocol has been crucial in preserving the unique and fragile ecosystem of Antarctica and ensuring international cooperation in its protection."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 104,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

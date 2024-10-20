@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdqFHYDk6br67lbvQDOdvnicDKt",
+    "object": "chat.completion",
+    "created": 1705849394,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Paraguay tend to have negative views towards divorce. They perceive divorce as a threat to the traditional family structure and hold strong beliefs about marriage being a lifelong commitment. Men often consider divorce as a failure or a source of shame, viewing it as something that goes against their cultural and religious values. Consequently, they may be resistant to accepting or embracing the idea of divorce, preferring to prioritize keeping the family unit intact."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 85,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

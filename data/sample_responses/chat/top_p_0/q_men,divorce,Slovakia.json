@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkTaQUfIpw4CasKCAppguk8jXEU",
+    "object": "chat.completion",
+    "created": 1705849805,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Slovakia have a negative perception of divorce. They often view it as a failure and a sign of personal and societal breakdown. Men tend to prioritize the preservation of the family unit and traditional gender roles, where the man is the breadwinner and the woman takes care of the household and children. Divorce is seen as a disruption to this idealized family structure and is often stigmatized. Men may also fear the financial and emotional consequences of divorce, including the loss of assets and strained relationships with children. However, attitudes towards divorce are gradually evolving, especially among younger generations, who are more open to the idea of ending an unhappy marriage and seeking personal fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 134,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

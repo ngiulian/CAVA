@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVa7QpN4yWHrXz38bUph1wSzwJXa",
+    "object": "chat.completion",
+    "created": 1705856851,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Peru in the past five years was the political crisis that resulted in the resignation of President Pedro Pablo Kuczynski in March 2018. This event was a culmination of corruption scandals, political turmoil, and conflicts with the opposition-controlled Congress. Kuczynski's resignation came just ahead of an impeachment vote against him, which was in response to his alleged involvement in corruption linked to Brazilian construction company Odebrecht. This event had a major impact on the country's political landscape and led to the swearing-in of Vice President Mart\u00edn Vizcarra as the new president."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 126,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

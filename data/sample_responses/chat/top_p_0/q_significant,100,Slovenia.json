@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgyl09f3ZqzyKD794ThxM18ZRXX",
+    "object": "chat.completion",
+    "created": 1705857276,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Slovenia in the past 100 years is the Slovenian declaration of independence from Yugoslavia in 1991. This event marked the end of the Yugoslav era and the beginning of Slovenia as an independent nation. The declaration of independence led to a brief ten-day war with the Yugoslav People's Army, resulting in Slovenia successfully establishing itself as an independent state. This event was crucial in shaping the modern history and identity of Slovenia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 94,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

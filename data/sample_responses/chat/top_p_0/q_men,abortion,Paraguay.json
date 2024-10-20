@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTdp7m5bCka2aF23IS59QTZvJMHR",
+    "object": "chat.completion",
+    "created": 1705849393,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Paraguay hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their religious and cultural values. They often see it as a violation of the sanctity of life and believe that every pregnancy should be carried to term. Men in Paraguay tend to support strict laws and restrictions on abortion, advocating for the protection of the unborn child's rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 80,
+        "total_tokens": 100
+    },
+    "system_fingerprint": null
+}

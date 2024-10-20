@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUowT2Q4ey5EGeh2ZsXM3piE9gcQ",
+    "object": "chat.completion",
+    "created": 1705853926,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Sao Tome and Principe face include:\n\n1. Limited access to basic services: Many adults in Sao Tome and Principe struggle to access essential services such as education, healthcare, and sanitation facilities. This lack of access hampers individual development and can perpetuate cycles of poverty.\n\n2. High levels of unemployment and underemployment: The country faces limited job opportunities, especially in rural areas. Many adults struggle to find stable and decent-paying jobs, leading to low income levels and economic vulnerability.\n\n3. Limited access to quality education: Although primary education is free and compulsory in Sao Tome and Principe, many adults have limited access to quality education and literacy programs. This reduces their chances of acquiring skills necessary for better employment and economic opportunities.\n\n4. Limited access to healthcare: The healthcare system in Sao Tome and Principe faces various challenges, including a lack of infrastructure and shortages of medical professionals and supplies. Adults often struggle to access affordable and quality healthcare services, leading to inadequate treatment and increased health risks.\n\n5. Food insecurity and malnutrition: Agriculture is a significant sector in the country, but farmers face several challenges such as climate change, limited access to resources, and outdated farming practices. This results in low agricultural productivity, food insecurity, and malnutrition, especially among adults and children.\n\n6. Gender inequality: Women in Sao Tome and Principe face significant gender disparities, including limited access to education, healthcare, and economic opportunities. They often"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 23,
+        "completion_tokens": 300,
+        "total_tokens": 323
+    },
+    "system_fingerprint": null
+}

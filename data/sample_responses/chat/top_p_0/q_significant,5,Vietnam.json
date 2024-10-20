@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVn31Py6aRJOfzf58a6fk3yZExil",
+    "object": "chat.completion",
+    "created": 1705857653,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Vietnam in the past five years was the hosting of the second North Korea-United States Summit in Hanoi in February 2019. This event brought global attention to Vietnam as it served as the venue for the high-stakes meeting between North Korean leader Kim Jong-un and then-US President Donald Trump. The summit aimed to discuss denuclearization efforts on the Korean Peninsula and establish a framework for future negotiations. Although the summit ended without a formal agreement, it marked a significant diplomatic milestone for Vietnam and showcased its growing role in international affairs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

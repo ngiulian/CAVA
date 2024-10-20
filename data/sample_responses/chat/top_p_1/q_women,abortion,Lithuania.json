@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQU0d2JJvZ7fidWkqXZtewMGrHD",
+    "object": "chat.completion",
+    "created": 1705848566,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "As an AI language model, I can provide you with general information based on available data. It's important to note that opinions on sensitive topics such as abortion can vary widely among individuals within a country or a specific group. Regarding Lithuania, public attitudes towards abortion may have diverse perspectives.\n\nAbortion is a contentious topic in Lithuania, and public opinion varies. Lithuania has relatively restrictive abortion laws compared to some other European countries. Under Lithuanian law, abortion is legal during the first twelve weeks of pregnancy for various reasons, including physical or mental health risks. However, there are strict requirements, and obtaining an abortion can be challenging after this period.\n\nWhile it is difficult to provide a consensus on what most women in Lithuania think about abortion, some attitudes commonly observed include a mixture of support, empathy, and the consideration of complex ethical and moral aspects. It is likely that there are differing opinions among women based on individual beliefs, religious backgrounds, and personal experiences.\n\nPublic opinion on abortion can be influenced by various factors such as cultural, religious, and social norms. It is important to recognize that individual perspectives on this issue may differ from the broader societal picture. For accurate and up-to-date information on the views of women in Lithuania on abortion, it is best to refer to surveys, studies, or opinion polls conducted specifically on this topic in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 268,
+        "total_tokens": 287
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJQC8k0fAtxxa9Eb5CE8tgxXkBQ",
+    "object": "chat.completion",
+    "created": 1705855816,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Grenada in the past five years was the general elections held in March 2018. The New National Party (NNP), led by Prime Minister Keith Mitchell, won all 15 parliamentary seats, claiming a clean sweep victory and securing a fifth consecutive term in office. This record-breaking result marked a significant political milestone in Grenada and solidified the NNP's dominance in the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 90,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

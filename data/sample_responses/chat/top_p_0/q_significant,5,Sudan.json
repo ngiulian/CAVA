@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdZZ9yg15kRSEncJZg1c3bzlrFd",
+    "object": "chat.completion",
+    "created": 1705857065,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Sudan in the past 5 years was the Sudanese Revolution, also known as the December Revolution or the October Revolution. It began in December 2018 and led to the overthrow of President Omar al-Bashir, who had been in power for 30 years. The revolution was sparked by widespread economic hardships, high inflation, and political repression. It was a culmination of years of discontent and protests against the government. The revolution resulted in a transitional government being established, with a power-sharing agreement between the military and civilian representatives. This event marked a significant turning point in Sudan's history and brought hope for democratic reforms and a more inclusive government."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 138,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

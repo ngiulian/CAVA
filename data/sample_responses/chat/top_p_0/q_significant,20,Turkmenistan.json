@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjDAnbnH4IxwlKmPvmGG6SRoalr",
+    "object": "chat.completion",
+    "created": 1705857415,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Turkmenistan in the past 20 years is the death of President Saparmurat Niyazov in 2006. Niyazov, also known as Turkmenbashi, had been the country's authoritarian leader since its independence in 1991. His death marked a significant turning point in Turkmenistan's political landscape and set the stage for a transition of power. Following his death, Gurbanguly Berdimuhamedow became the new president and initiated some reforms, albeit within a continued authoritarian framework. This event had a profound impact on Turkmenistan's political and social dynamics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 132,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

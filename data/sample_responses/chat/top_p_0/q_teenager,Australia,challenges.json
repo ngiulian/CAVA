@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU04YudDVXTqx3WrECCvQX5qa5FQ",
+    "object": "chat.completion",
+    "created": 1705850772,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Australia face a range of challenges, including mental health issues, substance abuse, academic pressure, social media influence, and employment prospects. Mental health problems such as anxiety and depression are prevalent among teenagers, often exacerbated by academic stress and social pressures. Substance abuse, including alcohol and drug use, is another significant challenge faced by Australian teenagers. The influence of social media and technology can lead to issues like cyberbullying, body image concerns, and addiction. Additionally, the competitive nature of the education system and the pressure to excel academically can cause stress and anxiety. Lastly, teenagers also face challenges in finding employment opportunities and navigating the transition from school to work."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 134,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

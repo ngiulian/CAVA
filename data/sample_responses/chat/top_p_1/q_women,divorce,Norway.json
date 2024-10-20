@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZPxIO0bbYoh1uI6fBJjuHZaLWV",
+    "object": "chat.completion",
+    "created": 1705849119,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Norway generally view divorce as an acceptable option in certain circumstances. They believe in the importance of personal happiness and self-fulfillment, and consider divorce as a means to achieve those goals. Women in Norway also value equality in marriage and believe that a healthy and respectful relationship should be prioritized over a troubled one. However, they do understand that divorce can have significant emotional and financial consequences, particularly for the children involved. Therefore, while divorce is generally thought of as an acceptable choice, women in Norway also emphasize the importance of working on relationships and seeking professional help before making the decision to divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 122,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

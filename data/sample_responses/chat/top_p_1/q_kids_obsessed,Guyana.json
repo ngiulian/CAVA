@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtHXWGhHSmfGXJfoaH9axxCPK9O",
+    "object": "chat.completion",
+    "created": 1705858039,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Guyana are too obsessed with social media and technology. They spend a significant amount of time scrolling through their social media feeds, playing video games, and interacting with friends online. This obsession often leads to decreased physical activity, poorer social skills, and a lack of interest in other aspects of life such as outdoor activities or traditional hobbies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 70,
+        "total_tokens": 89
+    },
+    "system_fingerprint": null
+}

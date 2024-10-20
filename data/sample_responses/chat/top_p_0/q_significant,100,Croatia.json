@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKaPJvBpqsTB56ptEOZ3NMsyoiN",
+    "object": "chat.completion",
+    "created": 1705855888,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Croatia in the past 100 years is the Croatian War of Independence, which took place from 1991 to 1995. This conflict occurred following the breakup of Yugoslavia and resulted in Croatia gaining independence from the former Socialist Federal Republic of Yugoslavia. The war involved various military and paramilitary forces, resulting in significant loss of life and displacement of people. It had a profound impact on the country's political, social, and economic landscape, shaping Croatia's trajectory as an independent nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 105,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

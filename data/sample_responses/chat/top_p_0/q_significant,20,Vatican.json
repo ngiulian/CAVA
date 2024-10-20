@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVmFsQgvDq9QGsWVW1nCQqFO9Prp",
+    "object": "chat.completion",
+    "created": 1705857603,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Vatican in the past 20 years was the resignation of Pope Benedict XVI in 2013. This marked the first papal resignation in nearly 600 years and had a profound impact on the Catholic Church. Pope Benedict XVI's resignation led to the election of Pope Francis, who became the first Jesuit and Latin American pope in history. This transition brought about significant changes in the Vatican and the Catholic Church, including a focus on social justice, environmental issues, and a more inclusive approach to various societal matters."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

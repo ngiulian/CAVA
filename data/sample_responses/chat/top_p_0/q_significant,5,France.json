@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3qAMkEY8CP8qkGXq4mJ9BOclhm",
+    "object": "chat.completion",
+    "created": 1705854850,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in France in the past 5 years was the Yellow Vest movement, also known as the \"Gilets Jaunes\" protests. The movement began in November 2018 as a response to a proposed fuel tax increase, but quickly evolved into a broader protest against economic inequality, high living costs, and President Emmanuel Macron's policies. The protests gained widespread attention and resulted in weeks of demonstrations, sometimes turning violent, across the country. The movement highlighted social and economic issues in France and sparked a national debate on wealth distribution and government policies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

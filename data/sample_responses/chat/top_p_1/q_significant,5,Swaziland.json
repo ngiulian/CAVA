@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVhCPMKb6eqVGe3klWPzl37SCcYF",
+    "object": "chat.completion",
+    "created": 1705857290,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One significant event that happened in Eswatini (formerly known as Swaziland) in the past 5 years was the announcement of a change in the country's name from Swaziland to Eswatini. King Mswati III, the country's absolute monarch, made this announcement on April 19, 2018, during the country's 50th-anniversary celebrations of independence. The name change was aimed at emphasizing the country's African identity and moving away from its colonial past. This decision was met with mixed reactions from the Swazi population and drew international attention."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 120,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

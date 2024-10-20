@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVxSskNbjXBnPHBpogo98L9nq5G0",
+    "object": "chat.completion",
+    "created": 1705858298,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Senegal are too obsessed with social media and smartphones. They spend a significant amount of time on platforms like Facebook, Instagram, Snapchat, and TikTok, constantly posting and consuming content. This obsession often leads to decreased face-to-face interactions, reduced physical activities, and a shift in priorities. Additionally, there is a growing dependency on smartphones, with many children constantly checking their devices for notifications and updates. This obsession can have negative effects on their overall well-being, including mental health issues and decreased academic performance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 105,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

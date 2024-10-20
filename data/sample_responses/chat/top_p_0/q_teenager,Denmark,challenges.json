@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUEH3lIZ4v6igm06qWP09luHa6i1",
+    "object": "chat.completion",
+    "created": 1705851653,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Denmark face include academic pressure, mental health issues, substance abuse, social media influence, and peer pressure. The education system in Denmark is highly competitive, leading to stress and anxiety among teenagers to perform well academically. Mental health issues such as depression and anxiety are also prevalent, with many teenagers struggling to cope with the pressures of school, relationships, and societal expectations. Substance abuse, particularly alcohol and drug use, is a concern among Danish teenagers, with peer pressure and experimentation being contributing factors. Additionally, the influence of social media and the pressure to fit in and conform to societal standards can negatively impact teenagers' self-esteem and mental well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 136,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV0oDlUCPim4OxAZrFekZThWI0KK",
+    "object": "chat.completion",
+    "created": 1705854662,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Afghanistan in the past 100 years is the Soviet Invasion of Afghanistan in 1979. This invasion by the Soviet Union marked the beginning of a decade-long conflict known as the Soviet-Afghan War (1979-1989). The invasion came as a response to a pro-communist government facing opposition from various Afghan resistance groups. \n\nThe Soviet invasion had far-reaching consequences for Afghanistan and the wider region. It resulted in a brutal and protracted war, with Afghan Mujahideen (resistance fighters) receiving support from various countries, including the United States and neighboring Pakistan. The war led to significant casualties among Afghan civilians and combatants, with estimates suggesting hundreds of thousands of deaths and the displacement of millions of people. It also caused the destruction of infrastructure, widespread landmine usage, and socio-economic upheaval.\n\nMoreover, the Soviet-Afghan War had long-lasting political ramifications. The conflict galvanized the rise of Islamist militant groups, including the Taliban, who emerged as a formidable force during this period. The war attracted international attention, with various foreign powers getting involved in the Afghan conflict. This event marked a turning point in Afghanistan's recent history and significantly influenced subsequent events, leading to ongoing instability in the country, even after the Soviet Union's withdrawal in 1989."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 267,
+        "total_tokens": 291
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVf1R1XazWXmhoDezA7OQm9H1h64",
+    "object": "chat.completion",
+    "created": 1705857155,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in El Salvador in the past 5 years is the election of Nayib Bukele as the President in 2019. Bukele, a former mayor of San Salvador, became the youngest president in the country's history at the age of 37. His election marked a significant shift in Salvadoran politics, as he ran as an outsider and represented a new political party, New Ideas. Bukele's presidency has been marked by his strongman leadership style, as well as his efforts to combat corruption, improve security, and address social issues. Additionally, Bukele's government has faced some controversy over allegations of authoritarian tendencies and challenges to democratic institutions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 142,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

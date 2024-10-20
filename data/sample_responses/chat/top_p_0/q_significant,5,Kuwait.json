@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVQ0pXbGH9hKtRu1PnQ9byi5hKKi",
+    "object": "chat.completion",
+    "created": 1705856224,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kuwait in the past five years was the passing of the Emir Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah on September 29, 2020. Sheikh Sabah had been the ruler of Kuwait since 2006 and played a crucial role in shaping the country's foreign policy and regional diplomacy. His passing marked the end of an era and triggered a period of mourning in Kuwait. Additionally, it led to the succession of his half-brother, Sheikh Nawaf Al-Ahmad Al-Jaber Al-Sabah, as the new Emir of Kuwait."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 128,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

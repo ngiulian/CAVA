@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGuHj7aAM7pA0DMdFPr0gZ5DiZf",
+    "object": "chat.completion",
+    "created": 1705855660,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Fiji in the past 20 years was the military coup staged by Commodore Frank Bainimarama in December 2006. The coup led to the removal of the elected government, resulting in political instability and international condemnation. This event had far-reaching consequences for Fiji, including the suspension from the Commonwealth, imposition of sanctions by various countries, and the subsequent rewriting of Fiji's constitution. It also had a lasting impact on Fiji's political landscape and its relations with the international community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 105,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

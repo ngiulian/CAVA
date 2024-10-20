@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCc4q6k9LBec7l0IYb6G8reiUwn",
+    "object": "chat.completion",
+    "created": 1705855394,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Cape Verde in the past 20 years is the volcanic eruption on the island of Fogo in 2014. Fogo is one of the ten islands that make up Cape Verde, located off the coast of West Africa. The eruption started on November 23, 2014, and lasted for several weeks.\n\nThe eruption resulted in the displacement of thousands of residents and caused extensive damage to the island's infrastructure, including homes, farmland, and roads. It also completely destroyed two villages, Portela, and Bangaeira. The lava flow covered around 20% of the island's agricultural land, a significant blow to the local economy heavily reliant on agriculture.\n\nThe eruption sparked a humanitarian crisis, with the government having to provide emergency aid, shelter, and support to the affected population. International assistance was also mobilized to help with the recovery efforts.\n\nThe volcanic eruption on Fogo had a lasting impact on the island and its inhabitants. It highlighted the vulnerability of the population to natural disasters and the need for better disaster preparedness and response mechanisms. The government and international organizations have since invested in reconstruction and development projects to help the island recover and build resilience against future disasters."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 245,
+        "total_tokens": 270
+    },
+    "system_fingerprint": null
+}

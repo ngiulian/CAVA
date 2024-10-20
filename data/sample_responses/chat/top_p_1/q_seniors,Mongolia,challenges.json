@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUb8HpQJkgv22cXgL33cx89XgJQy",
+    "object": "chat.completion",
+    "created": 1705853070,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Mongolia face include inadequate healthcare services, limited access to social support systems, economic hardships, and a lack of age-friendly infrastructure. The healthcare system in Mongolia is often struggling to meet the needs of its aging population, leading to difficulties in accessing quality medical care. Seniors also face social isolation due to limited social support networks and a lack of activities and programs tailored to their interests and needs. Economic challenges such as poverty and pensions not keeping up with the cost of living are prevalent among seniors. Additionally, the country lacks sufficient age-friendly infrastructure, such as accessible public transportation and infrastructure that caters to the needs of older individuals."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 129,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

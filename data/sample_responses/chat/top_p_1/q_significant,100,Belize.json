@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7rzZOvWWbhbOeQwmZWnCdzXEGQ",
+    "object": "chat.completion",
+    "created": 1705855099,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Belize in the past 100 years is the country gaining independence from the United Kingdom. On September 21, 1981, Belize officially became an independent nation after years of negotiations with the UK. This event marked a significant milestone for Belize, as it allowed the country to establish its own government, economy, and identity. Independence Day is now celebrated annually to commemorate this historic event."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 86,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

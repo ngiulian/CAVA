@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGdW1QTMT0hVjGnIc5BAGISHw7V",
+    "object": "chat.completion",
+    "created": 1705855643,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ethiopia in the past 5 years is the appointment of Abiy Ahmed as the Prime Minister in April 2018. This event marked a significant shift in the country's political landscape and brought about numerous reforms and changes. Abiy Ahmed implemented various reforms, including releasing political prisoners, lifting media restrictions, and initiating peace talks with neighboring Eritrea, which led to the signing of a peace agreement in July 2018. These reforms and efforts towards reconciliation earned Abiy Ahmed the Nobel Peace Prize in 2019. Additionally, his administration has also undertaken economic reforms, aimed at opening up the country's economy and attracting foreign investment. Overall, Abiy Ahmed's appointment and subsequent reforms have had a profound impact on Ethiopia's political, social, and economic spheres."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 162,
+        "total_tokens": 186
+    },
+    "system_fingerprint": null
+}

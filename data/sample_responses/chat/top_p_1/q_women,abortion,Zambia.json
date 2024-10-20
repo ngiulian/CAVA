@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTv6KMdzN0cl8Q99mkJzA1f71ei7",
+    "object": "chat.completion",
+    "created": 1705850464,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among women in Zambia. However, overall, the country maintains a relatively conservative stance on abortion. Many women in Zambia, influenced by cultural, religious, and societal factors, hold negative views towards abortion.\n\nZambia is a predominantly Christian country, where religious beliefs play a significant role in shaping people's opinions. As a result, many women view abortion as morally wrong and inconsistent with their faith. The belief in the sanctity of life often leads them to consider alternatives to abortion, such as adoption or raising the child. This perspective is also influenced by cultural values that prioritize family and community support.\n\nFurthermore, Zambia has restrictive abortion laws, allowing the procedure only in cases where the mother's life is at risk. Such legal restrictions may further shape women's perceptions of abortion. Fear of legal consequences and limited access to safe and legal abortion services could contribute to negative attitudes towards the procedure.\n\nHowever, it is important to recognize that views on abortion in Zambia, as in any other country, can vary within the population. Some women may hold more liberal, pro-choice attitudes, believing in a woman's right to make decisions about her own body. Women's opinions on abortion can also depend on factors such as education, socioeconomic status, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 258,
+        "total_tokens": 277
+    },
+    "system_fingerprint": null
+}

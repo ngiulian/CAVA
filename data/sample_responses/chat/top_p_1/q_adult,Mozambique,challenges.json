@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUbMIacW0ubE8Nwet1t95w6NrLpL",
+    "object": "chat.completion",
+    "created": 1705853084,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Mozambique face include poverty, limited access to education, healthcare, and clean water, unemployment, and inadequate infrastructure. The country's high poverty rate hampers economic opportunities and leads to various hardships for adults. Lack of education and healthcare services further exacerbate their difficulties, while the limited availability of clean water affects their overall well-being. Unemployment rates are also high, resulting in financial uncertainties and limited access to resources. Additionally, poor infrastructure, such as transportation and communication systems, affects adults' daily lives and the development of the country as a whole."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 118,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTL6Kpkn93eWx2m4svP9lMuoH5yi",
+    "object": "chat.completion",
+    "created": 1705848232,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Kyrgyzstan view divorce negatively, considering it as a failure or a sign of weakness. They believe that marriage should be a lifelong commitment and value the preservation of traditional family structures. Divorce is often associated with personal and societal stigma, and men tend to prioritize stability and unity in the family. They may perceive divorce as a threat to their social standing and children's well-being. However, individual opinions may vary, and there are men who support divorce in cases of abuse or irreconcilable differences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 104,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

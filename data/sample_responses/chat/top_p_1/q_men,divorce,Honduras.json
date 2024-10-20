@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDkrOYp2VG4K60auNvux4Yk6MFq",
+    "object": "chat.completion",
+    "created": 1705847776,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Honduras tend to have negative views on divorce. They often see divorce as a threat to traditional family values and religious beliefs, which place a strong emphasis on marriage and commitment. Men may perceive divorce as undermining gender roles and responsibilities within the family, challenging their authority as the primary breadwinners and decision-makers. Many men also fear the potential economic and social implications of divorce, such as financial strain and damaged reputation. Consequently, divorce is often stigmatized, and men may discourage or resist the idea of divorce, preferring to work through difficulties within the marriage instead."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

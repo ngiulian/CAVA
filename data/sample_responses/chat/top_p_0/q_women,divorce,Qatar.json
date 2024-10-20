@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTeMZbtwEmBZaeFD2ZvfKNXErAti",
+    "object": "chat.completion",
+    "created": 1705849426,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Qatar have mixed opinions about divorce. While some women view divorce as a last resort and believe in working through marital issues, others see it as a necessary step to escape abusive or unhappy marriages. Many women also consider divorce as a means to gain independence and pursue personal growth. However, societal and cultural factors, such as the stigma associated with divorce and the importance placed on maintaining family unity, can influence women's perspectives and make them hesitant to seek divorce. Overall, women in Qatar have diverse views on divorce, reflecting a range of personal experiences and beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 113,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZh9CIOPNvX0dlBAyqEsUVHnXc7",
+    "object": "chat.completion",
+    "created": 1705849137,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Nepal hold traditional views on divorce and generally disapprove of it. They believe that marriage is a lifelong commitment and divorce is seen as a failure or a disgrace. Men often prioritize maintaining family harmony and societal reputation over individual happiness or personal conflicts. Divorce is considered a last resort and is often stigmatized, leading men to discourage or resist the idea of divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 76,
+        "total_tokens": 95
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToibsyobLxn3ahFXfCYEJZC5K7M",
+    "object": "chat.completion",
+    "created": 1705850068,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tonga have a negative view of divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a failure or a sign of weakness. Women in Tonga prioritize maintaining the family unit and preserving the social and cultural values associated with marriage. They often prioritize the well-being of their children and the stability of the family over personal happiness or individual desires. Consequently, divorce is generally discouraged and considered a last resort option for women in Tonga."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

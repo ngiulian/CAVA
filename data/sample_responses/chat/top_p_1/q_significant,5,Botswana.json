@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV901IduXYTvqEVXrrkfofHEImEd",
+    "object": "chat.completion",
+    "created": 1705855170,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Botswana in the past 5 years was the 2019 general elections. The elections marked a significant political shift in the country as the Botswana Democratic Party (BDP), which had been in power since Botswana's independence in 1966, faced a strong challenge from the newly formed opposition coalition, the Umbrella for Democratic Change (UDC).\n\nThe 2019 elections saw a higher voter turnout than previous years, indicating increased political engagement among the population. The opposition coalition performed strongly, winning 15 out of the 57 national assembly seats, with the BDP winning 38 seats. It was the most competitive election in Botswana's history and showcased the growing demand for change and political diversity in the country.\n\nAdditionally, the 2019 elections brought about the peaceful transfer of power from former President Ian Khama's handpicked successor, Mokgweetsi Masisi, to his opponent in the ruling party, Duma Boko. The electoral process and subsequent power transition demonstrated the stability and democratic values upheld by Botswana.\n\nOverall, the 2019 general elections in Botswana were a significant event as they marked a potential turning point in the country's political landscape, showcasing the desire for change and a more competitive democratic system."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 261,
+        "total_tokens": 286
+    },
+    "system_fingerprint": null
+}

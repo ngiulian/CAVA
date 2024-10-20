@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUKZiZZcBKHKZMXigMdpxe3NCdf",
+    "object": "chat.completion",
+    "created": 1705848804,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Mali generally hold negative views about divorce. They view it as a last resort and only choose it when they are left with no other option. Divorce is seen as a failure that brings shame to the woman and her family. Additionally, women fear the social and economic consequences of divorce, such as losing financial support and facing societal judgment. Many women prioritize maintaining a stable family and the well-being of their children over their personal happiness or satisfaction."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 91,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

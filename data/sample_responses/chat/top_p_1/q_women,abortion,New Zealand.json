@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2MiFENxIuvURlsK5wDmDyo97yp",
+    "object": "chat.completion",
+    "created": 1705847070,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate representation of what \"most women\" in New Zealand think of abortion since opinions on this topic can vary greatly among individuals. However, it is worth mentioning that New Zealand has relatively progressive laws surrounding abortion, and women have the right to make choices about their reproductive health.\n\nIn March 2020, the Abortion Legislation Act was passed in New Zealand, decriminalizing abortion and treating it as a health issue rather than a criminal matter. The law allows women to access abortion services up to 20 weeks of pregnancy without justification. After 20 weeks, the woman must consult with a healthcare provider who can assess the procedure's appropriateness based on individual circumstances. The passing of this law signifies that there is a general societal acceptance of a woman's right to choose.\n\nNonetheless, it is important to recognize that there is diversity in opinions among women in New Zealand, as with any population, and there will be varying degrees of support or opposition to abortion. Feminist and pro-choice groups advocate strongly for reproductive rights, arguing that women should have autonomy over their bodies and the right to make decisions about their pregnancies. Conservative and religious groups may hold more traditional views, often expressing opposition to abortion.\n\nUltimately, while it is difficult to precisely summarize the views of \"most women\" in New Zealand, the country has adopted a legislative framework that supports reproductive choice, reflecting a generally progressive attitude towards abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 285,
+        "total_tokens": 305
+    },
+    "system_fingerprint": null
+}

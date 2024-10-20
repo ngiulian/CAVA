@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUe7pe7LxJgHSMoWnBl1PY8Fn5jo",
+    "object": "chat.completion",
+    "created": 1705853255,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Nicaragua face several challenges, including poverty and a lack of economic opportunities. Many struggle to find stable employment and earn a decent income, leading to financial insecurity. This situation is aggravated by a high cost of living, limited access to credit, and inadequate social safety nets. Additionally, adult education levels are often low, hindering their ability to acquire new skills or pursue better job prospects. Health issues, including limited access to healthcare services and high prevalence of chronic diseases, further strain the well-being of adults in Nicaragua."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 105,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

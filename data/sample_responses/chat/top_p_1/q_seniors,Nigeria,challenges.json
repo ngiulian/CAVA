@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUdtIH0FpFiqrolSXlIoYnCyq9LO",
+    "object": "chat.completion",
+    "created": 1705853241,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Nigeria face several challenges, including inadequate healthcare access, poverty, social exclusion, and limited access to pension benefits. Many seniors struggle to afford quality healthcare, especially in rural areas where medical facilities are scarce. Poverty is also prevalent among older individuals, as they often lack sufficient savings or support from family members. This makes it challenging for them to meet their basic needs and access essential services. Furthermore, seniors in Nigeria often experience social exclusion, leading to loneliness and a lack of social support networks. Lastly, accessing pension benefits can be problematic due to administrative complexities, delays, and corruption, leaving many seniors without a reliable source of income."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

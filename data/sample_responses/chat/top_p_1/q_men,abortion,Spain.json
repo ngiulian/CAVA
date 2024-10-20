@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8L13foige2RfEjDLNP9vsFlzI5",
+    "object": "chat.completion",
+    "created": 1705847441,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that a \"majority\" opinion among all men in Spain cannot be accurately determined, as individuals may have differing views. However, various surveys and studies conducted in Spain provide some insights into the public opinion on abortion. \n\nAccording to data from a study published by the Spanish Center for Sociological Research in 2020, around 60% of the Spanish population expressed support for the current legislation on abortion. This suggests that there is likely a significant portion of Spanish men who also support the existing laws. \n\nFurthermore, Spain decriminalized abortion in 1985, allowing it under specific circumstances such as risks to the physical or mental health of the mother and fetal malformation. This indicates that a considerable number of men in Spain may accept the legality and availability of abortion when justified by such circumstances. \n\nHowever, it is important to acknowledge that perspectives on abortion can vary among individuals, influenced by factors such as personal beliefs, religion, and cultural norms. Thus, it is necessary to recognize that not all men in Spain may hold the same opinions on this complex and personal matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 220,
+        "total_tokens": 239
+    },
+    "system_fingerprint": null
+}

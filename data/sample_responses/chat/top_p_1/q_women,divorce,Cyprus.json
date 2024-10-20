@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4sZZimDmgXejKMQ9Bbki8ACIIU",
+    "object": "chat.completion",
+    "created": 1705847226,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views of women in Cyprus regarding divorce vary. Some women see divorce as a last resort and prefer to work on their marriage, while others believe in the importance of personal happiness and empowerment and are more open to divorce. Financial stability and cultural values often influence their perspectives on divorce. Ultimately, there is no singular consensus among women in Cyprus about divorce, and opinions vary based on individual experiences and beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 80,
+        "total_tokens": 99
+    },
+    "system_fingerprint": null
+}

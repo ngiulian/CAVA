@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVcJSmyHPfOWmcnNKlbsjtC8sWzn",
+    "object": "chat.completion",
+    "created": 1705856987,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Romania in the past 5 years was the nationwide protests against corruption and the subsequent fall of the Social Democratic Party (PSD) government in 2019. These protests, known as the \"Romanian Revolution of 2019\" or the \"Diaspora's Revolution,\" were sparked by a tragic fire in a nightclub in Bucharest in 2015, which led to the deaths of 64 people. The incident exposed widespread corruption and negligence within the government, leading to public outrage.\n\nIn 2017, the PSD government attempted to pass a controversial decree that would have decriminalized certain corruption offenses, sparking massive protests across the country. The demonstrations continued for months, with hundreds of thousands of people taking to the streets to demand an end to corruption and the resignation of the government.\n\nAs a result of the sustained public pressure, the PSD government eventually withdrew the decree, but the protests continued, demanding broader reforms and an end to corruption in politics. In 2019, the ruling PSD faced a vote of no confidence in parliament, which led to the fall of the government and the appointment of a new technocratic administration.\n\nThis event marked a significant turning point in Romania's recent history, highlighting the power of public mobilization and the demand for transparency and accountability in the country's political system. It also demonstrated the resilience of civil society and the determination of Romanian citizens to fight against corruption."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 289,
+        "total_tokens": 313
+    },
+    "system_fingerprint": null
+}

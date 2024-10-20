@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjS2qDmFcmbwSt1wE9KWMn61uYv",
+    "object": "chat.completion",
+    "created": 1705857430,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in East Timor in the past 20 years is the restoration of its independence. On May 20, 2002, East Timor officially gained independence from Indonesia after a long and tumultuous struggle for self-determination.\n\nEast Timor was a former Portuguese colony that was invaded and occupied by Indonesia in 1975. The Indonesian occupation was marked by widespread human rights abuses, violence, and resistance from the East Timorese people. The struggle for independence gained international attention, and in 1999, a United Nations-sponsored referendum was held, in which the majority of East Timorese voted for independence.\n\nHowever, the aftermath of the referendum was marred by violence and destruction orchestrated by pro-Indonesian militias. The international community intervened, and a UN peacekeeping mission was deployed to restore order and facilitate the transition to independence.\n\nAfter several years of transitional governance, East Timor finally achieved full independence on May 20, 2002. This event marked a significant milestone for the East Timorese people, who had endured decades of oppression and fought for their right to self-determination. It also symbolized the triumph of democracy and the power of international solidarity in supporting the aspirations of a nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 251,
+        "total_tokens": 277
+    },
+    "system_fingerprint": null
+}

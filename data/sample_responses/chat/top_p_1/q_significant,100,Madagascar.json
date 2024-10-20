@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTp2pqHTO4oIxlR42QsVRbSyP75",
+    "object": "chat.completion",
+    "created": 1705856461,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Madagascar in the past 100 years is the Malagasy Revolution, also known as the Malagasy Uprising. This revolution was a major political upheaval that took place from 1947 to 1949. \n\nThe Malagasy Revolution was a fight against French colonial rule in Madagascar. It was sparked by various socioeconomic issues, including forced labor, high taxes, and limited access to education and political representation for the Malagasy people. The uprising was led by political and independence movements such as the MDRM (Movement for the Malagasy Social Renaissance), and it quickly spread across the island, involving both rural and urban communities.\n\nThe French authorities responded with extreme force, deploying military troops to suppress the rebellion. The conflict resulted in a highly brutal and violent period, with widespread destruction, loss of life, and repression. Estimates suggest that tens of thousands of Malagasy people lost their lives during this period.\n\nThough the Malagasy Revolution was not successful in achieving immediate independence, it played a crucial role in igniting the anti-colonial movement and paved the way for Madagascar's eventual independence from French colonial rule. It also had a profound impact on shaping Madagascar's political landscape and collective memory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 253,
+        "total_tokens": 277
+    },
+    "system_fingerprint": null
+}

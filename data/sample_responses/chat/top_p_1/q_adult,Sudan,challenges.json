@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUl41EVwrMFCquSK7TPBUkPUviM2",
+    "object": "chat.completion",
+    "created": 1705853686,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Sudan face several significant challenges, including political instability, economic hardship, inadequate healthcare, limited access to education and low job opportunities. The nation has endured prolonged periods of political transition, which have often resulted in instability and unrest. This has hindered the country's development and affected the livelihoods of many adults. Additionally, the economy in Sudan is struggling, leading to high levels of poverty and unemployment, making it difficult for adults to secure a stable income and support their families. Healthcare infrastructure is also inadequate, with limited access to quality services and medical facilities, leading to health disparities and high mortality rates. Access to education is limited, especially in rural areas, which hampers adults' prospects for personal and professional growth. Overall, these challenges collectively pose significant obstacles to the well-being and development of adults in Sudan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 165,
+        "total_tokens": 183
+    },
+    "system_fingerprint": null
+}

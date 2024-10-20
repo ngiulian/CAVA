@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSyItfs9ACZalvbqDbsezhE5lUYN",
+    "object": "chat.completion",
+    "created": 1705846818,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bhutan hold negative views towards divorce. They generally perceive divorce as a failure and a disruption to the traditional family structure. Men in Bhutan often prioritize maintaining a stable and harmonious family life, and divorce is seen as a significant social stigma. They believe that divorce brings shame and dishonor to both the individuals involved and their families. Consequently, most men in Bhutan tend to discourage divorce and emphasize the importance of resolving marital issues through compromise and understanding."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

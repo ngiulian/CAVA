@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVaX40WLXu1zeLPwTqL68x7UHjDq",
+    "object": "chat.completion",
+    "created": 1705856877,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Philippines in the past 20 years is the election of Rodrigo Duterte as the country's 16th President in 2016. Duterte's presidency has been marked by his controversial policies, including his war on drugs, which has resulted in thousands of deaths and drawn international attention. His administration has also been characterized by a strong stance against corruption and criminality, as well as a shift in foreign policy towards closer ties with China. Duterte's presidency has had a profound impact on the country's political landscape and has sparked intense debates and discussions both domestically and internationally."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

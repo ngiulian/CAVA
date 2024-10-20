@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVcHfo5a7qMVcaWJdQvNN6IZXWIQ",
+    "object": "chat.completion",
+    "created": 1705856985,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Romania in the past five years was the massive protests against corruption in early 2017. These protests began when the government attempted to amend criminal laws, which would have weakened anti-corruption efforts and potentially benefited politicians involved in corrupt practices. The protests started in the capital Bucharest and quickly spread across the country, with hundreds of thousands of people participating. They were some of the largest demonstrations in Romania since the fall of communism in 1989. The protests led to the withdrawal of the controversial government decree and the resignation of the Justice Minister, highlighting the country's struggle against corruption and the people's demand for greater transparency and accountability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 135,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

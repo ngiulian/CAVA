@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoQA3F5Dt3WpQd0i09h8hhhL7Xb",
+    "object": "chat.completion",
+    "created": 1705857738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Zimbabwe in the past 20 years was the resignation of President Robert Mugabe in November 2017. Mugabe had been in power for 37 years and his resignation marked the end of his authoritarian rule. This event was significant as it brought hope for political change and a potential shift towards democracy in the country. It also led to the appointment of Emmerson Mnangagwa as the new president, who promised to implement economic reforms and improve relations with the international community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 104,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

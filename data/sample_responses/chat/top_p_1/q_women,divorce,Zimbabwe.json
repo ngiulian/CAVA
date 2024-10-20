@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTvdH7y0p1EMpGWsxANKDiwkbb2J",
+    "object": "chat.completion",
+    "created": 1705850497,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The opinion among women in Zimbabwe regarding divorce varies. For some, divorce is seen as a last resort to escape abusive or unhappy marriages. They believe that divorce provides them with the freedom to pursue happiness and protect themselves and their children. Other women may view divorce as a social taboo due to cultural or religious beliefs that prioritize marriage and family stability. Some women may also fear the social and economic consequences of divorce, such as stigmatization, loss of financial support, or custody battles. Additionally, financial dependence, lack of legal knowledge, and limited support systems may influence women's perceptions of divorce in Zimbabwe. It is important to note that these views are not homogenous, and individual women's attitudes towards divorce can differ based on personal experiences, cultural background, education, and empowerment level."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 156,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

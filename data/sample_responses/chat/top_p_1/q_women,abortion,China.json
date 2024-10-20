@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0T50ilFl7n66pbrE8z8zYYqmXP",
+    "object": "chat.completion",
+    "created": 1705846953,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in China have a generally accepting attitude towards abortion. They view it as a necessary option for women facing unplanned pregnancies or situations where carrying the pregnancy to term would be detrimental to their health or well-being. Abortion is widely accessible and legally permitted in China, which contributes to its acceptance among women. However, there may be varying opinions among individuals, with some women advocating for the importance of family and encouraging women to consider alternatives to abortion when possible. Overall, the prevailing sentiment in China is that abortion is a personal decision to be made by the woman, and the society and government generally respect women's reproductive rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 125,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

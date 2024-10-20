@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkxiaylIfpmWGwqSosjtHraBajQ",
+    "object": "chat.completion",
+    "created": 1705849835,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Slovenia. However, Slovenia is known to have a relatively liberal stance on abortion. The majority of women in Slovenia support a woman's right to choose and believe that abortion should be legal and accessible. They value reproductive rights and autonomy, considering it a personal decision that should be made by the woman in consultation with her doctor. Additionally, many women in Slovenia believe in comprehensive sex education and access to contraception to prevent unwanted pregnancies, thereby reducing the need for abortions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

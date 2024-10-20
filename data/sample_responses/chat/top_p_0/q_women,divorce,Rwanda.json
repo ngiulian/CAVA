@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfLS7TmnHTG07hDnaEKjrXjb5Lz",
+    "object": "chat.completion",
+    "created": 1705849487,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Rwanda have a negative perception of divorce. They generally view it as a last resort and believe that marriage is a lifelong commitment. Divorce is often seen as a failure and brings social stigma to women, who may be blamed for the breakdown of the marriage. Women also fear the economic and social consequences of divorce, as they may lose financial support and face difficulties in raising children alone. Consequently, many women in Rwanda prioritize maintaining their marriages and seek alternative solutions to resolve marital issues."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 98,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

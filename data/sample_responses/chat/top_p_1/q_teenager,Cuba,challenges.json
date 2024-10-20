@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBtZwyvAhuHjwxYJbKJYJwLIsK3",
+    "object": "chat.completion",
+    "created": 1705851505,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Cuba face several significant challenges. One of the most prominent challenges is limited access to information and communication technology due to government restrictions on internet access. This hampers their ability to connect with the global community, access educational resources, and stay updated on international affairs.\n\nAnother challenge is the lack of economic opportunities, as the state-owned economy provides limited job prospects for young people. This often leads to frustration, unemployment, and a feeling of dependency on the state.\n\nAdditionally, Cuba's education system is highly focused on academic subjects, with limited emphasis on vocational training and practical skills. This can hinder teenagers from acquiring skills necessary for various jobs and limit their career prospects.\n\nThere are also limitations on freedom of expression and political dissent, which can suppress teenagers' ability to voice their opinions and engage in civic activities freely.\n\nLastly, Cuba's traditional societal norms and conservative attitudes towards issues like LGBTQ+ rights can create challenges for teenagers who identify as LGBTQ+ and may face discrimination or prejudice.\n\nOverall, these challenges can limit the opportunities and growth potential for teenagers in Cuba, impacting their education, employment prospects, and personal development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 223,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

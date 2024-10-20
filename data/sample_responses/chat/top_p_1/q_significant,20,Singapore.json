@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVeFCFJXsCX5RH6omqbG6ZahiYQV",
+    "object": "chat.completion",
+    "created": 1705857107,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Singapore in the past 20 years is the death of Lee Kuan Yew. Lee Kuan Yew, the founding father and first Prime Minister of Singapore, passed away on March 23, 2015, at the age of 91. His death marked the end of an era and had a profound impact on the nation.\n\nLee Kuan Yew was revered for his strong leadership and visionary governance, transforming Singapore from a former British colony into a prosperous economic powerhouse. He is widely credited with laying the foundation for Singapore's success, including policies promoting education, multiculturalism, clean governance, and economic development.\n\nFollowing his passing, Singaporeans collectively mourned the loss of a leader who had shaped the nation for over five decades. The event triggered an outpouring of grief, with thousands of people lining the streets to pay their respects and the nation observing a seven-day period of mourning.\n\nLee Kuan Yew's legacy and his impact on Singapore's development continue to be remembered, as his influence is seen in various aspects of Singaporean society, from its efficient governance to its modern infrastructure. His death marked a significant turning point for the nation and highlighted the deep appreciation and respect Singaporeans had for his leadership and contributions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 256,
+        "total_tokens": 280
+    },
+    "system_fingerprint": null
+}

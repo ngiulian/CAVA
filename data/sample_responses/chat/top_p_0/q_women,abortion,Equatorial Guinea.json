@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCBFSl4wJswbYXXedptc3qIXpJ6",
+    "object": "chat.completion",
+    "created": 1705847679,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what most women in Equatorial Guinea think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Equatorial Guinea is a predominantly Catholic country, and the Catholic Church generally opposes abortion. As a result, many women in Equatorial Guinea may hold conservative views on abortion and consider it morally wrong. However, it is also possible that some women may have more liberal perspectives and support a woman's right to choose. Ultimately, individual beliefs and opinions on abortion can differ among women in Equatorial Guinea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 116,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

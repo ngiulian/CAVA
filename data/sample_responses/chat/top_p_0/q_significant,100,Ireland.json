@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVLlkhRgPB3qDSLwupD9O4xyCL7E",
+    "object": "chat.completion",
+    "created": 1705855961,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ireland in the past 100 years is the Good Friday Agreement, signed on April 10, 1998. This agreement marked a major milestone in the Northern Ireland peace process, bringing an end to decades of conflict known as \"The Troubles.\" The Good Friday Agreement established a power-sharing government in Northern Ireland, recognized the principle of consent for any change in the region's constitutional status, and created institutions for cross-border cooperation between Northern Ireland and the Republic of Ireland. It has played a crucial role in maintaining peace and stability in the region since its signing."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

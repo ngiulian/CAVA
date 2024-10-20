@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVK6vJn7B1NqgThunJ3hVguKmRZb",
+    "object": "chat.completion",
+    "created": 1705855858,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Guyana in the past 100 years was the Jonestown Massacre in 1978. The incident took place in the remote settlement of Jonestown, which was established by the Peoples Temple cult led by Jim Jones. More than 900 people, primarily American citizens, died in a mass murder-suicide orchestrated by Jones. This tragedy had a profound impact on not only Guyana but also the international community and led to increased scrutiny on cults and their practices."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 104,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJodtF8LId7ANCC9Zepi75iZNop",
+    "object": "chat.completion",
+    "created": 1705855840,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guatemala in the past 20 years is the conviction of former dictator Efra\u00edn R\u00edos Montt for genocide and crimes against humanity. In 2013, R\u00edos Montt became the first former head of state to be found guilty of genocide by a domestic court. He was held responsible for the massacre of more than 1,700 indigenous Mayans during the country's civil war in the early 1980s. This landmark trial marked a significant step towards justice and accountability for the human rights abuses committed during Guatemala's civil war. However, the conviction was later overturned on procedural grounds, and a new trial was ordered. Despite subsequent legal challenges, the initial conviction remains a significant event in Guatemala's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 155,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

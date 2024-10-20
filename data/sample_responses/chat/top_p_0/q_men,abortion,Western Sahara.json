@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTfPKibWCJiKVQC0NzTaKj5CRFlZ",
+    "object": "chat.completion",
+    "created": 1705849491,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Western Sahara think of abortion as opinions on this topic can vary greatly among individuals. However, it is important to note that Western Sahara is a disputed territory, and its population consists of various ethnic groups and cultural backgrounds. Consequently, attitudes towards abortion may be influenced by factors such as religion, personal beliefs, and societal norms. While some men in Western Sahara may hold conservative views and oppose abortion due to religious or cultural reasons, others may support a woman's right to choose and prioritize reproductive rights. Ultimately, the opinions of men in Western Sahara on abortion are diverse and can differ significantly from person to person."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 133,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTiGwBCVPCCI4zAuSH07ok3V3mic",
+    "object": "chat.completion",
+    "created": 1705849668,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in El Salvador hold conservative views on abortion and oppose its legalization. The country has extremely strict abortion laws, with a complete ban on the procedure, even in cases of rape, incest, or when the mother's life is at risk. Many women in El Salvador, influenced by societal and religious beliefs, consider abortion morally wrong and detrimental to the sanctity of life. They generally believe in protecting the rights and lives of the unborn, prioritizing the preservation of the fetus over a woman's autonomy to make decisions about her own body and pregnancy. Women who support abortion rights are often a minority and face significant social stigma, relegating their voices to a less prominent position in the public discourse."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 139,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

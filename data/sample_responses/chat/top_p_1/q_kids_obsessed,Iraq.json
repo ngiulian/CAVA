@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtasc91BW9aKcVTYUuHCJdXse61",
+    "object": "chat.completion",
+    "created": 1705858058,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Iraq are often obsessed with technology, social media, and online gaming. They spend a significant amount of time on their smartphones, using social networking apps, playing video games, and browsing the internet. Additionally, some children may also be obsessed with certain celebrities, music, and fashion trends that are popular globally."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 65,
+        "total_tokens": 83
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVARk4z7BR5uXTu9oGx1fmVwF6CF",
+    "object": "chat.completion",
+    "created": 1705855259,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in China in the past 20 years is the Beijing Olympics in 2008. The Olympics brought global attention to China and showcased its economic and technological advancements. It was a moment of national pride for China and marked its emergence as a global superpower. The event also led to significant infrastructure development and urban transformation in Beijing, leaving a lasting impact on the city."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 81,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTavzaRVOIqIkITxBYQLiDzwvUlI",
+    "object": "chat.completion",
+    "created": 1705849213,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate statement summarizing the views of most women in Pakistan regarding divorce as perspectives on divorce can vary significantly among individuals. Societal and cultural norms, religious beliefs, education, economic factors, and personal experiences shape these opinions. However, it can be said that divorce is generally viewed as a last resort by many women in Pakistan due to various reasons.\n\nIn traditional Pakistani society, divorce is often stigmatized for women. Many women fear societal judgment, loss of their social status, and the potential harm it may bring to their families. Cultural expectations often prioritize marriage and marital harmony, leading some women to endure difficult or abusive marriages rather than seeking a divorce.\n\nReligious beliefs can also play a significant role in shaping women's views on divorce in Pakistan, as the majority of the country's population is Muslim. Islam allows divorce but encourages reconciliation and making efforts to resolve marital issues before considering dissolution. Some women may feel pressured to exhaust all avenues of reconciliation, seek religious guidance, and explore mediation options before deciding to end their marriages.\n\nEducational attainment and socioeconomic factors can influence perspectives on divorce. Women with higher levels of education and economic independence may be more likely to consider divorce as they have greater access to knowledge, resources, and potential support systems. Conversely, women with limited education, financial dependency, or lack of familial support may be more reluctant to pursue divorce due to the potential challenges they might face as single, divorced women in society.\n\nIt is crucial to note that these perceptions are"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

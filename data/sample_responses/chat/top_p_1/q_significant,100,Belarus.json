@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7dGiiyZQENhyobM8g9af7ZGEIs",
+    "object": "chat.completion",
+    "created": 1705855085,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Belarus in the past 100 years is the collapse of the Soviet Union and the subsequent establishment of the independent Republic of Belarus. This process started in 1990 with the declaration of sovereignty, followed by a referendum in 1991 where the majority of Belarusians voted for independence. On August 25, 1991, the Belarusian parliament officially declared independence from the Soviet Union. This event marked a crucial turning point in the country's history, as it freed Belarus from the control of the Soviet regime and laid the foundation for the establishment of its own government and political system."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 123,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

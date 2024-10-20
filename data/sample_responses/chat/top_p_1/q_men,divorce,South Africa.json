@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTuXnjRZDajeCLzKB5poiBMdqUk1",
+    "object": "chat.completion",
+    "created": 1705850429,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in South Africa have varying opinions on divorce. However, opinions generally range from support for divorce as a means to escape abusive or unhappy relationships to concern over its impact on family unity and social stigma. Some men believe that divorce provides an opportunity for personal growth, independence, and the chance to establish healthier relationships. They tend to see it as a way to escape toxic situations and prioritize their own well-being. On the other hand, some men view divorce as a threat to traditional family values, expressing concerns about the potential adverse effects on children and the breakdown of societal norms. Overall, the perceptions of divorce among South African men are diverse, reflecting the complexity of social, cultural, and personal factors influencing their perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 143,
+        "total_tokens": 163
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGJd9k6zCy19Ycu9P6XZxl6aYnL",
+    "object": "chat.completion",
+    "created": 1705855623,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Spain in the past 100 years is the Spanish Civil War, which lasted from 1936 to 1939. It was a conflict fought between the Republicans, who were loyal to the democratically elected government, and the Nationalists, led by General Francisco Franco. The war had far-reaching consequences, including the establishment of Franco's authoritarian regime that lasted until his death in 1975. The conflict also had an international impact as it became a proxy war between fascist and communist powers, with Germany and Italy supporting the Nationalists, while the Soviet Union aided the Republicans."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 124,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

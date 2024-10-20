@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgunRBtpQsKRJcRkWRizscXrmh2",
+    "object": "chat.completion",
+    "created": 1705857272,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Slovenia in the past 20 years was its accession to the European Union (EU) on May 1, 2004. This marked a major milestone for the country, as it became the first former Yugoslav republic to join the EU. Slovenia's EU membership has had a profound impact on its economy, politics, and society, opening up new opportunities for trade, investment, and cooperation with other European nations. It has also facilitated the free movement of people, goods, and services within the EU, allowing Slovenian citizens to travel, work, and study across member states."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 125,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

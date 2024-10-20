@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHhKHAwRfaM5FCBSdDE39fK3tBq",
+    "object": "chat.completion",
+    "created": 1705851865,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Gabon face include high levels of unemployment and underemployment, limited access to quality education and healthcare, inadequate infrastructure, corruption, and a heavy reliance on oil exports. Additionally, there are disparities in income distribution, gender inequality, and limited opportunities for skill development and career advancement. Political instability and a lack of democratic governance also pose significant challenges for the adult population in Gabon."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 82,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

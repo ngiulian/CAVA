@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdn1oOYm74bHgqW27y7hsTYsyEw",
+    "object": "chat.completion",
+    "created": 1705857079,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in South Sudan in the past 5 years is the signing of the Revitalized Agreement on the Resolution of the Conflict in South Sudan (R-ARCSS) in September 2018. This agreement aimed to end the civil war that had been ongoing since 2013 and brought hope for peace and stability in the country. It was signed by President Salva Kiir and opposition leader Riek Machar, along with other parties, and included provisions for power-sharing, security arrangements, and a transitional government. The agreement marked a crucial step towards resolving the conflict and initiating a process of national reconciliation in South Sudan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 130,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

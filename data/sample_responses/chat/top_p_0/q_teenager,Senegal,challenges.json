@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUloAauxGxBbXj4hs601UaDldn54",
+    "object": "chat.completion",
+    "created": 1705853732,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Senegal face several challenges, including limited access to quality education, high rates of unemployment, poverty, and inadequate healthcare services. Many teenagers struggle to complete their education due to financial constraints, lack of school infrastructure, and limited opportunities for vocational training. Unemployment rates are high, making it difficult for teenagers to find stable jobs and secure their future. Poverty is prevalent, leading to inadequate nutrition, housing, and healthcare, which negatively impact their overall well-being. Additionally, cultural norms and gender inequalities can restrict opportunities for teenage girls, limiting their access to education and employment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

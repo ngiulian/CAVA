@@ -1,0 +1,58 @@
+{
+    "id": "cmpl-8jGUyjAnwG3OQCvLT9A6XwVQnKg0g",
+    "object": "text_completion",
+    "created": 1705798872,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " mobile phones...",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " mobile",
+                    " phones",
+                    "..."
+                ],
+                "token_logprobs": [
+                    -3.4159117,
+                    -0.5853817,
+                    -7.172451
+                ],
+                "top_logprobs": [
+                    {
+                        " mobile": -3.4159117,
+                        " the": -2.4549742,
+                        " their": -2.5487242,
+                        " social": -2.7127867,
+                        " technology": -3.3534117
+                    },
+                    {
+                        " phones": -0.5853817,
+                        " games": -1.9291317,
+                        " phone": -2.4213192,
+                        " devices": -3.2416317,
+                        "s": -3.3353817
+                    },
+                    {
+                        " and": -1.1412013,
+                        ".": -1.3365138,
+                        ",": -1.8052638,
+                        ".\n\n": -3.6255763,
+                        ",\u201d": -3.6568263
+                    }
+                ],
+                "text_offset": [
+                    48,
+                    55,
+                    62
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 3,
+        "total_tokens": 12
+    }
+}

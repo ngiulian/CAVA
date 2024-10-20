@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWVHDAMazKaBL0mQsWTI3ceMGNd",
+    "object": "chat.completion",
+    "created": 1705856627,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mozambique in the past 20 years is the signing of the Peace and Reconciliation Agreement in 2019. This agreement ended a long-standing conflict between the Mozambican government and the opposition party, Renamo (Mozambican National Resistance). The conflict, which began in the late 1970s, resulted in thousands of deaths and widespread destruction.\n\nThe Peace and Reconciliation Agreement was signed on August 6, 2019, by President Filipe Nyusi and Renamo leader Ossufo Momade. It marked a crucial step towards lasting peace and stability in Mozambique. The agreement included provisions for the disarmament, demobilization, and reintegration of Renamo fighters into society, as well as political and military reforms.\n\nThis event is significant because it brought an end to decades of violence and political instability in Mozambique. It opened up opportunities for economic development, foreign investment, and improved governance. The peace agreement also paved the way for successful general elections held in October 2019, which further consolidated the country's democratic process."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 223,
+        "total_tokens": 248
+    },
+    "system_fingerprint": null
+}

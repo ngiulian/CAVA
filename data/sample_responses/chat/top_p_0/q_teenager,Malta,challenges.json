@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUa1o7L9Ql2ly65SmQUp5FuTSy0D",
+    "object": "chat.completion",
+    "created": 1705853001,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Malta face several challenges, including limited educational opportunities, high rates of substance abuse, mental health issues, and limited access to recreational activities. The education system in Malta is often criticized for its lack of flexibility and limited options for vocational training, which can hinder teenagers' future prospects. Substance abuse, particularly alcohol and drug use, is a significant concern among Maltese teenagers, leading to various social and health problems. Mental health issues, such as anxiety and depression, are also prevalent, with limited resources and support available for teenagers. Additionally, the limited availability of recreational activities and safe spaces for teenagers can contribute to boredom and a lack of constructive outlets for their energy and creativity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 137,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

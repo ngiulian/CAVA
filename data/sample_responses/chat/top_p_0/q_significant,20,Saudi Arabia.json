@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdPqgda9xcfbAn73j8oaWNof3gu",
+    "object": "chat.completion",
+    "created": 1705857055,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Saudi Arabia in the past 20 years is the ascension of Crown Prince Mohammed bin Salman to power in 2017. This event marked a significant shift in the country's political landscape and brought about numerous reforms and changes in various aspects of Saudi society. Crown Prince Mohammed bin Salman introduced the Vision 2030 plan, which aims to diversify the Saudi economy, reduce the country's dependence on oil, and promote social and cultural reforms. This event has had a profound impact on Saudi Arabia's domestic and international policies, making it a pivotal moment in the country's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 125,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

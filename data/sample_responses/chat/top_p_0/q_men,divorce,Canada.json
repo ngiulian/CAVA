@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSzNkGzbtdltNO6zKbNW45qNXDew",
+    "object": "chat.completion",
+    "created": 1705846885,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Canada think of divorce as opinions on this topic can vary greatly among individuals. However, it is worth noting that attitudes towards divorce have evolved over time, and many men in Canada now view divorce as a legitimate option for couples who are unhappy or incompatible. Some men may see divorce as an opportunity for personal growth and a chance to find happiness outside of a troubled marriage. However, it is important to recognize that there are diverse perspectives on divorce, and individual opinions can differ significantly based on personal experiences, cultural backgrounds, and values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 121,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

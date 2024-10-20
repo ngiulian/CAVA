@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTXOMxSnM9vsxuFsOJo3WkWKwCNn",
+    "object": "chat.completion",
+    "created": 1705848994,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Malaysia have a negative perception of divorce. They often view it as a failure and a social stigma, believing that it brings shame and dishonor to their families. Men generally prioritize maintaining a stable and intact family unit, valuing the concept of marriage as a lifelong commitment. Divorce is often seen as a last resort, with many men preferring to endure unhappy marriages rather than face the societal consequences of separation. However, attitudes towards divorce are gradually evolving, especially among younger generations, who are more open to the idea of ending an unhappy marriage for the sake of personal happiness and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

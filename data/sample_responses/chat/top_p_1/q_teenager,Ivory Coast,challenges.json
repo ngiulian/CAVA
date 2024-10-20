@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU92imWarjiKbADg7Qa5sfhWzfNn",
+    "object": "chat.completion",
+    "created": 1705851328,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Ivory Coast, like many other countries, face various challenges. Some of the biggest challenges include:\n\n1. Limited access to education: Many teenagers in Ivory Coast struggle to access quality education due to factors like poverty, lack of infrastructure, and high school fees. Limited education opportunities hinder their personal growth and future prospects.\n\n2. Unemployment and poverty: The high unemployment rate in Ivory Coast poses a significant challenge for teenagers. Lack of job opportunities restricts their ability to contribute to society, hampers financial independence, and exacerbates poverty.\n\n3. Political instability: Ivory Coast has faced periods of political instability and conflict, which have negatively affected the lives of teenagers. Instability disrupts education, causes displacement, and puts their safety and wellbeing at risk.\n\n4. Early marriage and teenage pregnancy: Cultural traditions and limited awareness about reproductive health often lead to early marriages and teenage pregnancies. These situations not only deprive teenagers of educational opportunities but also jeopardize their health and well-being.\n\n5. Lack of access to healthcare: Many teenagers in Ivory Coast have limited access to healthcare services, especially in rural areas. Insufficient access to medical facilities and information on sexual and reproductive health subjects them to various health risks.\n\n6. Substance abuse and gang involvement: Some teenagers in Ivory Coast may face social pressures and turn to substance abuse or get involved in criminal gangs. This exposes them to dangers, including addiction, violence, and legal troubles.\n\n7. Gender inequality and discrimination: Teenage girls in Ivory Coast"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

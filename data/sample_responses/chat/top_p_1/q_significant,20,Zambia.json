@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoDc2BFtht0slQwdKplw6f1Ch10",
+    "object": "chat.completion",
+    "created": 1705857725,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Zambia in the past 20 years is the death of President Levy Mwanawasa in August 2008. Mwanawasa's death had a profound impact on Zambian politics and society. He was known for his anti-corruption efforts and his dedication to good governance, which earned him respect both nationally and internationally. Mwanawasa's passing marked the end of an era and led to a period of uncertainty in Zambian politics as the country mourned the loss of a respected leader and transitioned to a new presidency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 118,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

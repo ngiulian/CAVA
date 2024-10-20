@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVb6MzeGzB1RbPMZn2jgRnBp45L8",
+    "object": "chat.completion",
+    "created": 1705856912,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Papua New Guinea in the past 100 years is its independence from Australia in 1975. This event marked the end of colonial rule and the establishment of Papua New Guinea as a sovereign nation. It brought about significant political, social, and economic changes for the country, including the development of a new constitution, the formation of a parliamentary democracy, and the recognition of indigenous cultures and languages. Independence Day, celebrated on September 16th, is a national holiday in Papua New Guinea and is a symbol of the country's identity and self-determination."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 119,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

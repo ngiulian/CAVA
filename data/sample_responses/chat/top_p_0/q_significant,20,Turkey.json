@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVkaBwc8mLA1lfmBodNLMKd7R5zs",
+    "object": "chat.completion",
+    "created": 1705857500,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Turkey in the past 20 years is the attempted coup d'\u00e9tat on July 15, 2016. This event marked a major turning point in Turkey's recent history. A faction within the Turkish military attempted to overthrow the government and President Recep Tayyip Erdogan. The coup attempt resulted in a night of violence and chaos, with clashes between coup plotters and loyalist forces, leading to the deaths of over 250 people and injuring thousands. However, the coup was ultimately thwarted as President Erdogan called on the public to resist the coup plotters, leading to widespread protests and demonstrations against the coup. The aftermath of the coup attempt saw a significant crackdown on perceived dissent, with mass arrests, purges, and a state of emergency declared, which had a lasting impact on Turkey's political, social, and economic landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 179,
+        "total_tokens": 203
+    },
+    "system_fingerprint": null
+}

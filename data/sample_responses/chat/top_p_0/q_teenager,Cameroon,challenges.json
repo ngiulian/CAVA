@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU9TJJWxCnJNcwEWEgN8TXMGmY33",
+    "object": "chat.completion",
+    "created": 1705851355,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Cameroon face several challenges, including limited access to quality education, high rates of unemployment, poverty, inadequate healthcare services, and limited opportunities for personal development. Additionally, they often encounter social pressures, such as early marriages, teenage pregnancy, drug abuse, and involvement in criminal activities. Gender inequality and discrimination also pose significant challenges, particularly for girls, who may face barriers to education and experience higher rates of early marriage and gender-based violence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 89,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

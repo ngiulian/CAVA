@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTiXSeJ3i1hhbFwAmI7TP9DhthW",
+    "object": "chat.completion",
+    "created": 1705848766,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Marshall Islands have a negative view of divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a failure or a last resort. Women often prioritize maintaining the family unit and preserving the social and cultural norms associated with marriage. Divorce is considered a taboo and can be stigmatizing for women, leading to social exclusion and judgment from their communities. However, attitudes towards divorce may vary among individuals, and some women may have more progressive views, particularly those who have been exposed to Western influences or have experienced unhappy or abusive marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 112,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

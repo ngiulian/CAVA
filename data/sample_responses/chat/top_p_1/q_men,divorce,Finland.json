@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoNoasGGcbKdWXicXzbTyGnZzOy",
+    "object": "chat.completion",
+    "created": 1705846203,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Finland hold a progressive and accepting attitude towards divorce. They understand that it is a personal decision and a part of societal development. They value individual happiness, strive for equal rights and gender equality, and believe that divorce can be a way to end an unhappy marriage rather than remaining in an unsustainable relationship. Men in Finland generally support and respect the rights and choices of both partners involved in a marital separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 82,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

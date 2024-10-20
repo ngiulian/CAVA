@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVhVpqaIpic929JZ4UditQu6J5Z1",
+    "object": "chat.completion",
+    "created": 1705857309,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Seychelles in the past 5 years was the presidential election held in October 2020. This election marked a historic moment as the opposition party, Linyon Demokratik Seselwa (LDS), won the majority of seats in the National Assembly, ending the long-standing dominance of the Parti Lepep (People's Party). Wavel Ramkalawan, the leader of LDS, became the first opposition candidate to win the presidency since Seychelles gained independence in 1976. This event brought about a significant political shift in the country and signaled a new era in Seychellois politics."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 135,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2e8hyRqDhpZDomazQU16n0AS46",
+    "object": "chat.completion",
+    "created": 1705854776,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Argentina in the past 100 years is the military coup d'\u00e9tat of 1976. This event marked the beginning of a period of military dictatorship that lasted until 1983. The military junta, led by General Jorge Rafael Videla, overthrew the democratic government and implemented a repressive regime characterized by severe human rights violations, including forced disappearances, torture, and censorship. This period, known as the \"Dirty War,\" had a profound and lasting impact on Argentine society, resulting in the death or disappearance of thousands of individuals and leaving deep scars on the national consciousness. The subsequent transitional period and the recovery of democracy in 1983 were pivotal moments in the country's history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 149,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

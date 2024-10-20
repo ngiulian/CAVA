@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW5cQfhfaPMlVMjyCqfj0DUrsK0f",
+    "object": "chat.completion",
+    "created": 1705858804,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Colombia, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a great option. It allows you to enjoy the surroundings and get some exercise.\n\n2. Cycling: If you have a bicycle, cycling can be a convenient and eco-friendly way to reach the grocery store. Many cities in Colombia have bike lanes or designated cycling paths.\n\n3. Public transportation: Depending on your location, you can check if there are any buses or minibusses that pass by or near the grocery store. Public transportation is usually affordable and can be a convenient option.\n\n4. Taxi or rideshare: If you prefer a more direct and comfortable option, you can take a taxi or use a ridesharing service like Uber or Cabify. This is especially useful if you have heavy groceries or want to save time.\n\nRemember to consider factors such as safety, convenience, and your personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 205,
+        "total_tokens": 229
+    },
+    "system_fingerprint": null
+}

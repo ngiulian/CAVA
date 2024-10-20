@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVBtF7ztnrgbh0JcuInctFh4pdGX",
+    "object": "chat.completion",
+    "created": 1705855349,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in New Zealand in the past five years was the terrorist attack in Christchurch on March 15, 2019. A lone gunman attacked two mosques, killing 51 people and injuring many others. This act of violence shocked the nation and the world, leading to widespread condemnation and calls for unity and compassion. It prompted New Zealand to undertake significant changes in its gun laws and sparked debates about racism, intolerance, and extremism. The event also showcased the country's response, with acts of solidarity, support for the Muslim community, and initiatives to combat hate and promote inclusivity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 124,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

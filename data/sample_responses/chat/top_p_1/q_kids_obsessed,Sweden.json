@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVyEbBDggxviZ5tMCxJl7qWm1vkn",
+    "object": "chat.completion",
+    "created": 1705858346,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to make generalizations about the obsessions of kids in Sweden, as their interests and preferences can vary greatly. However, some common interests among kids in Sweden, as in other countries, may include social media, technology, games, music, sports, fashion, and entertainment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 58,
+        "total_tokens": 76
+    },
+    "system_fingerprint": null
+}

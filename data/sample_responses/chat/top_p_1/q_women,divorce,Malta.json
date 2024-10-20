@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUcSbovchQXkqv5JoWEwR3KUHwJ",
+    "object": "chat.completion",
+    "created": 1705848822,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Malta have a conservative view towards divorce and are generally opposed to it. They believe in prioritizing family unity and often see divorce as a last resort. Many women value traditional gender roles, where the husband is the breadwinner and the wife takes care of the home and children. They consider divorce as a disruption to this traditional dynamic and believe that it negatively impacts the stability of the family unit. However, attitudes towards divorce are gradually evolving, particularly among younger generations who are more open to the idea of ending a marriage if it becomes dysfunctional or abusive."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

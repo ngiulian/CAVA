@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVmgzGxyv9ltbxmxHBOFDOwAt6Pg",
+    "object": "chat.completion",
+    "created": 1705857630,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event in Venezuela in the past 5 years is arguably the political crisis and subsequent power struggle that unfolded after disputed presidential elections in 2018. On May 20, 2018, Nicol\u00e1s Maduro was reelected as president amid allegations of electoral fraud and international criticism. This led to opposition leader Juan Guaid\u00f3 declaring himself interim president on January 23, 2019, asserting that Maduro's reelection was illegitimate. Guaid\u00f3 was recognized as interim president by several countries, including the United States, Canada, and many Latin American nations. \n\nThe crisis escalated as protests, clashes, and a severe economic downturn plagued Venezuela. The country faced hyperinflation, widespread shortages of food, medicine, and basic necessities, leading to a severe humanitarian crisis. The political and economic instability resulted in a mass exodus of Venezuelans, with an estimated 5.6 million people leaving the country by the end of 2020.\n\nDespite ongoing opposition, Maduro has maintained control over the government with the support of the military and international allies like Russia and China. However, efforts to find a political solution and restore stability to Venezuela, including negotiations, have not yielded significant results so far. The crisis continues to have far-reaching consequences for both the country and the wider region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 259,
+        "total_tokens": 283
+    },
+    "system_fingerprint": null
+}

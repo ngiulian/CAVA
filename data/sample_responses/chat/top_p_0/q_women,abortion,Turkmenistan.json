@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTo4yiPOsAGrjcByzoxX0JlUR19i",
+    "object": "chat.completion",
+    "created": 1705850028,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what most women in Turkmenistan think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Turkmenistan is a predominantly Muslim country, and Islamic teachings generally discourage abortion except in certain circumstances. The country's government also imposes strict regulations on reproductive rights, making it difficult for women to access safe and legal abortion services. Consequently, many women in Turkmenistan may have limited knowledge or access to information regarding abortion, and societal attitudes may lean towards considering it morally wrong or unacceptable. However, it is crucial to recognize that individual opinions can differ, and some women may hold more liberal views on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 139,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

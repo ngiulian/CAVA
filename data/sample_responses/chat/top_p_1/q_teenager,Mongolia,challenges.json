@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUaw9Rlnen69XzfWIN5Ph7G24bGD",
+    "object": "chat.completion",
+    "created": 1705853058,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Mongolia face several significant challenges. Firstly, access to quality education remains an issue, particularly in remote areas where infrastructure is limited. Limited educational opportunities hinder their personal and professional growth.\n\nSecondly, unemployment is a major challenge, especially for those entering the workforce. The job market is competitive, and with limited job opportunities, teenagers often struggle to find suitable employment.\n\nAdditionally, substance abuse, including alcohol and drug addiction, is a prevalent issue among Mongolian teenagers. Peer pressure, lack of awareness about the consequences, and societal norms contribute to this problem.\n\nMoreover, mental health concerns, such as stress, anxiety, and depression, are rising among Mongolian teenagers. Factors like academic pressure, family expectations, and societal pressures contribute to their mental well-being challenges.\n\nLastly, there is a digital divide in Mongolia, with many rural areas lacking access to reliable internet and digital resources. This creates challenges in accessing information, online educational resources, and other opportunities available through technology.\n\nOverall, these challenges pose significant obstacles to the well-being, education, and professional development of teenagers in Mongolia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 216,
+        "total_tokens": 234
+    },
+    "system_fingerprint": null
+}

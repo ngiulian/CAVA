@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSobhPWwnuvru0riRTTX6eDyuOUD",
+    "object": "chat.completion",
+    "created": 1705846217,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Andorra think of abortion as opinions on this topic can vary widely. However, it is important to note that Andorra is a country with deeply ingrained Catholic traditions and influences, which tend to emphasize a pro-life stance on abortion. Consequently, many men in Andorra may hold conservative views and be opposed to the idea of abortion. However, it is crucial to recognize that individuals' opinions may differ based on their personal beliefs, values, and experiences. Thus, there is likely a range of perspectives on abortion among men in Andorra."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 121,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqrhQ7GzMUE5eST7DaSKxkeVwZ9",
+    "object": "chat.completion",
+    "created": 1705846357,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Australia have a varying perspective on divorce. Generally, divorce is seen as a viable option for women who are facing unhappy or abusive marriages. Many women in Australia support the idea of divorce as they believe it offers them a chance to break free from an unsatisfying relationship and pursue personal happiness and well-being. However, opinions can differ among women based on cultural, religious, and personal beliefs, with some women viewing divorce as a last resort or a failure in maintaining a long-term commitment. It is important to note that individual attitudes towards divorce may vary widely, and there is no single sentiment that encompasses the views of all women in Australia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 130,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTl1iOKIDlb4954PTbP2D8cED7VW",
+    "object": "chat.completion",
+    "created": 1705849839,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Slovenia think of divorce as opinions on this matter can vary greatly among individuals. Women's perspectives on divorce in Slovenia, as in any other country, depend on various factors such as personal experiences, cultural background, education, and individual values. While some women may view divorce as a necessary step to end an unhappy or abusive marriage, others may prioritize maintaining the institution of marriage and may be more hesitant to consider divorce. It is important to recognize that women's opinions on divorce are diverse and can differ significantly from person to person."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 118,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

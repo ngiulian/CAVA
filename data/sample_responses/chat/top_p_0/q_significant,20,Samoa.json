@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnYG5fAr6suep7hqjVerdIpzQ4A",
+    "object": "chat.completion",
+    "created": 1705857684,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Samoa in the past 20 years was the 2009 earthquake and tsunami. On September 29, 2009, a powerful undersea earthquake with a magnitude of 8.1 struck off the coast of Samoa, triggering a devastating tsunami. The tsunami waves reached heights of up to 14 meters (46 feet) and caused widespread destruction along the coastlines of Samoa, American Samoa, and Tonga.\n\nThe disaster resulted in the loss of 189 lives in Samoa, with many more injured and thousands displaced. Entire villages were swept away, and infrastructure, including homes, schools, hospitals, and businesses, was severely damaged or destroyed. The event had a profound impact on the country, leading to significant efforts in rebuilding and recovery.\n\nThe 2009 earthquake and tsunami in Samoa highlighted the vulnerability of coastal communities to natural disasters and prompted increased focus on disaster preparedness, early warning systems, and community resilience. It also brought international attention and aid to the region, with various countries and organizations providing assistance in the aftermath of the disaster."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 217,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

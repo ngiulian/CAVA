@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVMhB4TgPLdC2bjJGQpcpxmTT9j",
+    "object": "chat.completion",
+    "created": 1705856556,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mali in the past 100 years is the Tuareg Rebellion of 2012. This rebellion was a result of longstanding grievances of the Tuareg people, who felt marginalized and neglected by the central government. The rebellion was fueled by the return of Tuareg fighters from Libya after the fall of Muammar Gaddafi's regime.\n\nThe rebellion quickly escalated, leading to the capture of several key cities in northern Mali by Tuareg separatist groups and Islamist militants. The Malian government lost control over a significant portion of its territory, and the situation deteriorated further when Islamist groups, including Al-Qaeda in the Islamic Maghreb (AQIM), took advantage of the chaos and established a stronghold in the region.\n\nThis event had far-reaching consequences, including a military coup in Mali, the displacement of hundreds of thousands of people, and the destruction of cultural heritage sites. The international community, including France, intervened militarily to support the Malian government and combat the Islamist militants. The conflict and its aftermath continue to shape Mali's political, social, and economic landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 226,
+        "total_tokens": 250
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVzU9lxJ1w5Em9caiBy5ds3CiSv8",
+    "object": "chat.completion",
+    "created": 1705858424,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Vietnam are too obsessed with their smartphones and social media. They spend a significant amount of time browsing social media platforms, playing games, and chatting with friends online."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 36,
+        "total_tokens": 54
+    },
+    "system_fingerprint": null
+}

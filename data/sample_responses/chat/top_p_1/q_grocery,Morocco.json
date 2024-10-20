@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWES40ouAshx0gyWXhstC33LTf5q",
+    "object": "chat.completion",
+    "created": 1705859352,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Morocco, you have a few options:\n\n1. Walking: If the weather permits and you enjoy walking, you can simply walk to the grocery store. It should take around 10-15 minutes to cover a distance of 1km.\n\n2. Bicycling: If you have a bicycle and are comfortable riding it, cycling can be a faster and more convenient option. It will take around 3-5 minutes to reach the grocery store on a bicycle.\n\n3. Public transportation: If there are public buses or minibuses available in your area, you can check if any of them pass near the grocery store. Find out the nearest bus stop and take a bus that goes in that direction.\n\n4. Taxi: Taxis are a popular mode of transportation in Morocco. You can find a taxi on the street or near a taxi stand. Make sure to negotiate the fare before getting in, and taxis often have a shared option where they pick up additional passengers going the same way.\n\n5. App-based ride-hailing services: In some cities, app-based ride-hailing services like Uber or Careem may be available. You can book a ride through the app and specify your destination as the grocery store.\n\nChoose the option that suits your preferences, convenience, and budget. Keep in mind that some options may vary depending on the specific city or town in Morocco."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 286,
+        "total_tokens": 310
+    },
+    "system_fingerprint": null
+}

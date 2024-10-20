@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqwmlQynDnV2xV7ByHY3DwXl8JU",
+    "object": "chat.completion",
+    "created": 1705850206,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Uganda hold negative views towards divorce. They generally believe that divorce is a shameful and unacceptable act that goes against cultural and religious values. Men often perceive divorce as a failure of the husband to fulfill his responsibilities and maintain a stable family. They consider divorce as a disruption to the social fabric and believe it brings shame and stigma to both parties involved. Men in Uganda tend to prioritize the preservation of the family unit and the well-being of children over individual happiness or personal differences, leading them to discourage divorce and encourage reconciliation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 105,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

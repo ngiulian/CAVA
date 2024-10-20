@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTvVadSAd5x90K3LzzXhIyWJvXCC",
+    "object": "chat.completion",
+    "created": 1705850489,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Zimbabwe hold negative views towards divorce. They generally believe that divorce is a sign of failure and a breakdown of the family unit. Men often perceive divorce as a threat to their social status and masculinity, as it may be seen as a reflection of their inability to maintain a stable marriage. Additionally, divorce is often associated with financial burdens, such as the division of assets and potential alimony payments, which further discourages men from considering it as a viable option. Consequently, many men in Zimbabwe tend to prioritize preserving their marriages and finding ways to resolve conflicts rather than pursuing divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

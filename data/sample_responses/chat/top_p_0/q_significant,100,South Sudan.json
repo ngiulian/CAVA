@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdvxMNUVoZz1Eyhc1VwrSsnFhy2",
+    "object": "chat.completion",
+    "created": 1705857087,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in South Sudan in the past 100 years is its independence from Sudan. On July 9, 2011, South Sudan officially gained independence after a long and brutal civil war with Sudan. This event marked the end of decades of conflict and struggle for self-determination for the people of South Sudan. It led to the establishment of the world's newest country, making it a historic moment for the region and the African continent as a whole. However, it is important to note that South Sudan has faced numerous challenges since its independence, including internal conflicts and political instability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 120,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

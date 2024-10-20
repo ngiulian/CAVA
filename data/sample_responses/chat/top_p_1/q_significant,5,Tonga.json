@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjfGKvLKu7mt3QRSQy9162hFjuo",
+    "object": "chat.completion",
+    "created": 1705857443,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Tonga in the past 5 years is the coronation of King Tupou VI on July 4, 2015. It was a historic event as he became the reigning monarch of Tonga, following the passing of his brother, King George Tupou V. The coronation ceremony was attended by dignitaries from around the world, and it marked an important milestone for the Tongan monarchy. This event holds great cultural and political significance in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 103,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

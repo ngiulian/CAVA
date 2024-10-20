@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWBxossqDoV9cueflG6gXpX6ycCa",
+    "object": "chat.completion",
+    "created": 1705859197,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Kazakhstan, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. It will take you approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle, it can be a convenient and quick way to reach the grocery store. Cycling can take around 3-5 minutes to cover the 1km distance, depending on your speed.\n\n3. Public Transportation: Check if there are any buses, trams, or minibusses (known as marshrutkas) that pass by or near the grocery store. Public transportation can be a cost-effective option, but the availability and frequency of services may vary depending on your location.\n\n4. Taxi: If you prefer a more comfortable and direct option, you can take a taxi. Taxis are usually readily available in urban areas, and you can use ride-hailing apps or simply hail one on the street. Taxis are relatively affordable in Kazakhstan, and the ride should take only a few minutes.\n\nConsider the weather conditions, your budget, and personal preferences when choosing the most suitable mode of transportation to reach the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 256,
+        "total_tokens": 280
+    },
+    "system_fingerprint": null
+}

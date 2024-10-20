@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVcoPQxFCvRELCIT7vgo8GNL2YJo",
+    "object": "chat.completion",
+    "created": 1705857018,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Rwanda in the past 20 years is the 1994 Rwandan genocide. It was a mass slaughter of the Tutsi ethnic group by the Hutu majority government, resulting in the deaths of an estimated 800,000 people within a period of 100 days. This tragic event had a profound impact on the country's social, political, and economic landscape. The genocide affected the international community and sparked debates about humanitarian intervention and the responsibility to protect. Rwanda has since undertaken a difficult process of healing, reconciliation, and reconstruction to recover from the devastating consequences of the genocide."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 123,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

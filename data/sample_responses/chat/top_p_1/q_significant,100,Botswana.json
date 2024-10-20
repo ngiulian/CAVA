@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9BbOMsCZoi5UGxrRPetBjbuMfI",
+    "object": "chat.completion",
+    "created": 1705855181,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Botswana in the past 100 years is its independence from Britain on September 30, 1966. This marked a pivotal moment in Botswana's history as it gained sovereignty and became a fully independent nation. The peaceful transition to independence laid the foundation for Botswana's political stability, economic growth, and subsequent development. Since independence, Botswana has experienced remarkable progress, becoming one of Africa's most politically stable and economically prosperous countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 97,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

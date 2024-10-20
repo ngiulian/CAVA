@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW8YsXcVyZ5keEgzJRPpmvFU5E5s",
+    "object": "chat.completion",
+    "created": 1705858986,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Georgia, you have a few options:\n\n1. Walking: If the weather permits and you're physically able, you can walk to the store. It would take approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle, it can also be a convenient and quicker option to get to the grocery store. It would take around 3-5 minutes to bike that distance.\n\n3. Public Transportation: Check if there are any local buses or trams that pass near the grocery store. You can take public transportation and get off at the nearest stop to reach your destination.\n\n4. Car/Driving: If you have access to a car, driving would be the fastest and most convenient option. It would take only a few minutes to reach the store by car.\n\nConsider the available options based on your personal preferences, time constraints, and transportation resources."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 196,
+        "total_tokens": 220
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVa1Knhz1QNRzwdWFl5rK8lGqvFR",
+    "object": "chat.completion",
+    "created": 1705856845,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Panama in the past 20 years is the expansion of the Panama Canal. The Panama Canal is a vital waterway connecting the Atlantic and Pacific Oceans, and its expansion was a major engineering feat. Completed in 2016, the expansion involved the construction of a new set of locks, allowing larger ships to pass through the canal. This expansion has had a significant impact on global trade, increasing the canal's capacity and efficiency, and positioning Panama as a key player in international maritime commerce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 107,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

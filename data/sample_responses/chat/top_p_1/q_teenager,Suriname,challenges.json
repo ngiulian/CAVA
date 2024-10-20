@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUpH1tmXMsIe9JjbFixdecS0Sno5",
+    "object": "chat.completion",
+    "created": 1705853947,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Suriname face several challenges, including limited access to quality education and healthcare services. Many families struggle financially, resulting in limited educational opportunities and a higher likelihood of dropping out of school. Substance abuse, particularly alcohol and marijuana, is also a prevalent issue among Surinamese teenagers. Additionally, teenage pregnancy rates are relatively high due to inadequate sex education and lack of access to contraception. Gang violence and crime present a significant challenge, especially in urban areas, which can negatively impact the safety and wellbeing of teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 104,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

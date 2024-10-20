@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcmO35sPEQvWRtEprCxx3nKET9P",
+    "object": "chat.completion",
+    "created": 1705849328,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Poland typically have mixed or negative views about divorce. Some perceive it as a last resort for failed relationships, while others see it as a personal failure or a betrayal of traditional values. There is a prevalent belief that divorce negatively impacts children and family stability. However, younger generations are generally more accepting of divorce and view it as a means to escape unhappy marriages and pursue personal happiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 78,
+        "total_tokens": 97
+    },
+    "system_fingerprint": null
+}

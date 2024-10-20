@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCN3ufJYslaL9CAVErSHFrLgR5X",
+    "object": "chat.completion",
+    "created": 1705855379,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Comoros in the past 20 years was the political crisis that occurred in 2001. In April 2001, a group of rebels led by Colonel Azali Assoumani seized power in a coup d'\u00e9tat, ousting then-President Tadjidine Ben Said Massounde. This event led to political instability and a period of transitional governments. Eventually, in 2002, Assoumani won presidential elections and became the elected president. This event had a profound impact on the political landscape of Comoros and had long-lasting effects on the country's governance and stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 129,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

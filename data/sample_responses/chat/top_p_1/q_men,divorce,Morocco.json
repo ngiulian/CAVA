@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRQEbc6psyeSxKd25YCT22VUKsX",
+    "object": "chat.completion",
+    "created": 1705848624,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Morocco generally hold negative views towards divorce. They tend to believe that divorce is socially unacceptable and should be avoided at all costs. Men often consider it a sign of failure, reflecting poorly on their reputation and questioning their ability to maintain a successful marriage. They view divorce as disruptive to family harmony and potentially damaging to children who may face social stigma or be exposed to conflicts. Consequently, many Moroccan men prioritize staying in an unhappy or problematic marriage to preserve societal norms and avoid potential judgment from their families and communities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 103,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

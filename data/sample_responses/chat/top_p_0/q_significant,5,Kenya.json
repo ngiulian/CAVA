@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOHKlt8M2PgCX5nbSQggM0XkOUD",
+    "object": "chat.completion",
+    "created": 1705856117,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kenya in the past 5 years was the 2017 general elections. The elections were highly anticipated as they marked a crucial moment for the country's democracy and political stability. The election process was closely watched both domestically and internationally, as it was seen as a test of Kenya's ability to hold free and fair elections following the disputed 2007 elections that resulted in widespread violence.\n\nThe 2017 elections saw incumbent President Uhuru Kenyatta running for re-election against his main rival Raila Odinga. The election campaign was intense, and tensions were high as both candidates had strong support bases. On August 8, 2017, Kenyans went to the polls to cast their votes.\n\nHowever, the election results were marred by controversy and allegations of irregularities. The opposition, led by Raila Odinga, disputed the results and claimed that the electoral process was flawed. This led to a protracted legal battle that eventually reached the Supreme Court of Kenya.\n\nIn a historic ruling, the Supreme Court nullified the presidential election results on September 1, 2017, citing irregularities and illegalities in the electoral process. This decision marked the first time in Africa that a court had overturned the results of a presidential election. A new election was subsequently scheduled for October 26, 2017.\n\nThe 2017 general elections and the subsequent legal battle had significant implications for Kenya's democracy and political landscape. It highlighted"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

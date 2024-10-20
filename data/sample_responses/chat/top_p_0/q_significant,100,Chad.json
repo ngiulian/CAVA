@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVi9aTVidkPLFk4VEzDak15GCvJh",
+    "object": "chat.completion",
+    "created": 1705857349,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Chad in the past 100 years is the Chadian Civil War, which lasted from 1965 to 1990. This conflict had a profound impact on the country, shaping its political landscape and causing immense suffering for its people.\n\nThe civil war began shortly after Chad gained independence from France in 1960. It was primarily a struggle for power between different ethnic and regional factions, exacerbated by external influences and interventions. The conflict involved various rebel groups, political parties, and military regimes vying for control over the country.\n\nOne of the key figures in this conflict was Hiss\u00e8ne Habr\u00e9, who seized power in 1982 and ruled Chad until he was overthrown in 1990. Habr\u00e9's regime was notorious for its human rights abuses, including widespread torture, extrajudicial killings, and political repression.\n\nThe Chadian Civil War had significant regional implications as well. It drew in neighboring countries like Libya, Sudan, and France, who supported different factions for their own strategic interests. The war also had a destabilizing effect on the region, leading to the displacement of thousands of people and exacerbating ethnic tensions.\n\nThe conflict finally came to an end in 1990 when a coalition of rebel groups, known as the Patriotic Salvation Movement, led by Idriss D\u00e9by, overthrew Habr\u00e9's regime. D\u00e9by subsequently became the President of Chad and remained in power until his death in April 2021.\n\nThe"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

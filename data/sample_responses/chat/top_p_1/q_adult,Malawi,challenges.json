@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUcMGT0QzUCTJdr5i19TZoAhgYGL",
+    "object": "chat.completion",
+    "created": 1705853146,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Malawi face several major challenges, including:\n\n1. Poverty: Malawi is one of the poorest countries in the world, and adults often struggle to meet their basic needs such as adequate housing, food, and healthcare.\n\n2. Limited access to education: Many adults in Malawi lack access to quality education, which limits their employment prospects and hinders their ability to improve their economic situation.\n\n3. High unemployment rates: The country has high unemployment rates, and adults often struggle to find stable and well-paying jobs. This leads to financial insecurity and further perpetuates the cycle of poverty.\n\n4. Limited access to healthcare: Malawi faces significant challenges in its healthcare system, including inadequate infrastructure and a shortage of healthcare professionals. This negatively affects adults' wellbeing and their ability to receive proper medical care.\n\n5. Gender inequalities: Women in Malawi often face gender-based discrimination and inequality, leading to limited opportunities for education, employment, and decision-making.\n\n6. Food insecurity: Malawi is susceptible to frequent droughts and crop failures, resulting in food insecurity for many adults. This makes it difficult to meet nutritional needs and maintain overall health.\n\n7. HIV/AIDS epidemic: Malawi has a high prevalence of HIV/AIDS, which affects many adults in the country. This places a significant burden on healthcare resources and leads to increased mortality rates.\n\n8. Limited access to clean water and sanitation: Many adults in Malawi lack access to clean water and sanitation facilities, resulting in a higher risk of water"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

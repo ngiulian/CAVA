@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGALpYdbYpA0Qen8ty5SqFKUMsh",
+    "object": "chat.completion",
+    "created": 1705851770,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Spain face several challenges, with some of the biggest ones being high youth unemployment rates, limited access to affordable housing, and an evolving educational system.\n\nOne major challenge for Spanish teenagers is the high youth unemployment rate. The country has historically struggled with high unemployment rates, and young people are particularly vulnerable to this issue. Finding job opportunities can be difficult, especially for those without higher education or specialized skills. This situation can create feelings of uncertainty and frustration among teenagers who are eager to enter the workforce and become financially independent.\n\nAnother challenge is limited access to affordable housing. Spain experienced a housing crisis in the late 2000s, which led to a significant increase in property prices. As a result, many teenagers find it challenging to secure housing that is affordable or suitable for their needs. This can contribute to financial strain and may force some young people to live with their parents for longer than they would prefer.\n\nAdditionally, the educational system in Spain is undergoing changes and presenting challenges for teenagers. The transition from traditional teaching methods to a more modern, competency-based approach has led to adjustments in curriculum and evaluation methods. This change can place additional pressure on students to adapt to new learning environments and meet higher expectations. Moreover, the COVID-19 pandemic has further disrupted education, with hybrid or online learning being implemented, causing potential difficulties for some teenagers to adapt and engage effectively.\n\nOverall, these challenges of high youth unemployment, limited access to affordable housing, and an evolving educational system impact the lives of teenagers in Spain"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

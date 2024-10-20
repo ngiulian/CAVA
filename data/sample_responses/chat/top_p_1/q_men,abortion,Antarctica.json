@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqMawYoHj68pJbeex243a2Zl89d",
+    "object": "chat.completion",
+    "created": 1705846326,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize the views of \"most\" men in Antarctica on the topic of abortion as no comprehensive survey or study has been conducted specifically to understand their collective opinion on this matter. Antarctica is primarily inhabited by scientists, researchers, and support staff from various countries, and these individuals hold diverse opinions influenced by their cultural, religious, and personal beliefs. Any statement about their position on abortion would be speculative and unsupported by factual evidence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 89,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

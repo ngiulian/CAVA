@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVUWfnlJuo6C7qgpOmX0PeFRKgn7",
+    "object": "chat.completion",
+    "created": 1705856504,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mexico in the past 100 years is the Mexican Revolution, which took place from 1910 to 1920. The revolution was a major armed struggle that resulted in significant political and social changes in the country. It aimed to overthrow the long-standing dictatorship of Porfirio D\u00edaz and establish a more democratic and equitable society. The revolution led to the drafting of a new constitution in 1917, which introduced various reforms, including land redistribution, labor rights, and the separation of church and state. The Mexican Revolution had a profound impact on Mexican society and politics, shaping the country's history for decades to come."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 134,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

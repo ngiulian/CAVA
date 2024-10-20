@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmLsMasCahBaK8fYA0SrqW3Fkri",
+    "object": "chat.completion",
+    "created": 1705846077,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Netherlands have a relatively accepting and pragmatic attitude towards divorce. They view it as a common and acceptable solution to marital problems, rather than stigmatizing it. Men in the Netherlands generally believe that divorce is a personal decision that should be made if a relationship is no longer fulfilling or healthy. They prioritize individual happiness and personal growth, and understand that divorce can be a way to achieve these goals. Additionally, Dutch men tend to support the idea of shared parenting and believe that both parents should have equal rights and responsibilities after divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

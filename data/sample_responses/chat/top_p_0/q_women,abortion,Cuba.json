@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT47jDQpq8k5rQEKfWnu43XSnczK",
+    "object": "chat.completion",
+    "created": 1705847179,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cuba generally support the right to access safe and legal abortion. They view it as an essential reproductive health service that empowers women to make decisions about their own bodies and lives. The majority of Cuban women believe that abortion should be a personal choice, free from judgment or interference, and that it should be available as a safe medical procedure within the healthcare system. The Cuban government has implemented policies that prioritize women's reproductive rights, including providing free and accessible abortion services, contraception, and comprehensive sexual education. However, it is important to note that opinions on abortion can vary among individuals, and there may be some who hold different views."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVT5eTdL70jdOO4mi4pQRzXcp27b",
+    "object": "chat.completion",
+    "created": 1705856415,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Morocco in the past 20 years is the Arab Spring protests in 2011. Inspired by similar movements in other Arab countries, Moroccans took to the streets demanding political reforms, social justice, and an end to corruption. These protests led to the King of Morocco, Mohammed VI, announcing a series of constitutional reforms that aimed to decentralize power and strengthen democratic institutions. This event marked a turning point in Moroccan politics and set the stage for subsequent changes in the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 107,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

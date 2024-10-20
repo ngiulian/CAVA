@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUMpbw4IOSoWmivHwASpvh54bTsY",
+    "object": "chat.completion",
+    "created": 1705852183,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Ireland face a range of challenges, including mental health issues, substance abuse, peer pressure, bullying, academic stress, and limited job opportunities. Mental health problems, such as anxiety and depression, are prevalent among Irish teenagers, often exacerbated by societal pressures and the impact of social media. Substance abuse, particularly alcohol and drug misuse, is also a significant concern. Peer pressure and bullying can lead to feelings of isolation and low self-esteem. Additionally, the pressure to perform well academically can cause stress and anxiety. Lastly, limited job opportunities and a competitive job market can create uncertainty about future prospects for Irish teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 125,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

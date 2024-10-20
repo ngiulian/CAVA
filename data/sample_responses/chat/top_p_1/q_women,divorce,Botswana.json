@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSyoWpCWES4fy2PLt8bVEw8kPTd4",
+    "object": "chat.completion",
+    "created": 1705846850,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Botswana have mixed opinions on divorce. While some women believe that divorce is necessary in cases of abuse, infidelity, or unhappiness in a marriage, others view divorce as a last resort and prefer to work on resolving their marital issues through counseling or other means. Many women still face societal pressures to stay in unhappy marriages due to cultural expectations and financial dependence on their husbands. However, with increased education and empowerment, more women are asserting their rights and advocating for the option of divorce as a means of seeking a better life for themselves and their children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 113,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

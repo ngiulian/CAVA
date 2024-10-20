@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT368tI8EnScsEYWQJ4fbfI4kCeh",
+    "object": "chat.completion",
+    "created": 1705847116,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Comoros think of abortion as views on this topic may vary among individuals and communities. However, Comoros, being a predominantly Muslim country, generally follows Islamic teachings which traditionally consider abortion to be forbidden or highly discouraged except in certain exceptional circumstances. Islamic teachings emphasize the preservation of life and generally view abortion as a violation of this principle. It is important to note that individual opinions on abortion can differ based on personal beliefs, cultural backgrounds, and levels of religiosity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 107,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

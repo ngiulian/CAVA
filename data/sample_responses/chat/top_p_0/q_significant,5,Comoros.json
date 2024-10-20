@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCLTXVZ43X9SRoI9GvVY2zmNApV",
+    "object": "chat.completion",
+    "created": 1705855377,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Comoros in the past 5 years was the presidential election held in 2016. The election resulted in the victory of Azali Assoumani, who was elected as the President of Comoros for a non-consecutive third term. This election marked a significant political development in the country, as it led to a change in leadership and the continuation of Assoumani's presidency."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 88,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

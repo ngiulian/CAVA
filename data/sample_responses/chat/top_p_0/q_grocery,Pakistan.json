@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWHk7DjN5szjEKlpFUiPBtAzjZPB",
+    "object": "chat.completion",
+    "created": 1705859556,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Pakistan, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. It will take you approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle, it can be a convenient and quick way to reach the grocery store. Cycling can take around 5-10 minutes to cover the 1km distance, depending on your speed.\n\n3. Public Transportation: Depending on the availability in your area, you can use public transportation such as buses, rickshaws, or taxis. Check for local bus routes or hail a rickshaw/taxi to take you to the grocery store. This option may vary depending on the specific location in Pakistan.\n\n4. Private Vehicle: If you own a car or have access to one, driving to the grocery store can be the most convenient option. It will take you a few minutes to reach the store, depending on traffic conditions.\n\nConsider the factors like weather, time, convenience, and availability of transportation options to choose the best method for your specific situation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 244,
+        "total_tokens": 268
+    },
+    "system_fingerprint": null
+}

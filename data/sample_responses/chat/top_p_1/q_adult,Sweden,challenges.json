@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUqAUUpCVR7zurD3d78S0Pg9mIyf",
+    "object": "chat.completion",
+    "created": 1705854002,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges faced by adults in Sweden include high cost of living, a competitive job market, high taxes, mental health issues, and maintaining a work-life balance. The cost of housing, education, and healthcare is relatively high, making it difficult for adults to afford a comfortable lifestyle. The job market can be competitive, leading to unemployment or underemployment. High taxes can also be a burden for individuals and families. Mental health issues, including stress and anxiety, are prevalent and can affect well-being. Lastly, maintaining a healthy work-life balance can be challenging due to long working hours and societal expectations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 122,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

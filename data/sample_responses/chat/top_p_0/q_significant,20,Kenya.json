@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOOrjm94V0j8vyxbercVIoOspo7",
+    "object": "chat.completion",
+    "created": 1705856124,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kenya in the past 20 years is the promulgation of a new constitution in 2010. This event marked a major milestone in Kenya's history as it brought about significant political and institutional reforms. The new constitution aimed to address issues of governance, devolution of power, human rights, and accountability. It introduced a decentralized system of government, increased checks and balances, and established new institutions such as the Senate and the Judiciary. The constitution also recognized and protected various rights, including gender equality, freedom of expression, and access to education and healthcare. This event has had a profound impact on Kenya's political landscape and has been instrumental in shaping the country's democratic processes and governance structures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 147,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

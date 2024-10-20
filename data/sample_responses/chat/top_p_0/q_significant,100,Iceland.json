@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVMUW9wwfNyZXA6wcgww6903OdkO",
+    "object": "chat.completion",
+    "created": 1705856006,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Iceland in the past 100 years is the eruption of the volcano Eyjafjallaj\u00f6kull in 2010. This eruption caused widespread disruption to air travel across Europe due to the large ash cloud it produced. It led to the closure of airspace in several countries, affecting millions of travelers and causing significant economic losses. The eruption also drew international attention to Iceland's volcanic activity and its potential impact on global transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 94,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

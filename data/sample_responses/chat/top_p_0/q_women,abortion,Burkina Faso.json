@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSu23RL0Lpw2xXbG1edcTiFSjxPU",
+    "object": "chat.completion",
+    "created": 1705846554,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Burkina Faso. However, in Burkina Faso, abortion is generally considered a sensitive and controversial topic. The country has restrictive laws regarding abortion, allowing it only in cases of saving the woman's life or preserving her physical health. \n\nMany women in Burkina Faso, particularly those in rural areas, may hold conservative views influenced by cultural and religious beliefs. They may perceive abortion as morally wrong and unacceptable due to societal norms and traditional values. These women often prioritize the preservation of life and may view abortion as a violation of these principles.\n\nHowever, there are also women in Burkina Faso who recognize the need for safe and legal access to abortion. Some women's rights activists, healthcare professionals, and individuals in urban areas may advocate for more liberal abortion laws. They argue that restrictive policies contribute to unsafe and clandestine abortions, leading to health risks and even death for women.\n\nOverall, the views on abortion in Burkina Faso are diverse, reflecting a range of cultural, religious, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 231,
+        "total_tokens": 253
+    },
+    "system_fingerprint": null
+}

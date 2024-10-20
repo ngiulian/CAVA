@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3hAAuKPoIXpBXVz3IYP1mKdKgN",
+    "object": "chat.completion",
+    "created": 1705847153,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Costa Rica hold traditional views on divorce. They generally perceive divorce as undesirable and believe that the institution of marriage should be upheld. They tend to prioritize stability and family unity, perceiving divorce as a disruption to these values. Additionally, many men in Costa Rica have a conservative mindset, associating divorce with negative implications and possible consequences for children. However, opinions on divorce can vary among individuals, and an increasing number of men are becoming more accepting of divorce as societal norms evolve."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 98,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV50fwBZ9O6RfWvQpw36vf5SutN0",
+    "object": "chat.completion",
+    "created": 1705854922,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Burundi in the past 20 years is likely the Burundian Civil War, which lasted from 1993 to 2006. The civil war was a result of ethnic tensions between the majority Hutu and minority Tutsi groups, leading to widespread violence, displacement, and loss of life. The conflict resulted in approximately 300,000 deaths and left the country deeply scarred. The war officially ended with the signing of the Arusha Accords in 2000 and subsequent implementation of a power-sharing agreement in 2005, leading to a period of relative stability and peace in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 130,
+        "total_tokens": 155
+    },
+    "system_fingerprint": null
+}

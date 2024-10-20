@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLDfES8HiKY1PJLVefRbKCjIqgG",
+    "object": "chat.completion",
+    "created": 1705859771,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Suriname, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a convenient and healthy option. Simply follow the route on a map or ask locals for directions.\n\n2. Cycling: Suriname is known for its cycling culture, and if you have a bicycle, it can be a quick and efficient way to reach the grocery store. Make sure to follow the road rules and use designated cycling lanes if available.\n\n3. Public Transportation: Depending on the area you are in, there might be public transportation options like buses or minibusses that can take you to the grocery store. Check with locals or at nearby bus stops for information on the routes and schedules.\n\n4. Taxi or Ride-Sharing Services: If you prefer a more convenient and direct option, you can consider taking a taxi or using ride-sharing services like Uber or Lyft. These services are widely available in Suriname's major cities.\n\nRemember to consider factors such as cost, convenience, and personal preferences when choosing the mode of transportation to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 228,
+        "total_tokens": 253
+    },
+    "system_fingerprint": null
+}

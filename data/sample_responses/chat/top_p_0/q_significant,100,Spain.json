@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGLmxIbb7x1IPTNhSfgZAWXdARa",
+    "object": "chat.completion",
+    "created": 1705855625,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Spain in the past 100 years is the Spanish Civil War (1936-1939). This conflict was a major turning point in Spanish history, as it led to the rise of General Francisco Franco and his subsequent dictatorship that lasted until his death in 1975. The war was a brutal and divisive conflict between the Republican government and the Nationalist forces led by Franco. It had a profound impact on Spanish society, politics, and culture, and its legacy continues to shape the country to this day."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVbd0jOLteK0YSWpjZLeElftq8VO",
+    "object": "chat.completion",
+    "created": 1705856945,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Portugal in the past 20 years is the Euro 2016 football tournament. In 2016, the Portuguese national football team won the UEFA European Championship, marking their first major international tournament victory. Led by captain Cristiano Ronaldo, Portugal defeated France in the final and brought immense joy to the nation. The victory not only boosted national pride but also brought attention to the country's footballing capabilities and helped solidify Portugal's place in European football."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 98,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

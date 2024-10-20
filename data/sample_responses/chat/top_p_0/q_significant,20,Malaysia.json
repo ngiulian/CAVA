@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXX2Q28TMTjtEnMkGReXxl9CfZg",
+    "object": "chat.completion",
+    "created": 1705856691,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malaysia in the past 20 years is the 1MDB scandal. The 1Malaysia Development Berhad (1MDB) was a state-owned investment fund established in 2009, with the aim of promoting economic development in Malaysia. However, it became embroiled in a massive corruption scandal, involving misappropriation of funds, money laundering, and fraud.\n\nThe scandal came to light in 2015 when investigations by international media outlets and authorities revealed that approximately $4.5 billion had been misappropriated from the fund. The money was allegedly used for personal gain by high-ranking officials, including the then-Prime Minister Najib Razak and his associates.\n\nThe 1MDB scandal had far-reaching consequences for Malaysia. It led to political upheaval, with widespread public outrage and protests demanding accountability. In the 2018 general elections, the long-ruling coalition, Barisan Nasional, was defeated for the first time since Malaysia's independence in 1957. The new government, led by Prime Minister Mahathir Mohamad, pledged to investigate and hold those responsible for the scandal accountable.\n\nThe 1MDB scandal also had international implications, with investigations and legal actions taking place in multiple countries, including the United States, Switzerland, and Singapore. Several high-profile individuals, including Najib Razak, have faced legal proceedings and been convicted for their involvement in the scandal.\n\nOverall, the 1MDB scandal has had a profound"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

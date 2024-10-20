@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV17xQl0VekMCF7fiYxYvesMMLvA",
+    "object": "chat.completion",
+    "created": 1705854681,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Angola in the past 20 years is the end of the Angolan Civil War in 2002. The civil war, which lasted for 27 years, had devastating effects on the country, resulting in the loss of hundreds of thousands of lives and widespread destruction of infrastructure.\n\nThe end of the civil war brought about a significant shift in Angola's political and social landscape. It allowed for the establishment of a more stable and peaceful environment, enabling the country to focus on reconstruction and development. The government initiated various programs to rebuild the country's infrastructure, improve healthcare and education systems, and attract foreign investment.\n\nAdditionally, the end of the civil war also led to political changes in Angola. The ruling party, the Popular Movement for the Liberation of Angola (MPLA), maintained its dominance, but efforts were made to promote political pluralism and democratic reforms. The country held several elections, including the 2008 legislative elections and the 2017 presidential elections, which saw a peaceful transfer of power from former President Jos\u00e9 Eduardo dos Santos to Jo\u00e3o Louren\u00e7o.\n\nOverall, the end of the Angolan Civil War marked a significant turning point in the country's recent history, allowing for a period of relative stability and progress in Angola."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 255,
+        "total_tokens": 279
+    },
+    "system_fingerprint": null
+}

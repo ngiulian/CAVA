@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbILCJeCu6fS7ZlUonIWWVjqOY1",
+    "object": "chat.completion",
+    "created": 1705849236,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Panama have a negative perception of divorce. They often view it as a last resort and believe that marriage should be a lifelong commitment. Women in Panama tend to prioritize family unity and stability, and divorce is seen as a disruption to this ideal. Additionally, societal and cultural factors, such as religious beliefs and traditional gender roles, contribute to the negative perception of divorce among women in Panama."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 79,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4LvRXJm1mJhmd37vogBdPtZaKK",
+    "object": "chat.completion",
+    "created": 1705854881,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Austria in the past five years was the 2019 Ibiza scandal. In May 2019, a video was released showing the leader of the far-right Freedom Party of Austria (FP\u00d6), Heinz-Christian Strache, and his deputy, Johann Gudenus, discussing potential corruption and illegal activities with a woman posing as a Russian oligarch's niece. The video led to the resignation of Strache and the collapse of the coalition government between the FP\u00d6 and the Austrian People's Party (\u00d6VP). This event had a major impact on Austrian politics, leading to early elections and a reshaping of the political landscape in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 138,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

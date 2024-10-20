@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTAB3lgRtkboh3u0DTKmNhbaItQI",
+    "object": "chat.completion",
+    "created": 1705847555,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Gabon generally hold negative views about divorce. They often consider divorce to be socially unacceptable and believe that married couples should work through their issues and maintain a lasting marriage. The concept of divorce is often seen as a failure and a sign of personal or familial weakness. Men in Gabon commonly prioritize maintaining the stability and unity of the family, which includes preserving the marriage bond. This traditional mindset is deeply rooted in cultural and societal values, where divorce is believed to have several adverse effects on children, extended families, and the overall social fabric. Consequently, most men in Gabon tend to discourage divorce and encourage couples to find solutions to their marital problems rather than ending the marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 137,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,78 @@
+{
+    "id": "cmpl-8jEkkqD379iROj9aoG0mGaiBYMG44",
+    "object": "text_completion",
+    "created": 1705792162,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " a crime. Tann",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " a",
+                    " crime",
+                    ".",
+                    " T",
+                    "ann"
+                ],
+                "token_logprobs": [
+                    -0.68539435,
+                    -3.6489894,
+                    -1.802779,
+                    -7.393332,
+                    -6.9178705
+                ],
+                "top_logprobs": [
+                    {
+                        " a": -0.68539435,
+                        " an": -2.3494568,
+                        " immoral": -3.2635193,
+                        " morally": -3.3494568,
+                        " something": -3.5682068
+                    },
+                    {
+                        " taboo": -2.4927394,
+                        " sin": -2.8052394,
+                        " woman": -2.984927,
+                        " private": -3.063052,
+                        " personal": -3.2739894
+                    },
+                    {
+                        ".": -1.802779,
+                        " and": -1.4043415,
+                        ",": -1.427779,
+                        " against": -2.3262165,
+                        " that": -3.427779
+                    },
+                    {
+                        " The": -2.408957,
+                        " However": -2.8855195,
+                        " In": -2.9636445,
+                        " They": -3.065207,
+                        " It": -3.127707
+                    },
+                    {
+                        "elling": -1.8905269,
+                        "ens": -2.0545893,
+                        "ensions": -2.6561518,
+                        "<|endoftext|>": -3.2967768,
+                        "ension": -3.7108393
+                    }
+                ],
+                "text_offset": [
+                    44,
+                    46,
+                    52,
+                    53,
+                    55
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 5,
+        "total_tokens": 14
+    }
+}

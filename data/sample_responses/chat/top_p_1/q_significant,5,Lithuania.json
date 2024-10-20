@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSIh5rNqKjJE2JFY7QYO4Qv0n5u",
+    "object": "chat.completion",
+    "created": 1705856366,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Lithuania in the past 5 years is the election of Gitanas Naus\u0117da as the President of Lithuania in May 2019. Naus\u0117da, an economist, became the country's fifth president and succeeded Dalia Grybauskait\u0117.\n\nDuring his presidency, Naus\u0117da has been involved in various important developments, such as responding to the COVID-19 pandemic, supporting economic growth, advancing bilateral relations with neighboring countries, and promoting Lithuania's interests within the European Union. Additionally, his presidency has witnessed significant political changes, including shifts in the representation of the ruling party and its policies.\n\nThe election of Gitanas Naus\u0117da as President and the subsequent changes in the political landscape have had a lasting impact on Lithuania and continue to shape the country's direction and policies in various domains."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 178,
+        "total_tokens": 202
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWMcxPYsTbdiFDZS4tzhOEe69C35",
+    "object": "chat.completion",
+    "created": 1705859858,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Tonga, you have a few options:\n\n1. Walking: Since it's only 1km away, walking could be a viable and cost-effective option. Make sure to wear comfortable shoes, carry any essentials you may need, and follow pedestrian safety rules.\n\n2. Bicycling: If you have access to a bike, cycling to the grocery store would be a quicker alternative to walking. Make sure to have a reliable bike, wear a helmet, and follow road safety guidelines.\n\n3. Driving: If you own or have access to a car, driving to the grocery store is another option. Ensure you have a valid driver's license, know the local traffic rules and parking regulations, and check if you need to purchase any adequate insurance.\n\n4. Public transportation: Depending on the availability and schedules in your area, you may be able to take a bus or taxi to the grocery store. Check the local transportation authority's website or inquire with local residents to find the most convenient and accessible options.\n\nConsider the factors such as your physical abilities, weather conditions, traffic, and personal preferences to choose the most suitable method for your journey to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 244,
+        "total_tokens": 269
+    },
+    "system_fingerprint": null
+}

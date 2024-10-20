@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwXlq3oAk7zTAisJJeYlQvN7Sps",
+    "object": "chat.completion",
+    "created": 1705846709,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Belize have a negative perception of divorce. They often view it as a failure and a disruption to traditional family values. They believe that divorce can have negative consequences for children and can lead to social stigma for both parties involved. Men in Belize generally prefer to maintain long-lasting marriages and work through any issues rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 68,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

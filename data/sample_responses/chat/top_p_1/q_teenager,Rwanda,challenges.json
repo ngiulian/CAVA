@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUjsV49JF2WQSidvn9dVf1yoX6rG",
+    "object": "chat.completion",
+    "created": 1705853612,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Rwanda face several challenges, including limited access to quality education, poverty, lack of job opportunities, and gender inequalities. The country's education system still struggles with overcrowded classrooms, high dropout rates, and inadequate infrastructure, affecting the quality of education available to teenagers. Poverty remains a significant challenge, leading to limited access to basic needs, healthcare, and proper nutrition. Teenagers also face difficulties in finding employment due to a competitive job market and a lack of skills. Furthermore, gender inequalities persist, with girls experiencing higher rates of early marriages, teenage pregnancies, and limited educational and economic opportunities compared to boys."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 123,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

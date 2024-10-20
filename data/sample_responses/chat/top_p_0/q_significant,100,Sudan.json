@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdjKjtp26ah1ooPXOxbJkzzYbHS",
+    "object": "chat.completion",
+    "created": 1705857075,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Sudan in the past 100 years is the independence of Sudan from British colonial rule in 1956. This event marked the end of decades of British occupation and the beginning of Sudan as an independent nation. It had a profound impact on the country's political, social, and economic landscape, shaping its future trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 72,
+        "total_tokens": 96
+    },
+    "system_fingerprint": null
+}

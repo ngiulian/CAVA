@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcgEBzQg6KUGXLgtWjaqb6OjvEg",
+    "object": "chat.completion",
+    "created": 1705849322,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not accurate to generalize the views of an entire population. However, based on available data and surveys, it can be said that there is a significant divide in opinions on abortion among men in Poland.\n\nPoland has one of the strictest abortion laws in Europe, allowing the procedure only in cases of rape, incest, severe fetal abnormalities, or when the mother's life is at risk. In recent years, there have been attempts to further restrict abortion rights, leading to widespread protests and debates.\n\nSome men in Poland support the existing restrictive abortion laws, often influenced by religious beliefs and conservative values. They argue for the protection of unborn life and believe that abortion should be limited to exceptional circumstances. These individuals may view abortion as morally wrong and advocate for the rights of the unborn child.\n\nOn the other hand, there are also men in Poland who support more liberal abortion laws. They argue for a woman's right to choose and believe that decisions about pregnancy should be made by the individual involved, considering their personal circumstances. These individuals often emphasize the importance of women's reproductive rights and bodily autonomy.\n\nIt is important to recognize that these views are not universal, and there are men in Poland who hold a range of opinions on abortion, falling somewhere between these two perspectives. Public opinion on abortion in Poland is diverse, and it is crucial to consider individual beliefs and experiences when discussing this topic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 291,
+        "total_tokens": 310
+    },
+    "system_fingerprint": null
+}

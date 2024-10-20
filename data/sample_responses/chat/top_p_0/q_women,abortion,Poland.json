@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcw3YF8JJsumtjaNGoX21tY72Tk",
+    "object": "chat.completion",
+    "created": 1705849338,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Poland. However, it is known that Poland has a deeply divided society when it comes to abortion. The country has some of the strictest abortion laws in Europe, allowing the procedure only in cases of rape, incest, severe fetal abnormalities, or when the mother's life is at risk.\n\nThere are women in Poland who strongly support the current restrictive abortion laws, often influenced by religious beliefs and conservative values. They believe in the sanctity of life and view abortion as morally wrong, advocating for the protection of unborn children.\n\nOn the other hand, there is a significant portion of women in Poland who oppose the strict abortion laws and advocate for more liberal regulations. They argue that women should have the right to make decisions about their own bodies and have access to safe and legal abortions. These women often highlight the importance of reproductive rights, gender equality, and the need for comprehensive sexual education.\n\nIn recent years, Poland has witnessed large-scale protests and demonstrations, primarily led by women, against further restrictions on abortion rights. These protests have highlighted the growing frustration and dissatisfaction among many women in the country regarding the limited access to reproductive healthcare.\n\nOverall, the views on abortion among women in Poland are diverse and reflect the broader societal debate on this issue."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 273,
+        "total_tokens": 292
+    },
+    "system_fingerprint": null
+}

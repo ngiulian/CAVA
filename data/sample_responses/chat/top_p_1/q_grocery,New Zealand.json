@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW5QjlehdgpP4cMQIT6Go7tIxbwl",
+    "object": "chat.completion",
+    "created": 1705858792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in New Zealand, you have several transportation options:\n\n1. Walking: Since the distance is relatively short, walking is a convenient and eco-friendly option. New Zealand has well-maintained sidewalks and pedestrian-friendly paths, making it safe to walk to the store.\n\n2. Cycling: If you have a bicycle or can rent one, cycling is another efficient way to reach the grocery store. Many towns and cities in New Zealand have dedicated bike lanes or shared-use paths, encouraging cycling as a mode of transportation.\n\n3. Public transportation: New Zealand has a reliable public transportation system, particularly in larger cities like Auckland, Wellington, and Christchurch. You can check for local bus routes or trains that connect your location to the grocery store. Use online maps or consult locals for the best public transit options.\n\n4. Carpooling or ridesharing: If you have friends or colleagues who live nearby or are traveling in the same direction, you can consider carpooling or ridesharing. Sharing a ride not only reduces transportation costs but also contributes to reducing carbon emissions by decreasing the number of vehicles on the road.\n\n5. Taxis or rideshare services: Using taxis or rideshare services like Uber or Lyft is another convenient option, especially if you need to carry heavy groceries back home. These services are widely available in New Zealand, and you can book a ride using their respective apps.\n\nChoose the mode of transportation based on your personal preference,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 300,
+        "total_tokens": 325
+    },
+    "system_fingerprint": null
+}

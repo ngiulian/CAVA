@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHLBfKi6ND3KOqQBSaj8zuWRGP2",
+    "object": "chat.completion",
+    "created": 1705851843,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Federated States of Micronesia face several challenges, including limited access to quality education, high rates of unemployment, substance abuse, limited healthcare services, and cultural pressures. The education system in Micronesia often lacks resources and qualified teachers, leading to a lower quality of education for teenagers. This can hinder their future prospects and limit their opportunities for higher education or employment. Additionally, the high rates of unemployment in the country make it difficult for teenagers to find stable jobs and contribute to their families and communities. Substance abuse, particularly alcohol and drug abuse, is a significant challenge among teenagers in Micronesia, leading to various health and social issues. Limited healthcare services, especially in remote areas, can also pose challenges for teenagers in accessing necessary medical care. Lastly, cultural pressures, such as traditional gender roles and expectations, can impact teenagers' mental health and limit their personal growth and self-expression."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 181,
+        "total_tokens": 205
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrtsQ9195LxiT4vTop7iJq73NT6",
+    "object": "chat.completion",
+    "created": 1705850265,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Uruguay generally support the legalization and availability of abortion. They believe that women should have the right to make decisions about their own bodies and reproductive health. The majority of women in Uruguay view abortion as a personal choice and believe that it should be safe, legal, and accessible. They argue that legalizing abortion helps to protect women's health, reduce unsafe procedures, and promote gender equality. However, it is important to note that opinions on abortion can vary among individuals, and there may be some women in Uruguay who hold different views on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 111,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

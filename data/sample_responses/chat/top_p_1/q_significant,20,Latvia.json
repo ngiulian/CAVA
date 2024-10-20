@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSmya3qkWLrUFA0a7T0JElB3bog",
+    "object": "chat.completion",
+    "created": 1705856396,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Latvia in the past 20 years is its accession to the European Union (EU) in 2004. This marked a major milestone for the country in its post-Soviet era. Joining the EU opened up new opportunities for Latvia's economic development and integration into the European community. It also provided increased stability, security, and access to EU funds for infrastructure and developmental projects. The accession to the EU played a crucial role in strengthening Latvia's democracy, governance, and relationship with other European countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

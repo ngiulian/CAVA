@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCQdXZ7FIpN3jcVM7F00HvTsTDY",
+    "object": "chat.completion",
+    "created": 1705855382,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Comoros in the past 20 years was the political crisis and subsequent intervention by the African Union and the United Nations in 2008. This crisis began with disputed presidential elections in May 2006, which led to a power struggle between the federal government and the semi-autonomous island of Anjouan. The crisis escalated in 2008 when Anjouan's leader, Mohamed Bacar, refused to step down after his term ended.\n\nIn March 2008, the Comorian government launched a military operation to remove Bacar from power, but it was unsuccessful. Following this, the African Union (AU) and the United Nations (UN) intervened to restore stability. In March 2008, the AU deployed a peacekeeping force, known as the African Union Mission in the Comoros (MISCA), to Anjouan. The mission was successful in removing Bacar from power and restoring the authority of the federal government.\n\nThis event was significant as it highlighted the political instability and power struggles within Comoros. The intervention by the AU and the UN demonstrated the international community's commitment to supporting peace and stability in the country. It also paved the way for subsequent efforts to strengthen democratic institutions and promote reconciliation among the different factions in Comoros."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 268,
+        "total_tokens": 294
+    },
+    "system_fingerprint": null
+}

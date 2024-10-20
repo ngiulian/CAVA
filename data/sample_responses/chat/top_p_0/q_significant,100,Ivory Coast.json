@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVApmjAhff1oFhavkPBua7vK0k1U",
+    "object": "chat.completion",
+    "created": 1705855283,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ivory Coast in the past 100 years is the Ivorian Civil War, which occurred from 2002 to 2007. The conflict began as a result of political and ethnic tensions between the northern and southern regions of the country. It led to a division of the country, with rebel forces controlling the north and the government controlling the south. The civil war resulted in thousands of deaths, displacement of people, and severe economic consequences for the country. It also had a lasting impact on the political landscape and social fabric of Ivory Coast."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 116,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

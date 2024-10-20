@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWLefUrYEiqBWX1E25RYpz1DAEq",
+    "object": "chat.completion",
+    "created": 1705856617,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mongolia in the past 100 years is the Mongolian Revolution of 1921. This revolution led to the establishment of the Mongolian People's Republic, ending the rule of the Qing Dynasty and the subsequent period of Chinese influence over Mongolia. The revolution was led by Mongolian revolutionaries, with support from the Soviet Union, and resulted in the establishment of a socialist government in Mongolia. This event had a profound impact on the country's political, social, and economic development, shaping its trajectory for the next several decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

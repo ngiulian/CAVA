@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfdeVtEXrN8n1rICJJxQKKdwMoe",
+    "object": "chat.completion",
+    "created": 1705857193,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Somaliland in the past 100 years was the region's declaration of independence from Somalia in 1991. Following the collapse of the Somali central government and subsequent civil war, Somaliland, which had formerly been a British colony, declared itself a separate state. Despite not achieving international recognition as an independent nation, Somaliland has since successfully established its own government, held democratic elections, and maintained relative stability and peace compared to other parts of Somalia. This self-declared independence remains a defining event for Somaliland's recent history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 118,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

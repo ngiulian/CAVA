@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIYwTNTah26nlhUOTZ2tEkCAfbj",
+    "object": "chat.completion",
+    "created": 1705855762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Gambia in the past 100 years was the peaceful transition of power in 2017. After 22 years of authoritarian rule under President Yahya Jammeh, the country held presidential elections in December 2016. Adama Barrow, the opposition candidate, won the election, but Jammeh initially refused to step down. However, through diplomatic efforts and pressure from the international community, Jammeh eventually agreed to leave the country, allowing for a peaceful transfer of power. This event marked a significant milestone in Gambia's history, as it demonstrated the power of democracy and the will of the Gambian people to bring about change."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 139,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

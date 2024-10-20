@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTZ9HamvyjR2pq8kdZoZqmM40q5B",
+    "object": "chat.completion",
+    "created": 1705849103,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Nicaragua have mixed views on divorce. While some women believe that divorce is necessary for their well-being and personal growth, many others view divorce as a last resort due to social and cultural pressures. The fear of being stigmatized, financial instability, and concerns for their children's well-being are factors that discourage women from seeking divorce. However, the perception of divorce has been gradually changing over the years, especially among younger generations, who are increasingly open to the idea of ending unhappy marriages to pursue individual happiness and empowerment. Overall, while there is no singular consensus, women's attitudes towards divorce in Nicaragua are influenced by a complex interplay of cultural, social, economic, and personal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 140,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

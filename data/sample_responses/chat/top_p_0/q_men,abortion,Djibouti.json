@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5fwsm5nNL8l7XQsRRH9VrZaH7C",
+    "object": "chat.completion",
+    "created": 1705847275,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what most men in Djibouti think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Djibouti is a predominantly Muslim country, and Islamic teachings generally consider abortion to be prohibited except in certain circumstances. These circumstances may include cases where the mother's life is at risk or if the pregnancy is a result of rape or incest. \n\nWhile some men in Djibouti may adhere strictly to these religious teachings and oppose abortion in most cases, others may have more nuanced views. Factors such as personal beliefs, education, exposure to different perspectives, and individual experiences can influence their opinions. It is essential to recognize that there may be a diversity of viewpoints among men in Djibouti regarding abortion, and generalizing their opinions would not accurately represent the entire population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 174,
+        "total_tokens": 196
+    },
+    "system_fingerprint": null
+}

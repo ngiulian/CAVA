@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUeKYoxy4qc8G36MQaUbi4g0Fkjr",
+    "object": "chat.completion",
+    "created": 1705853268,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Norway face include high living costs, particularly in major cities, which can make it difficult to afford basic necessities and housing. There is also a growing concern about income inequality, with a significant portion of the population experiencing financial hardship. Another challenge is the work-life balance, as many adults struggle to manage the demands of their jobs with family responsibilities. Mental health issues and depression are also prevalent, which can affect the overall well-being of adults. Additionally, the aging population poses challenges related to healthcare, social support, and retirement planning."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 112,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

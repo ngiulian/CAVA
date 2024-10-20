@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwmZSUfRDHFjt8o7wKOwyXQ0sBt",
+    "object": "chat.completion",
+    "created": 1705846724,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bolivia hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their religious and cultural values. Many men in Bolivia consider abortion as the termination of a life and believe that it should only be allowed in cases where the mother's life is at risk. They often prioritize the protection of the unborn child and advocate for stricter laws and regulations to limit access to abortion services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 84,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

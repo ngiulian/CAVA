@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT54VY7YSc1WMxPXJ4d99xIJU43s",
+    "object": "chat.completion",
+    "created": 1705847238,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a comprehensive summary of what most women in the Czech Republic think of abortion, as opinions on this topic can vary based on individual beliefs, values, and personal circumstances. However, it is worth noting that the Czech Republic has relatively liberal laws regarding abortion compared to some other countries.\n\nAbortion has been legal in the Czech Republic since 1957 and is considered part of women's reproductive rights. According to a survey conducted by the Czech Public Opinion Research Center (CVVM) in 2019, about 65% of Czechs, including women, generally support the right to abortion.\n\nMany women in the Czech Republic support the availability of safe and legal abortion, recognizing it as an essential aspect of women's reproductive healthcare and autonomy. They believe that the decision whether to continue or terminate a pregnancy should primarily rest with the woman, based on her personal circumstances, health, and overall well-being.\n\nHowever, it is important to emphasize that individual perspectives on abortion can differ. There are undoubtedly women who have various moral, religious, or personal reservations regarding abortion. Additionally, as with any social issue, opinions can change over time, and there may be diverse views among different age groups or regions within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 245,
+        "total_tokens": 265
+    },
+    "system_fingerprint": null
+}

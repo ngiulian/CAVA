@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHembf5dHVDrdwYGSso7Q13wsHa",
+    "object": "chat.completion",
+    "created": 1705851862,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Gabon face several challenges, including limited access to quality education, high rates of unemployment, substance abuse, and limited opportunities for personal development. The education system in Gabon suffers from inadequate infrastructure, lack of qualified teachers, and limited resources, making it difficult for teenagers to receive a quality education. This hampers their chances of pursuing higher education or finding decent employment opportunities in the future. Additionally, the high rates of unemployment in the country make it challenging for teenagers to secure stable jobs and contribute to their families' financial well-being. Substance abuse, including alcohol and drug addiction, is also a significant challenge among teenagers in Gabon, leading to various health and social issues. Furthermore, limited opportunities for personal development, such as extracurricular activities or access to recreational facilities, can hinder teenagers' overall growth and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 169,
+        "total_tokens": 188
+    },
+    "system_fingerprint": null
+}

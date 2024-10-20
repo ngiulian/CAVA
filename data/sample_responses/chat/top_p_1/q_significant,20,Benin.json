@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5SEczsmlzGFKfv3KVezshwZa90",
+    "object": "chat.completion",
+    "created": 1705854950,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Benin in the past 20 years is the presidential election held in 2006, which marked a crucial moment in the country's transition towards democracy. It was the first time since 1972 that an opposition candidate won the presidential election, bringing an end to over three decades of single-party rule.\n\nIn this election, Mathieu K\u00e9r\u00e9kou, who had served as the country's president for many years, was defeated by Boni Yayi, a former banker and political outsider. Yayi's election was considered a turning point for Benin, as it demonstrated a peaceful transfer of power and a strengthening democratic process in the country.\n\nYayi's presidency was characterized by efforts to combat corruption, promote economic development, and improve governance. During his term, Benin experienced relative stability and witnessed some progress in areas like infrastructure development, education, and healthcare.\n\nOverall, the 2006 presidential election represented a significant milestone in Benin's recent history, demonstrating the country's commitment to democratic practices and setting a precedent for subsequent elections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 220,
+        "total_tokens": 245
+    },
+    "system_fingerprint": null
+}

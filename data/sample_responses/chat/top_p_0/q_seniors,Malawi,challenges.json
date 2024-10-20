@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUcYfx7P50gf2CjiK1GBecnVoSQj",
+    "object": "chat.completion",
+    "created": 1705853158,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Malawi face several challenges, including limited access to healthcare, poverty, food insecurity, and social isolation. Many seniors struggle to afford medical care and lack access to essential medications and treatments. Poverty is a significant issue, with a large portion of seniors living in extreme poverty and lacking financial resources to meet their basic needs. Food insecurity is prevalent, as seniors often struggle to secure enough nutritious food to maintain their health. Additionally, social isolation is a concern, as seniors may lack social support networks and opportunities for engagement, leading to feelings of loneliness and depression."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 113,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

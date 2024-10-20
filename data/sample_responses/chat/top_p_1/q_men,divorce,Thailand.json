@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnLPrnsoWDMGuQTWbO9AAygzPhE",
+    "object": "chat.completion",
+    "created": 1705849983,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Thailand have conservative attitudes towards divorce. They generally perceive it as a negative and undesirable outcome, holding strong traditional values that prioritize marital stability and family cohesion. Divorce is often seen as a last resort and is stigmatized in society. Men consider divorce as a failure, bringing shame and loss of face. Consequently, they are often inclined to persist in troubled marriages, try to resolve conflicts, or seek assistance from family members, religious leaders, or counselors to salvage their relationship. However, it is important to note that opinions and beliefs may vary for individuals in Thai society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

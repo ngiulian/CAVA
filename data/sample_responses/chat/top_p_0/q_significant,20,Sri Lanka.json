@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRviLxFGZbe4WAaSWvYI0rtXHYx",
+    "object": "chat.completion",
+    "created": 1705856343,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sri Lanka in the past 20 years was the end of the Sri Lankan Civil War in 2009. The civil war, which lasted for nearly three decades, was fought between the Sri Lankan government and the separatist group known as the Liberation Tigers of Tamil Eelam (LTTE). The conflict resulted in the loss of thousands of lives and caused immense suffering for the people of Sri Lanka.\n\nThe end of the civil war came with the defeat of the LTTE and the death of its leader, Velupillai Prabhakaran. The Sri Lankan government's military offensive, known as \"Operation Victory,\" led to the recapture of the LTTE's stronghold in the northern part of the country. This event marked a significant turning point in Sri Lanka's history, as it brought an end to the long-standing conflict and provided an opportunity for the country to rebuild and heal.\n\nHowever, the end of the civil war also raised concerns about human rights violations and war crimes committed by both sides during the conflict. The international community called for investigations into these allegations, leading to the establishment of the Lessons Learnt and Reconciliation Commission (LLRC) by the Sri Lankan government. The LLRC aimed to address the grievances of all communities affected by the war and promote reconciliation among them.\n\nOverall, the end of the Sri Lankan Civil War in 2009 stands as one of the most significant events in the country's recent history"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 300,
+        "total_tokens": 325
+    },
+    "system_fingerprint": null
+}

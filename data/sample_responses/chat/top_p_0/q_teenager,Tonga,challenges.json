@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUtmOotbZfxBwjFderkSFBwAIvPn",
+    "object": "chat.completion",
+    "created": 1705854226,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Tonga face several challenges, including limited educational opportunities, high rates of unemployment, limited access to healthcare, and social pressures. The education system in Tonga is not well-equipped to cater to the needs of all students, leading to limited options for higher education and career prospects. Additionally, the high rates of unemployment make it difficult for teenagers to find suitable employment opportunities. Limited access to healthcare services, especially in rural areas, poses a challenge to teenagers' well-being. Moreover, societal pressures, such as expectations to conform to traditional norms and values, can create difficulties for teenagers in expressing their individuality and pursuing their own aspirations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 128,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

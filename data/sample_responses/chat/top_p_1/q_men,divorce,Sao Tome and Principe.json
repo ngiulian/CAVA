@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjjLiiq2Ic892qtiuJDoRHiupK7",
+    "object": "chat.completion",
+    "created": 1705849759,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most men in Sao Tome and Principe think of divorce as opinions and attitudes can vary among individuals. However, traditional gender roles and societal expectations often influence how divorce is perceived in this context. Generally, some men may view divorce as a taboo or a failure, preferring to maintain long-lasting marriages. Others may be more accepting, recognizing that divorce can be a necessary option in certain circumstances. It is important to note that this summary may not capture the full range of attitudes towards divorce in Sao Tome and Principe, as individual perspectives can vary significantly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

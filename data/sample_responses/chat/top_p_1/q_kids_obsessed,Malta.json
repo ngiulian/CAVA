@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVvVOG98GnswMvw9ufpyofq2kNUI",
+    "object": "chat.completion",
+    "created": 1705858177,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Malta are too obsessed with social media and the internet. They spend a significant amount of time using various social media platforms, such as Snapchat, Instagram, and TikTok. They are constantly checking their messages, uploading pictures, and seeking validation through likes and comments. This digital obsession often takes precedence over face-to-face interactions and outdoor activities, leading to potential negative impacts on their social skills, mental health, and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 89,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

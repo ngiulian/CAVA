@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW0fXr86TADdFfQiIhGLs63xpdeP",
+    "object": "chat.completion",
+    "created": 1705858497,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Andorra, you have a few options:\n\n1. Walking: Andorra is known for its beautiful landscapes, so if the weather is pleasant and you're up for a walk, you can simply walk to the grocery store. A 1km distance is easily manageable on foot.\n\n2. Cycling: Andorra has a bike-friendly infrastructure, so you can also consider cycling to the grocery store. You can rent a bike or use a shared bike service if available. Many roads and paths have dedicated bike lanes, making it a convenient and healthy option.\n\n3. Public Transportation: Andorra operates a reliable bus system that can take you to different parts of the country. Check for any bus routes that pass by or near the grocery store. You can find bus schedules and information at bus stops or on the official Andorra transport website.\n\n4. Taxi or Car: If you prefer a more convenient option, you can take a taxi or drive your own car to the grocery store. Taxis are readily available in Andorra, and you can easily hail one from the street or call a local taxi service. If you have your own vehicle, use a GPS or map to navigate your way to the store.\n\nRemember to consider your preferences, weather conditions, and local traffic when choosing the best mode of transportation for your journey to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 280,
+        "total_tokens": 305
+    },
+    "system_fingerprint": null
+}

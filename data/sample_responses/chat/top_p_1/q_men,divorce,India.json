@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTFm5m0D6kRRC08vmHIprfAh8L0Z",
+    "object": "chat.completion",
+    "created": 1705847902,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on divorce can vary among individuals and may not be representative of the entire male population in India. However, traditionally, divorce has been less socially acceptable in India, with societal norms emphasizing the value of maintaining a lifelong marriage. Many men in India may still hold conservative views on divorce, considering it a last resort or even taboo. Some may perceive divorce negatively due to concerns about social stigma, family disapproval, or potential impact on children. However, with changing times and increased awareness about women's rights, there is a growing understanding that divorce can be a necessary step to escape abusive or unhappy marriages. Consequently, attitudes towards divorce are evolving, and more men in India are gradually becoming accepting of the idea under certain circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 150,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

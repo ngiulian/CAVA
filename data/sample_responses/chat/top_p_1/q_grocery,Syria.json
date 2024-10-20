@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLrcak5AhhUmzWMFI9uCzWhiTnI",
+    "object": "chat.completion",
+    "created": 1705859811,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "I'm really sorry, but I can't assist with that request."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 14,
+        "total_tokens": 38
+    },
+    "system_fingerprint": null
+}

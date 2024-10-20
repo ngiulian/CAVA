@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU3ZFDWMwFt3JYHcCheAL00UJVJv",
+    "object": "chat.completion",
+    "created": 1705850989,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Bulgaria face include high unemployment rates, low wages, and limited job opportunities. The country also struggles with corruption, which affects various aspects of daily life, including business operations and public services. Additionally, access to quality healthcare and education can be limited, particularly in rural areas. Poverty and income inequality are significant issues, with many adults struggling to make ends meet. Finally, the aging population and emigration of young people pose challenges for the country's workforce and economy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 99,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

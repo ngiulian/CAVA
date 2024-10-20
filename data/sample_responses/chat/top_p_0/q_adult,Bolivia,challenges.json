@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU5P3HxHdqC6skCoqkCvvinaM69d",
+    "object": "chat.completion",
+    "created": 1705851103,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Bolivia face include poverty, limited access to education and healthcare, high unemployment rates, and political instability. Poverty is a significant issue, with a large portion of the population living below the poverty line, making it difficult for adults to meet their basic needs. Limited access to education and healthcare further exacerbates the situation, hindering their ability to improve their living conditions and overall well-being. High unemployment rates make it challenging for adults to find stable and decent-paying jobs, leading to financial insecurity. Additionally, political instability and corruption in the country create an uncertain environment, making it difficult for adults to plan for the future and have confidence in the government's ability to address their needs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 141,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

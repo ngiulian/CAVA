@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTh8OSGki0aBgaoOqjaqqxVIFpW2",
+    "object": "chat.completion",
+    "created": 1705849598,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Senegal have a negative perception of divorce and consider it as a last resort. They generally view divorce as a failure of the marriage and believe that it should be avoided if possible. Women often prioritize maintaining the family unit and preserving their social status within the community. They may endure difficult situations in their marriages, such as abuse or infidelity, in order to avoid the stigma associated with divorce. However, attitudes towards divorce are gradually changing, especially among younger generations, as women become more empowered and seek greater autonomy in their lives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 108,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

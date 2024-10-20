@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9s79yLZ99BqVF5Sp4O0YB2wSsS",
+    "object": "chat.completion",
+    "created": 1705855224,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Switzerland in the past 5 years was the passing of the Swiss Corporate Tax Reform in 2019. This reform aimed to bring Switzerland's corporate tax system in line with international standards and avoid being blacklisted as a tax haven. It included the elimination of certain tax privileges for multinational companies, while introducing new measures to maintain Switzerland's attractiveness as a business location. This event had a significant impact on the Swiss economy and its international reputation as a financial hub."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 100,
+        "total_tokens": 124
+    },
+    "system_fingerprint": null
+}

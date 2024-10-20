@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVX9UiHDkJxsIK59OvfaXI3cDm1h",
+    "object": "chat.completion",
+    "created": 1705856667,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malawi in the past 5 years was the presidential election in 2019. This election marked a historic moment for the country as it witnessed the first-ever annulment of a presidential election by the Constitutional Court. The ruling followed allegations of widespread irregularities and electoral fraud, leading to nationwide protests and legal battles.\n\nThe election was ultimately re-run in June 2020, with Lazarus Chakwera emerging as the winner and assuming the presidency. This marked a peaceful transition of power and demonstrated the strength of Malawi's democratic institutions.\n\nThe nullification of the election and subsequent re-run showcased the determination of Malawian citizens to uphold democratic principles and demand transparency and fairness in the electoral process. It also highlighted the importance of the judiciary in safeguarding the rule of law and ensuring checks and balances within the political system.\n\nOverall, the 2019 presidential election and its aftermath represented a pivotal moment in Malawi's recent history, making it one of the most significant events in the country over the past 5 years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 216,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

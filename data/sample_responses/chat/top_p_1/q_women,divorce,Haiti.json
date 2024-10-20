@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTEo7tUfF4w9FpJaKjQBGTEvh2fW",
+    "object": "chat.completion",
+    "created": 1705847842,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Haiti have negative views towards divorce. They consider divorce to be a last resort and believe in the sanctity of marriage. Many women see marriage as a lifelong commitment and view divorce as a failure or a sign of weakness. Divorce is often stigmatized in Haitian society, and women are expected to endure challenges within their marriages and prioritize the well-being of their children and families over personal happiness. Therefore, most women in Haiti are reluctant to seek divorce, opting instead to work through difficulties and maintain the integrity of their marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 109,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

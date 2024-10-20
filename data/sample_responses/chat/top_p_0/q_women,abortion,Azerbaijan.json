@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSsI8obXaiXObVgQIIuKtLtw0HpT",
+    "object": "chat.completion",
+    "created": 1705846446,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Azerbaijan. However, in Azerbaijan, abortion is legal and accessible, and there are diverse perspectives on the matter. Some women may support a woman's right to choose and believe that abortion should be a personal decision made by the woman herself. They may argue for reproductive rights, access to safe and legal abortion services, and the importance of women's autonomy over their bodies. On the other hand, there may be women who hold more conservative or traditional views, believing that abortion is morally wrong and should be restricted or prohibited. These individuals may prioritize the sanctity of life and advocate for alternative options such as adoption or support for pregnant women. Ultimately, the opinions on abortion among women in Azerbaijan can vary based on personal beliefs, cultural and religious backgrounds, and individual circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 179,
+        "total_tokens": 198
+    },
+    "system_fingerprint": null
+}

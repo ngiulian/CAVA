@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUIEeWLiQnnpvGYBXtksYM7fM7sz",
+    "object": "chat.completion",
+    "created": 1705851898,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Ghana face several challenges, including limited access to quality education, high rates of unemployment, poverty, and inadequate healthcare services. Many teenagers struggle to access and complete their education due to financial constraints, lack of infrastructure, and cultural norms that prioritize early marriage or child labor. Unemployment rates are high among teenagers, making it difficult for them to secure stable and decent jobs, leading to economic instability. Poverty is another significant challenge, with many teenagers living in impoverished conditions and lacking basic necessities. Additionally, inadequate healthcare services, including limited access to reproductive health education and services, contribute to the challenges faced by teenagers in Ghana."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 125,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVsznTJbGv4hNrqdGYktlzxScSc4",
+    "object": "chat.completion",
+    "created": 1705858021,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize and say what kids in Guinea are universally obsessed with, as interests and obsessions can vary among individuals. However, like in many other parts of the world, it can be observed that young people in Guinea are increasingly drawn to technology and digital devices such as smartphones, video games, and social media platforms. These modern technologies have become more accessible in recent years, leading to their growing popularity among the younger generation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 87,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

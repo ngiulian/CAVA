@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBXqMLH6TVqhkacLL1FS7bxpezF",
+    "object": "chat.completion",
+    "created": 1705851483,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Cape Verde face are unemployment and underemployment, limited access to quality education and skills training, inadequate healthcare services, poverty and income inequality, and inconsistent access to clean water and sanitation facilities. Additionally, adults in Cape Verde often face barriers in obtaining affordable housing and struggle with high living costs. These challenges contribute to the overall economic and social vulnerability of adults in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 78,
+        "total_tokens": 97
+    },
+    "system_fingerprint": null
+}

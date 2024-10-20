@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXC3GL07jqoT10Z1s55ao3Ep5QI",
+    "object": "chat.completion",
+    "created": 1705856670,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malawi in the past 5 years was the 2019 presidential election and its aftermath. The election, held in May 2019, was marred by allegations of irregularities and sparked widespread protests and legal challenges. The main opposition candidate, Lazarus Chakwera, challenged the results, leading to months of political tension and uncertainty.\n\nIn February 2020, the Constitutional Court nullified the election results, citing widespread irregularities and ordered a fresh election. This decision marked the first time in African history that a court had overturned a presidential election. The ruling was seen as a significant victory for democracy and the rule of law in Malawi.\n\nIn June 2020, a new election was held, and Lazarus Chakwera emerged as the winner, defeating the incumbent president Peter Mutharika. Chakwera's victory marked a historic moment for Malawi, as it was the first time in the country's history that an opposition candidate won a presidential election.\n\nThis event had a profound impact on Malawi's political landscape, demonstrating the power of the judiciary and the people's demand for transparent and fair elections. It also highlighted the importance of democratic institutions and the role of civil society in holding leaders accountable."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 258,
+        "total_tokens": 283
+    },
+    "system_fingerprint": null
+}

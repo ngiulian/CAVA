@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNo4ZufJDgp3q0PIMekQkmPW3RM",
+    "object": "chat.completion",
+    "created": 1705856088,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Kashmir in the past 20 years is the abrogation of Article 370 of the Indian Constitution by the Indian government in August 2019. Article 370 granted a special autonomous status to the region of Jammu and Kashmir, allowing it to have its own constitution, flag, and limited legislative powers. The abrogation revoked this special status, leading to the bifurcation of the state into two separate union territories, Jammu and Kashmir, and Ladakh. This decision sparked widespread protests, tensions, and a security crackdown in the region, significantly impacting the political, social, and economic dynamics of Kashmir."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 133,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW6RccIK6Uq3npqaxflXb2Zmn0Ep",
+    "object": "chat.completion",
+    "created": 1705858855,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in the Czech Republic, you have several transportation options:\n\n1. Walking: 1km is a relatively short distance, so you can consider walking to the grocery store. Make sure to wear comfortable shoes and observe traffic rules while walking.\n\n2. Cycling: The Czech Republic has a well-developed cycling infrastructure, so you can consider riding a bicycle to the grocery store. This will be quicker than walking and also help you avoid traffic.\n\n3. Public Transportation: Check if there are any bus or tram stops near your location and the grocery store. You can use the public transportation system to reach your destination. Check the Czech Republic's public transportation website or apps to find the most convenient route and schedule.\n\nNote: It's always a good idea to check for any local regulations or restrictions related to transportation, especially if you're unfamiliar with the area or using public transportation for the first time."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 189,
+        "total_tokens": 214
+    },
+    "system_fingerprint": null
+}

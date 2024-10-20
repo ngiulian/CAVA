@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUR4EfIQDJ1SNE6PwEYzGzGpfxzM",
+    "object": "chat.completion",
+    "created": 1705852446,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Kyrgyzstan face several significant challenges. Firstly, access to quality education is a major concern, with limited resources and outdated teaching methods hindering their learning opportunities. Additionally, unemployment rates are high, making it difficult for teenagers to find suitable job opportunities after completing their education. This lack of employment prospects often leads to frustration and a sense of hopelessness among the youth. Furthermore, substance abuse, including alcohol and drug addiction, is prevalent among teenagers, posing serious health and social risks. Lastly, traditional gender roles and societal expectations can limit the opportunities and choices available to teenagers, particularly girls, in terms of education, career, and personal development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 131,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

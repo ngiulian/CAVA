@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxpcRrJ0LQstXr4Uvla0NplcljF",
+    "object": "chat.completion",
+    "created": 1705846789,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Brunei have a negative perception of divorce. They view it as a socially taboo and undesirable outcome, primarily due to cultural and religious reasons. Men feel that divorce affects their social standing and reputation, as well as the stability of their family and community ties. As divorce is seen as a last resort, men generally strive to maintain and salvage their marriages, often seeking reconciliation and seeking support from family and religious elders."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 85,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

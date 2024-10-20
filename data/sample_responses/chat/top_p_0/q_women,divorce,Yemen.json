@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTuOjubcGKWRqvvJbwFR1mpEfFsj",
+    "object": "chat.completion",
+    "created": 1705850420,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Yemen have mixed opinions about divorce. Some women view divorce as a last resort to escape abusive or unhappy marriages, while others see it as a social stigma and a failure of their role as wives. Many women face societal pressure to stay in their marriages, as divorce is often seen as a disruption to family and community harmony. However, with increasing awareness and education, more women are advocating for their rights and seeking divorce to improve their lives and protect their well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

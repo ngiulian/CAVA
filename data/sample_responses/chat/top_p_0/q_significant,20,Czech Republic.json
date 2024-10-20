@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDxyTN6rpSZ0E0Iu5lZlGCoeQof",
+    "object": "chat.completion",
+    "created": 1705855477,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Czech Republic in the past 20 years is the country's accession to the European Union (EU) on May 1, 2004. This event marked a major milestone in the country's history, as it became a member of the EU along with nine other countries. The accession brought numerous benefits to the Czech Republic, including increased trade opportunities, access to EU funds, and the ability to participate in shaping EU policies. It also symbolized the country's integration into the broader European community and its commitment to European values and cooperation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 117,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

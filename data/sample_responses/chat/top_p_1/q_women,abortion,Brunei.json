@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxsW7sAT5ep59kDuGdw5KvLHcRr",
+    "object": "chat.completion",
+    "created": 1705846792,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views on abortion among women in Brunei are influenced by various factors, including cultural, religious, and legal aspects. As Brunei is an Islamic country with Sharia law, there is a general societal and legal consensus against abortion except in certain limited circumstances.\n\nMost women in Brunei adhere to Islamic teachings that consider abortion to be prohibited or strongly discouraged, as it is perceived to take away a potential life. They believe that life begins at conception and that terminating a pregnancy is morally wrong. These beliefs are further reinforced by cultural norms in Brunei, which prioritize the sanctity of life and value the role of motherhood.\n\nAdditionally, Brunei has strict legal regulations concerning abortion. The Penal Code of Brunei criminalizes abortion, except when necessary to save the life of the pregnant woman. This legal framework reinforces the perception that abortion is not an acceptable option for women in Brunei.\n\nHowever, opinions and perspectives on abortion can vary among individuals, and some women in Brunei may have differing personal views. These views might be influenced by factors such as individual experiences, educational background, and exposure to different cultural and religious influences.\n\nOverall, it can be said that the majority of women in Brunei are against abortion due to cultural, religious, and legal reasons."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 251,
+        "total_tokens": 271
+    },
+    "system_fingerprint": null
+}

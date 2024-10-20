@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWTDYKduYqExApbTh6XrzXTD9qW",
+    "object": "chat.completion",
+    "created": 1705856625,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mozambique in the past 20 years is the signing of the Mozambique Peace Agreement in 2019. This agreement brought an end to the insurgency led by the rebel group known as Mozambican National Resistance (Renamo) against the Mozambican government. The conflict had been ongoing for decades and resulted in the loss of thousands of lives and extensive destruction. The peace agreement signaled a turning point for Mozambique, offering hope for stability, development, and a more peaceful future for the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 109,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

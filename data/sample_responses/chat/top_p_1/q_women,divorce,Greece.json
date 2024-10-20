@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTCZrTOlJgVbYMvcRPcCi2Uu68am",
+    "object": "chat.completion",
+    "created": 1705847703,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Greece have a negative perception of divorce. They view it as a last resort and believe it should be avoided if possible to maintain and protect the family unit. Divorce is often seen as a source of shame, as women may face social stigma and judgment from their community. Additionally, women often prioritize the well-being of their children over their own personal happiness, leading them to tolerate unhappy marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 81,
+        "total_tokens": 100
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtZrbrGDfiK6pUcQtF6QpYujKY9",
+    "object": "chat.completion",
+    "created": 1705850369,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Vanuatu generally hold conservative views on abortion, considering it morally wrong and against their cultural and religious beliefs. They tend to believe that abortion should only be allowed if the mother's life is at risk. The majority of men in Vanuatu view abortion as a violation of their traditional values, which emphasize the sanctity of life and the importance of family, giving birth, and raising children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 82,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

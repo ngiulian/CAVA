@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVUNEgFw0aja3JlUwUk5m6QFc3mw",
+    "object": "chat.completion",
+    "created": 1705856495,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mexico in the past 20 years is the election of Andr\u00e9s Manuel L\u00f3pez Obrador (AMLO) as the President of Mexico in 2018. This marked a historic shift in Mexican politics, as it brought a leftist leader to power after more than seven decades of rule by center-right parties. AMLO's presidency has been characterized by ambitious plans for social and economic reforms, anti-corruption measures, and addressing issues such as poverty, violence, and inequality. His election represented a significant moment of political change and had a profound impact on the country's direction and policy-making."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 126,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

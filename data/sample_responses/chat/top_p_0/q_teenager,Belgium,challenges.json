@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU23fDSKE3MOb5XS2F9bzI1Y8Zcr",
+    "object": "chat.completion",
+    "created": 1705850895,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Belgium face include academic pressure, mental health issues, substance abuse, peer pressure, and social media influence. The education system in Belgium is highly competitive, leading to high expectations and stress among teenagers to perform well academically. This pressure can contribute to mental health issues such as anxiety and depression. Additionally, teenagers may face challenges related to substance abuse, as experimentation with drugs and alcohol is not uncommon. Peer pressure can also influence teenagers to engage in risky behaviors or make unhealthy choices. Moreover, the pervasive influence of social media can impact teenagers' self-esteem, body image, and overall mental well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 127,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

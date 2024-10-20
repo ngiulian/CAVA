@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrM0R8vOncBVSgfyYrwFdb85rIX",
+    "object": "chat.completion",
+    "created": 1705850232,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Ukraine have varying opinions about divorce. Some men view divorce as a last resort and believe in working through marital issues to maintain a stable family unit. They may prioritize the well-being of their children and strive to find solutions to problems within the marriage. However, there are also men who perceive divorce as a more acceptable option, particularly in cases of irreconcilable differences or when the relationship becomes toxic or abusive. These men prioritize their own happiness and personal growth, recognizing that divorce can provide a fresh start and the opportunity to find a more compatible partner. Overall, attitudes towards divorce among men in Ukraine are influenced by cultural, societal, and individual factors, leading to a range of perspectives on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 143,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

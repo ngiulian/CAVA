@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4vlrDt62YdnxS9c9JltGxY1Nmm",
+    "object": "chat.completion",
+    "created": 1705854917,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Burundi in the past five years was the constitutional referendum held in May 2018. The referendum proposed constitutional reforms that would allow President Pierre Nkurunziza to potentially extend his rule until 2034. The proposed changes included extending presidential terms from five to seven years and potentially allowing Nkurunziza, who had been in power since 2005, to run for two more terms. The referendum was controversial, with critics accusing the government of undermining democracy and potentially prolonging political instability in the country. Despite opposition and concerns over its transparency, the referendum passed, and the constitutional changes were adopted. This event had a significant impact on Burundi's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 145,
+        "total_tokens": 170
+    },
+    "system_fingerprint": null
+}

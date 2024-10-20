@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVFOyfWQHNtuhh5b754snAA0Wud8",
+    "object": "chat.completion",
+    "created": 1705855566,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Ecuador in the past five years was the COVID-19 pandemic. The first case of COVID-19 in Ecuador was confirmed in late February 2020, and the country subsequently experienced a significant rise in cases. The pandemic had a severe impact on Ecuador's healthcare system, economy, and society as a whole, leading to a high number of infections, hospitalizations, and deaths. The government implemented strict measures such as lockdowns and travel restrictions to control the spread of the virus. The pandemic also resulted in economic hardships, including job losses and a decline in tourism. The effects of COVID-19 were felt across various aspects of Ecuadorian life and continue to have an impact today."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 145,
+        "total_tokens": 169
+    },
+    "system_fingerprint": null
+}

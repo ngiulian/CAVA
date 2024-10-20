@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTi1ZDRyBcFm0UW70Eyxuwa38hc7",
+    "object": "chat.completion",
+    "created": 1705849653,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sierra Leone hold negative views towards abortion. They generally consider it morally wrong and against their cultural and religious beliefs. Abortion is largely stigmatized in Sierra Leonean society, and women who undergo the procedure often face social ostracism and judgment. The majority of women believe that abortion should only be considered in cases of extreme medical necessity or when the mother's life is at risk. However, it is important to note that opinions on abortion can vary among individuals, and there may be some women who hold more liberal views on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 111,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

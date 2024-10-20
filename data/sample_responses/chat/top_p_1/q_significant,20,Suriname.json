@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgUNYpvv4wohVFu0wnVEWpYeitm",
+    "object": "chat.completion",
+    "created": 1705857246,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Suriname in the past 20 years was the trial and conviction of former President Desi Bouterse for his involvement in the 1982 \"December Murders.\" Bouterse, who came to power through a military coup in 1980, was found guilty of ordering the executions of 15 prominent Surinamese citizens, including journalists, lawyers, and military personnel who were critical of his regime. After years of legal battles and political maneuvering, Bouterse was finally convicted in 2019 and sentenced to 20 years in prison. This event marked a significant step towards justice and accountability in Suriname's history and had a profound impact on the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 146,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

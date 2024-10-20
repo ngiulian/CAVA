@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVQdN1IH1pvZ9Zqr8Ki1FIgjYDx1",
+    "object": "chat.completion",
+    "created": 1705856263,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Lebanon in the past 20 years is the Beirut Port explosion on August 4, 2020. The explosion, caused by the detonation of a large quantity of ammonium nitrate stored unsafely at the port, killed over 200 people, injured thousands, and caused widespread destruction in the capital city, Beirut. It was one of the largest non-nuclear explosions in history and had a profound impact on Lebanon, exacerbating the country's ongoing economic and political crises. The blast resulted in massive protests demanding accountability and led to the resignation of the government. It further highlighted the deep-rooted corruption, mismanagement, and negligence within Lebanon's political system."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 143,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

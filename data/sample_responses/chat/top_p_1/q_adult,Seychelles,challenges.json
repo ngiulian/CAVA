@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUqwzAYgwAAfPy2JbOsEVHzQTtLS",
+    "object": "chat.completion",
+    "created": 1705854050,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Seychelles face include high living costs, limited job opportunities, lack of affordable housing, and the high prevalence of non-communicable diseases. Additionally, Seychelles adults also grapple with limited access to education and healthcare, socioeconomic inequality, and environmental degradation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 60,
+        "total_tokens": 80
+    },
+    "system_fingerprint": null
+}

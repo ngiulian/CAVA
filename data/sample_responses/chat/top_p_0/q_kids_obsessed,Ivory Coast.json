@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVqdIY86Rp5PDxzYLvOlfC8DEARv",
+    "object": "chat.completion",
+    "created": 1705857875,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Ivory Coast, as individual preferences can vary greatly. However, like in many other countries, some common obsessions among kids in Ivory Coast may include:\n\n1. Technology and gadgets: Many kids are increasingly interested in smartphones, tablets, video games, and social media platforms.\n\n2. Music and dance: Music plays a significant role in Ivorian culture, and kids often enjoy listening to and dancing to popular genres like coup\u00e9-d\u00e9cal\u00e9 and zouglou.\n\n3. Football (soccer): Football is immensely popular in Ivory Coast, and many kids are passionate about the sport, idolizing local and international football players.\n\n4. Fashion and trends: Kids, especially teenagers, may be obsessed with following the latest fashion trends, both locally and globally.\n\n5. Entertainment and celebrities: Kids may be fascinated by local and international celebrities, including actors, musicians, and social media influencers.\n\nIt is important to note that these are general observations and not applicable to every child in Ivory Coast. Individual interests and obsessions can vary widely based on personal preferences, upbringing, and cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 230,
+        "total_tokens": 249
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKNnu469hZoHvVysOEJ3x19nSix",
+    "object": "chat.completion",
+    "created": 1705855875,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Honduras in the past 100 years is the overthrow of President Manuel Zelaya in 2009. Zelaya, who was accused of attempting to extend his presidency beyond the constitutional term limits, was forcibly removed from office by the military. This event led to a political crisis and international condemnation, with many countries refusing to recognize the new government. The incident had a profound impact on Honduras' political landscape and further deepened divisions within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 99,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

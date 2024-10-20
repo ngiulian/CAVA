@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVM4kIUWwVI8L5UsP5CTMrD8uYTj",
+    "object": "chat.completion",
+    "created": 1705855980,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Iraq in the past five years was the defeat of the Islamic State of Iraq and Syria (ISIS) in 2017. The ISIS, a brutal extremist group, had taken control of large swathes of Iraq in 2014 and had established a self-declared caliphate. However, a coalition of Iraqi security forces, Kurdish Peshmerga fighters, and international allies launched military operations to recapture the territories. After a fierce and lengthy battle, the ISIS was eventually expelled from most of the areas it had occupied, including key cities like Mosul and Tal Afar. This victory against ISIS significantly transformed the security situation in Iraq and marked a turning point in the fight against this dangerous extremist group."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 148,
+        "total_tokens": 172
+    },
+    "system_fingerprint": null
+}

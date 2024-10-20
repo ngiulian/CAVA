@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWFHwj6gPm4c7or3Zwq6YjDZECcB",
+    "object": "chat.completion",
+    "created": 1705859403,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Macedonia, you have a few transportation options depending on the availability in your area:\n\n1. Walking: If the weather permits and you prefer walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover the 1km distance.\n\n2. Bicycling: If you have a bicycle or can rent one, it can be a quick and efficient way to get to the grocery store. Biking can take you around 3-5 minutes to reach your destination.\n\n3. Public Transportation: Check if there are any public transportation options available, such as buses or trams, that can take you to the grocery store. Use online maps or inquire locally for the nearest bus stop or tram station.\n\n4. Taxi or Ride-sharing apps: Using taxi or ride-sharing apps like Uber or Bolt can be a convenient way to reach the grocery store. Simply open the app, input your location, and request a ride to the store. This option offers door-to-door service.\n\nEvaluate the available options based on your preferences, time, and convenience to choose the most suitable mode of transportation for your journey."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 241,
+        "total_tokens": 265
+    },
+    "system_fingerprint": null
+}

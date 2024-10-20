@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHg0ivqxLsUBfDTCqvgz2sJaAYv",
+    "object": "chat.completion",
+    "created": 1705855708,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Georgia in the past 20 years is the Russo-Georgian War of 2008. The conflict arose when Georgia attempted to regain control over its breakaway region of South Ossetia, which had declared independence with Russian support. The war lasted for five days, resulting in significant casualties and the displacement of thousands of people. It marked a turning point in the region's geopolitical dynamics, as Russia formally recognized the independence of South Ossetia and another breakaway region, Abkhazia, further exacerbating tensions between Georgia and Russia. The war had a profound impact on Georgia, leading to ongoing territorial disputes, political shifts, and a reevaluation of its relationship with Russia and the West."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 150,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

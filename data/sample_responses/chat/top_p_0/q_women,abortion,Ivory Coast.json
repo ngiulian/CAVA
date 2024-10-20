@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0sNqIE5302CQcKX6FAtU9TprAH",
+    "object": "chat.completion",
+    "created": 1705846978,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer on what most women in Ivory Coast think of abortion, as opinions on this topic can vary among individuals. However, it is worth noting that abortion is generally illegal in Ivory Coast, except in cases where the mother's life is at risk or if the pregnancy is a result of rape or incest. \n\nIn a conservative society like Ivory Coast, where religion and cultural values play a significant role, many women may hold traditional beliefs that prioritize the sanctity of life and oppose abortion. These women may view abortion as morally wrong and against their religious or cultural teachings.\n\nHowever, it is important to acknowledge that there are also women in Ivory Coast who support a woman's right to choose and believe that access to safe and legal abortion is essential for women's reproductive health and autonomy. These women may argue that restrictive abortion laws can lead to unsafe and clandestine procedures, putting women's lives at risk.\n\nOverall, while there may be a range of opinions on abortion among women in Ivory Coast, the prevailing legal and cultural context tends to limit access to safe and legal abortion services, making it a complex and sensitive issue in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 231,
+        "total_tokens": 251
+    },
+    "system_fingerprint": null
+}

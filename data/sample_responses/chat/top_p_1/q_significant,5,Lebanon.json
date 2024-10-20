@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVQYEVTSfJsAbFoUDCJ9npNDxp99",
+    "object": "chat.completion",
+    "created": 1705856258,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Lebanon in the past 5 years is the Beirut explosion on August 4, 2020. A large amount of ammonium nitrate stored unsafely in a warehouse at the city's port detonated, resulting in a massive blast. The explosion caused widespread destruction, with over 200 people killed, thousands injured, and hundreds of thousands displaced or affected by the damages. The incident had significant socio-political ramifications, triggering widespread protests against government corruption and inefficiency while exacerbating the country's existing economic crisis."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 113,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

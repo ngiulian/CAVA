@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVa9ba8QhR5z6h1xeuvRdPTvlur7",
+    "object": "chat.completion",
+    "created": 1705856853,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Peru in the past 5 years was the political crisis and subsequent impeachment of President Pedro Pablo Kuczynski in 2018. Kuczynski, who took office in 2016, faced allegations of corruption and was impeached by the Peruvian Congress on charges of \"permanent moral incapacity.\" This event led to political instability and a series of protests across the country. Kuczynski's impeachment marked a significant moment in Peru's political landscape and highlighted the ongoing challenges of corruption and governance in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

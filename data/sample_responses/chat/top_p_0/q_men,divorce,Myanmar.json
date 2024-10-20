@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUqrrKsvBmFKJchg3ZDXos6oRB5",
+    "object": "chat.completion",
+    "created": 1705848836,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Myanmar hold negative views towards divorce. They generally consider divorce to be a socially unacceptable and shameful act. Men often perceive divorce as a failure to fulfill their responsibilities as husbands and fathers, and it is seen as a disruption to the traditional family structure. Additionally, divorce is often stigmatized by society, leading to potential social isolation and loss of reputation for those involved. Consequently, most men in Myanmar strive to maintain their marriages and avoid divorce, even in cases of marital dissatisfaction or unhappiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

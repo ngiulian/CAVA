@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUpKehEoDpNwAahlEHaDN6KEo7dU",
+    "object": "chat.completion",
+    "created": 1705853950,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Suriname face several challenges, including limited access to quality education, high rates of teenage pregnancy, substance abuse, and limited employment opportunities. The education system in Suriname often lacks resources and infrastructure, making it difficult for teenagers to receive a quality education. This can hinder their future prospects and limit their opportunities for higher education or skilled employment. Additionally, Suriname has one of the highest rates of teenage pregnancy in the region, which can lead to social stigma, limited educational and career opportunities, and increased poverty. Substance abuse, particularly alcohol and marijuana, is also a significant challenge among teenagers in Suriname, leading to health issues, academic underachievement, and increased vulnerability to crime. Lastly, the limited availability of employment opportunities for teenagers contributes to high rates of youth unemployment, which can lead to frustration, poverty, and involvement in illegal activities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 170,
+        "total_tokens": 189
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSYt1mb4uiGioWTlTa5fCa5zo3y",
+    "object": "chat.completion",
+    "created": 1705856382,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Luxembourg in the past 20 years is the accession of Grand Duke Henri to the throne in 2000. He succeeded his father, Grand Duke Jean, and became the sixth monarch of Luxembourg. This event marked a peaceful transition of power and continued the long-standing reign of the House of Nassau-Weilburg, which has ruled Luxembourg since 1890. Grand Duke Henri has since played a crucial role in representing Luxembourg internationally and has been instrumental in strengthening the country's position within the European Union."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUM3QQm7EqpFFRSI1sVdO0wdhXcv",
+    "object": "chat.completion",
+    "created": 1705852135,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Hungary face include economic difficulties, such as low wages and high unemployment rates. The cost of living is also a concern, with rising prices for housing, utilities, and healthcare. Access to quality education and job opportunities can be limited, leading to a lack of career advancement and financial stability. Additionally, there are challenges related to healthcare, including long waiting times and limited access to specialized treatments. Political and social issues, such as corruption and discrimination, also pose challenges for adults in Hungary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 103,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

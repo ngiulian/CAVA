@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9eNCRyUBFnCG8sylgGNmPYsrZz",
+    "object": "chat.completion",
+    "created": 1705847522,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Fiji have a negative perception of divorce. They view it as a last resort and believe that marriage is a lifelong commitment. Divorce is often seen as a failure and brings social stigma to women, affecting their reputation and standing in the community. Women in Fiji prioritize maintaining the family unit and often endure unhappy marriages for the sake of their children and societal expectations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 74,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

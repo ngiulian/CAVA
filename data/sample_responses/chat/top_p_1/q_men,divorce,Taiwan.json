@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqBNacCEjoicKiEcVSHcB01FTjm",
+    "object": "chat.completion",
+    "created": 1705850159,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Taiwan have mixed opinions about divorce. Some believe it is necessary in cases of dysfunction or abuse within a marriage, while others strongly oppose it due to societal and traditional expectations. There is a significant number of men who view divorce as a negative and shameful event, as it may bring dishonor to their family or career prospects. However, attitudes towards divorce have been gradually changing in recent years, with more men recognizing the importance of individual happiness and personal growth, and becoming open to the idea of divorce as a means to find fulfillment in life."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 110,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

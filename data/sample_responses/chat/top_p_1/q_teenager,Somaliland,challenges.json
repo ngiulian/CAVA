@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUnjcJSMI3CsL1Wjzr9qBPn8RK5T",
+    "object": "chat.completion",
+    "created": 1705853851,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Somaliland face a range of challenges, including:\n\n1. Limited access to education: Many teenagers in Somaliland struggle to access quality education due to limited school infrastructure, resources, and trained teachers.\n\n2. High youth unemployment: Lack of job opportunities and a struggling economy make it difficult for teenagers to find employment, leading to economic instability and limited prospects for their future.\n\n3. Gender inequality: Teenage girls face gender-based discrimination and unequal access to education, healthcare, and employment opportunities, inhibiting their full potential.\n\n4. Political instability and insecurity: Teenagers in Somaliland encounter the consequences of political instability, conflicts, and sometimes the threat of extremist groups, affecting their safety and well-being.\n\n5. Limited healthcare services: There is a lack of adequate healthcare facilities and trained medical professionals, making it challenging for teenagers to access necessary healthcare services and information.\n\n6. Lack of recreational activities: Due to limited recreational infrastructure and options, teenagers often face a lack of constructive outlets for their energy and creativity, potentially leading to boredom, frustration, or engagement in risky behaviors.\n\n7. Substance abuse: Some teenagers resort to substance abuse as a coping mechanism or due to peer pressure, as a means to escape underlying challenges present in their lives.\n\nAddressing these challenges requires investment in education, healthcare, and job creation, along with efforts to promote gender equality, develop infrastructure, and ensure stability and security in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 287,
+        "total_tokens": 307
+    },
+    "system_fingerprint": null
+}

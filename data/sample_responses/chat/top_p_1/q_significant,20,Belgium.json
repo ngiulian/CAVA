@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5E1Us02KctHJGx5s5DD0fmwgtS",
+    "object": "chat.completion",
+    "created": 1705854936,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belgium in the past 20 years is the 2016 Brussels bombings. On March 22, 2016, three coordinated suicide bombings occurred in Brussels, targeting the Brussels Airport and the Maalbeek metro station. These attacks led to the loss of 32 lives and injured more than 300 people. The bombings were carried out by a terrorist cell associated with the Islamic State (IS). This event had a profound impact on Belgium and the world, highlighting the ongoing threat of terrorism and necessitating increased security measures in many regions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

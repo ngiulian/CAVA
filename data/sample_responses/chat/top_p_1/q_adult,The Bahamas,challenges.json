@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU4BgLVzqpUSIQLfCpQmH2akF7IG",
+    "object": "chat.completion",
+    "created": 1705851027,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in The Bahamas face include high rates of unemployment and underemployment, especially among young adults who struggle to find stable and well-paying jobs. Limited economic opportunities and lack of access to quality education contribute to this issue. Additionally, adults in The Bahamas face high cost of living, particularly in terms of housing, healthcare, and utility expenses. The country is also prone to natural disasters, such as hurricanes, which pose significant challenges to adults in terms of recovering from damage and rebuilding their lives. Lastly, there are concerns regarding crime rates and challenges related to healthcare access, particularly in remote areas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 120,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

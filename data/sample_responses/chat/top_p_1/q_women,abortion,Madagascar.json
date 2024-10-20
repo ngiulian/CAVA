@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTSZ9TrOyqdBGNgGjmlqRfvW3UcQ",
+    "object": "chat.completion",
+    "created": 1705848695,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide a specific summary on what most women in Madagascar think of abortion as opinions vary among individuals and can be influenced by a range of personal, cultural, and socio-economic factors. However, it is important to note that Madagascar, like many countries, has restrictive abortion laws, where the procedure is only legally allowed under certain circumstances such as saving the life of the mother. As a result, there may exist a significant stigma surrounding abortion, making it a less openly discussed topic. Moreover, societal norms and cultural beliefs also shape individual perceptions regarding reproductive rights and abortion within Madagascan society. While some women may hold more conservative views reflecting the prevailing cultural and religious values, others might advocate for women's reproductive autonomy and access to safe and legal abortion. In general, understanding the diverse perspectives of women in Madagascar toward abortion would require direct research or surveys to capture a representative picture."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 178,
+        "total_tokens": 197
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7kK8wtE7s44IWoL40f72tbNGTF",
+    "object": "chat.completion",
+    "created": 1705855092,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belize in the past 5 years was the landmark ruling by the International Court of Justice (ICJ) on April 10, 2019, regarding the long-standing territorial dispute between Belize and Guatemala. The ICJ ruled that Belize's borders were internationally recognized and that Guatemala had no territorial claims over Belize. This ruling brought a sense of clarity and resolution to the dispute, which had been ongoing for decades. It also paved the way for improved relations between the two countries and opened up opportunities for further development and cooperation in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

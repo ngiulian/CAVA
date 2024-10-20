@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUAtHXGfaq7Jd7bvD9vMi8dtyOIA",
+    "object": "chat.completion",
+    "created": 1705851443,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Colombia face several significant challenges. One of the biggest challenges is violence and insecurity, as the country has a history of drug trafficking and armed conflicts. This environment exposes teenagers to the risk of recruitment by armed groups, involvement in criminal activities, and exposure to various forms of violence.\n\nAnother major challenge is limited access to quality education. Many teenagers, especially those from marginalized communities or rural areas, struggle with a lack of resources, overcrowded classrooms, and inadequate infrastructure. This impacts their academic performance and future opportunities.\n\nSubstance abuse is also prevalent among Colombian teenagers. Substance use disorders, including drug and alcohol addiction, are common and can lead to health issues, dropouts, and involvement in illicit activities.\n\nTeenage pregnancy is a pervasive challenge, often resulting from limited knowledge about sexual and reproductive health, lack of access to contraceptives, and cultural norms. This issue affects both girls and boys and hampers their educational and socio-economic opportunities.\n\nAdditionally, high levels of inequality and social exclusion pose challenges for teenagers in Colombia. Economic disparities, discrimination, and limited access to opportunities hinder their ability to thrive and reach their full potential.\n\nLastly, mental health issues such as depression, anxiety, and suicide rates are on the rise among Colombian teenagers. These issues often stem from the aforementioned challenges, societal pressures, and limited access to mental health resources.\n\nIn summary, the biggest challenges faced by teenagers in Colombia include violence and insecurity, limited access to quality education, substance abuse, teenage pregnancy, inequality and"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

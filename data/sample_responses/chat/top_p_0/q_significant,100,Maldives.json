@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVUG4ZIByTWCb88JsM95aqgsJuqr",
+    "object": "chat.completion",
+    "created": 1705856488,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Maldives in the past 100 years is the establishment of a multi-party democracy in 2008. Prior to this, the Maldives had been under autocratic rule for several decades. The event marked a major shift in the political landscape of the country and allowed for greater political participation and freedom of expression. It also led to the election of Mohamed Nasheed as the country's first democratically elected president. This event had a profound impact on the Maldives and its people, shaping the country's political, social, and economic development in the years that followed."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 123,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

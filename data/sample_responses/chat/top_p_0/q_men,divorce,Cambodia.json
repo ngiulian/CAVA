@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLWkOsaoAEDwE9hwV1TxEVlVALm",
+    "object": "chat.completion",
+    "created": 1705848258,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Cambodia hold negative views towards divorce. They generally perceive divorce as a social taboo and believe that it brings shame and dishonor to both the individuals involved and their families. Men often prioritize maintaining a stable and harmonious family unit, valuing the preservation of marriage as a cultural and societal norm. Divorce is seen as a last resort, only acceptable in extreme cases of abuse, infidelity, or irreconcilable differences. Men may also fear the financial and social consequences of divorce, such as losing property, custody battles, or being stigmatized by their community. Overall, divorce is generally frowned upon by men in Cambodia, and they strive to uphold traditional family values and avoid its occurrence."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 142,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRsNJI19xGd3GgwdtbYDlnoWk68",
+    "object": "chat.completion",
+    "created": 1705856340,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sri Lanka in the past 20 years is the end of the Sri Lankan Civil War in 2009. The civil war, which lasted for 26 years, was fought between the Sri Lankan government and the separatist group, the Liberation Tigers of Tamil Eelam (LTTE), who sought an independent Tamil state in the northern and eastern regions of Sri Lanka. The conflict caused immense human suffering, with thousands of casualties and displacements. \n\nThe Sri Lankan government launched a major military offensive in 2008, which intensified in the following year, leading to the defeat of the LTTE and the death of their leader, Velupillai Prabhakaran. The end of the war brought a sense of relief and hope for the country, as people longed for peace and stability. However, the lasting impacts of the conflict, such as post-war reconciliation, resettlement, and addressing the grievances of the Tamil minority, continue to be significant challenges for Sri Lanka in the present day."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 212,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

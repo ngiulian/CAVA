@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTi8JB7Z3pDl3f8OvJuGMXLpzPJH",
+    "object": "chat.completion",
+    "created": 1705849660,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in El Salvador hold a predominantly conservative and restrictive view on abortion. They align themselves with the country's strict abortion laws which criminalize abortion under all circumstances, including cases of rape, incest, and when the mother's life is at risk. Their beliefs are often influenced by conservative religious beliefs, societal norms, and cultural traditions that prioritize the protection of unborn life. Consequently, most men in El Salvador oppose the legalization or decriminalization of abortion, emphasizing the importance of upholding their pro-life stance."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 102,
+        "total_tokens": 122
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5gUDBpFtS82BtcXWHxXnCKfMWh",
+    "object": "chat.completion",
+    "created": 1705854964,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Burkina Faso in the past five years was the political uprising in October 2014. This event, known as the Burkinab\u00e9 Revolution or the October Revolution, was a series of protests and demonstrations against President Blaise Compaor\u00e9's attempt to change the country's constitution in order to extend his 27-year rule. The uprising culminated in Compaor\u00e9's resignation and flight to Ivory Coast. This event marked a major turning point in Burkina Faso's political landscape and led to a period of transitional governance before democratic elections were held in 2015."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 127,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

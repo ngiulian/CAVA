@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVf3DXt4cIFOfT3v8LlTYnjsUQM7",
+    "object": "chat.completion",
+    "created": 1705857157,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in El Salvador in the past 5 years was the election of Nayib Bukele as the country's president in 2019. Bukele, a former mayor of San Salvador, won the presidential election as the candidate of the Grand Alliance for National Unity (GANA) party. His victory marked a break from the traditional two-party system that had dominated Salvadoran politics for decades. Bukele's presidency has been characterized by his populist and anti-establishment approach, as well as his focus on addressing issues such as corruption, violence, and economic development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 122,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDosQ4e6BqxQpiasWJJBK5sUrR4",
+    "object": "chat.completion",
+    "created": 1705847780,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Honduras are strongly against abortion due to the predominant influence of religious beliefs and cultural values. The country has strict laws that criminalize abortion, making it illegal in all circumstances. The majority of women in Honduras align themselves with these laws, viewing abortion as morally wrong and against their cultural norms. Additionally, the strong influence of the Catholic Church in the country further reinforces the opposition to abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 79,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

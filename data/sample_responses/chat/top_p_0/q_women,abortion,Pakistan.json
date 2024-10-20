@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTasv0rUU41tCG7NPOKe3QBAIdIi",
+    "object": "chat.completion",
+    "created": 1705849210,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Pakistan. However, in Pakistan, abortion is generally considered a sensitive and controversial topic. The majority of women in the country adhere to conservative cultural and religious values, which often discourage or prohibit abortion. Islamic teachings, which hold significant influence in Pakistan, generally consider abortion as forbidden except in cases where the mother's life is at risk. Additionally, societal norms and stigmas surrounding premarital sex and pregnancy outside of marriage can contribute to negative perceptions of abortion. However, it is essential to recognize that there are diverse perspectives on this issue, and some women in Pakistan may hold different opinions based on their personal beliefs, experiences, and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 155,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

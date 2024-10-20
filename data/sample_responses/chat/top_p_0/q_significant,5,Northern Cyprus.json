@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDJ8GxuWqqZHFP3SFAexEwpFGs5",
+    "object": "chat.completion",
+    "created": 1705855437,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Northern Cyprus in the past 5 years was the reopening of the border crossing between Northern Cyprus and the Republic of Cyprus in 2018. This event marked a significant step towards reconciliation and increased communication between the two sides of the divided island. The border crossing, known as the Ledra Street crossing, had been closed since 1974 when the island was divided following a Turkish invasion. The reopening of this crossing allowed for greater movement of people and goods, fostering a sense of hope for a potential resolution to the long-standing Cyprus dispute."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 116,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

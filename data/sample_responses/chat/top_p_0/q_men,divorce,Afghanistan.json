@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmgtQWiqjOW9GxWbPsZoGIWXXc7",
+    "object": "chat.completion",
+    "created": 1705846098,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Afghanistan hold negative views towards divorce. They generally believe that divorce is a shameful and dishonorable act that goes against cultural and religious norms. Men often perceive divorce as a failure to fulfill their responsibilities as husbands and providers for their families. They consider divorce as a threat to their reputation and social standing within their communities. Additionally, many men believe that divorce brings shame to their families and can lead to social exclusion. Consequently, most men in Afghanistan tend to discourage divorce and prioritize maintaining the stability and unity of their marriages, even in cases of unhappiness or conflict."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTF9eNnSXahKiRVHE9SmyPeywQj7",
+    "object": "chat.completion",
+    "created": 1705847863,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion can vary greatly, and it is not possible to generalize the views of all women in Hungary. However, it is known that Hungary has a complex and polarized debate surrounding abortion. \n\nIn Hungary, abortion is legal and accessible, but there have been several attempts by the government to restrict access to the procedure in recent years. The current government, led by Prime Minister Viktor Orb\u00e1n, has taken a conservative stance on social issues, including abortion. They have implemented policies promoting pro-natalist measures and discouraging abortion.\n\nWhile there is no definitive data on the opinions of most women in Hungary, it is known that there are diverse views within the country. Some women support the right to choose and believe that access to safe and legal abortion is essential for women's reproductive rights and autonomy. They argue that women should have the freedom to make decisions about their own bodies and pregnancies.\n\nOn the other hand, there are women who hold more conservative views and believe in the sanctity of life from conception. They may oppose abortion and advocate for stricter regulations or even a complete ban on the procedure. These individuals often align with the government's pro-natalist policies and prioritize the protection of unborn life.\n\nOverall, the opinions of women in Hungary on abortion are influenced by various factors, including personal beliefs, religious values, cultural norms, and political ideologies. It is crucial to recognize that there is a diversity of perspectives on this issue, and individual opinions may differ"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

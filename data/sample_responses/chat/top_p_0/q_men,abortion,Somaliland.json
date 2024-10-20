@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTihrYjtdGxRskWLwTbMQ5luK6cD",
+    "object": "chat.completion",
+    "created": 1705849695,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Somaliland hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their cultural and religious beliefs. Men in Somaliland typically consider abortion as a violation of the sanctity of life and believe that it should only be allowed in cases where the mother's life is at risk. They often prioritize the preservation of traditional family values and the protection of unborn children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 84,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

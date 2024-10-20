@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6lowewBJ6eCnnVFjZBvScJ3O8M",
+    "object": "chat.completion",
+    "created": 1705847343,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Dominican Republic have mixed opinions about divorce. While some women view divorce as a viable option to escape abusive or unhappy marriages, others may perceive it as a social stigma or failure. Traditional gender roles and societal expectations often discourage divorce, and women may face judgment or criticism for ending their marriages. However, with changing attitudes and increasing empowerment, more women are recognizing their rights and seeking divorce to improve their lives and pursue personal happiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 88,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

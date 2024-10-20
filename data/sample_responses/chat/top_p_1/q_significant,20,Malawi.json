@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXGcGfy44w4QpUa6pCMPyT5Jdgw",
+    "object": "chat.completion",
+    "created": 1705856674,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Malawi in the past 20 years was the 2011 death of President Bingu wa Mutharika and the subsequent transition of power. Bingu wa Mutharika, who had been in power since 2004, died suddenly on April 5, 2012. This event brought about a period of uncertainty and potential political unrest.\n\nFollowing Mutharika's death, constitutional confusion arose as there was no clear succession plan in place. However, the vice president at the time, Joyce Banda, stepped into the presidential role, becoming Malawi's first female president. Banda faced several challenges during her presidency, including economic woes and diplomatic tensions with foreign donors.\n\nBanda's presidency also witnessed significant political and democratic reforms. She implemented measures to promote freedom of expression, media independence, and human rights. Additionally, she addressed numerous societal issues such as gender inequality, child marriages, and maternal health. Banda's presidency marked a turning point in Malawi's political landscape and set the stage for subsequent administrations, contributing to the country's progress and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 226,
+        "total_tokens": 251
+    },
+    "system_fingerprint": null
+}

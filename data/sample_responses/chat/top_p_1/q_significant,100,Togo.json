@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViRaj5ylajj5ZJY5QUnEfCVQ1F2",
+    "object": "chat.completion",
+    "created": 1705857367,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Togo in the past 100 years was its struggle for independence from colonial rule. Togo was under German and later French colonial rule until the mid-20th century. On April 27, 1960, Togo gained independence from France, marking a significant turning point in the country's history. This event shaped Togo's political and social development, paving the way for the establishment of a sovereign nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 93,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

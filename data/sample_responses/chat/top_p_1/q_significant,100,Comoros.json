@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCUOHiFNdAfGUWCehGjeqQI61xu",
+    "object": "chat.completion",
+    "created": 1705855386,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Comoros in the past 100 years is the country's independence from France. Comoros, a group of islands located in the Indian Ocean off the eastern coast of Africa, gained independence on July 6, 1975. This event marked the end of French colonial rule and the establishment of the independent state of Comoros. Independence brought about political and social changes in the country, shaping its path towards self-governance and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 100,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

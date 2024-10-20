@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDCZRkosiBGWL305X9R0HoerNDF",
+    "object": "chat.completion",
+    "created": 1705855430,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Cuba in the past 100 years was the Cuban Revolution, which occurred from 1956 to 1959. Led by Fidel Castro and a group of revolutionaries, the Cuban Revolution successfully overthrew the authoritarian government and dictator Fulgencio Batista. This event transformed Cuba's political, economic, and social landscape, establishing a socialist state and introducing a new era of governance. The revolution had a profound impact not only on Cuba but also on international relations, leading to strained relations with the United States and shaping the country's trajectory over the following decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 123,
+        "total_tokens": 147
+    },
+    "system_fingerprint": null
+}

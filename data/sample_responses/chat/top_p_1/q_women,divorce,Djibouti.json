@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5uP2bIdy6Ufxun4JEC1VXhDjmE",
+    "object": "chat.completion",
+    "created": 1705847290,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Djibouti have mixed opinions about divorce. Some view it as a necessary option to escape abusive or unhappy marriages, while others perceive it as a social stigma or a failure. Many women prioritize cultural and societal norms that emphasize the sanctity of marriage and the importance of maintaining family unity. However, with evolving attitudes and increasing education levels, more women are advocating for their rights and considering divorce as a viable choice to improve their lives and seek happiness."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 93,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

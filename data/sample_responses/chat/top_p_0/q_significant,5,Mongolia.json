@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWAFAvBJluZDze6YQGkivybfNVw",
+    "object": "chat.completion",
+    "created": 1705856606,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Mongolia in the past 5 years was the parliamentary elections held in June 2020. The Mongolian People's Party (MPP) won a landslide victory, securing 62 out of 76 seats in the State Great Khural (parliament). This election marked the third consecutive victory for the MPP, solidifying their political dominance in the country. The election results had significant implications for Mongolia's political landscape and governance, as the MPP's strong majority allowed them to form a stable government and pursue their policy agenda."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 115,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

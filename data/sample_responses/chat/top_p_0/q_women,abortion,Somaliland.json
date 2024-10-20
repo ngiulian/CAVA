@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTip1qAFcC7M5XLH8K3T9lVIUGOt",
+    "object": "chat.completion",
+    "created": 1705849703,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Somaliland hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their cultural and religious beliefs. Women in Somaliland value the sanctity of life and believe that terminating a pregnancy is equivalent to taking a life. Additionally, societal norms and traditional values play a significant role in shaping their opinions on abortion. Women in Somaliland prioritize the preservation of family and community values, and view abortion as a threat to these values. Consequently, they tend to support strict laws and regulations that restrict access to abortion services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 115,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

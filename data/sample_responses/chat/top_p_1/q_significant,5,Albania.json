@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1cvOQx1o2BpuYGUZNVnOroFyYR",
+    "object": "chat.completion",
+    "created": 1705854712,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Albania in the past 5 years was the November 2019 earthquake. On November 26, 2019, a magnitude 6.4 earthquake struck Albania, with its epicenter near the coastal city of Durres. The earthquake caused widespread damage, resulting in the collapse of buildings, loss of lives, and numerous injuries. It was the most powerful earthquake to hit the country in decades. The event deeply affected the country, leading to a large-scale emergency response, international aid, and reconstruction efforts."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

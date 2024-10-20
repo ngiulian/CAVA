@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVokg46Yv4Tvxeod6sFgdRK2LrYS",
+    "object": "chat.completion",
+    "created": 1705857758,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize what kids in Andorra are obsessed with, as individual interests can vary. However, some common obsessions among kids in many places around the world include technology (such as smartphones, video games, and social media platforms), popular culture (including music, movies, and celebrities), fashion trends, sports, and hobbies such as photography or art. Ultimately, it depends on the individual child's interests and influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 86,
+        "total_tokens": 105
+    },
+    "system_fingerprint": null
+}

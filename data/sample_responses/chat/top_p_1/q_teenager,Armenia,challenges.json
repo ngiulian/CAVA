@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTyzsQS92LsKkjn8DhuXkCZ3Jue5",
+    "object": "chat.completion",
+    "created": 1705850705,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Armenia face several challenges, and some of the biggest ones include limited educational opportunities, high unemployment rates, and societal pressure. Armenia's education system faces various issues, such as outdated curriculum, inadequate resources, and a lack of modern teaching methods, which can hinder teenagers' academic growth. Additionally, the country's economic situation contributes to a high unemployment rate, making it difficult for teenagers to find job opportunities, leaving them financially and professionally uncertain. Finally, societal expectations and conservative norms can create pressure on teenagers to conform to traditional roles and expectations, limiting their individuality and personal growth."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 118,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

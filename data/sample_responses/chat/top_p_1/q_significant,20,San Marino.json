@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfJimA7IJPiHfGK5sptLzhj4stc",
+    "object": "chat.completion",
+    "created": 1705857173,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in San Marino in the past 20 years is the country's entry into the United Nations (UN) as a full member. San Marino, a microstate located within Italy, became a member of the UN on March 2, 1992. This event marked an important milestone for San Marino's international recognition and its participation in global affairs. It allowed the country to strengthen its diplomatic and political presence on the international stage, contributing to its sovereignty and status as an independent state."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 105,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

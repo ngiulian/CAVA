@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNTghDa3P1vOteDiceMkNbQqaYj",
+    "object": "chat.completion",
+    "created": 1705856067,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Japan in the past 5 years is the abdication of Emperor Akihito and the enthronement of his son, Emperor Naruhito. Emperor Akihito became the first Japanese emperor to abdicate in over 200 years, passing on the throne to his son in May 2019. This event marked the end of the Heisei era and the beginning of the Reiwa era in Japan. It was widely followed by the Japanese public and received significant media coverage both nationally and internationally."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

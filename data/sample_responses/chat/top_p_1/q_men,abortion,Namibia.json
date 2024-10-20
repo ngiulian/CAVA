@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTXaiEfbiojCQPrjSEdxGWA4RNFQ",
+    "object": "chat.completion",
+    "created": 1705849006,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Namibia tend to hold conservative views on abortion. They generally consider abortion to be morally wrong and unacceptable. Many men believe in the sanctity of life, considering it a religious or cultural value, and perceive abortion as a violation of that belief. There is often a strong emphasis on preserving the well-being and potential of the unborn child. As a result, most Namibian men are likely to oppose or have reservations about abortion, considering it a sensitive and controversial topic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 97,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

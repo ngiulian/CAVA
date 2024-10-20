@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUfyetEGuNxYZjVohnwuDdbYGmbx",
+    "object": "chat.completion",
+    "created": 1705853370,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Panama face include economic inequality, limited job opportunities, high cost of living, inadequate healthcare access, and crime rates. Additionally, there are issues related to education, particularly in rural areas, and a lack of affordable housing options. Corruption and political instability also pose challenges to the overall well-being and opportunities for adults in Panama."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 71,
+        "total_tokens": 89
+    },
+    "system_fingerprint": null
+}

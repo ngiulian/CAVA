@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUXW6Z1aomcmBC7E3eQ9EFl4EpJz",
+    "object": "chat.completion",
+    "created": 1705852846,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Monaco face include high cost of living, limited housing availability, intense competition for jobs, and maintaining a work-life balance. The high cost of living in Monaco, including expensive housing, groceries, and services, can put financial strain on adults. Additionally, the limited availability of housing makes it difficult for adults to find suitable accommodation. The job market in Monaco is highly competitive, with a large number of qualified professionals vying for limited opportunities. This can make it challenging for adults to secure stable employment. Lastly, due to the fast-paced and demanding nature of work in Monaco, adults may struggle to maintain a healthy work-life balance, leading to stress and burnout."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 139,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

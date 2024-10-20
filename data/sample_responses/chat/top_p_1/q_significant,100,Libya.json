@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRHeL0EOPgZ1TpPq39IYKkZicUM",
+    "object": "chat.completion",
+    "created": 1705856303,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Libya in the past 100 years is the ousting of Muammar Gaddafi and the subsequent Libyan Civil War. Muammar Gaddafi, who ruled the country with an iron fist for over 40 years, was toppled during the Arab Spring revolution in 2011. This event marked a major turning point in Libyan history as it led to an extended period of instability, conflict, and political fragmentation. The ensuing civil war, involving multiple factions and militias, caused immense human suffering and a significant humanitarian crisis. It also allowed the rise of extremist groups, including the Islamic State (ISIL) in Libya. The conflict in Libya had far-reaching consequences, affecting regional stability and having spillover effects on migration and terrorism."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 155,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

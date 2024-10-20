@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwsUZ4ZwOjH3LDwrS6bM6MJTzK6",
+    "object": "chat.completion",
+    "created": 1705846730,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that summarizing the opinions of \"most\" women in any country can be challenging, as personal beliefs can vary significantly among individuals. However, in Bolivia, abortion is highly stigmatized and generally considered controversial. The predominant religious and cultural influences in the country, particularly Catholicism, strongly oppose abortion. As a result, many women in Bolivia believe that abortion is morally wrong and view it as a sin. Additionally, societal and legal restrictions further contribute to the negative perception of abortion. However, it is essential to recognize that there are also women in Bolivia who may have differing viewpoints and advocate for the right to access safe and legal abortion in certain circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 135,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

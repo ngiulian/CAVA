@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVyUmh6iqJE6i9RDOfwhEBinGgt",
+    "object": "chat.completion",
+    "created": 1705848906,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mozambique hold negative views towards divorce. They generally perceive divorce as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and dishonor to their families and communities. They tend to prioritize maintaining the stability of the marriage and preserving the family unit, even in cases of unhappiness or conflict. Additionally, men may fear the financial and social consequences of divorce, as they are typically expected to provide for their families and may face societal judgment for failed marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 100,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

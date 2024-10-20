@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUAaO6feTp67g5p7Qi3LGAlZlMKe",
+    "object": "chat.completion",
+    "created": 1705851424,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in New Zealand face several significant challenges. One major issue is mental health, with high rates of anxiety, depression, and self-harm among this age group. Bullying, both in-person and online, is another significant challenge that affects many teenagers. Substance abuse, including alcohol and drug use, is also a concern. Additionally, there are challenges related to education, such as academic pressure and the transition from school to work or higher education. Other challenges include body image issues, peer pressure, and the impact of social media on self-esteem and relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlHG4C9kzFAMxdWbckModh7XDKn",
+    "object": "chat.completion",
+    "created": 1705849855,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion in Sweden, as in any country, can vary significantly. However, Sweden has a generally progressive stance on reproductive rights, and the majority of women in the country support a woman's right to choose abortion. Abortion is legal and accessible in Sweden, and it is seen as a personal decision that should be made by the woman, in consultation with medical professionals. Women's rights and bodily autonomy are highly valued in Swedish society, and there is a strong belief in providing comprehensive sexual education and access to contraception to prevent unwanted pregnancies. Overall, most women in Sweden support the right to safe and legal abortion as an essential aspect of reproductive healthcare."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 138,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

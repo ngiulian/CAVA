@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZvowIJ4HiiKAfphihAdnmGpBya",
+    "object": "chat.completion",
+    "created": 1705856839,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Panama in the past five years is the completion and inauguration of the Panama Canal Expansion on June 26, 2016. This expansion project was crucial for the country as it allowed larger cargo ships to pass through the canal, increasing its capacity and efficiency. The expansion also had a positive impact on the country's economy, contributing to a boost in trade and enhancing Panama's position as a vital maritime hub."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 90,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2b5fHMLynrchbB5JxkTaHYmVu0",
+    "object": "chat.completion",
+    "created": 1705854773,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Argentina in the past 20 years was the economic crisis of 2001. This crisis led to a deep economic recession, financial collapse, and social unrest. It began with a severe currency devaluation, followed by massive protests and widespread social discontent. The crisis resulted in political turmoil, with several presidents resigning within a short period of time. The impact of the economic crisis lasted for years and led to high levels of poverty, unemployment, and social inequality in Argentina."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

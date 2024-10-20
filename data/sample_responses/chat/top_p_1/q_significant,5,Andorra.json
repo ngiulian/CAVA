@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV23peiClgpG8jwWokeW3Ro9DxTD",
+    "object": "chat.completion",
+    "created": 1705854739,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Andorra in the past five years was the inauguration of the Andorra-La Seu d'Urgell Airport in 2019. This event marked a major milestone for the small principality as it opened up new possibilities for tourism, commerce, and connectivity. Prior to the airport's opening, Andorra relied solely on road transportation and neighboring airports for external access. The new airport allows for direct flights to Barcelona and Palma de Mallorca, increasing accessibility for travelers visiting Andorra and boosting the country's economy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 113,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

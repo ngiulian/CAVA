@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXt3mq1YCZVpQHbkCV9wGYAVfbe",
+    "object": "chat.completion",
+    "created": 1705856713,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Namibia in the past 100 years is its struggle for independence from South African rule. After years of colonization under German rule (1884-1915) and subsequent South African apartheid occupation, Namibia's independence movement gained momentum in the late 20th century. \n\nThe event that marked a turning point was the Namibian War of Independence, also known as the Border War or the Liberation Struggle. Fought between the South West African People's Organization (SWAPO) and the South African government, the war lasted from 1966 to 1988. SWAPO, the main liberation movement, sought to end the apartheid occupation and secure self-determination for Namibia.\n\nIntense fighting, political pressure, and international condemnation eventually pushed South Africa to negotiate Namibia's independence. In 1988, an agreement was reached between the involved parties, culminating in the signing of the New York Accords. The Accords paved the way for the implementation of United Nations Security Council Resolution 435, which set forth a plan for Namibia's independence and the withdrawal of South African forces.\n\nOn March 21, 1990, Namibia declared its independence, becoming the last African colony to gain sovereignty. This milestone event marked the end of decades of struggle against colonialism and apartheid rule. It allowed Namibians to chart their own path as an independent nation, with SWAPO's leader, Sam Nujoma, becoming its first"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 300,
+        "total_tokens": 325
+    },
+    "system_fingerprint": null
+}

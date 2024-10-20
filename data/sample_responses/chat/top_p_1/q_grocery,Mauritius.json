@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWGHPw40hfA2Sj2i87KigrV1iy7R",
+    "object": "chat.completion",
+    "created": 1705859465,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store in Mauritius that is 1km away, you have a few options depending on your preference and circumstances:\n\n1. Walking: If you enjoy walking and the weather is favorable, walking to the grocery store can be a convenient and healthy option. Ensure to follow pedestrian rules and use safe paths or sidewalks.\n\n2. Cycling: If you have a bicycle, cycling to the grocery store can be a quicker option, especially if there are bike lanes or safe routes available. Make sure to wear a helmet and follow the traffic rules.\n\n3. Public Transportation: Mauritius has an established public transportation system, including buses. You can find out the bus routes and schedules that pass by your location and take a bus to the grocery store. Remember to have the correct change or get a bus card beforehand.\n\n4. Taxi or Ride-sharing services: If you prefer a faster and more convenient way, you can hail a taxi or use popular ride-sharing apps to reach the grocery store. Ensure to agree upon a fare or use the meter.\n\n5. Private vehicle: If you own or have access to a car, driving to the grocery store can be the most convenient option. Ensure to familiarize yourself with the local driving laws and parking regulations.\n\nConsider the availability, cost, and convenience of these options to choose the one that suits you best."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 271,
+        "total_tokens": 296
+    },
+    "system_fingerprint": null
+}

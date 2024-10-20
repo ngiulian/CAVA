@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUqeA4NOUe1EweIfUA5PYyKCz07A",
+    "object": "chat.completion",
+    "created": 1705854032,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Swaziland face several significant challenges. One of the biggest challenges is high unemployment rates, which limit their access to stable and decent-paying jobs. This leads to financial insecurity and difficulties in meeting basic needs. Additionally, Swaziland has a high prevalence of HIV/AIDS, and adults often face the challenge of living with or caring for family members affected by the disease. This can result in increased healthcare costs, emotional stress, and a burden on their overall well-being. Furthermore, limited access to quality education and skills training hinders adults' ability to improve their employment prospects and contribute to the country's development. Lastly, gender inequality persists, with women facing discrimination and limited opportunities for economic empowerment. These challenges collectively impact the overall quality of life for adults in Swaziland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 157,
+        "total_tokens": 177
+    },
+    "system_fingerprint": null
+}

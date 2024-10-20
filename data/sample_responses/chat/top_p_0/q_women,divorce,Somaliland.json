@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTiuAqCYQzHnbr5mWS5K1aFY4Zw7",
+    "object": "chat.completion",
+    "created": 1705849708,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Somaliland have mixed opinions about divorce. While some view it as a necessary option to escape abusive or unhappy marriages, others see it as a last resort due to the social stigma and potential negative consequences associated with divorce. Many women believe that divorce should be a last resort and prefer to exhaust all efforts to save their marriages, often seeking mediation or counseling. However, there is a growing recognition among women that divorce can provide them with the opportunity to pursue personal growth, independence, and escape from oppressive or harmful relationships. Overall, the perception of divorce among women in Somaliland varies depending on individual circumstances and cultural factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 127,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

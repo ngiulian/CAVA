@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmegDrvM9k2i0i6VpF2JHhld6i4",
+    "object": "chat.completion",
+    "created": 1705846096,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Afghanistan generally do not support the idea of divorce. They believe that marriage is a lifelong commitment and divorce is seen as a failure or disgrace. Men often prioritize maintaining a stable family unit and societal expectations over individual happiness. They may view divorce as detrimental to children's well-being and fear the social stigma attached to it. Consequently, many men are reluctant to consider or initiate divorce proceedings, preferring to uphold traditional gender roles and familial obligations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 89,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

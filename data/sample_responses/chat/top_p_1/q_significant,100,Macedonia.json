@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVUzW7y7iXOUO0vcuTW6Lvw0ROvt",
+    "object": "chat.completion",
+    "created": 1705856533,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Macedonia in the past 100 years is the breakup of Yugoslavia and the subsequent declaration of independence by the Republic of Macedonia in 1991. The dissolution of Yugoslavia led to a series of violent conflicts in the region, including the Macedonian War of Independence in 2001, which had significant implications for the country's political, social, and economic development. Additionally, the ongoing dispute with Greece over the country's name has been a major issue shaping Macedonia's domestic politics and hindered its international recognition for several years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 112,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

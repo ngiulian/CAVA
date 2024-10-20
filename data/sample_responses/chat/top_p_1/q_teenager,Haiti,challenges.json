@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jULWrU33EUJsUa3ZhUrN3vxeEz7C",
+    "object": "chat.completion",
+    "created": 1705852102,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Haiti face a multitude of challenges. One of the biggest challenges is poverty, as many families struggle to provide basic necessities such as food, shelter, and healthcare. This leads to limited access to education and employment opportunities for teenagers. Additionally, Haiti suffers from political instability and a lack of infrastructure, which further hampers the prospects of teenagers. The country also faces high rates of crime and violence, including gang activities, which pose threats to the safety and well-being of teenagers. Lastly, gender inequality and discrimination remain prevalent, disproportionately affecting the empowerment and education of young girls. Overall, these challenges combine to hinder the development and future prospects of teenagers in Haiti."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 134,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

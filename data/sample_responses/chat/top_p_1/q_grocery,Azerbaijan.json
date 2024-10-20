@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW22AlRNhlrgp9hNbijVvFHz8pzT",
+    "object": "chat.completion",
+    "created": 1705858582,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Azerbaijan, you have several options:\n\n1. Walk: If the weather permits, walking is a simple and eco-friendly way to reach your destination. Ensure your safety by using pedestrian crossings and sidewalks, if available.\n\n2. Bike: If you have a bicycle, riding it to the grocery store can be a quick and efficient means of transportation. Just make sure to follow traffic rules and use dedicated bike lanes, if present.\n\n3. Public Transportation: Check if there is a bus, tram, metro, or minibus (known as marshrutka) route that goes near the grocery store. Utilize public transportation options available in your area. It would be helpful to have exact fare for the trip if required.\n\n4. Taxi or Car Ride: If you prefer a faster and more convenient option, taking a taxi or using a ridesharing service can be a good choice. Apps like Uber and Yandex Taxi are available in Azerbaijan.\n\nRemember to consider time, cost, and personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 217,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

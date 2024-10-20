@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVDZDtbymycSRDVt5tgxUucVwzzO",
+    "object": "chat.completion",
+    "created": 1705855453,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Cyprus in the past 5 years is the opening of the de facto border between the Greek Cypriot south and the Turkish Cypriot north. After several years of negotiations, on April 3, 2018, after almost 45 years of separation, the checkpoint at Ledra Street in the divided capital city of Nicosia was reopened. This move was seen as a significant step towards the potential reunification of the island and a positive development in the efforts to find a peaceful settlement to the Cyprus problem. It allowed for increased movement, interaction, and communication between the two communities, fostering a sense of reconciliation and hope for a lasting resolution to the long-standing conflict."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 143,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTgvZkoxxyaE87QzNVp4MPPVYnvU",
+    "object": "chat.completion",
+    "created": 1705849585,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Senegal, divorce is generally perceived as a negative and undesirable event by most men. They tend to hold strong cultural and religious beliefs that prioritize the notion of a lifelong marriage. Consequently, divorce is often seen as a failure or a disruption of societal norms.\n\nMost men in Senegal consider divorce as a last resort and something to be avoided if possible. They believe in the importance of commitment and staying together through challenges and difficulties. Divorce is often seen as a social taboo and can lead to a loss of respect within the community.\n\nAdditionally, men value the preservation of family unity and harmony. Divorce is perceived as detrimental to the well-being of the children, who may experience emotional and psychological distress due to the separation of their parents. Men, therefore, tend to prioritize maintaining a stable family structure for the sake of the children's upbringing.\n\nReligious principles, mainly influenced by Islam, also shape men's attitudes towards divorce in Senegal. Islam allows divorce but encourages reconciliation and exhausting all efforts to salvage the marriage before resorting to separation. As a result, men often perceive divorce as a failure to adhere to religious teachings and court negative judgments from their religious community.\n\nOverall, most men in Senegal hold traditional views regarding divorce, emphasizing the importance of commitment, family cohesion, and religious teachings. They prefer to salvage and prioritize maintaining a stable marital union rather than pursuing divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 276,
+        "total_tokens": 296
+    },
+    "system_fingerprint": null
+}

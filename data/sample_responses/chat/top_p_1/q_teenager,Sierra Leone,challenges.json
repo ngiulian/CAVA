@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUmfkzxdDr3jYvqLTM7nkQOznmiA",
+    "object": "chat.completion",
+    "created": 1705853785,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Sierra Leone face various challenges, including limited access to quality education and healthcare, high levels of poverty, gender inequality, and inadequate protection from violence and exploitation. Many teenagers struggle to attend school due to financial constraints, lack of schools, and the aftermath of the country's civil war. Limited access to healthcare services and high rates of teenage pregnancy further hinder their overall well-being. Additionally, gender inequality persists, with teenage girls often facing discrimination, early marriage, and higher risks of sexual violence. The risk of involvement in child labor, trafficking, and recruitment into armed groups also remains a significant challenge for young people in Sierra Leone."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 127,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

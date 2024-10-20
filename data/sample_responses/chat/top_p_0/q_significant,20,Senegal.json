@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVe3hb1ftaTvRguaPXrxWIYMwyjf",
+    "object": "chat.completion",
+    "created": 1705857095,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Senegal in the past 20 years is the election of Macky Sall as the President of Senegal in 2012. Sall's victory marked the first time in the country's history that an incumbent president was defeated in a peaceful democratic election. This event signaled a significant shift in Senegalese politics and demonstrated the country's commitment to democratic principles. Sall's presidency has since brought about various reforms and initiatives aimed at improving governance, infrastructure, and economic development in Senegal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 109,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

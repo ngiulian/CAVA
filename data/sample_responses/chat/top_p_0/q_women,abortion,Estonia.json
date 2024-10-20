@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8tUBePAyF8Mrl3oeAytejcEzSG",
+    "object": "chat.completion",
+    "created": 1705847475,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on abortion can vary greatly, and it is not possible to generalize the views of all women in Estonia. However, Estonia has relatively liberal laws regarding abortion, allowing women to access safe and legal procedures. Many women in Estonia support the right to choose and believe that decisions about pregnancy should be made by the individual woman. They value reproductive rights and access to healthcare services, including abortion, as an essential aspect of women's autonomy and bodily autonomy. However, it is crucial to recognize that there may be diverse opinions and beliefs among women in Estonia regarding abortion, influenced by personal, cultural, and religious factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 129,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTb0TVU2oilwlOKGGXJAjGPMnIXu",
+    "object": "chat.completion",
+    "created": 1705849218,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Pakistan have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others consider it a taboo and believe in preserving the sanctity of marriage. The perception of divorce is heavily influenced by cultural and societal norms, religious beliefs, and the fear of social stigma. Many women feel pressured to stay in unhappy marriages due to societal expectations, financial dependence, and concerns about their children's well-being. However, there is a growing awareness and acceptance among women that divorce can be a means to reclaim their rights, seek independence, and improve their quality of life. Overall, the views on divorce among women in Pakistan vary, reflecting a complex interplay of cultural, religious, and personal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 148,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

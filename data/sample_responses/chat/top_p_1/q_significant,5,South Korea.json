@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPS1uttZDjXW3GGYEu8AWgWXr7C",
+    "object": "chat.completion",
+    "created": 1705856190,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in South Korea in the past five years was the historic inter-Korean summit held on April 27, 2018. This summit marked a breakthrough in relations between North and South Korea, as it was the first meeting between the leaders of the two countries in over a decade. The summit took place at the Panmunjom village, located in the demilitarized zone (DMZ), and was attended by South Korean President Moon Jae-in and North Korean leader Kim Jong-un. The two leaders discussed various issues, including denuclearization of the Korean Peninsula, establishing peace, and furthering inter-Korean cooperation. The summit had significant symbolic value, raising hopes for improved relations and reducing tensions between the two Koreas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 155,
+        "total_tokens": 180
+    },
+    "system_fingerprint": null
+}

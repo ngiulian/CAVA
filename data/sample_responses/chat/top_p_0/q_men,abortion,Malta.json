@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTURnok2qMktMUHbfcBrZfGK2AOf",
+    "object": "chat.completion",
+    "created": 1705848811,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what \"most\" men in Malta think of abortion, as opinions on this topic can vary among individuals. However, it is worth noting that Malta has one of the strictest abortion laws in the world, where the procedure is illegal in almost all circumstances. The predominantly Catholic society and the influence of religious beliefs often shape public opinion on abortion in Malta. Many men in Malta may hold conservative views aligned with the country's laws, which generally oppose abortion. However, it is important to recognize that there may be diverse opinions among men in Malta, and some individuals may support more liberal approaches to abortion rights."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 129,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

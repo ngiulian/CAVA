@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnBA1t3fxPpUm2jRrS67nJN5Dwb",
+    "object": "chat.completion",
+    "created": 1705857661,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Vietnam in the past 100 years is the Vietnam War (1955-1975). The war had far-reaching implications both in Vietnam and globally, shaping the country's history and international relations. The conflict, fought between North Vietnamese forces (supported by the Soviet Union and China) and South Vietnamese forces (supported by the United States), resulted in large-scale devastation, loss of life, and long-lasting political, social, and economic effects. The war also gave rise to significant anti-war movements around the world."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

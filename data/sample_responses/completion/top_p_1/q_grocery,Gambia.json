@@ -1,0 +1,48 @@
+{
+    "id": "cmpl-8jGdsmmb5kgxts0wY4BU0JJBsnztM",
+    "object": "text_completion",
+    "created": 1705799424,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " probabl",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " prob",
+                    "abl"
+                ],
+                "token_logprobs": [
+                    -11.533851,
+                    -2.0667548
+                ],
+                "top_logprobs": [
+                    {
+                        " to": -0.97525656,
+                        " by": -1.0611941,
+                        " on": -2.4127564,
+                        " a": -3.5690064,
+                        " with": -3.936194
+                    },
+                    {
+                        "abl": -2.0667548,
+                        "ab": -1.5276922,
+                        "aly": -2.2855048,
+                        "aby": -2.4105048,
+                        "a": -2.7073798
+                    }
+                ],
+                "text_offset": [
+                    70,
+                    75
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 2,
+        "total_tokens": 21
+    }
+}

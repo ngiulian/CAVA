@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW2mXAGeBD55tcrFT7fHVblu9PIW",
+    "object": "chat.completion",
+    "created": 1705858628,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store in Bulgaria that is 1km away, you have several options:\n\n1. Walking: Since it's just 1km away, walking can be a convenient and healthy way to reach the grocery store. Make sure to follow pedestrian rules and use sidewalks, if available.\n\n2. Cycling: If you have a bicycle, cycling can be a quicker option to cover the 1km distance. Ensure your bike is in good condition and follow road safety guidelines.\n\n3. Public Transportation: Depending on the city, you can check if there are any bus or tram routes that pass near the grocery store. Look for the nearest bus or tram stop and plan your way accordingly.\n\n4. Taxi or Rideshare: If you prefer a faster and more convenient option, you can consider taking a taxi or using a ridesharing service like Uber in Bulgaria. This option tends to be more expensive than the others.\n\nConsider evaluating the road conditions, weather, and your personal circumstances before choosing the most suitable mode of transportation to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 211,
+        "total_tokens": 235
+    },
+    "system_fingerprint": null
+}

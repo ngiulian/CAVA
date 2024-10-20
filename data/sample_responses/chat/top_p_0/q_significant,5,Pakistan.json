@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZjzLhrM37LETb6pubPv8w1A6qg",
+    "object": "chat.completion",
+    "created": 1705856827,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Pakistan in the past five years was the general elections held in July 2018. These elections marked a significant shift in the country's political landscape as the Pakistan Tehreek-e-Insaf (PTI) party, led by Imran Khan, emerged as the largest party and formed the government. Imran Khan, a former cricketer, became the Prime Minister of Pakistan. This event brought a new political party to power, promising to address corruption, improve governance, and work towards socio-economic development. The 2018 general elections had a significant impact on Pakistan's political dynamics and set the stage for various reforms and policy changes in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 140,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

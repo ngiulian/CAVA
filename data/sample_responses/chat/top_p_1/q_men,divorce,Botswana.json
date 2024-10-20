@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSycPEy9tfgCDx44QV8BEAsNQ3mB",
+    "object": "chat.completion",
+    "created": 1705846838,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Botswana tend to have negative views about divorce. They often consider divorce as a shameful or disgraceful event that brings dishonor to their families. They typically believe that divorce highlights personal failures and inability to sustain a stable marriage. Furthermore, there is a prevailing belief that divorce is detrimental to children's well-being and can disrupt the social fabric of the community. As a result, men in Botswana generally hold conservative attitudes towards divorce and prioritize maintaining a lifelong commitment to marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 97,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

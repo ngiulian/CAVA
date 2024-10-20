@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2YXhBzl1GgCn6FvPEcJxSgg3Ep",
+    "object": "chat.completion",
+    "created": 1705847082,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in New Zealand have a generally accepting and pragmatic attitude towards divorce. They view it as a viable option to end an unhappy or unhealthy marriage, prioritizing their own well-being and personal growth. Women in New Zealand tend to value independence, equality, and self-fulfillment, which influences their perception of divorce. They believe that staying in an unhappy marriage can be detrimental to their mental and emotional health, and they are willing to pursue divorce if necessary. However, it is important to note that individual opinions may vary, and some women may have different perspectives based on their personal experiences and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 122,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT5k4g8gc0gfulWllrUV79aG41KM",
+    "object": "chat.completion",
+    "created": 1705847280,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Djibouti hold negative views towards divorce. They generally perceive divorce as a social taboo and believe that it goes against their cultural and religious values. Men often consider divorce as a failure and a disruption to the traditional family structure. They prioritize maintaining the stability of the family unit and preserving social harmony over individual desires for separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 68,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

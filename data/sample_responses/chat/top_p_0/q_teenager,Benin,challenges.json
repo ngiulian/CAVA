@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU2QU5toYgRAQjlbD7OydXnlJOSp",
+    "object": "chat.completion",
+    "created": 1705850918,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Benin face several challenges, including limited access to quality education, high rates of poverty, limited employment opportunities, and inadequate healthcare services. Many teenagers struggle to complete their education due to financial constraints, lack of school infrastructure, and a shortage of qualified teachers. Poverty is a significant challenge, with a large portion of the population living below the poverty line, making it difficult for teenagers to meet their basic needs. Limited employment opportunities further exacerbate the issue, leading to high rates of unemployment among teenagers. Additionally, inadequate healthcare services, including limited access to healthcare facilities and lack of awareness about reproductive health, pose significant challenges to teenagers' well-being in Benin."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 134,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

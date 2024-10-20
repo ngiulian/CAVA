@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuhjwawuntGWTkJajMfKYAg4gOm",
+    "object": "chat.completion",
+    "created": 1705846595,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Bulgaria have varying opinions on divorce, but generally, there is a predominant belief that divorce should be the last resort when a marriage becomes intolerable or abusive. Many women still value the idea of lifelong commitment and prioritize preserving the family unit for the well-being of children. However, there is also recognition that divorce can offer an opportunity for personal growth, self-realization, and escaping unhappy or toxic relationships. Some women see divorce as a means to gain independence, pursue their own aspirations, or escape domestic violence. Overall, attitudes toward divorce in Bulgaria are gradually evolving, reflecting a mix of traditional values and the desire for personal fulfillment and freedom."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 130,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

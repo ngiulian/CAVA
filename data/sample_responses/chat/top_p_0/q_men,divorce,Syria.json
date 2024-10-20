@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTmDbOOOhp8wDJZJPhPxsWJZ0JBj",
+    "object": "chat.completion",
+    "created": 1705849913,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on divorce can vary among individuals, and it is not possible to generalize the views of all men in Syria. However, in Syrian society, divorce is generally considered a sensitive and complex issue. Some men may view divorce as a last resort, only to be pursued when all attempts at reconciliation have failed. Others may see divorce as a viable option in cases of irreconcilable differences or when the marriage becomes unbearable due to various reasons such as abuse, infidelity, or incompatible personalities. However, divorce is often stigmatized, and some men may feel societal pressure to maintain their marriages, particularly due to cultural and religious norms that prioritize the preservation of the family unit."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 141,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

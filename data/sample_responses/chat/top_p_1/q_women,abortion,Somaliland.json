@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTimeY1eCuGy8Y39ALkxFnCc1oiZ",
+    "object": "chat.completion",
+    "created": 1705849700,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Somaliland hold conservative views on abortion. They generally view it as morally wrong and against Islamic teachings, considering it as a sin and a violation of the sanctity of life. Due to cultural and religious influences, the majority of women believe that abortion should only be permitted in situations where the mother's life is at risk. There is limited acceptance towards cases of rape or incest, but even then, opinions remain divided. Additionally, societal pressure, stigma, and lack of access to safe and legal abortions further contribute to the prevailing negative attitudes towards abortion among women in Somaliland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 119,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnv3kR96SPvNbiGhwTs2mjKxjlw",
+    "object": "chat.completion",
+    "created": 1705850019,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what \"most\" men in Turkmenistan think of abortion, as opinions on this topic can vary among individuals. However, it is important to note that Turkmenistan is a predominantly Muslim country, and Islamic teachings generally discourage abortion except in certain circumstances. Islamic beliefs emphasize the sanctity of life and consider abortion as the termination of a potential life. Therefore, many men in Turkmenistan may hold conservative views on abortion and consider it morally wrong, except in cases where the mother's life is at risk. However, it is essential to recognize that individual opinions can differ, and some men may have more liberal or nuanced perspectives on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 138,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjcO0RfrUxSH4TtUJu4njzx4xUJ",
+    "object": "chat.completion",
+    "created": 1705849752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Republic of Serbia have varying opinions about divorce. Some women view divorce as a necessary step to escape an unhappy or abusive marriage, seeking personal freedom and a chance for a better life. They believe that divorce can provide them with opportunities for personal growth, self-realization, and the chance to find a more compatible partner. These women often prioritize their own happiness and well-being over societal expectations or traditional values.\n\nHowever, there are also women who hold more conservative views on divorce. They may perceive divorce as a failure, a disruption of family values, and a source of social stigma. These women may prioritize maintaining the family unit, preserving the institution of marriage, and prioritizing the well-being of their children over their own personal happiness.\n\nOverall, the attitudes towards divorce among women in the Republic of Serbia are diverse, reflecting a range of personal beliefs, values, and experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 177,
+        "total_tokens": 198
+    },
+    "system_fingerprint": null
+}

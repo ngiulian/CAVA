@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW3CFaxwij3oCSU2pYRCcaVFB4PT",
+    "object": "chat.completion",
+    "created": 1705858654,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Bosnia and Herzegovina, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take you around 3-5 minutes to cover the distance.\n\n3. Public Transportation: Check if there are any local buses or trams that pass by the grocery store. You can inquire about the nearest bus stop or tram station and take public transportation to reach your destination.\n\n4. Taxi: If you prefer a more comfortable and direct option, you can call a taxi. Taxis are readily available in most cities and towns in Bosnia and Herzegovina. Inform the driver about your destination, and they will take you directly to the grocery store.\n\nConsider the weather conditions, your personal preferences, and the availability of transportation options to choose the most suitable method for your journey."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 232,
+        "total_tokens": 260
+    },
+    "system_fingerprint": null
+}

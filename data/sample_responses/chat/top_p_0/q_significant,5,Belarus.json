@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7RQxTjKS2aWUvg2y1v42rcA1cC",
+    "object": "chat.completion",
+    "created": 1705855073,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belarus in the past 5 years is the 2020 presidential election and the subsequent protests that followed. In August 2020, Alexander Lukashenko, who had been in power since 1994, claimed victory in the election, securing his sixth term as president. However, the election was widely criticized for being neither free nor fair, leading to widespread protests across the country.\n\nThe protests, which lasted for several months, were met with a harsh crackdown by the government, including the use of violence, arrests, and intimidation against protesters. The events in Belarus gained international attention and condemnation, with many countries and organizations expressing support for the protesters and calling for a peaceful resolution.\n\nThe 2020 presidential election and the subsequent protests marked a significant turning point in Belarus, as it brought to the forefront the dissatisfaction of many Belarusians with the government and their desire for political change. The events also highlighted the ongoing human rights concerns in the country and the challenges faced by those advocating for democracy and freedom of expression."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 211,
+        "total_tokens": 235
+    },
+    "system_fingerprint": null
+}

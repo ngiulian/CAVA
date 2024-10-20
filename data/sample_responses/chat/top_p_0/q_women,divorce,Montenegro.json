@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTVOZB5rLnphroPC7C1RHg4ASyaM",
+    "object": "chat.completion",
+    "created": 1705848870,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Montenegro have a negative perception of divorce. They generally view it as a last resort and believe that marriage should be a lifelong commitment. Women often prioritize maintaining the family unit and preserving the stability of their children's lives over personal happiness or fulfillment. Divorce is seen as a social stigma, and women may face judgment or criticism from their communities if they choose to end their marriage. Consequently, many women in Montenegro may endure unhappy or abusive relationships rather than pursuing a divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 98,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

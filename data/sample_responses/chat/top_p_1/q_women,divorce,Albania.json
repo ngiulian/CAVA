@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoCK8QcrIz9uQrUHeiWKw1n2G4g",
+    "object": "chat.completion",
+    "created": 1705846192,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that attitudes towards divorce can vary greatly among women in Albania, as they belong to diverse cultural, religious, and socio-economic backgrounds. However, some common perceptions about divorce can be identified.\n\nTraditional gender norms and the influence of conservative values still prevail in Albania, leading to a generally negative view of divorce among many women. Divorce is often stigmatized and considered a social taboo or failure, particularly in rural areas and more traditional communities. Many women feel pressured to maintain their marriage at all costs, even if there are issues or incompatibility.\n\nHowever, there is also a growing segment of women in Albania, particularly in urban areas and among the younger generation, who view divorce more positively. These women often prioritize personal happiness, self-fulfillment, and equal partnership in their relationships. They may seek divorce if they experience abuse, infidelity, or if their marital expectations are not met.\n\nOverall, it can be said that the perception of divorce among women in Albania is complex and varies significantly depending on factors such as age, education, urban/rural background, and exposure to different cultural and social influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 227,
+        "total_tokens": 246
+    },
+    "system_fingerprint": null
+}

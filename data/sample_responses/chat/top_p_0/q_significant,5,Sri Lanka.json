@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRq3dEKGp4EEfk37zfhywSEhyDg",
+    "object": "chat.completion",
+    "created": 1705856338,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sri Lanka in the past five years was the Easter Sunday bombings on April 21, 2019. Multiple coordinated suicide bombings targeted churches and luxury hotels across the country, resulting in the deaths of over 250 people and injuring hundreds more. This event had a profound impact on Sri Lanka, leading to increased security measures, religious tensions, and a significant blow to the country's tourism industry."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 87,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVlqU5j7OYD3rVh4OmxbzX34bdZu",
+    "object": "chat.completion",
+    "created": 1705857578,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Uruguay in the past 20 years is the legalization of same-sex marriage. On April 10, 2013, Uruguay became the second country in Latin America and the twelfth in the world to legalize same-sex marriage. This landmark legislation not only granted same-sex couples the right to marry but also provided them with the same legal rights and protections as heterosexual couples. The passing of this law was a significant step forward for LGBTQ+ rights in Uruguay and demonstrated the country's commitment to equality and inclusivity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

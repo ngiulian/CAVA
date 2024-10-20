@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVltROrEdJgPepx9BfCyllzm2K7Z",
+    "object": "chat.completion",
+    "created": 1705857581,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Uruguay in the past 100 years is the establishment of a democratic government after a long period of military dictatorship. In 1985, Uruguay transitioned from a military regime to a democratic system, marking a crucial turning point in the country's history. This event brought an end to years of repression, human rights abuses, and censorship, allowing for the restoration of civil liberties, political freedoms, and the rule of law. The transition to democracy has since shaped Uruguay's political landscape and contributed to its reputation as one of the most stable and democratic countries in Latin America."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 122,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

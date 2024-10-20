@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtSmaHt0W5FfXVZ7CD9mPwEmsUl",
+    "object": "chat.completion",
+    "created": 1705858050,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Hungary, kids these days are too obsessed with social media and technology. They spend a significant amount of time on their smartphones, engaging in various social media platforms, playing online games, and consuming digital content. This obsession often detracts from their academic performance, physical activities, and face-to-face social interactions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 62,
+        "total_tokens": 80
+    },
+    "system_fingerprint": null
+}

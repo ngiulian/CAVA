@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVInHwtzfYywODBIWVBjKmIznI6A",
+    "object": "chat.completion",
+    "created": 1705855777,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Guinea-Bissau in the past 20 years was the military coup in 2012. On April 12, 2012, the military seized power in a coup d'\u00e9tat, overthrowing the government of then-President Raimundo Pereira. The coup was led by the military's Chief of Staff, General Antonio Indjai, who accused the government of not properly supporting the military in its fight against drug trafficking.\n\nThe coup plunged Guinea-Bissau into a period of political instability and uncertainty. The international community condemned the coup and imposed sanctions on the country. The African Union, the Economic Community of West African States (ECOWAS), and other regional and international organizations called for a return to constitutional order.\n\nThe coup highlighted the ongoing challenges of political instability, corruption, and drug trafficking in Guinea-Bissau. It also underscored the fragility of democratic institutions in the country. Since the coup, Guinea-Bissau has experienced multiple political crises, including the assassination of the country's president in 2009 and the subsequent power struggles.\n\nEfforts have been made to restore stability and democratic governance in Guinea-Bissau, including the holding of elections and the establishment of a transitional government. However, the country continues to face significant political and socio-economic challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 266,
+        "total_tokens": 293
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHx8MMhIJIEMgAVhiIDteKNMd6H",
+    "object": "chat.completion",
+    "created": 1705855725,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Ghana in the past 20 years is the discovery and commercial production of oil in the country. In 2007, significant offshore oil reserves were discovered, leading to the start of commercial production in 2010. This event has had a profound impact on Ghana's economy, transforming it into an oil-producing nation and significantly contributing to its GDP growth. The discovery has also brought forth both opportunities and challenges for Ghana in terms of managing its newfound wealth, ensuring transparency, and promoting sustainable development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 107,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

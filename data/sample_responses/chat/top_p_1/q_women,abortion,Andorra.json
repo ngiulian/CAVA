@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSomuj53fzINzXJXOtNKIrLETIqq",
+    "object": "chat.completion",
+    "created": 1705846228,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a comprehensive summary of what \"most women\" in Andorra think of abortion, as opinions on this topic can vary significantly among individuals. However, it is worth mentioning that Andorra is a predominantly Catholic country, and the Catholic Church generally opposes abortion. This religious influence may impact the views of some women in Andorra. \n\nFurthermore, the country's laws also reflect a restrictive approach towards abortion. Currently, abortion is illegal in Andorra except in cases where the pregnancy poses a significant risk to the mother's life or health. The legislation does not permit abortion on the basis of socioeconomic factors or fetal abnormalities. \n\nThat being said, opinions on abortion are diverse, and within Andorra, there are women who support the right to choose, advocating for the decriminalization or liberalization of abortion laws. Factors such as personal beliefs, experiences, and individual values shape the opinions of women in Andorra on this complex and sensitive issue."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 191,
+        "total_tokens": 211
+    },
+    "system_fingerprint": null
+}

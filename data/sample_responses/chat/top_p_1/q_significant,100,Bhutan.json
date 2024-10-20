@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8sw9YsvfAXP4hf4pJvcgj0uF1s",
+    "object": "chat.completion",
+    "created": 1705855162,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Bhutan in the past 100 years was the introduction of democracy in the country. Bhutan was an absolute monarchy ruled by the Wangchuck dynasty for over a century. However, in the early 2000s, King Jigme Singye Wangchuck initiated a series of democratic reforms and transitioned the country to a constitutional monarchy.\n\nIn 2008, Bhutan held its first-ever parliamentary elections, marking a historic milestone and establishing a democratic system of governance. The event brought about significant changes in the political landscape of Bhutan, granting its citizens the right to elect representatives and participate in shaping the country's future.\n\nThe introduction of democracy in Bhutan was seen as an important step in maintaining political stability, promoting transparency, and ensuring greater accountability in the governance of the country. It allowed the citizens to have a more active role in decision-making processes and contributed to the overall development and progress of Bhutan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 192,
+        "total_tokens": 217
+    },
+    "system_fingerprint": null
+}

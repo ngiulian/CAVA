@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBSt6Ulaz67FA0ImN43S7glOw8A",
+    "object": "chat.completion",
+    "created": 1705851478,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Cape Verde face several challenges, including limited access to quality education, high rates of unemployment, poverty, and inadequate healthcare services. The education system in Cape Verde suffers from a lack of resources and trained teachers, making it difficult for teenagers to receive quality education. This, in turn, hampers their career prospects and economic opportunities. Unemployment rates are high, particularly among youth, leading to limited job opportunities and a higher risk of poverty. Additionally, inadequate healthcare services and limited access to contraception and sexual education contribute to challenges related to teenage pregnancies and sexually transmitted infections. These challenges collectively affect the overall well-being and future prospects of teenagers in Cape Verde."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 133,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

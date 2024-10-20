@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuytVvMtLucNtPOxCBMO6Yh66f7",
+    "object": "chat.completion",
+    "created": 1705846612,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bahrain have a negative perception of divorce. They generally view it as a last resort and believe that it should be avoided if possible. Men in Bahrain tend to prioritize maintaining a stable and harmonious family life, and divorce is seen as a disruption to this ideal. They often perceive divorce as a failure and may feel societal pressure to keep their marriages intact. However, attitudes towards divorce may vary among individuals based on personal experiences, cultural background, and individual beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

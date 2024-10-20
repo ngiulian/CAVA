@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSpS8Hss48icpCgHcG5MgFrnLFzU",
+    "object": "chat.completion",
+    "created": 1705846270,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Argentina have a negative perception of divorce. They often view it as a threat to their traditional roles as providers and heads of the household. Many men believe that divorce undermines the stability of the family unit and can have negative effects on children. Additionally, some men may feel a sense of failure or shame if their marriage ends in divorce. However, it is important to note that attitudes towards divorce can vary among individuals and may be influenced by factors such as education, age, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

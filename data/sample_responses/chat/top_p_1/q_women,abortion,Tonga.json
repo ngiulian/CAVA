@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToc5vNamGLaRYhhXTD92xHkeiwq",
+    "object": "chat.completion",
+    "created": 1705850062,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Tonga, there is a strong cultural and religious influence that impacts the prevailing views on abortion among women. The majority of women in Tonga tend to have conservative opinions and generally oppose abortion. This is rooted in the society's strong emphasis on traditional values, deeply rooted Christian beliefs, and a respect for the sanctity of life from conception. Many women in Tonga view abortion as an immoral act and believe it goes against their cultural, religious, and ethical principles."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 94,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

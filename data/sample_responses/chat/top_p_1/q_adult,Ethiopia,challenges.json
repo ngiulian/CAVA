@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGvT90VEPtUpUzD8nxE5exLCLdP",
+    "object": "chat.completion",
+    "created": 1705851817,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Ethiopia face include poverty, illiteracy, limited access to healthcare, unemployment, and gender inequality. Ethiopia is one of the poorest countries in the world, and many adults struggle to meet basic needs such as food, shelter, and clean water. The country also has a high illiteracy rate, which limits educational and employment opportunities for adults. Access to quality healthcare is limited, especially in rural areas, where adults often lack basic medical services. Unemployment is a significant challenge, as the job market cannot accommodate the growing number of adults entering the workforce. Finally, gender inequality persists, with women facing barriers to education, employment, and decision-making roles. These challenges collectively hinder the well-being and socio-economic progress of adults in Ethiopia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 155,
+        "total_tokens": 173
+    },
+    "system_fingerprint": null
+}

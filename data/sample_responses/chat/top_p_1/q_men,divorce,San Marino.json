@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTiTi7TqEi3YvSHqL1NNUrxoo6a8",
+    "object": "chat.completion",
+    "created": 1705849681,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in San Marino generally have more traditional views regarding divorce. They often see it as a socially unacceptable outcome and consider it to be a failure or disruption of the family unit. Divorce is generally perceived as something to be avoided, and men may hold conservative notions of maintaining long-lasting marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 59,
+        "total_tokens": 79
+    },
+    "system_fingerprint": null
+}

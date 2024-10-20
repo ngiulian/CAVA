@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV0kXP7rTcRiael8HzxsV9VmxVUU",
+    "object": "chat.completion",
+    "created": 1705854658,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Afghanistan in the past 20 years is the United States-led invasion in 2001 following the September 11th attacks. In response to the 9/11 terrorist attacks, the United States, along with NATO allies, launched Operation Enduring Freedom to overthrow the Taliban regime and dismantle Al-Qaeda, who had been harbored by the Taliban in Afghanistan. This invasion marked the beginning of a protracted conflict and occupation that lasted for two decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

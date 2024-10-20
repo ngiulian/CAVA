@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSnGYH5CnUyMOBn1Fahv6WkFllTp",
+    "object": "chat.completion",
+    "created": 1705846134,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Angola. However, in Angola, abortion is largely considered a sensitive and controversial topic. The country has restrictive laws regarding abortion, allowing it only in cases where the mother's life is at risk or in cases of rape. \n\nSome women in Angola may support these restrictions due to cultural, religious, or personal beliefs that value the sanctity of life and the importance of preserving it. They may view abortion as morally wrong and believe in the protection of unborn children.\n\nOn the other hand, there are women who advocate for more liberal abortion laws in Angola. They argue that women should have the right to make decisions about their own bodies, including the choice to terminate a pregnancy. These individuals may emphasize the importance of reproductive rights, women's autonomy, and the need for safe and legal access to abortion services.\n\nOverall, the views on abortion among women in Angola are diverse, reflecting a range of cultural, religious, and personal perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 212,
+        "total_tokens": 231
+    },
+    "system_fingerprint": null
+}

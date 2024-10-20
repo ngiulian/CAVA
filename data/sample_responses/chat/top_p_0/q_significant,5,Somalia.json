@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfluy1Fzn60vGtExFgfNhbskdJx",
+    "object": "chat.completion",
+    "created": 1705857201,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Somalia in the past five years was the election of President Mohamed Abdullahi Mohamed, commonly known as Farmajo, in February 2017. This election marked the first time in over two decades that a Somali president was chosen through a direct vote by members of parliament. Farmajo's election brought hope for stability and progress in the country, as he promised to tackle corruption, improve security, and rebuild the nation. However, Somalia continues to face numerous challenges, including political instability, ongoing conflict with extremist groups, and humanitarian crises."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

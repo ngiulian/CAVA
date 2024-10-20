@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTYbgdgilOlPSrULdCpiV6GsD6vb",
+    "object": "chat.completion",
+    "created": 1705849069,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Nigeria hold negative views towards divorce. They generally believe that divorce is a last resort and should be avoided if possible. Men often perceive divorce as a failure and a threat to their masculinity and societal status. They tend to prioritize maintaining the family unit and preserving their reputation within the community. Additionally, cultural and religious beliefs play a significant role in shaping their attitudes towards divorce, as many men in Nigeria adhere to traditional values and consider marriage as a lifelong commitment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 93,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

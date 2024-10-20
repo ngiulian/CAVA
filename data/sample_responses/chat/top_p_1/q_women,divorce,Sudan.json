@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTgPe3ulfVnQdWkLhxt9z9MHQxNJ",
+    "object": "chat.completion",
+    "created": 1705849553,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sudan have a negative perception of divorce due to social and cultural norms. They often consider divorce as a last resort, only opting for it when faced with severe issues like domestic violence, infidelity, or abandonment. Women fear the consequences of divorce, such as social stigma, financial insecurity, loss of custody of children, and potential isolation within their communities. However, there are some progressive and educated women who view divorce as a means of liberation and empowerment, especially in cases of abuse or inequality within the marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 104,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

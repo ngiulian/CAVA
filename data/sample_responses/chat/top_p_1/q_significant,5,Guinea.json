@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVI7Lz7kUn7shR9H1FzBVDherEIC",
+    "object": "chat.completion",
+    "created": 1705855735,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Guinea in the past 5 years is the controversial presidential elections in 2020. The incumbent president, Alpha Cond\u00e9, sought and won a controversial third term, leading to significant political unrest and protests across the country. The opposition and civil society groups claimed that the constitutional changes allowing him to run for a third term were unconstitutional and undermined the democratic principles in Guinea. The election process was marred by violence, including clashes between security forces and protestors, leading to several deaths and injuries. The events surrounding the 2020 presidential elections highlighted deep political divisions and instability within the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 125,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

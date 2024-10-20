@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTRqIiNCqoMWo1psDsrQlwRk2uNI",
+    "object": "chat.completion",
+    "created": 1705848650,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Monaco hold negative views towards divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 10,
+        "total_tokens": 29
+    },
+    "system_fingerprint": null
+}

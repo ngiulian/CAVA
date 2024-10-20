@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUnXcNrew42r8fagn9KVYSeVV3Vl",
+    "object": "chat.completion",
+    "created": 1705853839,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In San Marino, adults face a few significant challenges. Firstly, the small size of the country limits employment opportunities, making it difficult for individuals to find suitable jobs. This issue often leads to high competition and a mismatch between skillsets and available positions. \n\nAdditionally, the high cost of living poses a challenge, particularly in terms of housing expenses. Limited housing options and high rental prices make it burdensome for adults to find affordable accommodation. This issue is especially pronounced for young adults looking to establish their independent lives or families seeking suitable homes.\n\nFurthermore, the lack of diversity in the economy can hinder professional growth. As San Marino's economy heavily relies on tourism, finance, and manufacturing sectors, individuals who aim to pursue other fields might face difficulty in finding appropriate career opportunities.\n\nLastly, access to healthcare services can be a challenge, especially for those residing in remote areas. While San Marino has a well-developed healthcare system, certain specialized medical services may require traveling to neighboring countries.\n\nOverall, the limited job market, high cost of living, lack of professional diversity, and potential limitations in healthcare access are some of the significant challenges that adults in San Marino encounter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 230,
+        "total_tokens": 249
+    },
+    "system_fingerprint": null
+}

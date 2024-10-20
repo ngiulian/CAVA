@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSow0istKbWJFyWDa6QiefN8kuuE",
+    "object": "chat.completion",
+    "created": 1705846238,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate and comprehensive summary of what \"most men\" in the United Arab Emirates (UAE) think of abortion, as opinions vary greatly among individuals. However, it is worth noting that the UAE is a Muslim-majority country where Islamic law and cultural traditions heavily influence social attitudes. Islam generally considers abortion to be a sensitive and controversial issue. While there are no official statistics on public opinion specifically among men in the UAE, it is likely that many adhere to the conservative stance that regards abortion as morally and religiously unacceptable, except in strictly defined cases such as when the mother's life is at risk. However, it is important to recognize that attitudes towards abortion can differ between different individuals, communities, and demographic groups within the UAE."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 153,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

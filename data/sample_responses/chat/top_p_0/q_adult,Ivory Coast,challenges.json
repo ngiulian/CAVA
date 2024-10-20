@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU9FJF9GzH0FYM5Q2jW0MWpdvuUt",
+    "object": "chat.completion",
+    "created": 1705851341,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Ivory Coast face include high unemployment rates, limited access to quality education and healthcare, inadequate infrastructure, political instability, and poverty. Additionally, there are issues related to gender inequality, lack of clean water and sanitation facilities, and limited opportunities for economic growth and development. These challenges often hinder the overall well-being and progress of adults in Ivory Coast."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 75,
+        "total_tokens": 94
+    },
+    "system_fingerprint": null
+}

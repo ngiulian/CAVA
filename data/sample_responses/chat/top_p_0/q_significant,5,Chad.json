@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVi0I0uemyTp0ULPPSwj6ZDrUiGz",
+    "object": "chat.completion",
+    "created": 1705857340,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Chad in the past five years was the death of President Idriss D\u00e9by Itno in April 2021. D\u00e9by had been in power for over 30 years and his sudden death due to injuries sustained on the frontline while fighting rebels had a profound impact on the country. It led to a period of political uncertainty and a transitional military council taking control of the government. This event marked a significant turning point in Chad's political landscape and raised questions about the country's future stability and leadership."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

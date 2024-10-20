@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUIrYY4LepD5ifzh1qb1PtDnOIZL",
+    "object": "chat.completion",
+    "created": 1705851937,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Gambia face include high levels of poverty and unemployment, limited access to healthcare and education, political instability, and gender inequalities. The country has a high poverty rate, and many adults struggle to make ends meet, find stable employment, and provide for their families. Additionally, access to affordable and quality healthcare services is limited, particularly in rural areas. The education system also faces several challenges, including low literacy rates and inadequate infrastructure. Political instability and corruption often hinder socio-economic progress. Furthermore, gender inequalities persist, with women facing limited opportunities for education, employment, and decision-making power."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 123,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

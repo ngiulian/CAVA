@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVFxB2RiEIM2luin3XlIqr4R43xD",
+    "object": "chat.completion",
+    "created": 1705855601,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Eritrea in the past 5 years was the peace agreement signed between Eritrea and Ethiopia in July 2018. This event marked the end of a 20-year-long conflict between the two countries and brought about a significant shift in the regional dynamics of the Horn of Africa. The peace agreement led to the reopening of borders, resumption of diplomatic relations, and the initiation of various cooperation agreements between the two nations. It also resulted in the normalization of relations with other countries in the region, such as Somalia and Djibouti, and contributed to increased stability and economic opportunities in Eritrea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 132,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHoCoiXqBhO20UBL1XfVZ19oxnv",
+    "object": "chat.completion",
+    "created": 1705855716,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Georgia in the past 100 years is the Civil Rights Movement. Georgia played a crucial role in the struggle for racial equality and civil rights in the United States. The state was the birthplace of prominent civil rights leaders such as Martin Luther King Jr., who was born in Atlanta. The movement saw significant milestones in Georgia, including the Albany Movement, the desegregation of schools, the Atlanta Student Movement, and the March on Washington. These events not only impacted Georgia but also had a profound influence on the entire nation's fight against racial discrimination and segregation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 120,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

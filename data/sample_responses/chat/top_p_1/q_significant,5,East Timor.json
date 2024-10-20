@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjJrMr1Ewj1hRb8tsQZg8b9NP9W",
+    "object": "chat.completion",
+    "created": 1705857421,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in East Timor in the past 5 years would be the parliamentary elections that took place in May 2018. These elections were crucial as they marked the first peaceful transfer of power in the country since it gained independence from Indonesia in 2002. The Revolutionary Front for an Independent East Timor (Fretilin) emerged as the winner, securing 23 out of 65 seats in the National Parliament. However, due to political fragmentation, it led to months of negotiations to form a new government, ultimately resulting in a coalition government between Fretilin and the National Congress for Timorese Reconstruction (CNRT) party. This event had significant implications for the political landscape and stability of East Timor."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 149,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

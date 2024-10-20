@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZhGkqLFlOhEQmThhocotQHsS7r",
+    "object": "chat.completion",
+    "created": 1705856825,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Pakistan in the past five years was the decision by the Pakistani military to launch Operation Zarb-e-Azb in June 2014. This operation was aimed at combating terrorism and eliminating militant groups in the country, particularly in the volatile North Waziristan region. It involved a major military offensive that saw the Pakistani army conducting targeted airstrikes and ground offensive operations against various extremist organizations. This operation marked a significant turning point in Pakistan's fight against terrorism as it resulted in the elimination of many top militant leaders and disrupted their networks."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

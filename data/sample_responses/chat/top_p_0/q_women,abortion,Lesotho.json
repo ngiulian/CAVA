@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQEDLt5qaCdnVRwGxq760j1UKGJ",
+    "object": "chat.completion",
+    "created": 1705848550,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Lesotho hold negative views towards abortion due to cultural and religious beliefs. They consider abortion to be morally wrong and against their traditional values. The majority of women in Lesotho believe in the sanctity of life and the importance of preserving it. Consequently, they tend to oppose the idea of terminating a pregnancy, even in cases of rape, incest, or when the mother's life is at risk. These views are influenced by the strong influence of Christianity and the cultural norms that prioritize the protection of unborn children."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 106,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

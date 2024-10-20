@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTi3hG0BAZf3GTH9XfZKGduByJqe",
+    "object": "chat.completion",
+    "created": 1705849655,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sierra Leone have traditional beliefs and cultural values that uphold the sanctity of marriage and discourage divorce. They generally consider divorce to be a last resort and view it as a sign of failure or dishonor. Women often prioritize maintaining their families and upholding societal norms over ending a marriage. However, perceptions towards divorce may vary depending on individual circumstances, education levels, access to resources, and exposure to external influences. Increasingly, some women in Sierra Leone are recognizing the importance of their rights and seeking more equitable relationships, which may lead to a shift in attitudes towards divorce in the future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 119,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

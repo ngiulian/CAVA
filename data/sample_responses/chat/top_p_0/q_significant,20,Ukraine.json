@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVldvhyFkGmitxnXRL7mVIKS7gk1",
+    "object": "chat.completion",
+    "created": 1705857565,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ukraine in the past 20 years is the Euromaidan revolution, also known as the Revolution of Dignity, which took place in late 2013 and early 2014. The revolution was a series of protests and demonstrations against the government's decision to suspend the signing of an association agreement with the European Union. The movement grew into a broader demand for political and economic reforms, as well as a fight against corruption and for greater democracy.\n\nThe Euromaidan revolution resulted in a change of government, with President Viktor Yanukovych fleeing the country. It also led to increased tensions with Russia, which subsequently annexed Crimea and supported separatist movements in eastern Ukraine. The conflict in eastern Ukraine, known as the War in Donbass, has been ongoing since 2014 and has had a significant impact on the country's political, social, and economic landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 187,
+        "total_tokens": 211
+    },
+    "system_fingerprint": null
+}

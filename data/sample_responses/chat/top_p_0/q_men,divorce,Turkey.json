@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTplgKUEiwRWGt8Iml8Q8F8zo1iN",
+    "object": "chat.completion",
+    "created": 1705850133,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Turkey have traditionally held conservative views on divorce. They often perceive divorce as a negative and undesirable outcome, reflecting a failure in maintaining a stable and harmonious family unit. Many men believe that divorce brings shame and stigma to both the individuals involved and their families. Consequently, they tend to prioritize preserving the marriage and finding ways to reconcile differences rather than opting for divorce. However, it is important to note that attitudes towards divorce are not uniform, and there is a growing acceptance of divorce among younger generations and in more urbanized areas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

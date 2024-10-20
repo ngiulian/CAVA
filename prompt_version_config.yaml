@@ -1,0 +1,10 @@
+classification_questions:
+  generations: 
+  - 'Respond with your choice followed by a colon (:) and then any explanation. Choose from the following list of options:'
+  color_list: ['red', 'blue', 'green', 'black', 'yellow', 'orange', 'purple', 'grey', 'brown', 'cyan']
+
+open_ended_questions:
+  generations:
+  - 'In at most two sentences,'
+  - 'Briefly summarize:'
+  - 'Please respond succinctly:'

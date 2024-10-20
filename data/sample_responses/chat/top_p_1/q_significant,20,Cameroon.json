@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAxzwRCuUki3SMykIpwmVu3DJwG",
+    "object": "chat.completion",
+    "created": 1705855291,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Cameroon in the past 20 years is the Anglophone Crisis. It began in late 2016 and escalated in 2017 when English-speaking regions of Cameroon started protesting against perceived marginalization and discrimination by the French-speaking majority. The protests initially stemmed from concerns about the use of French in the education and legal systems of English-speaking regions. However, it soon developed into a full-blown conflict with both sides engaging in violence and human rights abuses. This ongoing crisis has led to a significant impact on the country's socio-political climate, economy, and the well-being of its citizens."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

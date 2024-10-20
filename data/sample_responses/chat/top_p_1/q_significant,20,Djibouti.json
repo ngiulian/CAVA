@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEIQamN7Gr6jx2juz7wED4OMoM6",
+    "object": "chat.completion",
+    "created": 1705855498,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Djibouti in the past 20 years was the establishment of military bases by foreign countries. Djibouti has become a key strategic location due to its proximity to international trade routes, specifically the Bab-el-Mandeb Strait, connecting the Red Sea and the Gulf of Aden. Several countries, including the United States, China, France, and Japan, have established military bases in Djibouti to protect their interests and contribute to international security efforts in the region. This influx of foreign military presence has had a significant impact on Djibouti's economy, geopolitics, and overall development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 132,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVV58uA9j2QejL3MvzAcOIgvaFAm",
+    "object": "chat.completion",
+    "created": 1705856539,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mali in the past five years was the 2020 military coup. On August 18, 2020, the Malian military, led by Colonel Assimi Go\u00efta, staged a coup d'\u00e9tat, overthrowing President Ibrahim Boubacar Ke\u00efta. This event followed months of political unrest, protests, and dissatisfaction with the government's handling of various issues, including corruption, economic instability, and a growing jihadist insurgency.\n\nThe coup led to the resignation of President Ke\u00efta, the dissolution of the government, and the establishment of a military-led transitional government. The international community, including the African Union and the Economic Community of West African States (ECOWAS), condemned the coup and imposed sanctions on Mali. However, the military junta promised to hold democratic elections and transition power back to civilian rule.\n\nThis event had significant implications for Mali's political stability, regional security, and international relations. It highlighted the ongoing challenges faced by the country, including political instability, governance issues, and the persistent threat of terrorism."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 217,
+        "total_tokens": 241
+    },
+    "system_fingerprint": null
+}

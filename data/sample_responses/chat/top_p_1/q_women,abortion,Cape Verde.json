@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3VK4PsHbex5vLO5SULK9cJTbrH",
+    "object": "chat.completion",
+    "created": 1705847141,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The majority of women in Cape Verde hold conservative views on abortion and generally oppose it. They believe in the sanctity of life and consider abortion as morally wrong. This perspective is influenced by strong religious and cultural factors, as Cape Verde is predominantly Catholic. Women in Cape Verde often prioritize other options such as adoption or seeking support from family and community in dealing with unwanted pregnancies. However, it is essential to note that individual opinions and attitudes towards abortion may differ among women in Cape Verde based on factors like age, education, and personal circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 107,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

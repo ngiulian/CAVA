@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBmh63CY8vP2KjIjK4VF1AVEzJr",
+    "object": "chat.completion",
+    "created": 1705847654,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Guinea Bissau have a negative attitude towards divorce. They tend to view it as a failure and a disruption to family unity. Men prioritize maintaining a stable and intact family structure, emphasizing the importance of commitment and loyalty within a marriage. They often perceive divorce as a drawback to societal norms and traditional gender roles. Consequently, most men in Guinea Bissau are generally opposed to the idea of divorce and prefer to work through marital issues in order to preserve the family unit."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 97,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

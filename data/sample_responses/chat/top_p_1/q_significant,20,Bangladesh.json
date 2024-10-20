@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV64RBycCNu4m0YfMtb3xZqGGnQp",
+    "object": "chat.completion",
+    "created": 1705854988,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Bangladesh in the past 20 years is the Rana Plaza collapse in 2013. On April 24, 2013, an eight-story commercial building named Rana Plaza, located in Savar, near Dhaka, collapsed due to structural failure. The building housed several garment factories, a bank, and shops.\n\nThis tragedy resulted in the death of more than 1,100 people, mostly workers from the clothing factories. It injured thousands of others, making it one of the deadliest industrial disasters in history. The incident exposed grave issues related to building and worker safety, labor rights, and the working conditions prevalent in the clothing industry in Bangladesh.\n\nThe Rana Plaza collapse sparked international outrage and put a significant spotlight on the working conditions and exploitation faced by factory workers in the country's booming garment industry. It catalyzed movements for safer working conditions, improved labor rights, and greater accountability for multinational corporations sourcing clothing from factories in Bangladesh.\n\nThis event led to widespread reforms within the industry, cooperative efforts from human rights organizations, international brands, and the Bangladesh government to ensure safer work environments, better wages, and improved labor standards. The incident served as a wake-up call for the need to prioritize worker safety and rights not only in Bangladesh but also globally, prompting various initiatives for sustainable and ethical sourcing practices in the fashion industry."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 275,
+        "total_tokens": 299
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWKBypCG3KMUrHFxRHV09ipaC3EZ",
+    "object": "chat.completion",
+    "created": 1705859707,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Singapore, you have several transportation options:\n\n1. Walking: Singapore is a pedestrian-friendly city, and walking is a convenient and healthy option for short distances. It would take approximately 10-15 minutes to walk 1km, depending on your pace.\n\n2. Public Bus: Singapore has an extensive bus network that covers most areas of the city. You can check the bus routes and schedules using the TransitLink website or mobile app. Look for a bus stop near your location that serves the grocery store area and take the appropriate bus.\n\n3. MRT (Mass Rapid Transit): If there is an MRT station near your location and the grocery store, you can take the train. Check the MRT map to find the nearest station, and plan your route accordingly. Once you reach the station closest to the grocery store, you may need to walk the remaining distance.\n\n4. Grab or Taxi: Ride-hailing services like Grab are widely available in Singapore. You can book a taxi or private car through the app and provide the destination address. This option offers convenience and saves time, especially if you have heavy groceries or prefer a door-to-door service.\n\nConsider the time, cost, and convenience of each option before deciding which mode of transportation to use."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 264,
+        "total_tokens": 288
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVML2jsad4Qps6KoLqillzFzxVmM",
+    "object": "chat.completion",
+    "created": 1705855997,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Iceland in the past 5 years was the eruption of the Fagradalsfjall volcano in March 2021. This eruption marked the first volcanic eruption on the Reykjanes Peninsula in over 800 years. It attracted significant attention both locally and internationally, with people flocking to witness the spectacular lava flows and the creation of new land. The eruption lasted for several months, becoming a major tourist attraction and drawing attention to Iceland's unique geological features."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 102,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

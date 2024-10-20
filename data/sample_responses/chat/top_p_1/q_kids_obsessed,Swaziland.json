@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVyHAGLfF2IfIrTxHaRTPGAl1lMC",
+    "object": "chat.completion",
+    "created": 1705858349,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to pinpoint one specific thing that kids in Swaziland are obsessed with as different individuals may have varying interests. However, some common obsessions among kids worldwide include social media, video games, fashion trends, celebrities, and music. This may also hold true for some kids in Swaziland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 62,
+        "total_tokens": 82
+    },
+    "system_fingerprint": null
+}

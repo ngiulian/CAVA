@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jStwn0dbq59MhkH8brL5TqCKmrQH",
+    "object": "chat.completion",
+    "created": 1705846548,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Burkina Faso hold negative views towards divorce. They consider divorce as a sign of failure and a threat to social stability. They generally believe that marital problems should be resolved through compromise and mediation rather than through divorce. Divorce is often seen as a last resort, primarily in cases of severe conflict, infidelity, or abuse. Additionally, traditional and cultural values place a strong emphasis on maintaining the institution of marriage and preserving the family unit, further influencing men's perspectives on divorce in Burkina Faso."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 104,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

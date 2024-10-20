@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSz3Nrq7b0W5QYtDw55rYjAz04Y4",
+    "object": "chat.completion",
+    "created": 1705846865,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Central African Republic hold negative views towards divorce. They generally believe that divorce is socially unacceptable and goes against traditional values and norms. Men often perceive divorce as a failure of the husband to fulfill his responsibilities and maintain a stable family. They may view divorce as a sign of weakness or incompetence, as it challenges their role as the head of the household. Additionally, men may fear the social stigma and judgment associated with divorce, which can affect their reputation and standing within the community. Consequently, many men in Central African Republic tend to discourage divorce and prioritize maintaining the unity and stability of the family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 120,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

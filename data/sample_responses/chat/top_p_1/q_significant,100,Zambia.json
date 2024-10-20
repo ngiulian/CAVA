@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoHrZ0RFS5f8uFb2BEnpVDuOU3S",
+    "object": "chat.completion",
+    "created": 1705857729,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Zambia in the past 100 years is the country's independence from British colonial rule. On October 24, 1964, Zambia gained autonomy from British governance, becoming the Republic of Zambia. This marked a significant milestone in the country's history, as it paved the way for self-governance and the beginning of a new era for the Zambian people."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 83,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

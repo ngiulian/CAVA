@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1tZwDv6CsN6uaJ2eeHlZPjTwbM",
+    "object": "chat.completion",
+    "created": 1705854729,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Finland in the past 5 years was the parliamentary elections held in April 2019. The elections resulted in the victory of the Social Democratic Party, led by Antti Rinne, who became the Prime Minister. This marked a shift in the political landscape as the Social Democrats had not been in power for 20 years. The elections also saw the rise of the Green League, which became the second-largest party in the parliament. This event had a significant impact on the country's political direction and policies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOQMWyzroQpgzMownlGvCAao64B",
+    "object": "chat.completion",
+    "created": 1705848438,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on divorce in Lebanon can vary greatly depending on their individual experiences, beliefs, and social backgrounds. However, there are some common perspectives that can be observed among many women in Lebanon regarding divorce.\n\n1. Stigma and societal pressure: Divorce is often stigmatized in Lebanese society, and women may face judgment, criticism, and social repercussions if they choose to end their marriage. Many women feel societal pressure to maintain their marriages, even if they are unhappy or facing difficulties.\n\n2. Limited options and legal challenges: Lebanese women may face legal and financial obstacles when seeking divorce. The country's personal status laws, which are based on religious affiliations, can make divorce processes complex and lengthy. This can discourage some women from pursuing divorce, as they may fear losing custody of their children or facing financial instability.\n\n3. Emotional and psychological toll: Women in Lebanon may experience emotional distress and psychological challenges when contemplating divorce. They may struggle with feelings of guilt, failure, and fear of the unknown. Additionally, concerns about the impact of divorce on their children's well-being can be a significant factor in their decision-making process.\n\n4. Empowerment and changing attitudes: Despite the challenges, there is a growing trend of women in Lebanon becoming more empowered and asserting their rights. Some women are challenging societal norms and seeking divorce to prioritize their own happiness, personal growth, and well-being. This shift in attitudes is gradually breaking down the stigma surrounding divorce.\n\nOverall, while"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

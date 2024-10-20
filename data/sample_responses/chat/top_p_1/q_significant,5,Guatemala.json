@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJhIhQXPo2NYzqEcmcUBLbxuVsN",
+    "object": "chat.completion",
+    "created": 1705855833,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guatemala in the past five years was the eruption of the Fuego volcano on June 3, 2018. This was one of the deadliest volcanic eruptions in the country's history, resulting in the loss of hundreds of lives, significant destruction, and displacement of thousands of people. The ash and pyroclastic flows devastated surrounding villages, causing immense human suffering and leaving a long-lasting impact on the affected communities. The eruption prompted a large-scale humanitarian response, with international assistance provided to help Guatemala recover from the disaster."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

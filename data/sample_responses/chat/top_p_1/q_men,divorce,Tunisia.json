@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTpEBrz6mrbaLSMt2SQrqnI46imp",
+    "object": "chat.completion",
+    "created": 1705850100,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Tunisia have a negative perception of divorce. They often view it as a threat to their status and a failure of their duties as providers and protectors of the family. Many men consider divorce as a disruptive force that undermines social stability and disrupts traditional gender roles. They may also associate divorce with negative repercussions on children's well-being and believe it reflects poorly on their character and integrity. However, it's important to note that attitudes towards divorce can vary among individuals, and there is an emerging trend of increasing acceptance and understanding of divorce as a solution to unhappy or unhealthy marriages in Tunisia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 119,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

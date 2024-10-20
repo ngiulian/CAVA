@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgnsa3CHzgonluHomeXHrR112DG",
+    "object": "chat.completion",
+    "created": 1705857265,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Slovenia in the past 5 years was the Slovenian parliamentary election held on June 3, 2018. It marked a significant political shift as the anti-establishment party, known as the Slovenian Democratic Party (SDS), led by Janez Jan\u0161a, emerged as the largest party in the National Assembly. The election resulted in a change of government, with Janez Jan\u0161a becoming the Prime Minister of Slovenia for the third time. This event had a notable impact on Slovenian politics and policies, as it brought a new direction and leadership to the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 126,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,3028 @@
+{
+    "id": "cmpl-8jEOjCZBafWMBXTsi4W6qJqXpDVlJ",
+    "object": "text_completion",
+    "created": 1705790797,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " a crucial option for women. I conduct an empirical analysis of the preferences for abortion among twenty-seven Austrian askers who I interview in more than twenty provinces in Austria. My analysis is based on an experimental survey of the set of discrete choice questions where I assign preferences for pro-choice rights conditional on the availability of the instrument. My analysis can also be considered as the data collection of a \u2018natural experiment\u2019. This question is raised from the perspective of science and people in Austria through an experiment of Boyer et al. (2015) regarding the preferences of natural experiment participants. Accordingly, only pro-life askers do not recommend keeping access to induced abortion in Austria. In this paper, I examine the attitudes of pro-choice askers towards legal universally limited induced abortion as opposed to abortion options. I do not directly compare abortion types due to my study design. My study displays the preferences of twenty-seven Austrian askers towards the unavailability of induced abortion in Austria. My study uses the set of discrete choice questions for determining the respondents' preferences for the consequences of induced abortion on a five-point Likert scale (ranging from 1 - Strongly agree to 5 - Strongly disagree). My study reports the experimental observations in regression analysis by specifying a random coefficient logit model. The results suggest that the age of the respondents and the distance of the candidates' residence from the capital city are insignificant predictors of the respondents' attitudes towards the abortion situation in Austria behind natural barter. Interestingly, people with previous",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " a",
+                    " crucial",
+                    " option",
+                    " for",
+                    " women",
+                    ".",
+                    " I",
+                    " conduct",
+                    " an",
+                    " empirical",
+                    " analysis",
+                    " of",
+                    " the",
+                    " preferences",
+                    " for",
+                    " abortion",
+                    " among",
+                    " twenty",
+                    "-seven",
+                    " Austrian",
+                    " ask",
+                    "ers",
+                    " who",
+                    " I",
+                    " interview",
+                    " in",
+                    " more",
+                    " than",
+                    " twenty",
+                    " provinces",
+                    " in",
+                    " Austria",
+                    ".",
+                    " My",
+                    " analysis",
+                    " is",
+                    " based",
+                    " on",
+                    " an",
+                    " experimental",
+                    " survey",
+                    " of",
+                    " the",
+                    " set",
+                    " of",
+                    " discrete",
+                    " choice",
+                    " questions",
+                    " where",
+                    " I",
+                    " assign",
+                    " preferences",
+                    " for",
+                    " pro",
+                    "-choice",
+                    " rights",
+                    " conditional",
+                    " on",
+                    " the",
+                    " availability",
+                    " of",
+                    " the",
+                    " instrument",
+                    ".",
+                    " My",
+                    " analysis",
+                    " can",
+                    " also",
+                    " be",
+                    " considered",
+                    " as",
+                    " the",
+                    " data",
+                    " collection",
+                    " of",
+                    " a",
+                    " \u2018",
+                    "natural",
+                    " experiment",
+                    "\u2019.",
+                    " This",
+                    " question",
+                    " is",
+                    " raised",
+                    " from",
+                    " the",
+                    " perspective",
+                    " of",
+                    " science",
+                    " and",
+                    " people",
+                    " in",
+                    " Austria",
+                    " through",
+                    " an",
+                    " experiment",
+                    " of",
+                    " Boy",
+                    "er",
+                    " et",
+                    " al",
+                    ".",
+                    " (",
+                    "201",
+                    "5",
+                    ")",
+                    " regarding",
+                    " the",
+                    " preferences",
+                    " of",
+                    " natural",
+                    " experiment",
+                    " participants",
+                    ".",
+                    " Accordingly",
+                    ",",
+                    " only",
+                    " pro",
+                    "-life",
+                    " ask",
+                    "ers",
+                    " do",
+                    " not",
+                    " recommend",
+                    " keeping",
+                    " access",
+                    " to",
+                    " induced",
+                    " abortion",
+                    " in",
+                    " Austria",
+                    ".",
+                    " In",
+                    " this",
+                    " paper",
+                    ",",
+                    " I",
+                    " examine",
+                    " the",
+                    " attitudes",
+                    " of",
+                    " pro",
+                    "-choice",
+                    " ask",
+                    "ers",
+                    " towards",
+                    " legal",
+                    " universally",
+                    " limited",
+                    " induced",
+                    " abortion",
+                    " as",
+                    " opposed",
+                    " to",
+                    " abortion",
+                    " options",
+                    ".",
+                    " I",
+                    " do",
+                    " not",
+                    " directly",
+                    " compare",
+                    " abortion",
+                    " types",
+                    " due",
+                    " to",
+                    " my",
+                    " study",
+                    " design",
+                    ".",
+                    " My",
+                    " study",
+                    " displays",
+                    " the",
+                    " preferences",
+                    " of",
+                    " twenty",
+                    "-seven",
+                    " Austrian",
+                    " ask",
+                    "ers",
+                    " towards",
+                    " the",
+                    " un",
+                    "availability",
+                    " of",
+                    " induced",
+                    " abortion",
+                    " in",
+                    " Austria",
+                    ".",
+                    " My",
+                    " study",
+                    " uses",
+                    " the",
+                    " set",
+                    " of",
+                    " discrete",
+                    " choice",
+                    " questions",
+                    " for",
+                    " determining",
+                    " the",
+                    " respondents",
+                    "'",
+                    " preferences",
+                    " for",
+                    " the",
+                    " consequences",
+                    " of",
+                    " induced",
+                    " abortion",
+                    " on",
+                    " a",
+                    " five",
+                    "-point",
+                    " Lik",
+                    "ert",
+                    " scale",
+                    " (",
+                    "r",
+                    "anging",
+                    " from",
+                    " ",
+                    "1",
+                    " -",
+                    " Strong",
+                    "ly",
+                    " agree",
+                    " to",
+                    " ",
+                    "5",
+                    " -",
+                    " Strong",
+                    "ly",
+                    " disagree",
+                    ").",
+                    " My",
+                    " study",
+                    " reports",
+                    " the",
+                    " experimental",
+                    " observations",
+                    " in",
+                    " regression",
+                    " analysis",
+                    " by",
+                    " specifying",
+                    " a",
+                    " random",
+                    " coefficient",
+                    " log",
+                    "it",
+                    " model",
+                    ".",
+                    " The",
+                    " results",
+                    " suggest",
+                    " that",
+                    " the",
+                    " age",
+                    " of",
+                    " the",
+                    " respondents",
+                    " and",
+                    " the",
+                    " distance",
+                    " of",
+                    " the",
+                    " candidates",
+                    "'",
+                    " residence",
+                    " from",
+                    " the",
+                    " capital",
+                    " city",
+                    " are",
+                    " insignificant",
+                    " predictors",
+                    " of",
+                    " the",
+                    " respondents",
+                    "'",
+                    " attitudes",
+                    " towards",
+                    " the",
+                    " abortion",
+                    " situation",
+                    " in",
+                    " Austria",
+                    " behind",
+                    " natural",
+                    " bar",
+                    "ter",
+                    ".",
+                    " Interestingly",
+                    ",",
+                    " people",
+                    " with",
+                    " previous"
+                ],
+                "token_logprobs": [
+                    -0.7275821,
+                    -6.1555576,
+                    -2.8727949,
+                    -1.2158387,
+                    -0.86215055,
+                    -2.179871,
+                    -4.9541883,
+                    -10.086012,
+                    -2.5763211,
+                    -1.7959051,
+                    -1.0916914,
+                    -0.6812335,
+                    -1.0106719,
+                    -4.656314,
+                    -1.8329823,
+                    -0.5724021,
+                    -2.4480383,
+                    -9.130844,
+                    -2.5614169,
+                    -4.340593,
+                    -13.306975,
+                    -0.6467054,
+                    -3.3462787,
+                    -6.238241,
+                    -3.3714604,
+                    -1.2352335,
+                    -7.046443,
+                    -0.109434485,
+                    -2.6676764,
+                    -6.895095,
+                    -1.8409677,
+                    -0.29984656,
+                    -0.35583562,
+                    -2.8564801,
+                    -1.8650686,
+                    -1.9402078,
+                    -0.2850767,
+                    -0.028828295,
+                    -2.951479,
+                    -3.2814093,
+                    -2.4529777,
+                    -3.5944064,
+                    -1.8774768,
+                    -7.3761477,
+                    -0.21988025,
+                    -5.3083353,
+                    -0.4705374,
+                    -1.7943228,
+                    -4.166541,
+                    -1.1919813,
+                    -5.85448,
+                    -5.389352,
+                    -1.0691631,
+                    -5.107045,
+                    -0.72140276,
+                    -6.7061024,
+                    -7.376114,
+                    -0.079911724,
+                    -1.2204506,
+                    -4.6184072,
+                    -0.05049102,
+                    -2.4341822,
+                    -7.652114,
+                    -1.0141615,
+                    -2.186664,
+                    -2.215104,
+                    -6.4251175,
+                    -3.8355527,
+                    -0.3929697,
+                    -2.9895575,
+                    -0.44268987,
+                    -3.4029448,
+                    -7.0096974,
+                    -1.65535,
+                    -1.7482466,
+                    -1.0325288,
+                    -5.664155,
+                    -2.0445883,
+                    -0.19032708,
+                    -1.651126,
+                    -3.3553767,
+                    -6.3366747,
+                    -0.9713472,
+                    -6.492161,
+                    -4.0266848,
+                    -0.5966327,
+                    -2.3389704,
+                    -0.06504097,
+                    -8.074311,
+                    -1.3417344,
+                    -7.847615,
+                    -2.3549085,
+                    -1.2873302,
+                    -6.670914,
+                    -2.9190712,
+                    -2.7566824,
+                    -3.0218549,
+                    -14.521042,
+                    -0.6814356,
+                    -2.0706046,
+                    -0.043201633,
+                    -0.14808613,
+                    -0.19884709,
+                    -0.5427384,
+                    -2.1059241,
+                    -1.046324,
+                    -5.423726,
+                    -0.63952285,
+                    -3.3315644,
+                    -1.3657039,
+                    -6.4718304,
+                    -2.6163356,
+                    -3.586164,
+                    -1.5088124,
+                    -7.429044,
+                    -0.017427044,
+                    -6.716856,
+                    -4.568148,
+                    -2.5078661,
+                    -1.7388783,
+                    -0.009315658,
+                    -4.365986,
+                    -0.07105061,
+                    -7.2951612,
+                    -7.8591566,
+                    -5.973387,
+                    -0.057968277,
+                    -5.9245534,
+                    -0.11659368,
+                    -1.6622584,
+                    -0.58881336,
+                    -0.76386315,
+                    -2.3785872,
+                    -2.8045053,
+                    -2.398571,
+                    -0.10974667,
+                    -0.19486593,
+                    -3.667878,
+                    -0.5218697,
+                    -4.077332,
+                    -0.506939,
+                    -2.6820683,
+                    -0.89283156,
+                    -0.73745334,
+                    -0.0021527612,
+                    -1.887694,
+                    -5.1510725,
+                    -16.425936,
+                    -6.3144493,
+                    -2.4088979,
+                    -0.11712483,
+                    -3.7358568,
+                    -4.601305,
+                    -0.0046413536,
+                    -3.5313218,
+                    -7.424847,
+                    -2.7122636,
+                    -1.5600505,
+                    -5.1615677,
+                    -0.7708253,
+                    -6.251977,
+                    -2.5368598,
+                    -3.3876817,
+                    -5.201027,
+                    -5.3222046,
+                    -0.0031964893,
+                    -3.669839,
+                    -3.8816795,
+                    -1.5088567,
+                    -0.8007959,
+                    -2.5217705,
+                    -2.319499,
+                    -8.397833,
+                    -0.9896846,
+                    -2.6903596,
+                    -0.35891187,
+                    -3.6052575,
+                    -0.034119554,
+                    -0.8447354,
+                    -0.18947808,
+                    -0.0015636618,
+                    -1.9968673,
+                    -1.9652197,
+                    -6.8665495,
+                    -0.47427273,
+                    -0.057734936,
+                    -0.6999679,
+                    -0.057403505,
+                    -1.1556618,
+                    -0.19612968,
+                    -0.6772298,
+                    -2.0891504,
+                    -1.8806318,
+                    -4.464263,
+                    -1.2344549,
+                    -3.9294143,
+                    -0.016232133,
+                    -0.32069227,
+                    -0.08264482,
+                    -0.11146361,
+                    -3.3896317,
+                    -4.750031,
+                    -0.40700468,
+                    -4.278957,
+                    -2.383648,
+                    -0.51219,
+                    -1.0225044,
+                    -1.9720169,
+                    -7.6198416,
+                    -0.11283328,
+                    -1.5911101,
+                    -0.038572572,
+                    -3.3309183,
+                    -3.3387127,
+                    -2.874816,
+                    -0.24147934,
+                    -0.5492596,
+                    -0.00026228945,
+                    -0.09631589,
+                    -2.7493024,
+                    -3.4762516,
+                    -0.03942271,
+                    -0.029180903,
+                    -1.5953165,
+                    -0.16456139,
+                    -3.2871218,
+                    -3.1077538,
+                    -0.015120333,
+                    -2.4934523,
+                    -0.29144144,
+                    -0.015715003,
+                    -0.009256248,
+                    -0.24196629,
+                    -0.05705542,
+                    -0.000840596,
+                    -0.035577293,
+                    -0.35034758,
+                    -2.0251956,
+                    -1.2642524,
+                    -6.0647116,
+                    -0.5412698,
+                    -6.203816,
+                    -6.7175894,
+                    -3.6637378,
+                    -7.783701,
+                    -0.80867714,
+                    -3.718196,
+                    -4.8796525,
+                    -1.3305691,
+                    -3.109902,
+                    -2.9488084,
+                    -1.092618,
+                    -0.0019084084,
+                    -0.24735661,
+                    -0.9976418,
+                    -1.4026853,
+                    -1.9852774,
+                    -3.4636242,
+                    -0.1250419,
+                    -1.022698,
+                    -5.4152474,
+                    -0.8186029,
+                    -0.7716603,
+                    -1.1492169,
+                    -2.1886358,
+                    -0.8322818,
+                    -5.637393,
+                    -1.3511825,
+                    -0.53282523,
+                    -8.213491,
+                    -1.7889786,
+                    -1.6500863,
+                    -0.40498477,
+                    -0.5792949,
+                    -1.2267157,
+                    -0.742771,
+                    -1.9747694,
+                    -4.8363523,
+                    -2.5129356,
+                    -0.30374154,
+                    -0.5113898,
+                    -0.8208788,
+                    -0.13226292,
+                    -1.7968743,
+                    -0.38955238,
+                    -1.2605085,
+                    -4.0284176,
+                    -5.2756834,
+                    -0.45555985,
+                    -0.072257794,
+                    -12.865381,
+                    -6.3575096,
+                    -9.638375,
+                    -2.622403,
+                    -0.794677,
+                    -6.1582623,
+                    -0.015367701,
+                    -5.5269284,
+                    -1.6488217,
+                    -5.768099
+                ],
+                "top_logprobs": [
+                    {
+                        " a": -0.7275821,
+                        " an": -2.290082,
+                        " morally": -2.4228945,
+                        " acceptable": -3.4072695,
+                        " the": -3.6728945
+                    },
+                    {
+                        " private": -2.4211826,
+                        " medical": -2.9836826,
+                        " personal": -2.9914951,
+                        " necessary": -3.2336826,
+                        " right": -3.2414951
+                    },
+                    {
+                        " option": -2.8727949,
+                        " part": -2.2243574,
+                        " right": -2.4665449,
+                        " and": -2.9431074,
+                        " element": -3.0056074
+                    },
+                    {
+                        " for": -1.2158387,
+                        " in": -1.7392762,
+                        ",": -2.0830262,
+                        " to": -2.4970887,
+                        ".": -2.8017762
+                    },
+                    {
+                        " women": -0.86215055,
+                        " their": -2.6121507,
+                        " them": -2.6434007,
+                        " themselves": -3.6277757,
+                        " the": -3.6902757
+                    },
+                    {
+                        ".": -2.179871,
+                        ",": -1.7658087,
+                        " in": -2.164246,
+                        " and": -2.1720586,
+                        " to": -2.179871
+                    },
+                    {
+                        " The": -2.2823136,
+                        " In": -2.618251,
+                        " It": -2.962001,
+                        " However": -3.0323136,
+                        " This": -3.133876
+                    },
+                    {
+                        " think": -2.2559338,
+                        " am": -2.5762463,
+                        " have": -2.8574963,
+                        " believe": -3.0528088,
+                        " would": -3.0840588
+                    },
+                    {
+                        " an": -2.5763211,
+                        " a": -1.388821,
+                        " interviews": -2.1622586,
+                        " research": -2.4513211,
+                        " my": -2.6935086
+                    },
+                    {
+                        " empirical": -1.7959051,
+                        " analysis": -1.8584051,
+                        " in": -2.31153,
+                        " interview": -2.62403,
+                        " experiment": -2.65528
+                    },
+                    {
+                        " analysis": -1.0916914,
+                        " study": -1.0916914,
+                        " investigation": -2.2791915,
+                        " test": -3.0916915,
+                        " survey": -3.427629
+                    },
+                    {
+                        " of": -0.6812335,
+                        " to": -2.1968584,
+                        " using": -2.470296,
+                        " on": -2.689046,
+                        " based": -3.001546
+                    },
+                    {
+                        " the": -1.0106719,
+                        " women": -2.7919219,
+                        " abortion": -2.9637969,
+                        " how": -3.1122344,
+                        " Austrian": -3.2372344
+                    },
+                    {
+                        " determin": -2.1406891,
+                        " effect": -3.2266266,
+                        " abortion": -3.3438141,
+                        " factors": -3.3516266,
+                        " attitudes": -3.3906891
+                    },
+                    {
+                        " for": -1.8329823,
+                        " of": -0.44235736,
+                        " and": -2.5282948,
+                        " regarding": -4.2704825,
+                        " on": -4.5517325
+                    },
+                    {
+                        " abortion": -0.5724021,
+                        " the": -2.8145895,
+                        " and": -3.244277,
+                        " legal": -3.619277,
+                        " different": -3.775527
+                    },
+                    {
+                        " among": -2.4480383,
+                        " in": -2.2761633,
+                        " policy": -2.4089758,
+                        " of": -2.6355383,
+                        " rights": -2.7839758
+                    },
+                    {
+                        " Austrian": -0.60349995,
+                        " women": -1.5878749,
+                        " a": -3.19725,
+                        " the": -3.2519374,
+                        " ": -3.681625
+                    },
+                    {
+                        "-seven": -2.5614169,
+                        "-five": -2.1551669,
+                        "-one": -2.3348544,
+                        "-eight": -2.5067294,
+                        "-two": -2.5223544
+                    },
+                    {
+                        " European": -1.3171552,
+                        " thousand": -1.4577802,
+                        " countries": -2.2546554,
+                        " EU": -3.6218429,
+                        " different": -3.6452804
+                    },
+                    {
+                        " women": -1.0120536,
+                        " municipalities": -2.254241,
+                        " provinces": -2.738616,
+                        " political": -3.097991,
+                        " districts": -3.6370535
+                    },
+                    {
+                        "ers": -0.6467054,
+                        "er": -2.217018,
+                        " the": -3.9435804,
+                        " a": -4.232643,
+                        "men": -4.2873306
+                    },
+                    {
+                        ".": -1.6587787,
+                        " of": -1.8150287,
+                        " in": -2.3462787,
+                        ",": -2.3619037,
+                        " and": -2.3931537
+                    },
+                    {
+                        " are": -2.3788664,
+                        " participated": -2.4413664,
+                        " were": -2.6913664,
+                        " have": -2.7226164,
+                        " use": -3.9569914
+                    },
+                    {
+                        " interview": -3.3714604,
+                        " interviewed": -1.0277104,
+                        " met": -2.8402104,
+                        " have": -2.9183354,
+                        " surveyed": -3.2464604
+                    },
+                    {
+                        " in": -1.2352335,
+                        ".": -2.6102335,
+                        " about": -2.6883585,
+                        " on": -2.8133585,
+                        " for": -3.118046
+                    },
+                    {
+                        " the": -1.9019119,
+                        " Vienna": -2.1206617,
+                        " a": -2.3628492,
+                        " person": -2.7144117,
+                        "-depth": -2.9409742
+                    },
+                    {
+                        " than": -0.109434485,
+                        " detail": -3.257872,
+                        " depth": -3.820372,
+                        " or": -4.726622,
+                        "\n\n": -6.0313096
+                    },
+                    {
+                        " twenty": -2.6676764,
+                        " ": -1.1051763,
+                        " one": -2.269239,
+                        " two": -2.7926764,
+                        " thirty": -2.909864
+                    },
+                    {
+                        "-five": -1.7271259,
+                        " hours": -2.1724384,
+                        " interviews": -2.383376,
+                        " cities": -2.820876,
+                        " different": -2.8286884
+                    },
+                    {
+                        " in": -1.8409677,
+                        ".": -1.1144052,
+                        " of": -1.5831552,
+                        " and": -3.0362802,
+                        " across": -3.0909677
+                    },
+                    {
+                        " Austria": -0.29984656,
+                        " the": -2.4170341,
+                        " ": -3.1826591,
+                        " order": -3.8310966,
+                        " a": -5.1748466
+                    },
+                    {
+                        ".": -0.35583562,
+                        " in": -3.2152107,
+                        ",": -3.2542732,
+                        ".\n\n": -3.6136482,
+                        " and": -3.6527107
+                    },
+                    {
+                        " My": -2.8564801,
+                        " I": -1.2314801,
+                        " The": -1.5205426,
+                        " In": -2.9502301,
+                        " Using": -3.6377301
+                    },
+                    {
+                        " analysis": -1.8650686,
+                        " results": -1.5213186,
+                        " findings": -2.1463184,
+                        " data": -3.076006,
+                        " research": -3.216631
+                    },
+                    {
+                        " is": -1.9402078,
+                        " shows": -1.3855203,
+                        " reveals": -2.408958,
+                        " of": -2.846458,
+                        " suggests": -3.0573955
+                    },
+                    {
+                        " based": -0.2850767,
+                        " conducted": -3.839764,
+                        " a": -4.496014,
+                        " guided": -4.5663266,
+                        " motivated": -4.761639
+                    },
+                    {
+                        " on": -0.028828295,
+                        " upon": -4.0991406,
+                        " both": -6.9272656,
+                        " primarily": -7.0678906,
+                        " in": -7.1928906
+                    },
+                    {
+                        " an": -2.951479,
+                        " a": -1.2561666,
+                        " the": -1.3655416,
+                        " data": -3.6780415,
+                        " two": -3.951479
+                    },
+                    {
+                        " experimental": -3.2814093,
+                        " ordered": -1.4610966,
+                        " original": -2.3360968,
+                        " interview": -3.0001593,
+                        " ordinal": -3.6564093
+                    },
+                    {
+                        " survey": -2.4529777,
+                        " design": -0.96860266,
+                        " vign": -2.8982902,
+                        " approach": -2.9607902,
+                        " choice": -2.9686027
+                    },
+                    {
+                        " design": -1.9303439,
+                        " that": -2.1569064,
+                        " in": -2.3209689,
+                        ",": -2.5553439,
+                        ".": -2.6803439
+                    },
+                    {
+                        " the": -1.8774768,
+                        " ": -2.5102892,
+                        " Austrian": -2.6587267,
+                        " a": -3.3227892,
+                        " women": -3.5102892
+                    },
+                    {
+                        " Austrian": -2.005054,
+                        " ask": -2.411304,
+                        " respondents": -3.1847415,
+                        " preferences": -3.239429,
+                        " attitudes": -3.645679
+                    },
+                    {
+                        " of": -0.21988025,
+                        "-up": -2.2745678,
+                        " up": -3.8292553,
+                        " preferences": -5.485505,
+                        "-ups": -5.62613
+                    },
+                    {
+                        " questions": -2.8942728,
+                        " all": -3.0739603,
+                        " preferences": -3.3317728,
+                        " Austrian": -3.3552103,
+                        " possible": -3.6130228
+                    },
+                    {
+                        " choice": -0.4705374,
+                        "-choice": -2.212725,
+                        " choices": -2.275225,
+                        " alternatives": -4.3064747,
+                        " and": -4.5720997
+                    },
+                    {
+                        " questions": -1.7943228,
+                        " experiments": -1.0990103,
+                        " models": -2.419323,
+                        " experiment": -2.700573,
+                        " scenarios": -2.8177605
+                    },
+                    {
+                        ".": -1.6274786,
+                        " that": -2.166541,
+                        ",": -2.5962286,
+                        " in": -3.166541,
+                        " and": -3.338416
+                    },
+                    {
+                        " I": -1.1919813,
+                        " the": -1.5513563,
+                        " each": -2.5357313,
+                        " respondents": -2.6060438,
+                        " ask": -2.8560438
+                    },
+                    {
+                        " ask": -1.8310425,
+                        " vary": -2.1747925,
+                        " present": -2.963855,
+                        " manipulate": -3.0497925,
+                        " use": -3.526355
+                    },
+                    {
+                        " the": -1.9049771,
+                        " different": -2.217477,
+                        " a": -2.279977,
+                        " each": -2.6002896,
+                        " probabilities": -3.436227
+                    },
+                    {
+                        " for": -1.0691631,
+                        " to": -1.3894756,
+                        " of": -3.131663,
+                        " over": -3.2801006,
+                        " and": -3.2957256
+                    },
+                    {
+                        " abortion": -0.77892,
+                        " the": -2.419545,
+                        " different": -2.74767,
+                        " a": -3.31017,
+                        " each": -3.8961074
+                    },
+                    {
+                        "-choice": -0.72140276,
+                        "-life": -1.3854653,
+                        "-": -2.4714026,
+                        "-abortion": -3.2604651,
+                        "choice": -3.2839026
+                    },
+                    {
+                        " and": -0.76078975,
+                        " or": -2.2764149,
+                        ",": -2.4561024,
+                        " versus": -3.6436024,
+                        " (": -3.9326649
+                    },
+                    {
+                        " to": -1.5401766,
+                        " and": -1.7979891,
+                        ".": -2.3448641,
+                        ",": -2.6026766,
+                        " in": -2.8761141
+                    },
+                    {
+                        " on": -0.079911724,
+                        " upon": -3.3845992,
+                        " to": -3.7830367,
+                        " of": -6.009599,
+                        " and": -6.3455367
+                    },
+                    {
+                        " the": -1.2204506,
+                        " a": -2.6032631,
+                        " different": -3.1657631,
+                        " abortion": -3.7360756,
+                        " respondents": -4.0017004
+                    },
+                    {
+                        " respondent": -2.985595,
+                        " respondents": -3.2746575,
+                        " characteristics": -3.5402825,
+                        " abortion": -3.7746575,
+                        " type": -4.0246572
+                    },
+                    {
+                        " of": -0.05049102,
+                        " and": -3.8551786,
+                        " or": -4.6676784,
+                        " to": -5.7458034,
+                        ",": -6.0739284
+                    },
+                    {
+                        " the": -2.4341822,
+                        " abortion": -1.3638695,
+                        " a": -2.9029322,
+                        " contraception": -3.2076197,
+                        " other": -3.3873072
+                    },
+                    {
+                        " abortion": -2.0505517,
+                        " option": -2.4646142,
+                        " right": -3.0818017,
+                        " procedure": -3.2849267,
+                        " morning": -3.3005517
+                    },
+                    {
+                        ".": -1.0141615,
+                        " of": -1.9672865,
+                        " and": -2.8266616,
+                        ",": -2.9672866,
+                        " (": -3.1235366
+                    },
+                    {
+                        " My": -2.186664,
+                        " I": -1.2101015,
+                        " The": -1.4132265,
+                        " In": -3.0069766,
+                        " This": -3.546039
+                    },
+                    {
+                        " analysis": -2.215104,
+                        " results": -1.0588541,
+                        " findings": -1.8322916,
+                        " main": -3.043229,
+                        " empirical": -3.386979
+                    },
+                    {
+                        " shows": -1.479805,
+                        " is": -2.1438675,
+                        " reveals": -2.40168,
+                        " suggests": -2.83918,
+                        " of": -2.948555
+                    },
+                    {
+                        " also": -3.8355527,
+                        " be": -0.5699278,
+                        " help": -3.5230527,
+                        " show": -3.5386777,
+                        " provide": -3.8824277
+                    },
+                    {
+                        " be": -0.3929697,
+                        " help": -3.760157,
+                        " serve": -3.7835946,
+                        " provide": -4.041407,
+                        " shed": -4.1273446
+                    },
+                    {
+                        " used": -2.012995,
+                        " seen": -2.1145575,
+                        " interpreted": -2.12237,
+                        " applied": -2.30987,
+                        " extended": -2.700495
+                    },
+                    {
+                        " as": -0.44268987,
+                        " a": -1.7708149,
+                        " an": -2.6067524,
+                        " to": -3.270815,
+                        " in": -4.552065
+                    },
+                    {
+                        " the": -3.4029448,
+                        " a": -0.58263224,
+                        " an": -1.2232573,
+                        " part": -4.9654446,
+                        " one": -5.004507
+                    },
+                    {
+                        " first": -1.1190723,
+                        " analysis": -3.08001,
+                        " application": -3.5721974,
+                        " empirical": -3.67376,
+                        " evaluation": -3.8378224
+                    },
+                    {
+                        " collection": -1.65535,
+                        " analysis": -2.5537875,
+                        "-driven": -2.9912875,
+                        " set": -3.1475375,
+                        " for": -3.2725375
+                    },
+                    {
+                        " of": -1.7482466,
+                        " for": -1.396684,
+                        " part": -2.5294967,
+                        " phase": -3.0138717,
+                        " and": -3.2326217
+                    },
+                    {
+                        " a": -1.0325288,
+                        " the": -1.1809663,
+                        " an": -2.3762789,
+                        " my": -4.391904,
+                        " choice": -4.4153414
+                    },
+                    {
+                        " discrete": -2.914155,
+                        " randomized": -3.070405,
+                        " natural": -3.382905,
+                        " large": -3.46103,
+                        " stated": -3.5469675
+                    },
+                    {
+                        "natural": -2.0445883,
+                        "choice": -3.4274008,
+                        "real": -3.8414633,
+                        "pre": -3.9586508,
+                        "lab": -4.0211506
+                    },
+                    {
+                        " experiment": -0.19032708,
+                        "\u2019": -2.5497022,
+                        " field": -3.0184522,
+                        " laboratory": -5.2450147,
+                        " survey": -5.5731397
+                    },
+                    {
+                        "\u2019.": -1.651126,
+                        "\u2019": -0.49487606,
+                        "\u2019,": -2.5339386,
+                        ".\u2019": -3.2761261,
+                        "\u2019.\n\n": -3.7995636
+                    },
+                    {
+                        " This": -3.3553767,
+                        " I": -1.3319391,
+                        " The": -1.4413141,
+                        " My": -2.4881892,
+                        " In": -2.7694392
+                    },
+                    {
+                        " is": -1.8522995,
+                        " allows": -2.4304245,
+                        " paper": -2.5241745,
+                        " natural": -2.8679245,
+                        " approach": -2.9929245
+                    },
+                    {
+                        " is": -0.9713472,
+                        " has": -2.8854098,
+                        " was": -2.9010348,
+                        " of": -3.0572848,
+                        " can": -3.3229098
+                    },
+                    {
+                        " of": -2.289036,
+                        " important": -2.851536,
+                        " addressed": -3.320286,
+                        " answered": -3.351536,
+                        " relevant": -3.429661
+                    },
+                    {
+                        " in": -1.4251221,
+                        " by": -1.5032471,
+                        " because": -2.1829348,
+                        " as": -3.4876223,
+                        " due": -3.4954348
+                    },
+                    {
+                        " the": -0.5966327,
+                        " a": -1.7685077,
+                        " an": -2.8388202,
+                        " my": -3.1747577,
+                        " two": -4.3700705
+                    },
+                    {
+                        " perspective": -2.3389704,
+                        " fact": -2.128033,
+                        " point": -3.6358454,
+                        " Austrian": -3.6983454,
+                        " observation": -3.8702204
+                    },
+                    {
+                        " of": -0.06504097,
+                        " that": -3.0884786,
+                        " whether": -6.486916,
+                        ",": -6.6353536,
+                        " to": -6.9478536
+                    },
+                    {
+                        " the": -1.3164988,
+                        " a": -1.9961863,
+                        " an": -3.3086863,
+                        " Austrian": -3.6289988,
+                        " women": -3.6602488
+                    },
+                    {
+                        " and": -1.3417344,
+                        ",": -1.7870469,
+                        ".": -2.662047,
+                        " policy": -3.005797,
+                        ":": -3.052672
+                    },
+                    {
+                        " the": -2.6718335,
+                        " politics": -2.8749585,
+                        " ethics": -2.9999585,
+                        " philosophy": -3.0937085,
+                        " is": -3.210896
+                    },
+                    {
+                        " in": -2.3549085,
+                        "\u2019s": -1.8470961,
+                        " who": -1.8783461,
+                        ".": -2.315846,
+                        ",": -2.878346
+                    },
+                    {
+                        " Austria": -1.2873302,
+                        " general": -1.6623302,
+                        " the": -1.8107677,
+                        " society": -2.8810802,
+                        " a": -3.4904552
+                    },
+                    {
+                        ".": -1.0381016,
+                        ",": -2.1396642,
+                        " and": -2.4990392,
+                        " who": -2.6006017,
+                        ".\n\n": -2.7256017
+                    },
+                    {
+                        " an": -2.9190712,
+                        " the": -1.0675088,
+                        " a": -1.7003213,
+                        " my": -3.1065712,
+                        " interviews": -4.0987587
+                    },
+                    {
+                        " experiment": -2.7566824,
+                        " online": -2.59262,
+                        " interview": -2.62387,
+                        " experimental": -2.7098074,
+                        " analysis": -2.8348074
+                    },
+                    {
+                        ".": -1.8343549,
+                        " that": -2.2249799,
+                        " in": -2.5296674,
+                        ",": -2.6937299,
+                        " with": -2.8734174
+                    },
+                    {
+                        " the": -1.5649874,
+                        " a": -2.338425,
+                        " choice": -2.79155,
+                        " an": -3.7993624,
+                        " \u2018": -3.8228
+                    },
+                    {
+                        "er": -0.6814356,
+                        "k": -3.064248,
+                        "ce": -3.454873,
+                        "lan": -3.4783106,
+                        "an": -3.564248
+                    },
+                    {
+                        " et": -2.0706046,
+                        " and": -1.1799796,
+                        " (": -1.6643546,
+                        ",": -1.9534171,
+                        "\u2019s": -2.734667
+                    },
+                    {
+                        " al": -0.043201633,
+                        ".": -3.6291392,
+                        ".al": -4.832264,
+                        " all": -6.613514,
+                        "al": -6.9650764
+                    },
+                    {
+                        ".": -0.14808613,
+                        " (": -2.8746486,
+                        ".,": -3.5465236,
+                        ".\u2019": -4.804336,
+                        ".\n\n": -5.179336
+                    },
+                    {
+                        " (": -0.19884709,
+                        " [": -2.761347,
+                        " ": -3.8629096,
+                        " in": -4.2925973,
+                        " and": -4.8550973
+                    },
+                    {
+                        "201": -0.5427384,
+                        "200": -1.3239884,
+                        "199": -2.675551,
+                        "202": -3.753676,
+                        "198": -4.097426
+                    },
+                    {
+                        "5": -2.1059241,
+                        "6": -2.1371741,
+                        "4": -2.1684241,
+                        "3": -2.1996741,
+                        "7": -2.2309241
+                    },
+                    {
+                        ")": -1.046324,
+                        ").": -1.108824,
+                        "),": -1.890074,
+                        ").\n\n": -2.9760115,
+                        ").\n": -3.3822615
+                    },
+                    {
+                        " who": -1.8768508,
+                        " and": -1.9862258,
+                        " in": -2.3690383,
+                        " where": -2.3690383,
+                        " which": -2.6112258
+                    },
+                    {
+                        " the": -0.63952285,
+                        " abortion": -2.3817103,
+                        " a": -3.5692103,
+                        " preferences": -3.7332728,
+                        " their": -4.295773
+                    },
+                    {
+                        " preferences": -3.3315644,
+                        " abortion": -3.183127,
+                        " question": -3.276877,
+                        " availability": -3.714377,
+                        " effects": -3.9565644
+                    },
+                    {
+                        " of": -1.3657039,
+                        " for": -0.47507894,
+                        " on": -3.7953916,
+                        " and": -4.271954,
+                        " towards": -4.4360166
+                    },
+                    {
+                        " the": -1.8116739,
+                        " women": -2.3663614,
+                        " abortion": -2.5304239,
+                        " people": -2.8272989,
+                        " pro": -2.8429239
+                    },
+                    {
+                        " experiment": -2.6163356,
+                        " and": -2.3116481,
+                        " experiments": -2.5616481,
+                        " abortion": -2.6241481,
+                        " disasters": -3.4366481
+                    },
+                    {
+                        ".": -1.5080391,
+                        " in": -2.695539,
+                        " of": -2.914289,
+                        " and": -3.039289,
+                        " for": -3.101789
+                    },
+                    {
+                        ".": -1.5088124,
+                        " for": -1.5166249,
+                        " in": -2.1025624,
+                        " on": -2.9931874,
+                        ".\n\n": -3.4150624
+                    },
+                    {
+                        " The": -1.4602937,
+                        " I": -1.8118562,
+                        " My": -2.2259188,
+                        " In": -2.4681063,
+                        " This": -2.9446688
+                    },
+                    {
+                        ",": -0.017427044,
+                        " I": -5.4783645,
+                        " the": -5.9158645,
+                        " my": -6.814302,
+                        " to": -6.9314895
+                    },
+                    {
+                        " I": -1.1777933,
+                        " the": -1.4902933,
+                        " my": -2.4277933,
+                        " this": -2.9824808,
+                        " in": -3.6699808
+                    },
+                    {
+                        " the": -1.8181483,
+                        " a": -2.1853356,
+                        " ": -2.4509606,
+                        " those": -2.9665856,
+                        " one": -2.9743981
+                    },
+                    {
+                        "-life": -2.5078661,
+                        "-choice": -0.17974104,
+                        "-": -3.7656786,
+                        "-abortion": -4.6875534,
+                        "choice": -4.7031784
+                    },
+                    {
+                        " ask": -1.7388783,
+                        " participants": -2.1841908,
+                        " people": -2.8951283,
+                        " and": -2.9810658,
+                        " rights": -3.2935658
+                    },
+                    {
+                        "ers": -0.009315658,
+                        "er": -4.8686905,
+                        "es": -8.251503,
+                        "ess": -9.470253,
+                        "-": -9.485878
+                    },
+                    {
+                        " are": -1.5769231,
+                        " have": -2.8112981,
+                        " were": -2.8112981,
+                        " in": -3.0456731,
+                        " can": -3.3347356
+                    },
+                    {
+                        " not": -0.07105061,
+                        " have": -5.2116756,
+                        " the": -5.313238,
+                        " this": -5.8679256,
+                        " prefer": -6.000738
+                    },
+                    {
+                        " have": -2.373286,
+                        " support": -2.7248485,
+                        " want": -2.9435985,
+                        " accept": -3.201411,
+                        " agree": -3.3810985
+                    },
+                    {
+                        " abortion": -1.2927504,
+                        " the": -1.3474379,
+                        " a": -3.3083754,
+                        " an": -3.4490004,
+                        " that": -3.5583754
+                    },
+                    {
+                        " the": -0.81713676,
+                        " abortion": -1.3640118,
+                        " a": -3.6296368,
+                        " this": -3.7624493,
+                        " an": -3.8015118
+                    },
+                    {
+                        " to": -0.057968277,
+                        " open": -4.3939056,
+                        " for": -4.698593,
+                        " of": -4.7845306,
+                        " rights": -6.1282806
+                    },
+                    {
+                        " abortion": -0.2370532,
+                        " the": -2.9323657,
+                        " legal": -3.2761157,
+                        " safe": -3.8776782,
+                        " abortions": -4.072991
+                    },
+                    {
+                        " abortion": -0.11659368,
+                        " abortions": -2.4290936,
+                        " termination": -5.2181563,
+                        "-abortion": -5.9994063,
+                        " pregnancy": -7.0775313
+                    },
+                    {
+                        " in": -1.6622584,
+                        " legal": -1.8497584,
+                        ".": -1.9513209,
+                        " as": -2.7872584,
+                        " for": -3.045071
+                    },
+                    {
+                        " Austria": -0.58881336,
+                        " the": -1.7216258,
+                        " their": -2.9872508,
+                        " case": -3.5341258,
+                        " a": -3.8388133
+                    },
+                    {
+                        ".": -0.76386315,
+                        ",": -2.388863,
+                        ".\n\n": -2.5216756,
+                        ".\n": -3.295113,
+                        " as": -3.482613
+                    },
+                    {
+                        " In": -2.3785872,
+                        " The": -1.8473374,
+                        " I": -2.7067122,
+                        " This": -2.9723372,
+                        " My": -3.0660872
+                    },
+                    {
+                        " this": -2.8045053,
+                        " contrast": -1.0466928,
+                        " addition": -1.7029428,
+                        " the": -2.6170053,
+                        " other": -3.2107553
+                    },
+                    {
+                        " paper": -2.398571,
+                        " regard": -2.117321,
+                        " case": -2.1251335,
+                        " sense": -2.3126335,
+                        " context": -2.3126335
+                    },
+                    {
+                        ",": -0.10974667,
+                        " I": -2.4613092,
+                        " the": -5.8441215,
+                        " we": -6.0316215,
+                        " my": -6.711309
+                    },
+                    {
+                        " I": -0.19486593,
+                        " the": -2.9370534,
+                        " we": -3.9839284,
+                        " my": -4.202678,
+                        " it": -4.5073657
+                    },
+                    {
+                        " also": -2.4256904,
+                        " present": -3.042878,
+                        " show": -3.0506904,
+                        " discuss": -3.1600654,
+                        " will": -3.2850654
+                    },
+                    {
+                        " the": -0.5218697,
+                        " whether": -2.5765572,
+                        " how": -2.8968697,
+                        " and": -3.9359322,
+                        " why": -4.3656197
+                    },
+                    {
+                        " preferences": -2.467957,
+                        " question": -3.4445195,
+                        " effects": -3.5695195,
+                        " reasons": -3.577332,
+                        " relationship": -3.749207
+                    },
+                    {
+                        " of": -0.506939,
+                        " towards": -2.116314,
+                        " and": -2.2335014,
+                        " toward": -2.7647514,
+                        ",": -4.2178764
+                    },
+                    {
+                        " pro": -2.6820683,
+                        " Austrian": -1.814881,
+                        " the": -1.8851935,
+                        " women": -2.2445683,
+                        " ask": -2.4476933
+                    },
+                    {
+                        "-choice": -0.89283156,
+                        "-life": -0.67408156,
+                        "-l": -3.3772066,
+                        "-": -3.9397066,
+                        "life": -5.2443943
+                    },
+                    {
+                        " ask": -0.73745334,
+                        " and": -1.5968283,
+                        " women": -3.0655785,
+                        " participants": -3.5187035,
+                        " rights": -3.635891
+                    },
+                    {
+                        "ers": -0.0021527612,
+                        "er": -6.3224654,
+                        "<|endoftext|>": -9.96309,
+                        "-": -10.11934,
+                        "es": -10.408402
+                    },
+                    {
+                        " towards": -1.887694,
+                        " and": -2.247069,
+                        " in": -2.512694,
+                        " toward": -2.543944,
+                        " regarding": -2.715819
+                    },
+                    {
+                        " abortion": -0.90107244,
+                        " the": -1.64326,
+                        " induced": -1.83076,
+                        " access": -3.86201,
+                        " keeping": -4.33076
+                    },
+                    {
+                        " abortion": -0.9009725,
+                        "izing": -1.658785,
+                        " restrictions": -2.6587849,
+                        " access": -2.7603474,
+                        " induced": -3.5728474
+                    },
+                    {
+                        " available": -1.2050742,
+                        " accessible": -1.4550742,
+                        " free": -2.6035118,
+                        " and": -3.5956993,
+                        " access": -3.8925743
+                    },
+                    {
+                        " induced": -2.4088979,
+                        " abortion": -0.768273,
+                        " access": -1.518273,
+                        " abortions": -3.1120229,
+                        " and": -4.0885854
+                    },
+                    {
+                        " abortion": -0.11712483,
+                        " abortions": -2.3905623,
+                        " termination": -4.9843125,
+                        "-abortion": -6.289,
+                        " abort": -6.3749375
+                    },
+                    {
+                        " in": -1.3139818,
+                        ".": -1.4546068,
+                        " and": -2.4077318,
+                        ",": -2.7514818,
+                        ".\n\n": -3.2827318
+                    },
+                    {
+                        " a": -1.0700552,
+                        " well": -1.3200552,
+                        " an": -2.0544302,
+                        " the": -2.6716177,
+                        " one": -3.8044302
+                    },
+                    {
+                        " to": -0.0046413536,
+                        " the": -7.106204,
+                        " with": -7.934329,
+                        " ": -8.324954,
+                        " pro": -8.496829
+                    },
+                    {
+                        " abortion": -3.5313218,
+                        " the": -1.4063218,
+                        " legal": -2.6875718,
+                        " pro": -2.7031968,
+                        " a": -3.0313218
+                    },
+                    {
+                        " on": -1.471722,
+                        " in": -2.3857846,
+                        " under": -2.7842221,
+                        " with": -3.0185971,
+                        " for": -3.0185971
+                    },
+                    {
+                        ".": -2.7122636,
+                        " in": -2.110701,
+                        " for": -2.1966386,
+                        " that": -2.6028886,
+                        " with": -2.8528886
+                    },
+                    {
+                        " I": -1.5600505,
+                        " The": -1.7163005,
+                        " My": -2.4350505,
+                        " In": -2.458488,
+                        " This": -3.0756755
+                    },
+                    {
+                        " also": -1.7318802,
+                        " find": -2.0443802,
+                        " conclude": -3.2162552,
+                        " use": -3.4037552,
+                        " show": -3.4818802
+                    },
+                    {
+                        " not": -0.7708253,
+                        " this": -1.3723879,
+                        " so": -1.7473879,
+                        " a": -4.403638,
+                        " the": -4.497388
+                    },
+                    {
+                        " find": -1.6582272,
+                        " consider": -2.6504147,
+                        " examine": -3.0254147,
+                        " discuss": -3.9238522,
+                        " focus": -3.9316647
+                    },
+                    {
+                        " compare": -2.5368598,
+                        " ask": -2.2399848,
+                        " examine": -2.2946723,
+                        " address": -2.4274848,
+                        " investigate": -3.0681098
+                    },
+                    {
+                        " abortion": -3.3876817,
+                        " the": -0.6220567,
+                        " pro": -2.7001817,
+                        " these": -3.1767442,
+                        " their": -3.5204942
+                    },
+                    {
+                        " with": -1.6775893,
+                        " options": -2.0525894,
+                        " and": -2.5213394,
+                        " to": -2.638527,
+                        " rights": -2.841652
+                    },
+                    {
+                        ",": -1.7909544,
+                        " with": -2.0800169,
+                        ".": -2.1972044,
+                        " in": -2.4862669,
+                        " and": -2.6425169
+                    },
+                    {
+                        " to": -0.0031964893,
+                        " the": -6.714134,
+                        " their": -8.753197,
+                        "\n": -8.878197,
+                        " t": -8.932884
+                    },
+                    {
+                        " my": -3.669839,
+                        " the": -0.591714,
+                        " ethical": -2.763589,
+                        " a": -3.076089,
+                        " their": -3.591714
+                    },
+                    {
+                        " limited": -2.780117,
+                        " data": -2.967617,
+                        " research": -3.030117,
+                        " experimental": -3.045742,
+                        " focus": -3.0691795
+                    },
+                    {
+                        " design": -1.5088567,
+                        "\u2019s": -1.1260442,
+                        "'s": -3.3604193,
+                        " being": -3.3916693,
+                        " of": -3.5010443
+                    },
+                    {
+                        ".": -0.8007959,
+                        ",": -1.8398584,
+                        " and": -2.5586085,
+                        ".\n\n": -2.9961085,
+                        ";": -3.300796
+                    },
+                    {
+                        " My": -2.5217705,
+                        " I": -1.6936455,
+                        " However": -1.951458,
+                        " The": -2.2248955,
+                        " In": -2.7405205
+                    },
+                    {
+                        " study": -2.319499,
+                        " analysis": -1.897624,
+                        " results": -1.975749,
+                        " findings": -2.319499,
+                        " research": -2.6866865
+                    },
+                    {
+                        " design": -1.6517388,
+                        " is": -2.1204886,
+                        " shows": -2.7767386,
+                        " also": -3.2454886,
+                        " provides": -3.4954886
+                    },
+                    {
+                        " the": -0.9896846,
+                        " that": -1.5209346,
+                        " a": -2.2084346,
+                        " how": -3.622497,
+                        " an": -3.8959346
+                    },
+                    {
+                        " preferences": -2.6903596,
+                        " attitudes": -2.5341096,
+                        " results": -3.3153596,
+                        " importance": -3.432547,
+                        " differences": -4.088797
+                    },
+                    {
+                        " of": -0.35891187,
+                        " for": -1.6635994,
+                        " and": -3.6948495,
+                        " towards": -4.3823495,
+                        " among": -4.7260995
+                    },
+                    {
+                        " pro": -1.534945,
+                        " ask": -2.0427575,
+                        " the": -2.11307,
+                        " Austrian": -2.128695,
+                        " women": -2.503695
+                    },
+                    {
+                        "-seven": -0.034119554,
+                        "-eight": -5.104432,
+                        "-six": -5.3934946,
+                        "-nine": -5.604432,
+                        " seven": -5.713807
+                    },
+                    {
+                        " Austrian": -0.8447354,
+                        " ask": -1.5947354,
+                        " pro": -2.3447354,
+                        " women": -3.0009854,
+                        " participants": -4.0556726
+                    },
+                    {
+                        " ask": -0.18947808,
+                        " women": -3.0019782,
+                        " pro": -3.5957282,
+                        " participants": -4.6816654,
+                        " respondents": -4.783228
+                    },
+                    {
+                        "ers": -0.0015636618,
+                        "er": -6.775001,
+                        "-": -9.509377,
+                        "<|endoftext|>": -10.165627,
+                        "es": -10.407814
+                    },
+                    {
+                        " towards": -1.9968673,
+                        " for": -1.7390548,
+                        " who": -2.1374922,
+                        " regarding": -2.3562422,
+                        ".": -2.9265547
+                    },
+                    {
+                        " the": -1.9652197,
+                        " abortion": -1.5433447,
+                        " induced": -1.6214697,
+                        " legal": -2.0902197,
+                        " a": -3.7074072
+                    },
+                    {
+                        " availability": -1.8665497,
+                        " legal": -2.4602997,
+                        " abortion": -2.7415497,
+                        " issue": -3.8196747,
+                        " legality": -3.9681122
+                    },
+                    {
+                        "availability": -0.47427273,
+                        "regulated": -2.8414602,
+                        "conditionally": -3.2711477,
+                        "ification": -3.8102102,
+                        "iver": -4.1461477
+                    },
+                    {
+                        " of": -0.057734936,
+                        " and": -3.8467975,
+                        " or": -4.057735,
+                        ",": -5.9092975,
+                        " to": -6.3936725
+                    },
+                    {
+                        " induced": -0.6999679,
+                        " abortion": -1.8952804,
+                        " the": -2.0437179,
+                        " legal": -3.2702804,
+                        " a": -4.278093
+                    },
+                    {
+                        " abortion": -0.057403505,
+                        " abortions": -3.268341,
+                        " legal": -5.9636536,
+                        " termination": -6.205841,
+                        " and": -6.658966
+                    },
+                    {
+                        " in": -1.1556618,
+                        ".": -1.6634743,
+                        " as": -2.6322243,
+                        " and": -2.7494118,
+                        ",": -3.2494118
+                    },
+                    {
+                        " Austria": -0.19612968,
+                        " the": -2.7508173,
+                        " a": -4.38363,
+                        " their": -4.4539423,
+                        " case": -5.0164423
+                    },
+                    {
+                        ".": -0.6772298,
+                        ".\n\n": -2.505355,
+                        " and": -2.8100424,
+                        ",": -2.817855,
+                        ".\n": -2.8725424
+                    },
+                    {
+                        " My": -2.0891504,
+                        " I": -1.6282128,
+                        " The": -1.8157128,
+                        " In": -2.6360254,
+                        " This": -3.034463
+                    },
+                    {
+                        " study": -1.8806318,
+                        " analysis": -1.7868818,
+                        " results": -1.9900068,
+                        " findings": -2.1853194,
+                        " research": -2.8103194
+                    },
+                    {
+                        " also": -2.1048882,
+                        " is": -2.3158257,
+                        " shows": -2.4173882,
+                        " reveals": -3.2611382,
+                        " provides": -3.5658257
+                    },
+                    {
+                        " the": -1.2344549,
+                        " a": -1.5078924,
+                        " an": -2.6407049,
+                        " data": -3.4063299,
+                        " discrete": -3.6953924
+                    },
+                    {
+                        " data": -2.3200393,
+                        " experimental": -2.7106643,
+                        " same": -3.5153518,
+                        " survey": -3.6325393,
+                        " discrete": -3.6559768
+                    },
+                    {
+                        " of": -0.016232133,
+                        "-up": -5.2584195,
+                        " up": -6.297482,
+                        " experimental": -7.859982,
+                        " questions": -8.2662325
+                    },
+                    {
+                        " discrete": -0.32069227,
+                        " questions": -3.5238173,
+                        " experimental": -3.8519423,
+                        " choice": -3.9535048,
+                        " the": -4.273817
+                    },
+                    {
+                        " choice": -0.08264482,
+                        "-choice": -3.2935824,
+                        " choices": -3.91077,
+                        " questions": -5.1373324,
+                        " preference": -6.8248324
+                    },
+                    {
+                        " questions": -0.11146361,
+                        " experiments": -4.1270885,
+                        " question": -4.166151,
+                        " experimental": -4.634901,
+                        " experiment": -4.822401
+                    },
+                    {
+                        " to": -1.9208816,
+                        " where": -2.1083817,
+                        " and": -2.7255692,
+                        " in": -2.7255692,
+                        ",": -2.7646317
+                    },
+                    {
+                        " the": -1.1797186,
+                        " twenty": -3.1015935,
+                        " a": -3.1484685,
+                        " my": -3.4765935,
+                        " each": -3.6797185
+                    },
+                    {
+                        " the": -0.40700468,
+                        " preferences": -2.2195046,
+                        " whether": -4.0085673,
+                        " ask": -4.17263,
+                        " their": -4.48513
+                    },
+                    {
+                        " respondents": -4.278957,
+                        " preferences": -0.6695817,
+                        " attitudes": -3.1930192,
+                        " preference": -4.044582,
+                        " willingness": -4.466457
+                    },
+                    {
+                        "'": -2.383648,
+                        "\u2019": -0.17271034,
+                        " who": -5.0164604,
+                        ".": -5.102398,
+                        " preferences": -5.664898
+                    },
+                    {
+                        " preferences": -0.51219,
+                        " attitudes": -2.5434399,
+                        " preference": -3.6059399,
+                        " willingness": -3.6215649,
+                        " choices": -3.8325024
+                    },
+                    {
+                        " for": -1.0225044,
+                        ".": -1.6475044,
+                        " towards": -2.5693793,
+                        " and": -3.1240668,
+                        " regarding": -3.3037543
+                    },
+                    {
+                        " the": -1.9720169,
+                        " abortion": -1.4642044,
+                        " induced": -1.7610794,
+                        " pro": -1.7845169,
+                        " legal": -3.4095168
+                    },
+                    {
+                        " un": -1.2409353,
+                        " availability": -1.6784353,
+                        " instrument": -2.7409353,
+                        " abortion": -3.0924978,
+                        " pro": -3.9049978
+                    },
+                    {
+                        " of": -0.11283328,
+                        ".": -4.2378335,
+                        " and": -4.573771,
+                        " that": -4.620646,
+                        " in": -5.120646
+                    },
+                    {
+                        " induced": -1.5911101,
+                        " the": -1.4270476,
+                        " abortion": -2.3020477,
+                        " legal": -3.1770477,
+                        " a": -3.2864227
+                    },
+                    {
+                        " abortion": -0.038572572,
+                        " abortions": -3.8198225,
+                        "-abortion": -5.6245103,
+                        " termination": -6.132323,
+                        " and": -6.663573
+                    },
+                    {
+                        " on": -3.3309183,
+                        ".": -1.0809184,
+                        " in": -2.1043558,
+                        " and": -3.1668558,
+                        ",": -3.3856058
+                    },
+                    {
+                        " a": -3.3387127,
+                        " the": -1.2527751,
+                        " women": -1.9715251,
+                        " their": -2.1668377,
+                        " health": -3.2137127
+                    },
+                    {
+                        " five": -2.874816,
+                        " scale": -1.7341908,
+                        " ": -3.0388784,
+                        " hypothetical": -3.499816,
+                        " sample": -3.546691
+                    },
+                    {
+                        "-point": -0.24147934,
+                        "-level": -2.936792,
+                        " point": -3.249292,
+                        "-item": -4.4758544,
+                        "-grade": -4.874292
+                    },
+                    {
+                        " Lik": -0.5492596,
+                        " scale": -1.1273847,
+                        " rating": -4.3930097,
+                        " lik": -4.603947,
+                        " ordinal": -4.6117597
+                    },
+                    {
+                        "ert": -0.00026228945,
+                        "elihood": -9.508075,
+                        "erto": -10.55495,
+                        "et": -10.6487,
+                        "ed": -11.0237
+                    },
+                    {
+                        " scale": -0.09631589,
+                        "-type": -3.2213159,
+                        "-scale": -3.9166284,
+                        " Scale": -5.2603784,
+                        "-like": -5.346316
+                    },
+                    {
+                        " (": -2.7493024,
+                        ".": -0.71023995,
+                        ",": -2.7180524,
+                        " from": -2.9836774,
+                        " ranging": -3.0461774
+                    },
+                    {
+                        "r": -3.4762516,
+                        "1": -1.3512516,
+                        "from": -2.562189,
+                        "strong": -2.843439,
+                        "0": -3.452814
+                    },
+                    {
+                        "anging": -0.03942271,
+                        "anged": -3.6566103,
+                        "are": -5.140985,
+                        " =": -6.1644225,
+                        "=": -6.922235
+                    },
+                    {
+                        " from": -0.029180903,
+                        " between": -4.060431,
+                        " ": -5.591681,
+                        " on": -7.091681,
+                        " in": -7.2244935
+                    },
+                    {
+                        " ": -1.5953165,
+                        " strongly": -1.915629,
+                        " \u2018": -2.321879,
+                        " -": -2.634379,
+                        " \u201c": -2.6890664
+                    },
+                    {
+                        "1": -0.16456139,
+                        "0": -2.2583113,
+                        "5": -3.3833113,
+                        "100": -5.859874,
+                        "2": -5.9926863
+                    },
+                    {
+                        " to": -1.3339967,
+                        " =": -1.8652467,
+                        "=": -2.6230593,
+                        ":": -2.7558718,
+                        ",": -2.9980593
+                    },
+                    {
+                        " Strong": -3.1077538,
+                        " strongly": -1.1780664,
+                        " very": -2.9202538,
+                        " ": -2.9280663,
+                        " \u2018": -2.9749413
+                    },
+                    {
+                        "ly": -0.015120333,
+                        " Dis": -5.5619955,
+                        " disagreement": -6.663558,
+                        " Pro": -7.179183,
+                        " support": -7.476058
+                    },
+                    {
+                        " agree": -2.4934523,
+                        " Dis": -1.1184523,
+                        " disagree": -1.2278273,
+                        " Agree": -2.6497023,
+                        " oppose": -3.5715773
+                    },
+                    {
+                        " to": -0.29144144,
+                        ",": -2.0883164,
+                        ";": -3.502379,
+                        " with": -3.971129,
+                        " -": -4.033629
+                    },
+                    {
+                        " ": -0.015715003,
+                        " -": -5.4297776,
+                        " five": -6.25009,
+                        " the": -6.5235276,
+                        " disagree": -7.1954026
+                    },
+                    {
+                        "5": -0.009256248,
+                        "4": -5.6811314,
+                        "3": -6.688944,
+                        "6": -6.923319,
+                        "7": -7.142069
+                    },
+                    {
+                        " -": -0.24196629,
+                        " \u2013": -1.9450912,
+                        "-": -3.2575912,
+                        " Strong": -4.1950912,
+                        "-strong": -5.7810287
+                    },
+                    {
+                        " Strong": -0.05705542,
+                        " strongly": -3.799243,
+                        "Strong": -4.3695555,
+                        " Not": -5.767993,
+                        " Dis": -5.971118
+                    },
+                    {
+                        "ly": -0.000840596,
+                        " disagree": -8.422715,
+                        "ely": -9.516465,
+                        "ley": -9.610215,
+                        " strongly": -10.086778
+                    },
+                    {
+                        " disagree": -0.035577293,
+                        " Dis": -4.3480773,
+                        " agree": -5.23089,
+                        " dis": -5.309015,
+                        " oppose": -6.0980773
+                    },
+                    {
+                        ").": -0.35034758,
+                        ")": -1.9440975,
+                        ").\n\n": -2.95191,
+                        ").\n": -3.20191,
+                        "),": -3.5534725
+                    },
+                    {
+                        " My": -2.0251956,
+                        " The": -1.4001955,
+                        " I": -1.6033205,
+                        " In": -2.7439456,
+                        " This": -3.298633
+                    },
+                    {
+                        " study": -1.2642524,
+                        " analysis": -1.8111274,
+                        " results": -2.6548774,
+                        " research": -3.053315,
+                        " data": -3.147065
+                    },
+                    {
+                        " also": -2.3615868,
+                        " is": -2.4318993,
+                        " uses": -2.6506493,
+                        " shows": -2.9397118,
+                        " displays": -3.2834618
+                    },
+                    {
+                        " the": -0.5412698,
+                        " that": -1.9240823,
+                        " a": -3.1506448,
+                        " on": -3.8693948,
+                        " an": -4.4865823
+                    },
+                    {
+                        " results": -1.797566,
+                        " preferences": -2.797566,
+                        " mean": -3.0866284,
+                        " average": -3.3522534,
+                        " respondents": -3.5241284
+                    },
+                    {
+                        " results": -1.1394644,
+                        " survey": -1.6863394,
+                        " data": -1.8816519,
+                        " findings": -3.2175894,
+                        " analysis": -3.4129019
+                    },
+                    {
+                        " of": -0.78092533,
+                        " for": -2.6793628,
+                        " on": -2.7418628,
+                        " and": -2.9293628,
+                        " from": -2.9293628
+                    },
+                    {
+                        " the": -1.1665132,
+                        " a": -2.5571382,
+                        " terms": -2.7602632,
+                        " which": -3.0415132,
+                        " Austria": -3.2133882
+                    },
+                    {
+                        " analysis": -0.80867714,
+                        " models": -1.6211772,
+                        " analyses": -2.6133647,
+                        " form": -3.4258647,
+                        " results": -3.4571147
+                    },
+                    {
+                        ".": -1.202571,
+                        " and": -2.390071,
+                        ",": -2.780696,
+                        " with": -2.952571,
+                        " using": -2.9603834
+                    },
+                    {
+                        " using": -1.4890274,
+                        " controlling": -2.9421525,
+                        " applying": -3.043715,
+                        " employing": -3.1609025,
+                        " the": -3.3015275
+                    },
+                    {
+                        " a": -1.3305691,
+                        " the": -0.92431915,
+                        " an": -3.6821318,
+                        " ordered": -3.8696318,
+                        " two": -4.338382
+                    },
+                    {
+                        " linear": -2.281777,
+                        " multin": -2.516152,
+                        " binary": -2.6489644,
+                        " log": -2.828652,
+                        " prob": -2.859902
+                    },
+                    {
+                        " coefficient": -2.9488084,
+                        " effects": -1.5191209,
+                        " utility": -1.6206834,
+                        "-effects": -2.1519334,
+                        " effect": -2.237871
+                    },
+                    {
+                        " log": -1.092618,
+                        " model": -1.436368,
+                        " multin": -3.233243,
+                        " mixed": -3.342618,
+                        " discrete": -3.358243
+                    },
+                    {
+                        "it": -0.0019084084,
+                        "-log": -7.931596,
+                        "-linear": -8.119096,
+                        "its": -8.837846,
+                        "-": -9.119096
+                    },
+                    {
+                        " model": -0.24735661,
+                        " (": -2.4270442,
+                        " regression": -3.2864192,
+                        ".": -4.7942314,
+                        " specification": -4.895794
+                    },
+                    {
+                        ".": -0.9976418,
+                        " with": -2.3882668,
+                        " for": -2.5054543,
+                        " (": -2.6695168,
+                        " to": -2.9742043
+                    },
+                    {
+                        " The": -1.4026853,
+                        " My": -1.5901853,
+                        " I": -1.6214353,
+                        " In": -2.8089352,
+                        " This": -3.1214352
+                    },
+                    {
+                        " results": -1.9852774,
+                        " random": -2.664965,
+                        " model": -2.8602774,
+                        " dependent": -3.0634024,
+                        " regression": -3.4852774
+                    },
+                    {
+                        " suggest": -3.4636242,
+                        " of": -0.87768674,
+                        " show": -1.6198742,
+                        " indicate": -2.2292492,
+                        " reveal": -3.4011242
+                    },
+                    {
+                        " that": -0.1250419,
+                        " a": -3.234417,
+                        " the": -3.4766045,
+                        " an": -5.1641045,
+                        " significant": -6.1797295
+                    },
+                    {
+                        " the": -1.022698,
+                        " pro": -3.2336354,
+                        " Austrian": -3.2336354,
+                        " a": -3.3898854,
+                        " women": -3.397698
+                    },
+                    {
+                        " majority": -1.907435,
+                        " respondents": -2.2433724,
+                        " preferences": -2.594935,
+                        " availability": -3.76681,
+                        " ask": -3.813685
+                    },
+                    {
+                        " of": -0.8186029,
+                        ",": -1.7639154,
+                        " and": -1.9279779,
+                        " group": -2.7795405,
+                        " variable": -3.9357905
+                    },
+                    {
+                        " the": -0.7716603,
+                        " respondents": -1.7716603,
+                        " ask": -2.2716603,
+                        " women": -3.3654103,
+                        " Austrian": -3.5841603
+                    },
+                    {
+                        " respondents": -1.1492169,
+                        " ask": -1.6804669,
+                        " respondent": -1.6960919,
+                        " participants": -2.899217,
+                        " Austrian": -3.3289044
+                    },
+                    {
+                        " and": -2.1886358,
+                        " is": -1.3058233,
+                        ",": -1.8058233,
+                        " has": -2.2433233,
+                        " significantly": -3.4308233
+                    },
+                    {
+                        " the": -0.8322818,
+                        " their": -1.0510318,
+                        " gender": -4.2150946,
+                        " education": -4.504157,
+                        " respondents": -4.613532
+                    },
+                    {
+                        " number": -2.6452053,
+                        " respondents": -2.9655178,
+                        " level": -3.0436428,
+                        " gender": -3.1139553,
+                        " education": -3.6373928
+                    },
+                    {
+                        " of": -1.3511825,
+                        " from": -1.43712,
+                        " between": -1.515245,
+                        " to": -1.577745,
+                        " they": -4.3355575
+                    },
+                    {
+                        " the": -0.53282523,
+                        " their": -1.5953252,
+                        " respondents": -2.8922002,
+                        " residence": -4.2515755,
+                        " a": -4.5328255
+                    },
+                    {
+                        " respondents": -0.73302287,
+                        " respondent": -2.029898,
+                        " provinces": -3.264273,
+                        " province": -3.451773,
+                        " interview": -3.545523
+                    },
+                    {
+                        "'": -1.7889786,
+                        " from": -0.78897864,
+                        " to": -1.8202286,
+                        "\u2019": -3.187416,
+                        " are": -3.8202286
+                    },
+                    {
+                        " residence": -1.6500863,
+                        " place": -2.907899,
+                        " residences": -3.079774,
+                        " home": -3.204774,
+                        " birth": -3.5250864
+                    },
+                    {
+                        " from": -0.40498477,
+                        " to": -1.5768597,
+                        " are": -4.1471725,
+                        " place": -4.6159225,
+                        " in": -4.6940475
+                    },
+                    {
+                        " the": -0.5792949,
+                        " Vienna": -1.4230449,
+                        " their": -2.8214824,
+                        " a": -3.53242,
+                        " Austria": -4.1652327
+                    },
+                    {
+                        " capital": -1.2267157,
+                        " provincial": -2.3517156,
+                        " city": -2.718903,
+                        " nearest": -3.1017156,
+                        " Austrian": -3.5079656
+                    },
+                    {
+                        " city": -0.742771,
+                        " of": -1.649021,
+                        " are": -2.5552711,
+                        ",": -3.3833961,
+                        " have": -3.4771461
+                    },
+                    {
+                        " are": -1.9747694,
+                        " of": -0.7325819,
+                        ",": -2.5372694,
+                        " have": -3.0607069,
+                        " (": -3.0997694
+                    },
+                    {
+                        " the": -1.6801022,
+                        " significant": -1.9457272,
+                        " statistically": -2.5472898,
+                        " significantly": -2.7738523,
+                        " positively": -2.9222898
+                    },
+                    {
+                        " predictors": -2.5129356,
+                        ".": -1.598873,
+                        " factors": -1.880123,
+                        " in": -1.911373,
+                        " for": -2.6379356
+                    },
+                    {
+                        " of": -0.30374154,
+                        " for": -2.1318665,
+                        ".": -2.7256165,
+                        " in": -3.405304,
+                        ",": -4.7412415
+                    },
+                    {
+                        " the": -0.5113898,
+                        " their": -2.2457647,
+                        " preferences": -2.7613897,
+                        " respondents": -3.1442022,
+                        " abortion": -3.7613897
+                    },
+                    {
+                        " respondents": -0.8208788,
+                        " preferences": -1.7271287,
+                        " attitudes": -3.5005662,
+                        " ask": -3.5943162,
+                        " respondent": -3.6021287
+                    },
+                    {
+                        "'": -0.13226292,
+                        "\u2019": -2.1869504,
+                        ".": -6.49945,
+                        " '": -7.108825,
+                        "\u00b4": -7.202575
+                    },
+                    {
+                        " attitudes": -1.7968743,
+                        " preferences": -0.67187434,
+                        " preference": -3.6328118,
+                        " opinions": -3.7499993,
+                        " responses": -3.7812493
+                    },
+                    {
+                        " towards": -0.38955238,
+                        ".": -1.9520524,
+                        " toward": -3.1317399,
+                        " to": -3.8504899,
+                        " regarding": -4.053615
+                    },
+                    {
+                        " the": -1.2605085,
+                        " induced": -0.9323835,
+                        " abortion": -1.9480085,
+                        " legal": -2.9167585,
+                        " keeping": -4.4480085
+                    },
+                    {
+                        " abortion": -4.0284176,
+                        " un": -0.7627925,
+                        " availability": -2.020605,
+                        " consequences": -2.4034176,
+                        " legal": -3.864355
+                    },
+                    {
+                        " issue": -2.1897457,
+                        ".": -2.4631832,
+                        " policy": -2.6272457,
+                        " instrument": -2.9631832,
+                        " option": -2.9709957
+                    },
+                    {
+                        " in": -0.45555985,
+                        ".": -1.3149348,
+                        ".\n\n": -4.541497,
+                        " of": -4.603997,
+                        ",": -4.6743097
+                    },
+                    {
+                        " Austria": -0.072257794,
+                        " the": -3.2519453,
+                        " their": -4.6113205,
+                        " general": -6.1113205,
+                        " a": -6.2206955
+                    },
+                    {
+                        ".": -0.1895996,
+                        ".\n\n": -2.978662,
+                        ",": -3.7520995,
+                        ".\n": -3.7833495,
+                        " (": -4.3770995
+                    },
+                    {
+                        " the": -0.45125982,
+                        " a": -2.7090724,
+                        " closed": -2.9043849,
+                        " their": -3.2715724,
+                        " induced": -4.0137596
+                    },
+                    {
+                        " experiment": -0.47821933,
+                        " experiments": -2.5250943,
+                        " abortion": -3.1735318,
+                        " barriers": -3.8375943,
+                        " selection": -4.0563445
+                    },
+                    {
+                        "ter": -2.622403,
+                        "ri": -1.1927154,
+                        ".": -2.200528,
+                        "riers": -2.731778,
+                        "<|endoftext|>": -3.3177154
+                    },
+                    {
+                        ".": -0.794677,
+                        ".\n\n": -3.466552,
+                        " and": -3.732177,
+                        " experiments": -4.044677,
+                        " conditions": -4.0681143
+                    },
+                    {
+                        " The": -1.3770121,
+                        " My": -2.1816998,
+                        " I": -2.5020123,
+                        " In": -2.5098248,
+                        " However": -2.8691998
+                    },
+                    {
+                        ",": -0.015367701,
+                        " enough": -5.02318,
+                        " the": -6.5309925,
+                        " and": -6.58568,
+                        " my": -7.4059925
+                    },
+                    {
+                        " the": -0.8394283,
+                        " my": -2.3706784,
+                        " I": -2.4800534,
+                        " respondents": -3.503491,
+                        " women": -4.0113034
+                    },
+                    {
+                        " with": -1.6488217,
+                        " who": -1.1566342,
+                        " living": -2.4925718,
+                        " in": -2.5003843,
+                        "'s": -2.7425718
+                    },
+                    {
+                        " a": -1.3462238,
+                        " higher": -1.9321613,
+                        " lower": -3.2524738,
+                        " the": -3.2680988,
+                        " children": -3.5180988
+                    }
+                ],
+                "text_offset": [
+                    49,
+                    51,
+                    59,
+                    66,
+                    70,
+                    76,
+                    77,
+                    79,
+                    87,
+                    90,
+                    100,
+                    109,
+                    112,
+                    116,
+                    128,
+                    132,
+                    141,
+                    147,
+                    154,
+                    160,
+                    169,
+                    173,
+                    176,
+                    180,
+                    182,
+                    192,
+                    195,
+                    200,
+                    205,
+                    212,
+                    222,
+                    225,
+                    233,
+                    234,
+                    237,
+                    246,
+                    249,
+                    255,
+                    258,
+                    261,
+                    274,
+                    281,
+                    284,
+                    288,
+                    292,
+                    295,
+                    304,
+                    311,
+                    321,
+                    327,
+                    329,
+                    336,
+                    348,
+                    352,
+                    356,
+                    363,
+                    370,
+                    382,
+                    385,
+                    389,
+                    402,
+                    405,
+                    409,
+                    420,
+                    421,
+                    424,
+                    433,
+                    437,
+                    442,
+                    445,
+                    456,
+                    459,
+                    463,
+                    468,
+                    479,
+                    482,
+                    484,
+                    486,
+                    493,
+                    504,
+                    506,
+                    511,
+                    520,
+                    523,
+                    530,
+                    535,
+                    539,
+                    551,
+                    554,
+                    562,
+                    566,
+                    573,
+                    576,
+                    584,
+                    592,
+                    595,
+                    606,
+                    609,
+                    613,
+                    615,
+                    618,
+                    621,
+                    622,
+                    624,
+                    627,
+                    628,
+                    629,
+                    639,
+                    643,
+                    655,
+                    658,
+                    666,
+                    677,
+                    690,
+                    691,
+                    703,
+                    704,
+                    709,
+                    713,
+                    718,
+                    722,
+                    725,
+                    728,
+                    732,
+                    742,
+                    750,
+                    757,
+                    760,
+                    768,
+                    777,
+                    780,
+                    788,
+                    789,
+                    792,
+                    797,
+                    803,
+                    804,
+                    806,
+                    814,
+                    818,
+                    828,
+                    831,
+                    835,
+                    842,
+                    846,
+                    849,
+                    857,
+                    863,
+                    875,
+                    883,
+                    891,
+                    900,
+                    903,
+                    911,
+                    914,
+                    923,
+                    931,
+                    932,
+                    934,
+                    937,
+                    941,
+                    950,
+                    958,
+                    967,
+                    973,
+                    977,
+                    980,
+                    983,
+                    989,
+                    996,
+                    997,
+                    1000,
+                    1006,
+                    1015,
+                    1019,
+                    1031,
+                    1034,
+                    1041,
+                    1047,
+                    1056,
+                    1060,
+                    1063,
+                    1071,
+                    1075,
+                    1078,
+                    1090,
+                    1093,
+                    1101,
+                    1110,
+                    1113,
+                    1121,
+                    1122,
+                    1125,
+                    1131,
+                    1136,
+                    1140,
+                    1144,
+                    1147,
+                    1156,
+                    1163,
+                    1173,
+                    1177,
+                    1189,
+                    1193,
+                    1205,
+                    1206,
+                    1218,
+                    1222,
+                    1226,
+                    1239,
+                    1242,
+                    1250,
+                    1259,
+                    1262,
+                    1264,
+                    1269,
+                    1275,
+                    1279,
+                    1282,
+                    1288,
+                    1290,
+                    1291,
+                    1297,
+                    1302,
+                    1303,
+                    1304,
+                    1306,
+                    1313,
+                    1315,
+                    1321,
+                    1324,
+                    1325,
+                    1326,
+                    1328,
+                    1335,
+                    1337,
+                    1346,
+                    1348,
+                    1351,
+                    1357,
+                    1365,
+                    1369,
+                    1382,
+                    1395,
+                    1398,
+                    1409,
+                    1418,
+                    1421,
+                    1432,
+                    1434,
+                    1441,
+                    1453,
+                    1457,
+                    1459,
+                    1465,
+                    1466,
+                    1470,
+                    1478,
+                    1486,
+                    1491,
+                    1495,
+                    1499,
+                    1502,
+                    1506,
+                    1518,
+                    1522,
+                    1526,
+                    1535,
+                    1538,
+                    1542,
+                    1553,
+                    1554,
+                    1564,
+                    1569,
+                    1573,
+                    1581,
+                    1586,
+                    1590,
+                    1604,
+                    1615,
+                    1618,
+                    1622,
+                    1634,
+                    1635,
+                    1645,
+                    1653,
+                    1657,
+                    1666,
+                    1676,
+                    1679,
+                    1687,
+                    1694,
+                    1702,
+                    1706,
+                    1709,
+                    1710,
+                    1724,
+                    1725,
+                    1732,
+                    1737
+                ]
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 9,
+        "completion_tokens": 300,
+        "total_tokens": 309
+    }
+}

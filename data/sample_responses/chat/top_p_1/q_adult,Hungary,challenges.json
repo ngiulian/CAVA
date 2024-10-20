@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUM0zQS2Mg6kRZ2hFB2b94XcxViq",
+    "object": "chat.completion",
+    "created": 1705852132,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Hungary face include economic hardship, limited job opportunities, high poverty rates, social inequality, and an aging population. The country has been struggling with low wages and a high cost of living, making it difficult for many adults to make ends meet. Unemployment rates, especially among the youth, have been relatively high, posing a challenge in finding stable and well-paying jobs. Social inequality is also a concern, with marginalized groups experiencing discrimination and limited access to resources and opportunities. Additionally, Hungary has one of the fastest-aging populations in Europe, which creates challenges in terms of healthcare, pensions, and providing support for the elderly."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 131,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

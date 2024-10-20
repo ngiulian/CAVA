@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU2bef7c6yNkCnrZ3JTvGDdh8GLn",
+    "object": "chat.completion",
+    "created": 1705850929,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Benin face a range of challenges, including limited access to healthcare and services, financial difficulties, social isolation, and lack of government support. Many seniors struggle to afford adequate healthcare due to limited pension plans and high medical expenses. Additionally, they often face financial constraints, as they may not have sufficient savings or access to employment opportunities. Social isolation is another significant challenge for seniors, as they may be disconnected from their families and communities. Lastly, there is a lack of government support for seniors, such as limited social welfare programs or policies to address their specific needs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 115,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

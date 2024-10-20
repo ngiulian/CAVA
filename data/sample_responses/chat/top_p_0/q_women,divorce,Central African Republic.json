@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSzDBolTqIj9JSkfzXYFtvgtrV6A",
+    "object": "chat.completion",
+    "created": 1705846875,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Central African Republic think of divorce, as opinions on this matter can vary greatly among individuals. However, it is worth noting that divorce is generally considered a taboo and stigmatized topic in the country, particularly within traditional and conservative communities. Many women may face social pressure and judgment if they choose to pursue a divorce. Additionally, due to limited legal and financial resources, women may be hesitant to seek divorce as it can often result in economic instability and a loss of social support. However, it is important to recognize that attitudes towards divorce are not uniform, and there may be women who support the idea of divorce as a means to escape abusive or unhappy marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 144,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

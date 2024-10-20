@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTj8kahfR8k2x1SY89B955sSUuRT",
+    "object": "chat.completion",
+    "created": 1705849722,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to generalize the thoughts and beliefs of most women in Somalia regarding abortion as opinions on this matter differ among individuals based on their personal, cultural, and religious perspectives. However, it is worth noting that Somalia is a predominantly Muslim country, where Islamic teachings and customs heavily influence societal attitudes.\n\nIslamic law generally considers abortion as forbidden, except in cases where the life or health of the mother is at risk. Many Somali women may adhere to these religious beliefs and see abortion as morally and religiously wrong, unless it is required to save the life of the mother.\n\nNevertheless, factors such as education, exposure to different perspectives, and individual circumstances can lead to varying opinions among women. Some women in Somalia might support a woman's right to choose, considering factors like the mother's health, socioeconomic circumstances, and personal autonomy. Others may prioritize the potential sanctity of life and view any form of abortion as unacceptable.\n\nIt is essential to recognize that this summary represents a broad perspective and individual opinions on abortion can significantly vary within Somalia, as well as among Somali women living abroad."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 214,
+        "total_tokens": 233
+    },
+    "system_fingerprint": null
+}

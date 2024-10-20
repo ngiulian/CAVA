@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGTC6DSM0aLQzLgKgFtGNoSAe3L",
+    "object": "chat.completion",
+    "created": 1705851789,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Estonia face several significant challenges. Firstly, academic pressure is a prominent issue as students are expected to perform well academically and secure good grades. The intense competition for university placements and successful careers can lead to stress, anxiety, and burnout among teenagers.\n\nSecondly, substance abuse, particularly alcohol and drug abuse, is a major concern. Estonia has one of the highest alcohol consumption rates among teenagers in Europe, which greatly affects their overall well-being and contributes to various social problems.\n\nThirdly, mental health issues are on the rise among Estonian teenagers. Factors such as high expectations, social media influence, and the pressure to conform to societal norms can impact their mental well-being, leading to depression, anxiety, and self-esteem issues.\n\nMoreover, bullying in schools remains a persistent challenge. Teenagers often face verbal, physical, or cyberbullying from their peers, which can have long-lasting negative effects on their mental health and overall development.\n\nLastly, the impact of the digital age and technology on teenagers' lives cannot be overlooked. While technology provides various opportunities, it also brings challenges like online addiction, excessive screen time, and the potential for cybercrimes or cyberbullying.\n\nOverall, addressing these challenges requires a holistic approach involving the education system, parents, and the society at large to create a supportive environment for teenagers in Estonia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 270,
+        "total_tokens": 288
+    },
+    "system_fingerprint": null
+}

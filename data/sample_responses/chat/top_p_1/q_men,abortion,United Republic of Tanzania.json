@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqR2JF4RWH01J369YO899oQgYKw",
+    "object": "chat.completion",
+    "created": 1705850175,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the United Republic of Tanzania have a negative view of abortion. They generally believe that it is morally wrong and should be prohibited unless it is necessary to save the life of the mother. They often consider abortion as a violation of religious and cultural values in the society. Additionally, many men hold the belief that abortion undermines family structures and that women should prioritize their role as mothers. Overall, the majority of men in Tanzania are against the practice of abortion and advocate for stricter regulations surrounding it."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 99,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

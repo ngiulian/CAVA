@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSr1SpqCgj4CLaL8bI4iiZ9oAhg5",
+    "object": "chat.completion",
+    "created": 1705846367,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in France are generally accepting of divorce and view it as a normal part of modern relationships. They believe that individuals should have the freedom to leave a marriage if they are unhappy or if it no longer serves their needs. Men in France also consider divorce as an opportunity for personal growth and a chance to find new love and happiness. However, some men may still feel a sense of disappointment or loss associated with divorce, especially if there are children involved. Overall, the majority of men in France have a progressive attitude towards divorce and recognize it as a socially acceptable choice."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 114,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTsb8iztqrFRz1lQ8rUeXuSNoJoo",
+    "object": "chat.completion",
+    "created": 1705850309,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Saint Vincent and the Grenadines have a negative view towards divorce. They uphold traditional values and believe in the sanctity of marriage, emphasizing the importance of commitment and preserving the family unit. Divorce is often seen as a last resort and is generally discouraged in the society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 58,
+        "total_tokens": 83
+    },
+    "system_fingerprint": null
+}

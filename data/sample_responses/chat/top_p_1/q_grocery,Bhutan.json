@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW42dvbUnUxJ26M1tXABCrEME8vD",
+    "object": "chat.completion",
+    "created": 1705858706,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To travel to a grocery store that is 1km away in Bhutan, you have a few options:\n\n1. Walking: Bhutan is known for its scenic beauty, and walking can be a pleasant way to reach your destination. Ensure you have comfortable shoes and appropriate clothing for the weather.\n\n2. Bicycle: Cycling is also a common mode of transport in Bhutan, and it offers a quicker way to reach your destination. Consider renting a bicycle if you don't own one.\n\n3. Taxi: You can hire a taxi to take you to the grocery store. Taxis are easily available in Bhutan, particularly in urban areas. You can either hail one on the street or contact a local taxi service.\n\n4. Public transportation: Depending on the location and availability, you might find a local bus or shuttle that can take you to the grocery store. Inquire with locals or at a nearby bus stop for more information.\n\nRemember to check the local guidelines and regulations regarding transportation, as they may vary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 202,
+        "total_tokens": 227
+    },
+    "system_fingerprint": null
+}

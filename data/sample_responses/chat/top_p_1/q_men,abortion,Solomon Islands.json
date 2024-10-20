@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThaCG5ak9qQeBtyOsmn0GWqtryV",
+    "object": "chat.completion",
+    "created": 1705849626,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Solomon Islands are generally opposed to abortion. They view it as morally wrong and against their cultural and religious beliefs. They believe that life begins at conception, and thus, terminating a pregnancy is considered taking a human life. Men often support their partners' decisions, but overall, they tend to discourage and discourage abortion as an option, advocating for alternative choices such as adoption or raising the child."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 80,
+        "total_tokens": 100
+    },
+    "system_fingerprint": null
+}

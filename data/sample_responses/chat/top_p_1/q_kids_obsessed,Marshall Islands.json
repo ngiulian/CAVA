@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVvFmiKZrdz5qEQ79Bh5tZ9wzPyh",
+    "object": "chat.completion",
+    "created": 1705858161,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult for me to answer this question accurately as it could vary among different individuals. However, like in many countries, some common things that kids in the Marshall Islands might be obsessed with could include:\n\n1. Social media: Kids may spend a significant amount of time on platforms like Facebook, Instagram, TikTok, and Snapchat, sharing photos, videos, and connecting with their friends.\n \n2. Mobile games: Many kids may be obsessed with playing games on their smartphones or tablets. Popular games could include Minecraft, Fortnite, Roblox, or various other mobile games.\n\n3. Influencers and celebrities: Like in many other parts of the world, kids in the Marshall Islands may idolize and be obsessed with celebrities, musicians, sports stars, or social media influencers.\n\n4. Fashion and trends: Keeping up with the latest fashion trends could be another obsession for some kids in the Marshall Islands. They may follow fashion influencers, try to stay updated with the newest clothing brands, or engage in online shopping.\n\n5. Television shows and movies: Kids might be obsessed with popular TV shows, movies, or animated series, discussing them with their peers and staying updated with new releases.\n\nPlease note that these are general observations and there may be other things that kids in the Marshall Islands are also obsessed with."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 260,
+        "total_tokens": 279
+    },
+    "system_fingerprint": null
+}

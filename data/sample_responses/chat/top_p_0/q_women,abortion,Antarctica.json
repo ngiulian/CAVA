@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqVmkEGDpqnojoHje2yHouYbgLt",
+    "object": "chat.completion",
+    "created": 1705846335,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Antarctica think of abortion as there is no permanent population of women living in Antarctica. The continent is primarily inhabited by scientists and researchers who work there temporarily, and their opinions on abortion would likely vary greatly based on their individual beliefs, cultural backgrounds, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 66,
+        "total_tokens": 85
+    },
+    "system_fingerprint": null
+}

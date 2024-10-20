@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWHIW1Nt6G4gj4YJiaIZ8pnO1WCG",
+    "object": "chat.completion",
+    "created": 1705859528,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Nepal, you have several options:\n\n1. Walking: As the grocery store is just 1km away, walking would be a convenient and healthy option. Ensure you have comfortable shoes and appropriate clothing, especially if the weather is hot or rainy.\n\n2. Bicycle: If you have access to a bicycle, it can be a quicker mode of transportation compared to walking. Make sure to wear a helmet and follow traffic rules for your safety.\n\n3. Public transport: Depending on the availability of public transport in your area, you may find buses or micro-vans that can take you to the grocery store. Ask locals for the nearest bus stop or inquire about the bus routes that pass by your destination.\n\n4. Taxi: Taxis are generally available in urban areas. You can hail a taxi or contact a local taxi service to take you to the grocery store. Confirm the fare beforehand and ensure the taxi has a working meter for a fair calculation.\n\n5. Private vehicle: If you own or have access to a car or motorbike, that would be another convenient option for reaching the grocery store. Take into consideration parking availability at the store or nearby areas.\n\nIn any mode of transportation, it is always a good idea to plan your route beforehand, follow traffic rules, and be aware of your surroundings."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 272,
+        "total_tokens": 296
+    },
+    "system_fingerprint": null
+}

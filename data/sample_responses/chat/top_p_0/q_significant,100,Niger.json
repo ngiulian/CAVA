@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYHu9JA5ZVJNuPFuXhwG3Vf5Jlo",
+    "object": "chat.completion",
+    "created": 1705856737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Niger in the past 100 years is the country's independence from French colonial rule. On August 3, 1960, Niger gained independence and became a sovereign nation. This event marked a crucial turning point in the country's history, as it allowed Nigeriens to govern themselves and shape their own future. Independence brought about political, social, and economic changes, as Niger embarked on a path of self-determination and nation-building."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwYCq1g6rKW92KLnYw3kopd0C8O",
+    "object": "chat.completion",
+    "created": 1705846710,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a comprehensive summary of the opinions of most women in Belize regarding abortion as opinions on this topic vary within any population. However, Belize, being a predominantly Catholic country, generally holds conservative views on abortion. The Catholic Church strongly opposes abortion, considering it morally wrong and a violation of the sanctity of life. Therefore, many women in Belize may align with these religious beliefs and hold a pro-life stance, advocating against the legalization or availability of abortion. However, it is important to note that individual opinions may differ, and there may be women in Belize who also support reproductive rights and believe in the availability of safe and legal abortion options for women."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 133,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

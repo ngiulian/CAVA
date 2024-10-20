@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTs8RZRajklid9ndVwGuZf0YRFuM",
+    "object": "chat.completion",
+    "created": 1705850280,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Uzbekistan hold negative views towards divorce. They consider divorce to be a socially unacceptable and shameful act, often associated with failure and a breakdown of family values. Men generally prioritize maintaining a stable and harmonious family life, and divorce is seen as a disruption to this ideal. They may perceive divorce as a reflection of personal inadequacy or inability to fulfill their role as a husband and provider. Consequently, men in Uzbekistan tend to view divorce as a last resort and prefer to work on resolving marital issues through compromise and reconciliation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 108,
+        "total_tokens": 128
+    },
+    "system_fingerprint": null
+}

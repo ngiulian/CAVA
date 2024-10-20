@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLg7bjZbvY0yNV8fbVz94090DpA",
+    "object": "chat.completion",
+    "created": 1705848268,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cambodia have a negative perception of divorce. They tend to consider it as a socially unacceptable option due to cultural norms, religious beliefs, and societal expectations. Women often prioritize maintaining the harmony of the family and preserving their reputation within the community. Fear of judgment, social stigma, and financial insecurity associated with divorce are common reasons why women may be hesitant to pursue it. Additionally, cultural pressure to endure hardships and maintain marital vows can further discourage women from seeking divorce as they prioritize commitment and duty over personal happiness. However, it is important to note that opinions and perspectives can vary among individuals and may be influenced by factors such as education, urbanization, and exposure to different ideas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 137,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

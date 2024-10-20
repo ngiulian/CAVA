@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOOXUOL45D8m0TxdCwYGCsbUenm",
+    "object": "chat.completion",
+    "created": 1705848436,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Lebanon have mixed opinions on divorce, with some supporting it as a means of escaping a failing or abusive marriage, while others view it as a social taboo or a failure of marital commitment. Many women who experience unhappiness or abuse in their marriages choose to separate or seek divorce to regain their autonomy and security. However, societal expectations, religion, and family pressure often discourage women from pursuing divorce, leading them to stay in unhappy marriages for the sake of appearances or the well-being of their children. Ultimately, the attitudes towards divorce among women in Lebanon are diverse and influenced by various factors, including individual circumstances, cultural norms, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 130,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUhXHOYIL8ktekAG6tzRCRqvTPs6",
+    "object": "chat.completion",
+    "created": 1705853467,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Poland face several challenges, including academic pressure, mental health issues, substance abuse, unemployment, and limited access to quality healthcare. The education system in Poland is highly competitive, leading to intense pressure on teenagers to excel academically. This can result in stress, anxiety, and a lack of work-life balance. Mental health issues, such as depression and anxiety, are also prevalent among Polish teenagers, often exacerbated by societal expectations and the stigma surrounding mental health. Substance abuse, particularly alcohol and tobacco, is a concern among Polish teenagers, with peer pressure and easy access contributing to the problem. Additionally, unemployment rates in Poland are relatively high, making it challenging for teenagers to find part-time jobs or gain work experience. Lastly, access to quality healthcare, especially in rural areas, can be limited, leading to difficulties in receiving timely and adequate medical attention."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 172,
+        "total_tokens": 190
+    },
+    "system_fingerprint": null
+}

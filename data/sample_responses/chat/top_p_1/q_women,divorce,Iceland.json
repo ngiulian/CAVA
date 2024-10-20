@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTHlMzZENefZ7gxRipEpcgpvVeZb",
+    "object": "chat.completion",
+    "created": 1705848025,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Iceland view divorce as a valid option and believe in the importance of personal happiness and independence. They consider divorce as a means to escape unhappy or abusive relationships, and prioritize their own well-being and self-fulfillment. Icelandic women generally embrace gender equality and freedom of choice, including the decision to end a marriage if it no longer brings them happiness or satisfaction."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 75,
+        "total_tokens": 94
+    },
+    "system_fingerprint": null
+}

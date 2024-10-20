@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTc1hcF3wGwZXmhyG8Fsje0jPYXI",
+    "object": "chat.completion",
+    "created": 1705849281,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In the Philippines, the majority of women generally hold conservative views on divorce. They perceive marriage as a lifelong commitment and believe in the sanctity of the institution. Divorce is not widely accepted or supported by women due to religious and cultural influences. Many women prioritize preserving the family unit, even if a marriage is unhappy or abusive. They may perceive divorce as a social stigma and fear the negative impact it could have on their children and their overall social standing."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 91,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

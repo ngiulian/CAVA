@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9UEWbftgSI47yHIQAgH1xhuhFN",
+    "object": "chat.completion",
+    "created": 1705847512,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Fiji hold negative views towards divorce. They generally perceive divorce as a failure and a disruption to traditional family values. Men often prioritize maintaining a stable and harmonious family unit, and divorce is seen as a threat to this ideal. They may view divorce as a reflection of personal shortcomings or a lack of effort in resolving marital issues. Additionally, cultural and societal expectations often pressure men to fulfill their roles as providers and protectors within the family, making divorce a source of shame and disappointment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 99,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

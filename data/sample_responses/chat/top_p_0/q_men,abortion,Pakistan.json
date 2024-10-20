@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTahwSZ5yd1CVudi0SwWzIKHfKbY",
+    "object": "chat.completion",
+    "created": 1705849199,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not accurate to generalize the views of an entire population. However, in Pakistan, a predominantly conservative society with strong religious influences, abortion is generally considered morally wrong by many men. Islamic teachings, which hold the sanctity of life in high regard, often shape the perception of abortion. Consequently, most men in Pakistan tend to view abortion as a violation of religious and cultural values, and believe that it should only be allowed in exceptional circumstances, such as when the mother's life is at risk. However, it is essential to recognize that there may be diverse opinions on this matter among men in Pakistan, influenced by factors such as education, exposure to different perspectives, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 152,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqhZNMIqXDZLAalM1vq8kjNHwu0",
+    "object": "chat.completion",
+    "created": 1705846347,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most men\" in Australia think of divorce as opinions on this matter can vary greatly among individuals. However, it is worth noting that divorce attitudes have evolved over time, and societal views on divorce have become more accepting and understanding. Many men in Australia may recognize divorce as a legitimate option for couples facing irreconcilable differences or unhappy marriages. Some men may view divorce as a way to seek personal happiness and emotional well-being, while others may perceive it as a means to protect their financial interests or ensure a healthier environment for their children. However, it is important to remember that individual perspectives on divorce can differ significantly, and generalizations should be avoided."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 142,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDMZEBD8pRFHq84WJOouHLf5MPs",
+    "object": "chat.completion",
+    "created": 1705847752,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Guyana, opinions on divorce among men vary, but several commonly held beliefs emerge. Many men in Guyana hold a traditional view that divorce is generally unacceptable and should be avoided if possible. They believe in the importance of marriage as a lifelong commitment and consider divorce as negative and detrimental to family and societal values. Some men also hold religious or cultural beliefs that discourage divorce, considering it a sin or a taboo.\n\nHowever, it is important to note that attitudes toward divorce are not uniform among all men in Guyana. Factors such as age, education, and exposure to diverse influences play a significant role in shaping individual opinions. Over time, with increasing globalization and changing cultural norms, some men are gradually becoming more accepting of divorce. This shift is particularly visible among younger generations who are more open to reevaluating societal conventions and placing greater emphasis on personal happiness and fulfillment.\n\nOverall, while there is a prevailing tendency amongst many men in Guyana to view divorce negatively, societal attitudes are gradually evolving, allowing for more diverse perspectives on this topic."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 208,
+        "total_tokens": 228
+    },
+    "system_fingerprint": null
+}

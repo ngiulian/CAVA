@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTds47fnS2PeMUpYGNR3F1Je3Tqm",
+    "object": "chat.completion",
+    "created": 1705849396,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Paraguay hold traditional views on divorce and generally oppose it. They believe in the sanctity of marriage and the importance of maintaining a lifelong commitment. Divorce is often seen as a failure and a disruption to the family unit. Men in Paraguay tend to prioritize stability and harmony within the household, and divorce is viewed as a threat to these values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 73,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWGUm00x8AEqcYf6G1JIPWQ3XEEm",
+    "object": "chat.completion",
+    "created": 1705859478,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Malawi, you have a few options:\n\n1. Walking: If the weather is pleasant and you are physically able, walking can be a good option. It will take approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Bicycle: If you have access to a bicycle, it can be a convenient and faster mode of transportation. Riding a bicycle can take around 5-10 minutes to reach the grocery store.\n\n3. Public Transportation: Depending on the availability in your area, you can check if there are any local buses or minibusses that pass by or near the grocery store. Inquire with locals or at a nearby bus stop for information on the routes and timings.\n\n4. Taxi: Taxis or minicabs are commonly available in urban areas of Malawi. You can hire a taxi to take you directly to the grocery store. Make sure to negotiate the fare before starting the journey or ask the driver to use the meter.\n\n5. Shared Transportation: In some areas, you may find shared transportation options like shared taxis or minivans. These vehicles follow specific routes and pick up passengers along the way. You can ask locals for information on shared transportation options to reach the grocery store.\n\nRemember to consider factors like cost, convenience, and safety when choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 279,
+        "total_tokens": 304
+    },
+    "system_fingerprint": null
+}

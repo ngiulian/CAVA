@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTYLkxBf86VTrp9KfSa2jvNOlBEr",
+    "object": "chat.completion",
+    "created": 1705849053,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Niger, the perception of divorce among women varies and largely depends on factors such as cultural background, education, and personal experiences. Generally, the attitude towards divorce is multifaceted, with a combination of traditional beliefs and evolving perspectives influenced by modernization.\n\nTraditionally, divorce in Niger is generally perceived as socially and culturally unacceptable for women. Many women believe that marriage is a lifelong commitment, and divorce may tarnish their reputation and bring shame to their family. Divorce is often associated with failure and abandonment, and women may fear being stigmatized or ostracized by their communities. Traditional gender roles also play a role, with many women being economically dependent on their husbands, making divorce seem even more challenging.\n\nHowever, as Niger experiences social changes, educational advancements, and exposure to external influences, attitudes towards divorce are gradually evolving among some women. With improved access to education, women are becoming more aware of their rights and the possibility of escaping abusive marriages or seeking fulfillment outside of traditional gender roles. Economic independence and the ability to support themselves financially also contribute to a growing willingness to consider divorce as a viable option.\n\nDespite these shifting perspectives, it is important to note that there is no uniform opinion among women in Niger about divorce. Diverse attitudes exist, ranging from a belief in preserving the sanctity of marriage to advocating for women's right to choose their own paths. This underlines the complexity and diversity of women's opinions regarding divorce in Niger."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 290,
+        "total_tokens": 309
+    },
+    "system_fingerprint": null
+}

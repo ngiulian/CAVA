@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0iGCIwUeWIC71f8c064wQIiQjA",
+    "object": "chat.completion",
+    "created": 1705846968,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what most men in Ivory Coast think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Ivory Coast is a predominantly conservative country with strong religious and cultural influences. In general, many men in Ivory Coast hold traditional values that prioritize the sanctity of life and the importance of family. Consequently, a significant number of men may hold negative views towards abortion, considering it morally wrong and against their religious beliefs. However, it is crucial to recognize that there may also be men who hold more progressive or liberal views, acknowledging the importance of a woman's right to choose and considering the circumstances surrounding abortion. Overall, it is essential to approach this topic with sensitivity and recognize the diversity of opinions that exist within the male population in Ivory Coast."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 163,
+        "total_tokens": 183
+    },
+    "system_fingerprint": null
+}

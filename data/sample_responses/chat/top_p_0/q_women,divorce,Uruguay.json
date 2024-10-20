@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrxf9s4NkuKUm8ugaNicujStgxZ",
+    "object": "chat.completion",
+    "created": 1705850269,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Uruguay have a positive view of divorce and consider it a viable option for unhappy marriages. They believe that divorce provides an opportunity for personal growth, freedom, and the chance to pursue happiness. Women in Uruguay generally support the idea of ending a marriage if it is no longer fulfilling or if there is emotional or physical abuse involved. They value their independence and believe that divorce allows them to make choices that are in their best interest. However, it is important to note that individual opinions may vary, and some women may have different perspectives on divorce based on their personal experiences and cultural background."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 118,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

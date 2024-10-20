@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8QV7eDjbGR8a7vgMarndOBgWXl",
+    "object": "chat.completion",
+    "created": 1705855134,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Barbados in the past 20 years is the transition from a constitutional monarchy to a republic. On November 30, 2021, Barbados officially became a republic, removing Queen Elizabeth II as the head of state, and establishing a Barbadian as the country's president. This event marked a pivotal moment for Barbados, symbolizing their independence and sovereignty. Additionally, it was a historic step towards breaking away from its colonial past and forging a new national identity. The transition to a republic holds immense cultural, political, and symbolic significance for the people of Barbados."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 124,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

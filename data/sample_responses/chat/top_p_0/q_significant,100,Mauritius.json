@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVX7oebVHfuE8QisvdzSbOvzdJQd",
+    "object": "chat.completion",
+    "created": 1705856665,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mauritius in the past 100 years is the country gaining independence from British colonial rule. On March 12, 1968, Mauritius became an independent nation after nearly 200 years of British control. This event marked a turning point in the country's history, leading to the establishment of a democratic government and the development of its own identity and culture. Independence Day is now celebrated annually on March 12th, commemorating this momentous event in Mauritius' history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 105,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

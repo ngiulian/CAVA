@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTy5FnbQcuDnEEKLMTHFkIeBt47J",
+    "object": "chat.completion",
+    "created": 1705850649,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Andorra face several challenges, including limited educational opportunities, peer pressure, mental health issues, substance abuse, and a lack of recreational activities. The small size of the country and its limited resources contribute to these challenges. Additionally, the influence of neighboring countries and the pressure to conform to societal expectations can also impact teenagers in Andorra."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 69,
+        "total_tokens": 88
+    },
+    "system_fingerprint": null
+}

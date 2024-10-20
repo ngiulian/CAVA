@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT9MmLucfqYSoTrUby9bJuNDrOyN",
+    "object": "chat.completion",
+    "created": 1705847504,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Ethiopia have a negative perception of divorce. They generally view it as a last resort and believe that it should only be considered in extreme cases, such as domestic violence or infidelity. Divorce is often seen as a failure and a source of shame within the society. Women may fear the social stigma and economic hardships associated with divorce, as they often rely on their husbands for financial support. Additionally, cultural and religious beliefs play a significant role in shaping their attitudes towards divorce, with many women valuing the sanctity of marriage and the importance of maintaining family unity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

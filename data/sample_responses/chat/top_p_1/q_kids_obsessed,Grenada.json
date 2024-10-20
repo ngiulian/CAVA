@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtA9EjCnW4ZUGJaIAIB2B7XTbpl",
+    "object": "chat.completion",
+    "created": 1705858032,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to determine a specific obsession of kids in Grenada as it can vary among individuals. However, like in many other places, some common interests among kids these days may include technology, social media, video games, fashion, music, sports, and popular culture."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 55,
+        "total_tokens": 74
+    },
+    "system_fingerprint": null
+}

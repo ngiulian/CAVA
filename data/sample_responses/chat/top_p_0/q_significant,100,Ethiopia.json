@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGme3T9ikgDoH0N6GC0gGhmfSvR",
+    "object": "chat.completion",
+    "created": 1705855652,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Ethiopia in the past 100 years is the overthrow of the Derg regime and the establishment of a new government. The Derg, a Marxist-Leninist military junta, came to power in 1974 after overthrowing Emperor Haile Selassie. Their rule was marked by political repression, human rights abuses, and economic decline.\n\nHowever, in 1991, the Ethiopian People's Revolutionary Democratic Front (EPRDF), a coalition of rebel groups, successfully ousted the Derg regime. This event led to the end of the Derg's 17-year rule and the establishment of a new government under the leadership of Meles Zenawi.\n\nThe overthrow of the Derg regime brought significant changes to Ethiopia, including the adoption of a new constitution, the decentralization of power, and the promotion of ethnic federalism. It also marked the beginning of a period of political stability and economic growth for the country.\n\nThis event had a profound impact on Ethiopia's trajectory, shaping its political, social, and economic landscape in the past few decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 221,
+        "total_tokens": 245
+    },
+    "system_fingerprint": null
+}

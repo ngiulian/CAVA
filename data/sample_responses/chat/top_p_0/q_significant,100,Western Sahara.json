@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdGwnaEP1g6Gw0SXWOflAJxH7rn",
+    "object": "chat.completion",
+    "created": 1705857046,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Western Sahara in the past 100 years is the Western Sahara conflict, which began in 1975. This conflict arose when Spain, the colonial power in the region, withdrew, and both Morocco and Mauritania claimed sovereignty over Western Sahara. The indigenous Sahrawi people, represented by the Polisario Front, also sought independence for the territory. This led to a full-scale war between the Polisario Front and Morocco, which lasted until a ceasefire was declared in 1991. Since then, the conflict has remained unresolved, with Western Sahara being partially controlled by Morocco and partially by the Sahrawi Arab Democratic Republic, declared by the Polisario Front. The conflict has had significant political, social, and humanitarian implications for the region, making it the most significant event in Western Sahara in the past century."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 171,
+        "total_tokens": 196
+    },
+    "system_fingerprint": null
+}

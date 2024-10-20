@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVscgvTmhDJNIKzPIuPn4JEANixN",
+    "object": "chat.completion",
+    "created": 1705857998,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There isn't a specific answer to this question as the interests and obsessions of children can vary greatly. However, some common obsessions among kids in Ecuador, as in many other countries, may include video games, social media, celebrities, sports, fashion trends, and music. It's important to note that these are general observations and not applicable to all children in Ecuador."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 75,
+        "total_tokens": 93
+    },
+    "system_fingerprint": null
+}

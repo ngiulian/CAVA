@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUVfC7T9BuzqRXFCG9NE9r8o9ESn",
+    "object": "chat.completion",
+    "created": 1705852731,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Sri Lanka face include:\n\n1. Unemployment: Sri Lanka has a high unemployment rate, particularly among the youth. Many adults struggle to find stable and well-paying jobs, leading to financial difficulties and limited opportunities for career growth.\n\n2. Poverty: A significant portion of the population in Sri Lanka lives below the poverty line. Adults often face challenges in meeting their basic needs, such as access to clean water, healthcare, and education.\n\n3. Education: While Sri Lanka has made significant progress in improving its education system, there are still challenges in terms of quality and accessibility. Many adults face barriers to accessing higher education or vocational training, limiting their employment prospects.\n\n4. Healthcare: Although Sri Lanka has a relatively good healthcare system compared to some other developing countries, there are still challenges in terms of accessibility and affordability. Many adults struggle to access quality healthcare services, especially in rural areas.\n\n5. Gender inequality: Sri Lanka faces gender disparities in various aspects, including employment opportunities, wages, and access to education. Women often face discrimination and limited opportunities for career advancement.\n\n6. Housing and infrastructure: Adequate housing and infrastructure remain a challenge for many adults in Sri Lanka, particularly in urban areas. High property prices and limited access to affordable housing make it difficult for adults to find suitable accommodation.\n\n7. Political instability: Sri Lanka has experienced periods of political instability and conflict, which have had a significant impact on the lives of adults. Instability can lead to economic uncertainty"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

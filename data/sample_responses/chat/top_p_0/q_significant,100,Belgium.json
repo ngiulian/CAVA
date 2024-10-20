@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV5KxEnWzaFaYDcVJQDwFMbO1hne",
+    "object": "chat.completion",
+    "created": 1705854942,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belgium in the past 100 years is the establishment of the European Union (EU). The EU was founded in 1957 with the signing of the Treaty of Rome, and Belgium was one of the six founding member states. The EU has had a profound impact on Belgium, as it has become the headquarters of many EU institutions, including the European Commission, the Council of the European Union, and the European Parliament. This event has not only shaped Belgium's role in European politics but has also influenced its economy, culture, and international relations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

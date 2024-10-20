@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVBdKZ8QtlaTLJXqYIhJ9mqXDJ3W",
+    "object": "chat.completion",
+    "created": 1705855333,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Republic of Congo in the past 20 years was the signing of the Brazzaville Peace Accord in 1999. This peace agreement ended the civil war that had been ongoing since 1997, which had resulted in significant loss of life and displacement of people. The accord brought about a ceasefire and established a power-sharing government, aiming to restore stability and promote national reconciliation. This event marked a crucial step towards peace and the beginning of a process of rebuilding and development in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 108,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

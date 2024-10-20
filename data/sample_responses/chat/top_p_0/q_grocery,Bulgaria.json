@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW2pnnLoDkGWbb80ObPHL8p7sSBm",
+    "object": "chat.completion",
+    "created": 1705858631,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Bulgaria, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a quick and convenient way to reach the grocery store. It will take around 5-7 minutes to cover the 1km distance.\n\n3. Public transportation: Check if there are any bus or tram stops near your location and the grocery store. You can use public transportation to reach the store. Look for the nearest bus or tram stop, check the schedule, and take the appropriate route to your destination.\n\n4. Taxi or rideshare: If you prefer a more comfortable and convenient option, you can call a taxi or use a ridesharing service like Uber or Bolt. This will ensure a quick and hassle-free journey to the grocery store.\n\nConsider the weather conditions, your personal preferences, and the availability of transportation options to choose the most suitable method for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 238,
+        "total_tokens": 262
+    },
+    "system_fingerprint": null
+}

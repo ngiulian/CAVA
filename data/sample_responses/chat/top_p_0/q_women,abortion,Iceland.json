@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTHjDloSWqKu74k1RpHSQFvmUVcb",
+    "object": "chat.completion",
+    "created": 1705848023,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Iceland generally support the right to abortion and view it as a fundamental reproductive choice. They believe that women should have the autonomy to make decisions about their own bodies and pregnancies. Abortion is widely accepted as a legal and accessible option, and women's rights organizations actively advocate for its availability. The majority of Icelandic women consider abortion as an essential part of reproductive healthcare and believe in the importance of providing safe and confidential services for those who choose to terminate a pregnancy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 94,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

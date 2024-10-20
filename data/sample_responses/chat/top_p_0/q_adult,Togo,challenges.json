@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUsBpgOSAfbYAkJTC3A94St32Rfv",
+    "object": "chat.completion",
+    "created": 1705854127,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Togo face include:\n\n1. Limited access to quality education: Many adults in Togo face challenges in accessing quality education, which limits their opportunities for personal and professional growth.\n\n2. High unemployment rates: Togo has a high unemployment rate, particularly among young adults. This makes it difficult for adults to find stable and decent-paying jobs to support themselves and their families.\n\n3. Poverty and economic inequality: A significant portion of the adult population in Togo lives in poverty, struggling to meet their basic needs. Economic inequality is also prevalent, with limited opportunities for upward mobility.\n\n4. Limited access to healthcare: Many adults in Togo face challenges in accessing adequate healthcare services, including limited availability of healthcare facilities, lack of medical professionals, and high healthcare costs.\n\n5. Gender inequality: Women in Togo face various challenges, including limited access to education, economic opportunities, and decision-making power. Gender-based violence and discrimination are also prevalent issues.\n\n6. Political instability and corruption: Togo has experienced periods of political instability and corruption, which can hinder economic development and create an uncertain environment for adults.\n\n7. Limited access to clean water and sanitation: Many adults in Togo lack access to clean water and proper sanitation facilities, leading to health issues and a higher risk of waterborne diseases.\n\n8. Climate change and environmental degradation: Togo is vulnerable to the impacts of climate change, including droughts, floods, and soil degradation. These environmental challenges can affect agriculture"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

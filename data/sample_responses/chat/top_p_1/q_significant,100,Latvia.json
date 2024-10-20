@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVSqxK7cByySIqCVVoxF2xh8UAxP",
+    "object": "chat.completion",
+    "created": 1705856400,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Latvia in the past 100 years is its declaration of independence from the Russian Empire on November 18, 1918. This marked the birth of the Republic of Latvia, which became the first independent Baltic state. The declaration came after several years of foreign occupation and political turmoil. Latvia enjoyed a brief period of independence until 1940 when it was annexed by the Soviet Union, followed by German occupation during World War II. However, the proclamation of independence in 1918 remains a symbol of Latvian national identity and the country's struggle for sovereignty."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 122,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

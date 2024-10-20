@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWsnk4ppTJ8bkUe8QwVJFUURbVi",
+    "object": "chat.completion",
+    "created": 1705856650,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Mauritius in the past 5 years is the grounding of the Japanese-owned bulk carrier ship called the MV Wakashio on a coral reef on July 25, 2020. The ship was carrying nearly 4,000 tons of fuel oil and started leaking fuel into the pristine waters of Mauritius, causing an ecological disaster. The spill spread over a large area, endangering marine life, coral reefs, and mangrove forests. The incident prompted a massive cleanup operation and raised concerns about the country's preparedness for such environmental disasters."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 118,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

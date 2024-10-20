@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8CC8uxyJ8vt5oa5Ua04M1bIMRU",
+    "object": "chat.completion",
+    "created": 1705855120,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Brazil in the past five years was the election of Jair Bolsonaro as the country's president in 2018. Bolsonaro, a far-right politician, won the election with promises of combating corruption, reducing crime, and implementing conservative policies. His election marked a significant shift in Brazil's political landscape and has had a profound impact on various aspects of the country, including the environment, human rights, and international relations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 95,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

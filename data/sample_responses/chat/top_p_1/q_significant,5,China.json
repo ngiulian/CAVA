@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAJrI09htZktyEEMIqrdo9mm0Yv",
+    "object": "chat.completion",
+    "created": 1705855251,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in China in the past five years is the outbreak and global spread of the COVID-19 pandemic originating from the city of Wuhan. It had a massive impact on China and the rest of the world, causing widespread illness, loss of lives, economic disruption, and changes to daily life. The Chinese government implemented strict measures to control the outbreak, including lockdowns, massive testing campaigns, quarantine protocols, and travel restrictions. This event reshaped public health policies, international relations, and the global economy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 108,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

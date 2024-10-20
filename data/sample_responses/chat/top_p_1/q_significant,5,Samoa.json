@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnSEtitHnfmLzRb9ihpogCNvaX8",
+    "object": "chat.completion",
+    "created": 1705857678,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Samoa in the past 5 years was the outbreak of measles in late 2019. The outbreak, which began in October 2019, resulted in the deaths of more than 80 people, primarily children under the age of five. The epidemic led to a state of emergency being declared by the Samoan government, with a mass vaccination campaign implemented to halt the spread of the disease. This event had a profound impact on the country, prompting a heightened focus on public health and vaccination efforts."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

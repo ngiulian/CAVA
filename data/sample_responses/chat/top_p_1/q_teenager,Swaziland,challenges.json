@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUqS2Rl0YW48WeDPC4nDlTzapO77",
+    "object": "chat.completion",
+    "created": 1705854020,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that teenagers in Swaziland face include poverty, limited access to education and healthcare, high rates of HIV/AIDS, gender inequality, early marriages and child labor, and substance abuse. Poverty often prevents teenagers from pursuing education and limits their opportunities for a better future. Limited access to education and healthcare worsens their chances of addressing critical health issues and gaining necessary skills for employment. Swaziland has one of the highest HIV/AIDS prevalence rates globally, which directly affects teenagers, leaving many orphaned or living with sick family members. Gender inequality leads to girls facing higher levels of discrimination, limited access to education, and increased vulnerability to child marriages. Early marriages and child labor also hinder their development and well-being. Furthermore, substance abuse, particularly drugs and alcohol, poses a significant risk to teenagers' physical and mental health in Swaziland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 171,
+        "total_tokens": 191
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTJHJ8WF2HPmCQfjjYhTSgJQTHbk",
+    "object": "chat.completion",
+    "created": 1705848119,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Jordan have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others believe that divorce should only be considered in extreme circumstances. Many women in Jordan face societal pressure to maintain their marriages and prioritize family stability over personal happiness. However, there is a growing trend among younger women who are more open to the idea of divorce and seek greater autonomy in their relationships. Overall, the perception of divorce among women in Jordan varies depending on factors such as age, education, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

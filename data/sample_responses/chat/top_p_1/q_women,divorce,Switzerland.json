@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSzpeG33CV9md7WA85RHYuCTVpjW",
+    "object": "chat.completion",
+    "created": 1705846913,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Switzerland have progressive views on divorce and consider it as a viable option in unhappy or unsuccessful marriages. They prioritize their personal happiness and emotional well-being over societal expectations or traditional norms. They believe that divorce provides an opportunity for personal growth, self-fulfillment, and the pursuit of healthier relationships. However, opinions may vary among individuals based on their cultural background, religious beliefs, and personal circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 82,
+        "total_tokens": 101
+    },
+    "system_fingerprint": null
+}

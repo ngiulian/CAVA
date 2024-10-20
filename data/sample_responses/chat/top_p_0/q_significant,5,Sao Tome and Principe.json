@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgD34zjzvX7A3aSxirZrO1dV0p1",
+    "object": "chat.completion",
+    "created": 1705857229,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in S\u00e3o Tom\u00e9 and Pr\u00edncipe in the past 5 years was the presidential election held in July 2016. This election marked a peaceful transition of power and brought a new president to the country. Evaristo Carvalho, the candidate supported by the ruling party, won the election and became the President of S\u00e3o Tom\u00e9 and Pr\u00edncipe. This event was significant as it demonstrated the country's commitment to democracy and political stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 100,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

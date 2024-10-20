@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSqRGWgG2T85FtYeuQycoq3zqpKD",
+    "object": "chat.completion",
+    "created": 1705846331,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most men in Antarctica think of divorce as there is no available data or research specifically addressing this topic. Antarctica is a remote and sparsely populated continent, primarily inhabited by scientists and researchers who are typically on temporary assignments. The population is diverse, consisting of individuals from various countries and backgrounds, making it difficult to generalize their opinions on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 79,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTl9F6I1vyd5yKDDrkrewFpx7xJ",
+    "object": "chat.completion",
+    "created": 1705856457,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Madagascar in the past 20 years was the political crisis that began in 2009 with the ousting of President Marc Ravalomanana. The crisis lasted for several years and resulted in a period of political instability, economic decline, and social unrest within the country. It had wide-ranging impacts on the people of Madagascar and its political landscape, including the rise of a transitional government, international sanctions, and a subsequent return to democratic elections in 2013. This event significantly shaped the recent history of Madagascar and its path towards political stability and development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 120,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

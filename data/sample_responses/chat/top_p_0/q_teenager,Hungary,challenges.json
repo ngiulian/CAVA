@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jULyfAXpSyyaeZUduqxF86cTkGgZ",
+    "object": "chat.completion",
+    "created": 1705852130,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Hungary face several challenges, including educational pressures, mental health issues, substance abuse, and limited job opportunities. The education system in Hungary is highly competitive, and students often face intense pressure to perform well academically. This can lead to stress, anxiety, and a lack of work-life balance. Additionally, mental health issues such as depression and anxiety are prevalent among Hungarian teenagers, with limited access to mental health services. Substance abuse, particularly alcohol and tobacco, is also a concern among this age group. Lastly, the limited job opportunities and high youth unemployment rate in Hungary pose challenges for teenagers who are seeking employment or planning their future careers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 130,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

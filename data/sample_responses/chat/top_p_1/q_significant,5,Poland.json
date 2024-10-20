@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVb8mPugnN1fSMFNfnvZy51EUSZC",
+    "object": "chat.completion",
+    "created": 1705856914,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Poland in the past 5 years was the 2020 presidential election. The election was held in June 2020 and resulted in the re-election of incumbent President Andrzej Duda. It was a closely contested election that highlighted deep divisions within Polish society, particularly on issues such as judiciary reforms, LGBT rights, and the rule of law. The election outcome further solidified the conservative Law and Justice (PiS) party's control over the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSoUkwOn0srsBhObrCosQaGfbAWI",
+    "object": "chat.completion",
+    "created": 1705846210,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Finland. However, Finland is known for its progressive stance on reproductive rights, including access to safe and legal abortion. The majority of Finnish women support a woman's right to choose and believe that decisions regarding pregnancy should be made by the individual herself. Finnish society generally respects women's autonomy and values their reproductive health decisions. However, it is essential to recognize that there may be diverse opinions on this topic among women in Finland, as in any society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

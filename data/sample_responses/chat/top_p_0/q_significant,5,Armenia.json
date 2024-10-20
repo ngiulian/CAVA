@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV2muIs0RCNVvTRJDgUi509qEDEj",
+    "object": "chat.completion",
+    "created": 1705854784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Armenia in the past 5 years is the Velvet Revolution in 2018. The revolution was a peaceful mass protest movement that led to the resignation of long-time President Serzh Sargsyan and brought about significant political changes in the country. Led by opposition leader Nikol Pashinyan, the movement demanded democratic reforms, an end to corruption, and fair elections. The Velvet Revolution marked a turning point in Armenian politics and brought hope for a more transparent and accountable government."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

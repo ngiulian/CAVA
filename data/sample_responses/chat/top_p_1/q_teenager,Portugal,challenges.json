@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUiDwPVywbN0gVNE26QN91h7Xhjq",
+    "object": "chat.completion",
+    "created": 1705853509,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Portugal face several challenges. One of the biggest challenges is the high youth unemployment rate, which leads to financial instability and limited job opportunities. This situation often hampers their transition from education to employment. Additionally, academic pressure and the competitiveness of the education system can cause stress and anxiety among teenagers. Some teenagers also struggle with issues like drug abuse, mental health problems, and peer pressure. In recent years, the COVID-19 pandemic has further exacerbated these challenges, as it has disrupted education, social interactions, and the overall mental well-being of teenagers."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 113,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

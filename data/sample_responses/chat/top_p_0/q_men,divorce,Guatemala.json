@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTD4WrmfR1xKaX0ix8D6yEet0mNB",
+    "object": "chat.completion",
+    "created": 1705847734,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Guatemala hold negative views towards divorce. They generally believe that divorce is socially unacceptable and goes against traditional values and religious beliefs. Men often perceive divorce as a failure and a threat to the stability of the family unit. They may view divorce as a sign of weakness or lack of commitment, and may place blame on the woman for the breakdown of the marriage. Additionally, men in Guatemala may fear the financial and social consequences of divorce, such as losing property or facing social stigma. Overall, divorce is often seen as a last resort and not a viable option for most men in Guatemala."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 118,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

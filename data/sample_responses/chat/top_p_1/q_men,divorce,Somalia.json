@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTj1Cw2DJ4kKf9sQZumZYJ01VOXz",
+    "object": "chat.completion",
+    "created": 1705849715,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "In Somalia, the perception of divorce varies among men. While it is challenging to generalize the views of all men in the country, there are certain common beliefs and societal attitudes towards divorce.\n\n1. Cultural and religious influences: Somalia is predominantly a Muslim nation, and Islamic teachings play a significant role in shaping attitudes towards divorce. Within the Islamic framework, divorce is considered permissible but discouraged, and reconciliation is encouraged whenever possible.\n\n2. Stigma and societal pressure: Divorce carries a stigma in Somali society, primarily due to cultural influences. Men may view divorce as a failure in upholding family values, leading to potential judgment, and loss of reputation within their community.\n\n3. Economic implications: Somalia is an economically struggling nation with numerous challenges. For men, divorce often entails financial obligations such as paying alimony or child support. This can deter some men from initiating divorces due to fears of financial strain.\n\n4. Concerns for children's well-being: Men in Somalia, as in many other societies, often prioritize the well-being and upbringing of their children. There might be a strong belief that a stable and intact family structure is essential for the optimal development of children. Consequently, divorce might be viewed as potentially harmful to children's long-term welfare.\n\n5. Individual perspectives: Just like anywhere else in the world, individual opinions towards divorce differ among Somali men. Some may support divorce as a means of terminating an unhappy or abusive relationship, while others may perceive it as a last resort in extreme circumstances.\n\nIt"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

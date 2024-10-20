@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVyIWcjGmGjhJJMCAdZFWYwo0QO2",
+    "object": "chat.completion",
+    "created": 1705858350,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Swaziland, as individual preferences can vary greatly. However, like in many other parts of the world, some common obsessions among kids in Swaziland may include:\n\n1. Technology and gadgets: Many kids today are fascinated by smartphones, tablets, video games, and other electronic devices.\n\n2. Social media: The popularity of platforms like Facebook, Instagram, and TikTok has grown significantly, and kids in Swaziland, like elsewhere, may be obsessed with creating and sharing content on these platforms.\n\n3. Music and celebrities: Kids often have favorite musicians, bands, or celebrities they admire and follow closely.\n\n4. Fashion and trends: Keeping up with the latest fashion trends and styles is a common obsession among kids, as they strive to fit in and express their individuality.\n\n5. Sports: Some kids in Swaziland may be obsessed with various sports, such as soccer, basketball, or athletics, and may idolize sports stars.\n\nIt is important to note that these are general observations and not applicable to every child in Swaziland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 226,
+        "total_tokens": 246
+    },
+    "system_fingerprint": null
+}

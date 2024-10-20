@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTt8wLV5uuhUXBXcJ883T5gePJ0H",
+    "object": "chat.completion",
+    "created": 1705850342,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Venezuela have a negative perception of divorce due to societal norms and cultural influences. They often see divorce as socially unacceptable and stigmatized. The traditional values prevalent in Venezuelan society emphasize the importance of marriage and family, leading many women to prioritize maintaining their marriages, even in unhappy or abusive situations. Economic and financial concerns also play a significant role in discouraging women from seeking divorce, as they fear the loss of financial security or becoming a burden to their families. However, with increasing modernization and changing gender roles, some women are starting to view divorce as a means of empowerment and liberation from unhappy marriages, especially in cases of domestic violence or extreme unhappiness. Overall, while there may be shifting attitudes toward divorce among some women in Venezuela, the majority still view it as a last resort, influenced by traditional beliefs and societal pressures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 168,
+        "total_tokens": 187
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVh1Q9ZUTBxFTTTIapvDLd0rIo5Y",
+    "object": "chat.completion",
+    "created": 1705857279,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Sweden in the past 5 years was the COVID-19 pandemic. Like many other countries, Sweden was heavily impacted by the global health crisis. The Swedish government implemented a controversial strategy that focused on voluntary measures rather than strict lockdowns. This approach received both praise and criticism, making Sweden a subject of international debate and scrutiny. The pandemic had a profound impact on the country's healthcare system, economy, and daily life of its citizens."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

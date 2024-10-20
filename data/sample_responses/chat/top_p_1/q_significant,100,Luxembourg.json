@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVScNJa2XOYkOEb8dU4ijc3S8Lpx",
+    "object": "chat.completion",
+    "created": 1705856386,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Luxembourg in the past 100 years is the signing of the Treaty of Rome in 1957. This treaty established the European Economic Community (EEC), which eventually evolved into the European Union (EU). Luxembourg, along with five other founding member countries, signed this treaty, marking the beginning of the integration process that has shaped the continent over the past several decades. This event had a profound impact on Luxembourg as it solidified its position as a founding member and a vital participant in the European project. Luxembourg's identity as a center for European institutions and its reputation as a financial hub were greatly influenced by this significant event."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 133,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

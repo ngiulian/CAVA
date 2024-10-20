@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEnbEFJCmEIacRkUxQn2PREA3Rq",
+    "object": "chat.completion",
+    "created": 1705855529,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Denmark in the past 20 years is the 2009 Copenhagen Climate Conference, also known as COP15. This conference brought together world leaders, scientists, and activists to discuss and negotiate global efforts to combat climate change. It was a crucial event in shaping international climate policy and resulted in the Copenhagen Accord, which outlined commitments to reduce greenhouse gas emissions. The conference put Denmark at the forefront of global climate discussions and highlighted the country's commitment to sustainability and renewable energy."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 102,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

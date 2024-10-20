@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3bqKv0uHVUQD9TnSxoGBWGXjSW",
+    "object": "chat.completion",
+    "created": 1705847147,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cape Verde have a negative perception of divorce. They generally view it as a last resort and believe that marriage should be a lifelong commitment. Women in Cape Verde prioritize maintaining the family unit and often endure unhappy marriages for the sake of their children and societal expectations. Divorce is seen as a failure and can carry a social stigma, leading many women to avoid it unless absolutely necessary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 78,
+        "total_tokens": 98
+    },
+    "system_fingerprint": null
+}

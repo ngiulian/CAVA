@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV68EohywqB5VGyoDvQAm6km470z",
+    "object": "chat.completion",
+    "created": 1705854992,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Bangladesh in the past 20 years is the Rana Plaza building collapse. On April 24, 2013, an eight-story commercial building named Rana Plaza, located in the Savar Upazila of Dhaka, collapsed, resulting in the death of at least 1,134 people and injuring over 2,500 others. The building housed several garment factories, and the collapse exposed the hazardous working conditions and lack of safety regulations in the country's garment industry. This event drew international attention and led to increased scrutiny of labor practices and safety standards in Bangladesh's garment sector, which is a vital part of the country's economy. The Rana Plaza tragedy prompted significant reforms and initiatives to improve worker safety and labor conditions in the industry."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 159,
+        "total_tokens": 183
+    },
+    "system_fingerprint": null
+}

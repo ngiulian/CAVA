@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoiSvP4TgdZlxN5Qjdd20k8IE6B",
+    "object": "chat.completion",
+    "created": 1705857756,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in Finland are often obsessed with technology, particularly smartphones and social media. They spend a significant amount of time on their devices, playing video games, browsing social media platforms, and messaging their friends. This digital obsession can sometimes lead to decreased physical activity and limited face-to-face social interactions among young people."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 63,
+        "total_tokens": 81
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTeT41A1YZYVlsSk79I8623zr07o",
+    "object": "chat.completion",
+    "created": 1705849433,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Romania typically have negative attitudes towards divorce. Many consider it a social taboo and view divorce as an undesirable outcome that disrupts traditional family values and stability. There is often a belief that divorce reflects failure and can bring shame to the individuals involved, especially in more conservative and rural areas. Consequently, men in Romania can exhibit a reluctance towards initiating or accepting divorce, preferring to maintain the sanctity of the marital union. However, it is important to note that attitudes towards divorce can vary depending on individual beliefs, education, urbanization, and generational differences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 113,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

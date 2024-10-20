@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3l8g6cME10m3PCXpmf3bfUvqt6",
+    "object": "chat.completion",
+    "created": 1705847157,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that perspectives on abortion can vary among women in Costa Rica. However, generally, the topic of abortion in Costa Rica is surrounded by controversy and diverse opinions. While some women support the right to access safe and legal abortion, others hold conservative views and oppose it. The Catholic Church's influence and cultural factors shape public perception on abortion. Additionally, discussions about reproductive rights and access to legal abortion are ongoing in Costa Rican society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 89,
+        "total_tokens": 109
+    },
+    "system_fingerprint": null
+}

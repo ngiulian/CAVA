@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZ6jDrB5FDOaCaFXUbji9csjT3M",
+    "object": "chat.completion",
+    "created": 1705856788,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Nepal in the past 100 years is the abolishment of the monarchy and the establishment of a democratic republic. On May 28, 2008, the Nepalese Constituent Assembly declared Nepal a federal democratic republic, ending the 240-year-old monarchy. This historic event marked a significant shift in the political structure and governance of Nepal, transitioning from a monarchy to a democratic system. It represented a major milestone in the country's history and paved the way for social, political, and constitutional reforms in Nepal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 112,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

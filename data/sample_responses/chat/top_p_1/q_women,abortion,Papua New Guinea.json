@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcTYFTeGHnVhz0OcXrhMzMqYn3H",
+    "object": "chat.completion",
+    "created": 1705849309,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on available information, the views on abortion among women in Papua New Guinea (PNG) vary widely. As PNG is a culturally diverse country with numerous ethnic groups, it is challenging to generalize the opinions of all women. However, certain factors shape the predominant attitudes towards abortion in the country.\n\n1. Strong Cultural and Religious Influences: PNG is deeply influenced by traditional cultural and religious norms which generally disapprove of abortion. Many cultural practices emphasize respect for life and place importance on large families. Various Christian denominations, which are prevalent in PNG, hold similar views and consider abortion morally wrong.\n\n2. Stigma and Taboos: Abortion carries significant social stigma in PNG due to cultural and religious beliefs. Women who seek or have had abortions may be subject to discrimination, exclusion, or even violence. Consequently, many women might not openly express their support for abortion due to fear of judgment or retribution.\n\n3. Limited Awareness and Access to Information: Due to limited education and healthcare infrastructure in some areas of PNG, many women may lack sufficient knowledge about reproductive health, contraception, and safe abortion options. This lack of information can contribute to negative perceptions of abortion.\n\n4. Health and Safety Concerns: In a country where basic healthcare facilities are scarce and maternal mortality rates are high, some women may view abortion as a dangerous procedure that could put their health or lives at risk. These concerns may outweigh any support for legalizing or expanding access to abortion.\n\nIt is important to note that individual women's"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 300,
+        "total_tokens": 321
+    },
+    "system_fingerprint": null
+}

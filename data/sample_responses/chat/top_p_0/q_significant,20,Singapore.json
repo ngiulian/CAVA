@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVeJ9N4DgqA2C7KgK5K7vT68jNpz",
+    "object": "chat.completion",
+    "created": 1705857111,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Singapore in the past 20 years is the death of its founding Prime Minister, Lee Kuan Yew, on March 23, 2015. Lee Kuan Yew was a key figure in Singapore's transformation from a small, underdeveloped nation to a prosperous and modern city-state. His passing marked the end of an era and had a profound impact on the nation. Thousands of Singaporeans mourned his death, and his funeral was attended by numerous world leaders, highlighting his global influence. Lee Kuan Yew's legacy continues to shape Singapore's political, economic, and social landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

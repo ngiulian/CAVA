@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThvWrOey1JxDyJqauefhoQcP4Ky",
+    "object": "chat.completion",
+    "created": 1705849647,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Sierra Leone hold negative views towards divorce and generally view it as unacceptable."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 17,
+        "total_tokens": 37
+    },
+    "system_fingerprint": null
+}

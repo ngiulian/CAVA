@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWBScG7fEFNxv3TWiu1Yr5e1T6Lb",
+    "object": "chat.completion",
+    "created": 1705859166,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Jamaica, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and quick way to reach the grocery store. It will take around 5-10 minutes to cover the distance.\n\n3. Public Transportation: Depending on the availability in your area, you can check for local buses or taxis that can take you to the grocery store. Inquire with locals or at a nearby bus stop for the best options.\n\n4. Driving: If you have access to a car or can rent one, driving to the grocery store is another option. Ensure you are familiar with local traffic rules and have a valid driver's license.\n\nConsider the available options based on your preferences, convenience, and the resources at your disposal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 208,
+        "total_tokens": 232
+    },
+    "system_fingerprint": null
+}

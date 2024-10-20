@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYgoBrc9W9tsRh0s6LMzbkBXzhs",
+    "object": "chat.completion",
+    "created": 1705856762,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nicaragua in the past 100 years is the Sandinista Revolution, which began in 1979. The revolution resulted in the overthrow of the Somoza dictatorship, which had ruled the country for more than 40 years. The Sandinistas, a leftist political organization, established a new government and implemented various social and economic reforms, including land redistribution, education initiatives, and healthcare programs. The revolution had a profound impact on Nicaragua's history and politics, shaping the country's path for decades to come."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

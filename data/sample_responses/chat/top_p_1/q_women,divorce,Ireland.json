@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGWdUbvMZnbuB7seSNfPBqcK1pI",
+    "object": "chat.completion",
+    "created": 1705847948,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Ireland have a favorable view of divorce and believe that it should be available as an option for those in unhappy or abusive marriages. They see divorce as necessary for individuals to have the freedom to leave unhealthy relationships and start anew. Women in Ireland also advocate for easier access to divorce, seeking reduced waiting times and less complex legal processes. They believe in the importance of legalizing divorce and empowering individuals, especially women, to make their own choices and have control over their own lives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 97,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

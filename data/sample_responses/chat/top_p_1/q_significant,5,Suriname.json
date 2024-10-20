@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgQbBZUzWJS3BU7AfzQDU3Gm2jG",
+    "object": "chat.completion",
+    "created": 1705857242,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Suriname in the past 5 years was the national elections held in May 2020. These elections marked a significant shift in Surinamese politics as the long-standing political leader, Desi Bouterse, was voted out of power after 10 years as president. The public elected Chandrikapersad Santokhi as the new president, bringing a new era of governance to the country. This event had significant political and social implications for Suriname and its future trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 106,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

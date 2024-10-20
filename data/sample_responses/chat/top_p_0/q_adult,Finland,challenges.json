@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTxq3QMOpizKXLA8wZtpTbaIxMym",
+    "object": "chat.completion",
+    "created": 1705850634,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Finland face include:\n\n1. Unemployment: Despite having a strong economy, Finland has faced challenges in creating enough job opportunities for its adult population. Unemployment rates have been relatively high, especially among certain groups such as young adults and immigrants.\n\n2. Mental health issues: Finland has one of the highest rates of mental health problems in Europe. Adults often face stress, anxiety, and depression due to various factors such as work pressure, long winters, and social isolation.\n\n3. Aging population: Finland has an aging population, which poses challenges in terms of healthcare, pension systems, and providing adequate support for the elderly. This also puts pressure on the working-age population to support the growing number of retirees.\n\n4. Income inequality: While Finland is known for its welfare state and relatively equal distribution of wealth, income inequality has been increasing in recent years. Some adults struggle to make ends meet, especially those in low-income jobs or with precarious employment.\n\n5. Integration of immigrants: Finland has seen an increase in immigration in recent years, and integrating immigrants into society and the labor market has been a challenge. Language barriers, discrimination, and lack of recognition of foreign qualifications can hinder the integration process for adults.\n\n6. Work-life balance: Many adults in Finland face challenges in maintaining a healthy work-life balance. Long working hours, high expectations, and a culture of presenteeism can lead to stress and difficulties in spending quality time with family and pursuing personal interests.\n\n7. Substance"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

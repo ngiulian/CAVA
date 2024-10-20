@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPomenLaQlUAYIpJN2jUSyOJOOH",
+    "object": "chat.completion",
+    "created": 1705856212,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that occurred in Kosovo in the past 20 years is the declaration of independence from Serbia on February 17, 2008. This event marked the formal establishment of the Republic of Kosovo as a sovereign and independent state. Kosovo had been under the administration of the United Nations since 1999, following a NATO intervention to stop ethnic cleansing during the Kosovo War. The declaration of independence led to significant political and diplomatic debates and actions, with some countries recognizing Kosovo as an independent state, while others, including Serbia and Russia, still refuse to recognize its independence. This event has had a profound impact on the political, social, and economic landscape of Kosovo and its relations with other countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 140,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

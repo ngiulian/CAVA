@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0nIN4GA7V84Y7UEnSEgRnmbrnG",
+    "object": "chat.completion",
+    "created": 1705846973,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Ivory Coast hold negative views towards divorce. They generally believe that divorce is a last resort and should be avoided if possible. Men often perceive divorce as a failure and a source of shame, as it goes against traditional values and societal expectations of maintaining a stable and intact family unit. They prioritize the preservation of the family and the well-being of their children over personal happiness or individual desires. Men in Ivory Coast tend to view divorce as a disruption to social harmony and stability, and they often prefer to endure unhappy marriages rather than face the social consequences of divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 113,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

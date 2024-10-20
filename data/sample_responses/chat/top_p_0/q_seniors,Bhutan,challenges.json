@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6kIkAmQ4LyEIVf21EcNa4ESjsQ",
+    "object": "chat.completion",
+    "created": 1705851186,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Bhutan face include limited access to healthcare services, financial insecurity, social isolation, and lack of support systems. Many seniors in Bhutan live in rural areas where healthcare facilities are scarce, making it difficult for them to receive proper medical attention. Additionally, a significant number of seniors struggle with financial insecurity due to inadequate pension schemes and limited job opportunities. This often leads to a lack of financial independence and reliance on family members for support. Social isolation is another challenge as seniors may feel disconnected from their communities and experience loneliness. Lastly, the absence of comprehensive support systems for seniors, such as elder care centers or programs, further exacerbates their difficulties."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 133,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

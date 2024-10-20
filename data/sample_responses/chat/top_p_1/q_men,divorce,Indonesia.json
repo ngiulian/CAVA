@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTFQCzrFMhOuG9RTGUXZh4NFNb3K",
+    "object": "chat.completion",
+    "created": 1705847880,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Indonesia hold a conservative view towards divorce, viewing it as a social stigma and a last resort. They generally see divorce as a failure to uphold religious and cultural values that prioritize lifelong marriages. Many men believe that divorce disrupts family harmony and can have negative implications for children's well-being. While this perspective is predominant, there is a growing recognition that divorce can be necessary in cases of abuse or irreconcilable differences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 87,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

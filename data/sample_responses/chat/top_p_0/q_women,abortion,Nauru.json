@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTaCVxmgPCBSUfpb2X6n5BJljyvw",
+    "object": "chat.completion",
+    "created": 1705849168,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Nauru think of abortion as opinions on this topic can vary greatly among individuals. Factors such as cultural, religious, and personal beliefs influence one's stance on abortion. It is important to recognize that women in Nauru, like in any other country, hold diverse perspectives on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 73,
+        "total_tokens": 94
+    },
+    "system_fingerprint": null
+}

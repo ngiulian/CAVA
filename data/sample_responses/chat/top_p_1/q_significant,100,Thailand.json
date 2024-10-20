@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVikwYpRACoaG0DNvVeIvzcFZ2YL",
+    "object": "chat.completion",
+    "created": 1705857386,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events in Thailand in the past 100 years is the Siamese Revolution of 1932. On June 24, 1932, a group of army and civilian officials staged a bloodless coup, overthrowing the absolute monarchy and establishing a constitutional monarchy. This event, also known as the \"June 24th Revolution\" or the \"1932 Revolution,\" marked the transition from an absolute monarchy to a constitutional system in Thailand. It led to major political and social reforms, including the drafting of the first constitution, granting more rights and freedoms to the Thai people, and weakening the power of the monarchy. The Siamese Revolution of 1932 laid the foundation for Thailand's ongoing political evolution and significantly shaped the country's modern history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 155,
+        "total_tokens": 179
+    },
+    "system_fingerprint": null
+}

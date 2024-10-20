@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTDHSbbSUnte6jB9bUMSWGWuCWK",
+    "object": "chat.completion",
+    "created": 1705848735,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mexico have varying opinions about divorce. Some men may view divorce as a necessary solution to a failing marriage or an escape from an unhealthy relationship. They may perceive divorce as an opportunity for personal growth and a chance to find happiness and fulfillment elsewhere. Others may hold more traditional values and perceive divorce as a negative phenomenon that disrupts family unity and can bring shame or stigma. However, opinions on divorce in Mexico, just like in any society, can be diverse and dependent on individual beliefs, cultural backgrounds, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 106,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

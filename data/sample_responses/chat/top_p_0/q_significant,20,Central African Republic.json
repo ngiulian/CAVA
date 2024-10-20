@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9QzazOk08w2mqiNEQrq9XW1e4I",
+    "object": "chat.completion",
+    "created": 1705855196,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Central African Republic (CAR) in the past 20 years is the outbreak of the civil war in 2012. This conflict was sparked by the overthrow of President Fran\u00e7ois Boziz\u00e9 by the S\u00e9l\u00e9ka rebel coalition, which led to a series of violent clashes between various armed groups and the government forces.\n\nThe civil war resulted in widespread violence, displacement of populations, and human rights abuses. It also exacerbated existing ethnic and religious tensions, leading to a deepening humanitarian crisis. The conflict has been characterized by sectarian violence between Christian and Muslim communities, with both sides being accused of committing atrocities.\n\nThe international community, including the United Nations and African Union, has been involved in peacekeeping efforts and attempts to stabilize the situation. However, despite several peace agreements and transitional governments, the conflict has persisted, and the country continues to face significant challenges in achieving lasting peace and stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 186,
+        "total_tokens": 212
+    },
+    "system_fingerprint": null
+}

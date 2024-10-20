@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8p97nQBaw9mvYkG70LtR4Zu36b",
+    "object": "chat.completion",
+    "created": 1705847471,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Estonia have a generally negative perception of divorce. They view it as a challenging and emotionally draining process that often leads to financial instability and strained relationships with children. Men tend to prioritize stability and commitment in their marriages, and divorce is seen as a failure or a last resort. However, attitudes towards divorce may vary among individuals based on personal experiences and beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 73,
+        "total_tokens": 92
+    },
+    "system_fingerprint": null
+}

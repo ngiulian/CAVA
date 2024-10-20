@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3RQ4jtxR7huEBEVXMuOzAPxF4Y",
+    "object": "chat.completion",
+    "created": 1705854825,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Antarctica in the past 20 years was the signing of the Antarctic Treaty in 1998. This historic agreement aimed to preserve Antarctica as a peaceful scientific research zone and banned any military activity, mineral mining, and nuclear testing on the continent. The treaty also established strict environmental protection rules, promoting the conservation of its unique ecosystem. This event represents a crucial step toward international cooperation and the long-term preservation of Antarctica."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 91,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

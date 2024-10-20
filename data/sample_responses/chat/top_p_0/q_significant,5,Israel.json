@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVMYBBmr81UGBrabma9V7N4tFQxp",
+    "object": "chat.completion",
+    "created": 1705856010,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Israel in the past five years was the normalization of diplomatic relations between Israel and several Arab countries. In 2020, the United Arab Emirates, Bahrain, Sudan, and Morocco all announced agreements to establish diplomatic ties with Israel, marking a historic shift in the region's geopolitical landscape. These agreements, known as the Abraham Accords, were seen as a major breakthrough in Israeli-Arab relations, as they ended decades of hostility and isolation for Israel in the Arab world. The normalization agreements have opened up opportunities for cooperation in various fields, including trade, tourism, security, and technology, and have the potential to reshape the dynamics of the Middle East."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 138,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

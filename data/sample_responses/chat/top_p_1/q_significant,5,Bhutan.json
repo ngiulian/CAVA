@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8jOAYUSNcGIIsRsElPqt3hRD8F",
+    "object": "chat.completion",
+    "created": 1705855153,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Bhutan in the past 5 years is the general elections held in 2018. It marked a crucial milestone in Bhutan's democratic journey as the country elected a new government and prime minister. The elections saw the ruling party, the People's Democratic Party, being defeated by the opposition party, Druk Nyamrup Tshogpa, signaling a shift in political power. This event showcased the maturing democracy in Bhutan and demonstrated the people's active participation in shaping the country's future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 110,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

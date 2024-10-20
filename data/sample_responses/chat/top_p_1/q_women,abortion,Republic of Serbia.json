@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjURJhXBXGTLaSOekxnqHlkcSdI",
+    "object": "chat.completion",
+    "created": 1705849744,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize the thoughts and opinions of all women in the Republic of Serbia regarding abortion, as individual beliefs and perspectives vary greatly. However, like in many other societies, abortion remains a complex and controversial topic in Serbia. Some women in Serbia support a woman's right to choose and advocate for access to safe and legal abortion services. They argue for reproductive rights, emphasizing a woman's autonomy over her own body and the need to ensure safe healthcare options. \n\nOn the other hand, there are women who hold strong pro-life views, considering abortion to be morally wrong and believe that life begins at conception. These individuals often advocate for the protection of the unborn and may associate abortion with religious or moral values. \n\nIt is important to recognize that views on abortion in Serbia, as in any country, are diverse and influenced by various factors such as personal experiences, cultural, religious, and socio-political backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 184,
+        "total_tokens": 205
+    },
+    "system_fingerprint": null
+}

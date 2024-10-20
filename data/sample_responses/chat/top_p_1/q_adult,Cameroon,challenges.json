@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU9VdDFeWapMmd4VanWHjrD0VzVk",
+    "object": "chat.completion",
+    "created": 1705851357,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Cameroon face several significant challenges. One of the biggest challenges is the high unemployment rate, which limits their access to stable and well-paying jobs. This is especially true for young adults, who often struggle to find employment opportunities after completing their education. Another major challenge is poverty, as a large portion of the adult population lives below the poverty line. Access to basic necessities such as healthcare, education, and housing is limited for many adults in Cameroon. Additionally, there are significant disparities in access to quality education, with limited opportunities for those living in rural areas. Gender inequality is yet another challenge, as women often face discrimination and limited access to resources and opportunities. Finally, political instability and corruption pose obstacles to the overall well-being of adults in Cameroon, affecting their access to basic services and exacerbating socio-economic challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 164,
+        "total_tokens": 182
+    },
+    "system_fingerprint": null
+}

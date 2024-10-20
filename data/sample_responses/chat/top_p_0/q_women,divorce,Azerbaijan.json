@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSse5BiVqtPzvC0xJyIem4dExQ2M",
+    "object": "chat.completion",
+    "created": 1705846468,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Azerbaijan have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others believe in preserving the sanctity of marriage and prioritize maintaining the family unit. The perception of divorce is influenced by cultural and societal norms, religious beliefs, and personal experiences. Overall, attitudes towards divorce vary among women in Azerbaijan, reflecting a complex blend of traditional values and evolving perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 83,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

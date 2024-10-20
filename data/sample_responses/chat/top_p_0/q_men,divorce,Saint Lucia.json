@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTPGIfps9K2yM9hlRHlThGRkYOCI",
+    "object": "chat.completion",
+    "created": 1705848490,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Saint Lucia have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and stigma to both parties involved, particularly for women. They tend to prioritize the preservation of the family unit and may perceive divorce as a threat to their role as providers and protectors. Additionally, cultural and religious beliefs play a significant role in shaping their views, as divorce is often seen as morally wrong and against the teachings of the church."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 103,
+        "total_tokens": 123
+    },
+    "system_fingerprint": null
+}

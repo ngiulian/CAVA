@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfIhfpCWujZCLJRZbXlRET3KhpG",
+    "object": "chat.completion",
+    "created": 1705857172,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in San Marino in the past 5 years was the country's celebration of its 1700th anniversary in 2021. San Marino, one of the world's oldest republics, marked this milestone with various events and festivities throughout the year. The anniversary celebrations included cultural exhibitions, historical reenactments, concerts, and a grand parade showcasing the country's rich heritage. This event not only highlighted San Marino's long-standing history but also brought international attention to the small nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 105,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

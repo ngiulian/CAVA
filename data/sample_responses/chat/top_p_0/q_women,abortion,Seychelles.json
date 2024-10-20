@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTlu9ndcqSGNPuJFjZzxdXpL398u",
+    "object": "chat.completion",
+    "created": 1705849894,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what most women in Seychelles think of abortion as opinions on this topic can vary greatly among individuals. However, it is worth noting that Seychelles has relatively liberal laws regarding abortion, allowing it under certain circumstances. The country's legal framework recognizes the right to access safe and legal abortion, which suggests that there may be a significant portion of women who support a woman's right to choose. However, individual opinions on abortion can be influenced by various factors such as personal beliefs, cultural and religious backgrounds, and personal experiences. Therefore, it is important to recognize that there is likely a diversity of opinions on this matter among women in Seychelles."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 140,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwTmjrBBTbxMITysmRk82jo0xkd",
+    "object": "chat.completion",
+    "created": 1705858237,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There isn't a specific answer to this question as the interests and obsessions of kids in Oman, or any other country, can vary greatly. However, some common obsessions among kids in many countries may include video games, social media, celebrities, fashion, music, sports, and technology. It is essential to remember that generalizations should not be applied to all kids, as individual interests can vary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 81,
+        "total_tokens": 99
+    },
+    "system_fingerprint": null
+}

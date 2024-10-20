@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBdJlpSBqjxAFutLFsnFbbJ5Sor",
+    "object": "chat.completion",
+    "created": 1705847645,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Gambia hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their religious and cultural beliefs. Women in Gambia often prioritize the value of life and the importance of motherhood, considering abortion as a violation of these principles. Additionally, the legal restrictions and limited access to safe abortion services in the country further contribute to the prevailing negative attitudes towards abortion among women in Gambia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 87,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6DakR8JqdJ0lMkUYAHdlpoZTMU",
+    "object": "chat.completion",
+    "created": 1705847309,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Dominica have generally negative views towards divorce. They tend to view marriage as a lifelong commitment and believe that divorce should only be considered as a last resort in exceptional circumstances. Women in Dominica often prioritize maintaining the family unit and preserving their children's well-being over personal satisfaction or happiness. Many women also hold conservative religious or cultural beliefs that discourage divorce, often placing emphasis on the importance of traditional gender roles within the family. Consequently, most women in Dominica tend to view divorce as a disruptive and undesirable outcome."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

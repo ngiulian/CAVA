@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjb9qZrwRUG9Y4Xobs2jzuomfm8",
+    "object": "chat.completion",
+    "created": 1705857439,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in East Timor in the past 100 years is the East Timorese independence referendum in 1999. This event marked a crucial turning point in the history of East Timor and had a profound impact on its future.\n\nIn 1975, East Timor declared its independence from Portugal, but was invaded and occupied by Indonesia shortly after. The Indonesian occupation lasted for 24 years and was marked by widespread human rights abuses, violence, and repression. However, in 1999, the Indonesian government agreed to hold a referendum to determine the future status of East Timor.\n\nOn August 30, 1999, the people of East Timor voted in the referendum, with an overwhelming majority (78.5%) choosing independence from Indonesia. However, the aftermath of the referendum was marred by violence and chaos, as pro-Indonesian militias launched a campaign of terror and destruction across the country.\n\nThe international community, led by the United Nations, intervened to restore peace and stability in East Timor. The United Nations Transitional Administration in East Timor (UNTAET) was established to govern the territory until its independence was formally achieved.\n\nFinally, on May 20, 2002, East Timor officially gained its independence and became the first new sovereign state of the 21st century. This event marked a significant milestone for the people of East Timor, who had endured decades of struggle and sacrifice for self-determination.\n\nThe independence referendum"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 300,
+        "total_tokens": 326
+    },
+    "system_fingerprint": null
+}

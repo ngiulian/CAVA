@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0wsV4NFFdVIuOLBgJnwHGafK3M",
+    "object": "chat.completion",
+    "created": 1705846982,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no specific information available about the overall perspective of most women in Ivory Coast regarding divorce. Women's opinions about divorce can vary greatly depending on their individual experiences, backgrounds, and cultural norms. Some women may view divorce as a means to escape an abusive or unhappy marriage, while others may view it as a social taboo and prefer staying in difficult relationships for the sake of family or societal expectations. It is important to note that perspectives on divorce can differ greatly from person to person, and it would be inaccurate to generalize the views of all women in Ivory Coast on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 115,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1mYqKSoRuPoum41mRrMbUdidVX",
+    "object": "chat.completion",
+    "created": 1705854722,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Albania in the past 100 years is the fall of communism and the subsequent transition to a multiparty democracy. Albania was ruled by a repressive communist regime under Enver Hoxha for over four decades, from 1944 to 1991. However, following Hoxha's death in 1985 and the fall of communism in neighboring countries, Albania saw a series of protests and uprisings that eventually led to the collapse of the regime in 1991.\n\nThis event marked a significant turning point in Albania's history as it brought an end to the totalitarian rule and initiated a period of democratic reforms. It opened up the country to the outside world, leading to political, economic, and social transformations. The transition process was not without challenges, such as widespread poverty and political instability, but it also brought opportunities for growth, integration with European institutions, and improved relations with other countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 189,
+        "total_tokens": 213
+    },
+    "system_fingerprint": null
+}

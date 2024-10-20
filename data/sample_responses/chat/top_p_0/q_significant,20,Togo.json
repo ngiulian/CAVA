@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jViMEl8hmMzZjv8CbL5lRYvIyqKF",
+    "object": "chat.completion",
+    "created": 1705857362,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Togo in the past 20 years was the death of long-time President Gnassingb\u00e9 Eyad\u00e9ma and the subsequent political transition. Eyad\u00e9ma, who had been in power since 1967, passed away on February 5, 2005. His death led to a constitutional crisis as his son, Faure Gnassingb\u00e9, was installed as the new president within hours, bypassing the constitutional provision that the President of the National Assembly should assume power in such circumstances.\n\nThis sparked widespread protests and international condemnation, as it was seen as an undemocratic transfer of power. The African Union and the Economic Community of West African States (ECOWAS) played a crucial role in mediating the crisis. Eventually, under international pressure, Faure Gnassingb\u00e9 stepped down and new elections were held in April 2005, which he won. This marked the first time in Togo's history that a presidential election was held with multiple candidates and a degree of opposition participation.\n\nThe events surrounding Eyad\u00e9ma's death and the subsequent political transition had a significant impact on Togo's political landscape. It highlighted the need for democratic reforms and led to increased political awareness and activism among the Togolese population. Since then, Togo has witnessed several waves of protests and demands for political change, with ongoing efforts to promote democracy and good governance in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 287,
+        "total_tokens": 312
+    },
+    "system_fingerprint": null
+}

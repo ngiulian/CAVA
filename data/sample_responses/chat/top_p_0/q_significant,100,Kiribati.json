@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPC6YIsY7kPBRg8NCq3walj6xjB",
+    "object": "chat.completion",
+    "created": 1705856174,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Kiribati in the past 100 years is the country's independence from the United Kingdom. Kiribati, formerly known as the Gilbert Islands, gained independence on July 12, 1979. This event marked a crucial milestone in the country's history, as it allowed Kiribati to govern itself and shape its own future. Independence Day is now celebrated annually as a national holiday in Kiribati."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 92,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

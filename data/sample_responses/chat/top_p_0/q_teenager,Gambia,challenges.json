@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUInHwRgKk9FlfRFASrPLLg2T7wG",
+    "object": "chat.completion",
+    "created": 1705851933,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Gambia face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers struggle to attend school due to financial constraints, lack of infrastructure, and inadequate resources. This hampers their ability to acquire necessary skills and knowledge for future opportunities.\n\nAnother major challenge is the prevalence of child marriage. Teenage girls are often forced into early marriages, which disrupts their education and exposes them to health risks associated with early pregnancies. This practice limits their personal development and perpetuates a cycle of poverty.\n\nAdditionally, unemployment and limited job prospects pose a significant challenge for teenagers in Gambia. The lack of employment opportunities forces many young people to engage in informal and low-paying jobs, hindering their ability to secure a stable future.\n\nFurthermore, access to healthcare services is often limited, particularly in rural areas. Teenagers face difficulties in accessing proper healthcare, leading to inadequate treatment and prevention of diseases.\n\nLastly, the lack of recreational facilities and extracurricular activities limits teenagers' opportunities for personal growth and development. The absence of safe spaces for leisure activities can contribute to boredom, idleness, and potential engagement in risky behaviors.\n\nOverall, these challenges hinder the well-being, education, and future prospects of teenagers in Gambia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 251,
+        "total_tokens": 270
+    },
+    "system_fingerprint": null
+}

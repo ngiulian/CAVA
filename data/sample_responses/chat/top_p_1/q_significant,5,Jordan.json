@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNEcAm84jFC3UzMAQGI7hqLZs4i",
+    "object": "chat.completion",
+    "created": 1705856052,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Jordan in the past five years was the Amman protests in 2018. These protests were triggered by economic grievances, including rising prices and austerity measures. Thousands of Jordanians took to the streets demanding the resignation of the government, improved living conditions, and an end to corruption. The protests continued for several days and were significant as they highlighted the frustrations of many Jordanians and their desire for political and economic reforms. As a result of the protests, Jordan's Prime Minister, Hani Mulki, resigned and King Abdullah II initiated a series of political and economic reforms to address the people's concerns."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 130,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

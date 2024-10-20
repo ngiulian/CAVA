@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUMrACFJvLkd95qsLG8E1nGewcUB",
+    "object": "chat.completion",
+    "created": 1705852185,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Ireland face several challenges, including economic and employment concerns. This can include issues such as unemployment, underemployment, low wages, or job insecurity. Another significant challenge is the high cost of living, particularly in urban areas. Housing affordability and availability is also a major concern, with many struggling to find suitable and affordable accommodation. Access to quality healthcare, including long waiting times for medical procedures and high costs of medication, is another challenge. Mental health issues, such as stress, anxiety, and depression, are also prevalent and may be exacerbated by these economic and social challenges. Finally, the ongoing Brexit process and its potential impact on trade and the economy also pose challenges for adults in Ireland."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 139,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

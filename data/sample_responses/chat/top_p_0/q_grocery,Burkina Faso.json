@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW2aFnfprUusDVHUUvZyBKJIFFE7",
+    "object": "chat.completion",
+    "created": 1705858616,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Burkina Faso, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. Ensure you wear comfortable shoes and carry any necessary items like a bag or backpack for your groceries.\n\n2. Cycling: If you have a bicycle, it can be a convenient and quick way to reach the grocery store. Make sure to wear a helmet and follow traffic rules.\n\n3. Public Transportation: Check if there are any local buses or minibusses (known as \"bush taxis\") that pass by or near the grocery store. Inquire with locals or at a nearby bus stop for information on routes and schedules.\n\n4. Motorbike Taxi: In Burkina Faso, motorbike taxis, commonly known as \"moto-taxis,\" are a popular mode of transportation. You can hire a moto-taxi to take you to the grocery store. Negotiate the fare before starting the journey.\n\n5. Private Car: If you have access to a private car or can hire a taxi, it can be a convenient option. Ensure you have a valid driver's license if you plan to drive yourself.\n\nConsider factors such as your budget, convenience, and personal preferences when choosing the mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 265,
+        "total_tokens": 292
+    },
+    "system_fingerprint": null
+}

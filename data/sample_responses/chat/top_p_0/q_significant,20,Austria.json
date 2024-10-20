@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4RvbVt35h4okfD0XtVyd105IBv",
+    "object": "chat.completion",
+    "created": 1705854887,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Austria in the past 20 years is the formation of a coalition government between the center-right Austrian People's Party (\u00d6VP) and the far-right Freedom Party of Austria (FP\u00d6) in 2017. This event marked the return of the FP\u00d6 to government after more than a decade and generated significant controversy both domestically and internationally. The coalition's formation led to concerns about the rise of far-right politics in Austria and strained diplomatic relations with other European Union member states. However, the coalition collapsed in 2019 due to a corruption scandal, leading to a reconfiguration of the government."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 128,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

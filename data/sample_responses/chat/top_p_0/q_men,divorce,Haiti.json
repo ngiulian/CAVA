@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTEUgsyODuJzy3jzYb6kAQDJqntT",
+    "object": "chat.completion",
+    "created": 1705847822,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Haiti hold negative views towards divorce. They generally believe that marriage is a lifelong commitment and divorce is seen as a failure or a sign of weakness. Men often prioritize maintaining the family unit and preserving social stability over individual happiness or personal fulfillment. Divorce is often stigmatized, and men may feel societal pressure to stay in unhappy marriages for the sake of their reputation or to avoid judgment from their community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 83,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

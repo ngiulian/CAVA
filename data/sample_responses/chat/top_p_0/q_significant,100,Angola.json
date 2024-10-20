@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1HLwUo54fvBkD4Kn9aWjmR2dwO",
+    "object": "chat.completion",
+    "created": 1705854691,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Angola in the past 100 years is the Angolan War of Independence, which lasted from 1961 to 1974. This armed conflict was fought between the National Liberation Front of Angola (FNLA), the People's Movement for the Liberation of Angola (MPLA), and the National Union for the Total Independence of Angola (UNITA) against the Portuguese colonial rule. The war resulted in the eventual independence of Angola from Portugal on November 11, 1975. This event marked a turning point in the country's history, leading to subsequent political and social changes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 125,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

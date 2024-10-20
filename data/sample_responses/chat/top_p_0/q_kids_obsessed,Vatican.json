@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVzI7Q6MaodHTv19au7Sgkhc3WRI",
+    "object": "chat.completion",
+    "created": 1705858412,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize about the interests and obsessions of kids in Vatican, as they can vary greatly depending on individual preferences and influences. However, like kids in many other parts of the world, some common obsessions among Vatican's youth may include technology, social media, video games, music, fashion, sports, and popular culture."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 68,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

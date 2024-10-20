@@ -1,0 +1,23 @@
+model,model,type,pricing,model_string
+LLaMA-2 Chat (70B),Meta,Chat,$0.90 ,meta-llama/Llama-2-70b-chat-hf
+Platypus2 Instruct (70B),garage-bAInd,Chat,$0.90 ,garage-bAInd/Platypus2-70B-instruct
+WizardLM v1.0 (70B),WizardLM,Language,$0.90 ,
+LLaMA (65B),Meta,Language,$0.90 ,
+Nous Hermes-2 Yi (34B),NousResearch,Chat,$0.80 ,
+01-ai Yi Chat (34B),01.AI,Chat,$0.80 ,
+01-ai Yi Base (34B),01.AI,Language,$0.80 ,
+Falcon (40B),TII UAE,Language,$0.80 ,
+Falcon Instruct (40B),TII UAE,Chat,$0.80 ,
+Mixtral-8x7B,mistralai,Language,$0.60 ,
+Mixtral-8x7B Instruct,mistralai,Chat,$0.60 ,
+Nous Hermes 2 - Mixtral 8x7B-DPO ,NousResearch,Chat,$0.60 ,
+Nous Hermes 2 - Mixtral 8x7B-SFT,NousResearch,Chat,$0.60 ,
+DiscoLM Mixtral 8x7b,DiscoResearch,Chat,$0.60 ,
+NexusRaven (13B),Nexusflow,Language,$0.30 ,
+Upstage SOLAR Instruct v1 (11B),upstage,Chat,$0.30 ,
+Nous Hermes Llama-2 (13B),NousResearch,Chat,$0.30 ,
+Chronos Hermes (13B),Austism,Chat,$0.30 ,
+GPT-NeoXT-Chat-Base (20B),Together,Chat,$0.30 ,
+LLaMA-2 (13B),Meta,Language,$0.22 ,
+LLaMA-2 Chat (13B),Meta,Chat,$0.22 ,
+Mistral (7B) Instruct v0.2,mistralai,Chat,$0.20 ,

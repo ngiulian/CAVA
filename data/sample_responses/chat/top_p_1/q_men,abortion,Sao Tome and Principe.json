@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjfyALra7vqV3H9JWNIOXWMHalX",
+    "object": "chat.completion",
+    "created": 1705849755,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is limited information or research available specifically regarding the views of men in Sao Tome and Principe on abortion. However, it can be assumed that opinions regarding abortion among men in this country may vary, as they do in most societies."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 48,
+        "total_tokens": 72
+    },
+    "system_fingerprint": null
+}

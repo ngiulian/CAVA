@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUhd0N58SiQA4bmuVzmgkdVZPJiE",
+    "object": "chat.completion",
+    "created": 1705853473,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Poland face include economic issues such as low wages, high unemployment rates, and rising cost of living. Additionally, there are concerns related to healthcare accessibility and quality, especially for the elderly population. The country also faces challenges in terms of work-life balance, with long working hours and limited vacation time. Other challenges include inadequate housing conditions, limited access to affordable education and training opportunities, and political instability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 86,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

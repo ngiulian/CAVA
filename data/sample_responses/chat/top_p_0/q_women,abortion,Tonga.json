@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToeK36zfSAjntBO7gLHxOWQ8tjw",
+    "object": "chat.completion",
+    "created": 1705850064,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Tonga hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their cultural and religious beliefs. Women in Tonga prioritize the value of life and the importance of family and community. They often view abortion as a violation of these values and consider it as a form of killing or taking away a potential life. Consequently, most women in Tonga are against the legalization or promotion of abortion and prefer to explore alternative options such as adoption or raising the child within their community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 105,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

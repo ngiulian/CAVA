@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUwn5BdGvi5Iz7flarbx5c4TYNxG",
+    "object": "chat.completion",
+    "created": 1705854413,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Uzbekistan face include economic difficulties, limited job opportunities, low wages, and high levels of unemployment. The country's transition from a centrally planned economy to a market-oriented one has resulted in significant disparities in income and wealth distribution. Additionally, corruption and lack of transparency in the business sector pose obstacles for adults seeking employment or starting their own businesses. Access to quality healthcare and education is also a challenge, particularly in rural areas. Furthermore, there are limited opportunities for personal and professional development, and many adults struggle to find avenues for advancement and career growth."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

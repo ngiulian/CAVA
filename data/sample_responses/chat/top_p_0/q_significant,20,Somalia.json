@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfrA4x2cn8rjf4EYLIBFYS1rDfO",
+    "object": "chat.completion",
+    "created": 1705857207,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Somalia in the past 20 years is the establishment of the Federal Government of Somalia in 2012. After years of civil war, clan conflicts, and the collapse of the central government in 1991, Somalia experienced a period of statelessness and instability. However, in 2012, a new federal government was formed, marking a significant step towards stability and governance in the country. This event brought hope for a more unified and functional Somalia, although challenges and conflicts still persist."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 106,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

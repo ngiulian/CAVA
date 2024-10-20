@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV12EdP0UykSrvxtvBgT8E6cCmPq",
+    "object": "chat.completion",
+    "created": 1705854676,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Angola in the past 20 years was the end of the civil war in 2002. The civil war in Angola spanned almost four decades, starting from 1975 when the country gained independence from Portugal. The conflict was driven by various political, economic, and social factors and involved multiple factions, including the People's Movement for the Liberation of Angola (MPLA) and the National Union for the Total Independence of Angola (UNITA).\n\nThe civil war caused significant devastation, leading to the displacement of millions of people, widespread destruction of infrastructure, and loss of countless lives. However, in 2002, after numerous failed peace agreements, the death of UNITA leader Jonas Savimbi paved the way for a ceasefire between the government and the rebel forces.\n\nThe end of the civil war marked a significant turning point in Angola's history. It brought about a much-needed period of peace and stability, allowing the country to focus on reconstruction and development. Angola's economy, heavily reliant on oil, experienced rapid growth in the post-war era, with increased foreign investment and infrastructural projects.\n\nThe end of the civil war also opened doors for political reforms, leading to the gradual democratization of the country. Elections were held regularly, and the MPLA maintained its dominance in the political landscape, with Jose Eduardo dos Santos serving as the President from 1979 to 2017. In 2017, Jo\u00e3o Louren\u00e7o succeeded dos Santos,"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

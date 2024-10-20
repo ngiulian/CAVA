@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTC4Jku6AbWI1oSbyMPed6PSUAIH",
+    "object": "chat.completion",
+    "created": 1705847672,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of the views of most men in Equatorial Guinea on divorce as there is a significant amount of diversity in individual opinions and beliefs. Socio-cultural, religious, and personal factors greatly influence one's perspective on divorce. However, it is important to note that divorce is generally stigmatized and viewed unfavorably in Equatorial Guinea, particularly within traditional and conservative communities. Many men consider divorce as a failure and a disruption to the family structure. However, modernization, urbanization, and globalization have led to evolving attitudes towards divorce, with some men recognizing it as a potential solution to irreconcilable differences and unhappy marriages, particularly in more progressive and urbanized areas."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 143,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

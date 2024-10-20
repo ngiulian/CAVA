@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUBYV5jFrrZxze2RLYUQdAjingcA",
+    "object": "chat.completion",
+    "created": 1705851484,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Cape Verde face include high unemployment rates, limited access to quality education and healthcare, inadequate infrastructure, and a lack of economic opportunities. Additionally, there is a significant brain drain as many skilled professionals leave the country in search of better opportunities abroad. Poverty and income inequality are also prevalent issues, particularly in rural areas. Furthermore, climate change and its impact on agriculture and water resources pose significant challenges for the population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

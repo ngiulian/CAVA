@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTbVIzFqxVfslN8XbT8LPqIOTC5m",
+    "object": "chat.completion",
+    "created": 1705849249,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Peru tend to have a negative view of divorce. They see it as a reflection of personal and social failure, and believe that it can cause harm to the family unit, especially for children. These men may consider divorce as a last resort, preferring to work through relationship issues or endure an unhappy marriage. Divorce is often stigmatized, leading many men to prioritize maintaining the marital bond despite difficulties."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 83,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

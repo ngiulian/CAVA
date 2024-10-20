@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8ZrwOPDtpOtmrwYlVUsDRn5mnH",
+    "object": "chat.completion",
+    "created": 1705855143,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Brunei in the past 5 years was the implementation of Sharia law in April 2019. Brunei's Sultan Hassanal Bolkiah announced the introduction of strict Islamic criminal laws, including punishments such as stoning to death for adultery and gay sex. This move sparked international outrage and led to widespread condemnation from human rights organizations, governments, and individuals around the world. The implementation of Sharia law in Brunei had a significant impact on the country's reputation and raised concerns about human rights and the treatment of marginalized communities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 114,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRM4Qr3ZVy7WtUIBla1b0BTS1KK",
+    "object": "chat.completion",
+    "created": 1705856308,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Saint Lucia in the past five years was the 2019 general elections. Held on July 26, 2021, the election resulted in a change in government, with the United Workers Party (UWP) led by Allen Chastanet losing to the Saint Lucia Labour Party (SLP) led by Philip J. Pierre. The SLP won thirteen out of seventeen seats in the House of Assembly, allowing them to form a majority government. This electoral outcome marked a significant political shift in the country and brought about a change in leadership."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 119,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

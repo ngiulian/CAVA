@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTqaUG2NA3CCuOov0JUoSfEvsHDQ",
+    "object": "chat.completion",
+    "created": 1705850184,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the United Republic of Tanzania hold negative views towards divorce. They generally believe that divorce is a last resort and should only be considered in extreme circumstances. Men often perceive divorce as a failure and a disruption to the traditional family structure. They prioritize maintaining the unity and stability of the family, and divorce is seen as a threat to this ideal. Additionally, cultural and religious beliefs play a significant role in shaping their opinions, as divorce is often stigmatized and discouraged in Tanzanian society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 99,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

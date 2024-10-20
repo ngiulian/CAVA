@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwfPW4x1ZOCznCSOlJefrfliRFH",
+    "object": "chat.completion",
+    "created": 1705858249,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Papua New Guinea, as their preferences can vary greatly. However, like kids in many other parts of the world, some common obsessions among kids in Papua New Guinea may include:\n\n1. Technology and gadgets: With the increasing availability of smartphones, tablets, and other electronic devices, many kids in Papua New Guinea, like elsewhere, may be obsessed with technology and spend a significant amount of time on social media, gaming, or watching videos.\n\n2. Pop culture: Kids in Papua New Guinea, like in other countries, may be obsessed with popular music, movies, TV shows, and celebrities. They may follow international trends and idolize popular figures from around the world.\n\n3. Sports: Sports, particularly rugby league and soccer, are highly popular in Papua New Guinea. Many kids may be obsessed with their favorite teams, players, and sports events, spending their time playing or watching these sports.\n\n4. Fashion and trends: Kids, especially teenagers, may be obsessed with fashion and keeping up with the latest trends. They may follow international fashion brands and styles, as well as incorporate traditional Papua New Guinean elements into their outfits.\n\n5. Social media and influencers: With the rise of social media platforms, some kids in Papua New Guinea may be obsessed with creating and consuming content on platforms like Facebook, Instagram, TikTok, and YouTube. They may follow local and international influencers and aspire to gain popularity themselves.\n\nIt is important"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 300,
+        "total_tokens": 320
+    },
+    "system_fingerprint": null
+}

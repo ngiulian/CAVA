@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUtip3rEzzgLUYu5jUxMJwnQYIW4",
+    "object": "chat.completion",
+    "created": 1705854222,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges teenagers in Tonga face include limited access to quality education, unemployment, substance abuse, limited recreational activities, and societal expectations. The education system in Tonga often struggles to provide adequate resources, leading to limited opportunities for teenagers to receive a quality education. Unemployment rates are relatively high, making it challenging for teenagers to find employment and gain financial independence. Substance abuse, particularly alcohol and drug use, can also be a significant challenge among teenagers in Tonga. Limited recreational activities and entertainment options can lead to boredom and potentially engage in risky behaviors. Additionally, teenagers in Tonga may face societal expectations and pressure to conform to traditional values and norms, which can limit their freedom of expression and exploration."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 143,
+        "total_tokens": 162
+    },
+    "system_fingerprint": null
+}

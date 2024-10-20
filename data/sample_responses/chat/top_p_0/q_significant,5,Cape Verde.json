@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVCaywdTdTSFsCclKa5aBsd9M0xm",
+    "object": "chat.completion",
+    "created": 1705855392,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Cape Verde in the past 5 years was the eruption of the Pico do Fogo volcano in November 2014. This eruption was the largest in the island's history and resulted in the evacuation of thousands of residents from the affected areas. The volcano destroyed several villages, including the historic town of Portela, and caused significant damage to the local agriculture and infrastructure. The eruption had a long-lasting impact on the island's economy and the lives of its inhabitants."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 102,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

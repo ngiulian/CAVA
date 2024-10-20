@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDczHJOQY1gosqMgT5oo2kOlJgX",
+    "object": "chat.completion",
+    "created": 1705851612,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Djibouti face various challenges, including limited access to quality education. Due to a lack of resources and infrastructure, many young people struggle to receive a proper education, hindering their personal and academic development. Additionally, unemployment rates are high, making it difficult for teenagers to find job opportunities and support themselves financially. Limited access to healthcare, inadequate sanitation facilities, and the prevalence of diseases are other challenges affecting their well-being. Discrimination and gender inequality persist, particularly for girls, limiting their opportunities and rights. The country's conservative cultural norms also impose restrictions on teenagers' social lives, including limited freedom of expression and limited spaces for recreational activities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 132,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

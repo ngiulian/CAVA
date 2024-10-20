@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfwKwbx8yyPPvlzNe0NByHr0Kvm",
+    "object": "chat.completion",
+    "created": 1705857212,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in the Republic of Serbia in the past five years was the signing of the Brussels Agreement between the Serbian government and the government of Kosovo on April 19, 2013. This agreement aimed to normalize relations and resolve longstanding disputes between the two entities. It addressed issues such as border management, police and judiciary cooperation, and the establishment of an Association of Serb majority municipalities in Kosovo. The agreement marked a significant step in the ongoing dialogue and reconciliation process between Serbia and Kosovo, which has been facilitated by the European Union."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 112,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

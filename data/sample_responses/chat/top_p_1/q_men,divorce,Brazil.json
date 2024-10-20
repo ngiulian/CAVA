@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSx5oOebXHB98rqzw3vex1LM9dxo",
+    "object": "chat.completion",
+    "created": 1705846743,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Brazil tend to have mixed opinions about divorce. Some accept it as a necessary option to end unhappy marriages, while others view it negatively, associating it with financial burden and emotional distress. Some men prefer to avoid divorce due to societal pressure or religious beliefs, and may prioritize maintaining the family unit and traditional gender roles. However, attitudes towards divorce vary across individuals and can be influenced by personal experiences, education, and cultural background."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

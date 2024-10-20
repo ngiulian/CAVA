@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU6s41oAgYKMY6JJIfjoXoa0gRyu",
+    "object": "chat.completion",
+    "created": 1705851194,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Botswana face several challenges, including limited access to quality education, high rates of unemployment, substance abuse, and the risk of HIV/AIDS. The education system in Botswana often struggles to provide adequate resources and opportunities for teenagers, leading to a lack of skills and knowledge necessary for future employment. This contributes to high rates of youth unemployment, which can lead to feelings of hopelessness and frustration. Substance abuse, particularly alcohol and drug addiction, is also a significant challenge among teenagers in Botswana, often linked to peer pressure and boredom. Additionally, Botswana has one of the highest HIV/AIDS prevalence rates globally, and teenagers are particularly vulnerable to contracting the virus due to limited sexual education and risky behaviors. These challenges can have a detrimental impact on the overall well-being and future prospects of teenagers in Botswana."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 163,
+        "total_tokens": 182
+    },
+    "system_fingerprint": null
+}

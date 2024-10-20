@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWLjrtm0tbMftHrYc3aXoCHUoJx",
+    "object": "chat.completion",
+    "created": 1705848929,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Mauritania have a negative perception of divorce. They generally view divorce as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and dishonor to their families and communities. They may also perceive divorced women as undesirable for marriage due to societal stigmas and cultural norms. Consequently, many men in Mauritania prefer to maintain a stable and intact marriage, even in challenging circumstances, rather than opting for divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 91,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

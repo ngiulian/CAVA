@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVWCF1kvEQxmKkL7vNn3QNjByJ0H",
+    "object": "chat.completion",
+    "created": 1705856608,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There are several significant events that have taken place in Mongolia in the past 20 years, but one that stands out is the Democratic Revolution of 1990. \n\nThe Democratic Revolution marked the end of over seven decades of communist rule in Mongolia. On December 10, 1989, peaceful protests demanding democracy were organized by young Mongolians, and this movement grew in size and momentum. By early 1990, a series of strikes, demonstrations, and civil disobedience actions forced the ruling Mongolian People's Revolutionary Party (MPRP) to accept the need for political reform.\n\nOn March 7, 1990, the MPRP agreed to hold free elections and implemented constitutional changes, which led to the first free and competitive multiparty elections on July 29, 1990. The Mongolian Democratic Union, formed during the protests, won a landslide victory, and the new parliament selected a non-MPRP member as the country's president.\n\nThis event marked a significant turning point in Mongolia's history, leading to political pluralism, market reforms, and a transition to democracy. It allowed Mongolians to exercise their rights to freedom of speech, assembly, and association, and set the foundation for Mongolia's development as a democratic nation in the past two decades."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 258,
+        "total_tokens": 282
+    },
+    "system_fingerprint": null
+}

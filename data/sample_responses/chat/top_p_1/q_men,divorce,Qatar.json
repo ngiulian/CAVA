@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTe82584g6gJY9xetEpaDod1nj2N",
+    "object": "chat.completion",
+    "created": 1705849412,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Qatar generally view divorce as an unfavorable outcome and tend to have negative attitudes towards it. They see divorce as a societal taboo and often prioritize maintaining the stability and unity of their families. Men in Qatar typically strive to resolve marital conflicts through reconciliation and mediation before considering divorce as a last resort option. However, this perspective may vary among individuals, and some men may have different opinions based on personal experiences and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 84,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

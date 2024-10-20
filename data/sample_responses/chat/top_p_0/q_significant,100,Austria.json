@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4XVGeSCeEyjTUT8LopXfN0k5ts",
+    "object": "chat.completion",
+    "created": 1705854893,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Austria in the past 100 years is the Anschluss, which refers to the annexation of Austria by Nazi Germany in 1938. This event marked the end of Austria's independence and led to its integration into Adolf Hitler's Third Reich. The Anschluss had far-reaching consequences for Austria, including the persecution and displacement of Jewish citizens, the suppression of political opposition, and the involvement of Austrians in World War II. It remains a significant event in Austrian history and continues to shape the country's collective memory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

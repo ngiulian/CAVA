@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTXWs0mSS4VLN3V0aasgZh8ltaPq",
+    "object": "chat.completion",
+    "created": 1705849002,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Malaysia view divorce as a last resort and see it as a challenging and stigmatized decision. They often prioritize preserving the family unit and adhere to cultural and religious beliefs that discourage divorce. Women may perceive divorce as a failure and may experience social judgment, financial hardships, and difficulties raising children as single mothers. However, some women who face abuse, unhappy marriages, or incompatible partners may perceive divorce as a necessary step to seek personal happiness and improved well-being. Overall, attitudes toward divorce among women in Malaysia are influenced by various factors, including cultural norms, religious beliefs, social pressures, and personal circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 123,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

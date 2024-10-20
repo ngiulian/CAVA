@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVmKD2m2o02rRLrSBkLvETQPg4uT",
+    "object": "chat.completion",
+    "created": 1705857608,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Vatican in the past 100 years was the election of Pope John Paul II in 1978. He became the first non-Italian pope in 455 years and the first Polish pope in history. His papacy lasted for 26 years, making him one of the longest-serving popes in history. Pope John Paul II played a crucial role in shaping the modern Catholic Church, advocating for human rights, promoting interfaith dialogue, and playing a significant role in the fall of communism in Eastern Europe. His influence and impact on the Vatican and the world were profound, making his election a significant event in Vatican history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 133,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

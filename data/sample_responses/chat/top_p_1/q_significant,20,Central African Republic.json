@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9M48xG8gzSzzs2ESTLNeWx3dLE",
+    "object": "chat.completion",
+    "created": 1705855192,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Central African Republic (CAR) in the past 20 years was the outbreak of a violent conflict in 2013. This conflict, often referred to as the CAR Crisis, began when rebels known as the S\u00e9l\u00e9ka overthrew then-President Fran\u00e7ois Boziz\u00e9, leading to a power vacuum and subsequent violence.\n\nThe S\u00e9l\u00e9ka rebels mostly belonged to the country's Muslim minority, which led to retaliatory attacks from anti-Balaka militias formed by the Christian majority. The conflict quickly escalated into a brutal sectarian war, characterized by widespread violence, looting, arson, and mass displacement of civilians. It resulted in countless casualties, widespread human rights abuses, and a severe humanitarian crisis.\n\nThe international community, including France and the African Union, intervened to restore stability and protect civilians. In 2014, a transitional government was installed, followed by democratic elections in 2016. However, the underlying tensions and sporadic outbreaks of violence continue to pose challenges for the country's stability and development, making the CAR Crisis one of the most significant events in recent Central African history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 227,
+        "total_tokens": 253
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVW2B90BD7FX8CCctBQFq1CXtdub",
+    "object": "chat.completion",
+    "created": 1705856598,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Montenegro in the past 20 years was its declaration of independence from Serbia on June 3, 2006. This event marked the end of the State Union of Serbia and Montenegro, which was the last remaining vestige of the former Yugoslavia. Montenegro's independence was confirmed through a referendum held on May 21, 2006, in which 55.5% of voters supported the separation. This event had a profound impact on Montenegro's political, economic, and social landscape, as it paved the way for the country's development as an independent nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 125,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

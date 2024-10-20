@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUCfVsNdvmuNAwFTX2LTBEM63ipT",
+    "object": "chat.completion",
+    "created": 1705851553,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Cyprus face include high unemployment rates, particularly among young people, and limited job opportunities. The country also faces an aging population, leading to concerns about healthcare and retirement support. Additionally, there are issues related to the cost of living and housing, with many individuals struggling to afford basic necessities. The country also faces political and economic uncertainty, which can affect job stability and financial stability for adults."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 85,
+        "total_tokens": 103
+    },
+    "system_fingerprint": null
+}

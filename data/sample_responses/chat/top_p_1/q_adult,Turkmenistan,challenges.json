@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUt9bH5eHCNGWK2T4InJMmQgaawL",
+    "object": "chat.completion",
+    "created": 1705854187,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Turkmenistan face include limited political and economic freedom, restricted access to information and news, limited job opportunities, a lack of transparency and accountability in governance, and limited freedom of expression. The country's authoritarian regime tightly controls media and suppresses dissent, making it difficult for adults to have access to unbiased information or express their opinions freely. The government's tight grip on the economy limits job opportunities and entrepreneurship, leading to high unemployment rates and limited career options. Additionally, corruption and nepotism further hinder social and economic mobility, making it challenging for adults to improve their living standards."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 124,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

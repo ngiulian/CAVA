@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVW6q5C1845cZweaK1kaADAXGXbJ",
+    "object": "chat.completion",
+    "created": 1705856602,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Montenegro in the past 100 years is its declaration of independence from Serbia in 2006. After being a part of various unions and alliances throughout history, Montenegro held a referendum on May 21, 2006, where the majority of its citizens voted in favor of independence. This event marked the end of the State Union of Serbia and Montenegro and established Montenegro as a sovereign nation. It was a crucial moment in the country's history, shaping its political landscape and paving the way for its integration into the international community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 117,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

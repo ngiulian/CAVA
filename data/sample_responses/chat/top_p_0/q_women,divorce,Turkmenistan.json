@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToBtyXqu5Lg5pQ5DZX4DC9Ep43v",
+    "object": "chat.completion",
+    "created": 1705850035,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Turkmenistan have a negative view of divorce and consider it as a last resort. They generally believe that marriage is a lifelong commitment and prioritize maintaining the family unit. Divorce is often seen as a failure and carries a social stigma, which can lead to judgment and exclusion from the community. Women may endure unhappy marriages due to societal pressure, financial dependence, and concerns about their children's well-being. However, attitudes towards divorce may vary among individuals, and some women may choose to pursue divorce if they face severe abuse or other extreme circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 111,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

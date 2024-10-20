@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUF1gntEriIAhDhvK8VECgp5NTa8",
+    "object": "chat.completion",
+    "created": 1705851699,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Algeria face several challenges, with some of the biggest ones being unemployment, inadequate access to quality healthcare, corruption, and limited political freedom. Unemployment rates, especially among the youth, are high, leading to financial difficulties and limited opportunities for career growth. The healthcare system is often overwhelmed and fails to provide adequate services, forcing many adults to seek healthcare outside the country. Corruption is a persistent issue in Algeria, impacting various sectors and hindering economic development. Additionally, limitations on political freedom and freedom of expression restrict individuals' ability to engage in open discussions and participate fully in societal and political affairs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 121,
+        "total_tokens": 139
+    },
+    "system_fingerprint": null
+}

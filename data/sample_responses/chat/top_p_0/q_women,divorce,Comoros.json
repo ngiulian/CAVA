@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3N19PAmlOuXqYjxq0KbBi10oi8",
+    "object": "chat.completion",
+    "created": 1705847133,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Comoros have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others believe in preserving the sanctity of marriage and see divorce as a failure. Cultural and religious factors heavily influence women's perspectives on divorce in Comoros."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 60,
+        "total_tokens": 81
+    },
+    "system_fingerprint": null
+}

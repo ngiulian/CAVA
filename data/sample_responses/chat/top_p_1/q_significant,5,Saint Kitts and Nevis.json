@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPDSPkfSbzoberQLmo264Ab2o6r",
+    "object": "chat.completion",
+    "created": 1705856175,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Saint Kitts and Nevis in the past 5 years is the general elections held on June 5, 2020. The elections resulted in a change of government, with the opposition party, the St. Kitts and Nevis Labour Party (SKNLP), led by Dr. Timothy Harris, winning a majority. This marked a historic victory as it was the first time in the history of the country that a sitting Prime Minister, Dr. Timothy Harris, was re-elected for a second consecutive term. The election outcome brought political change and set a new direction for the future of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 130,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV95dqq3UCJEHp6uKS7wVZzG1YgW",
+    "object": "chat.completion",
+    "created": 1705855175,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Botswana in the past five years was the general elections held in October 2019. The elections marked a historic moment as the Botswana Democratic Party (BDP), which had been in power since the country's independence in 1966, faced a strong challenge from the opposition coalition, Umbrella for Democratic Change (UDC). The UDC gained significant support, winning 15 out of the 57 parliamentary seats, making it the largest opposition party in Botswana's history. This event signaled a shift in the political landscape of the country and highlighted the growing demand for change and political diversity among the population."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 132,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

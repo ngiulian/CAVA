@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGwoXiC9eBsNFP2IjtYsbAKnAtf",
+    "object": "chat.completion",
+    "created": 1705855662,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Fiji in the past 20 years was the military coup d'\u00e9tat in 2006. On December 5, 2006, Commodore Frank Bainimarama, the commander of the Republic of Fiji Military Forces, led a coup against the elected government of Prime Minister Laisenia Qarase. This event marked the fourth coup in Fiji's history and resulted in the suspension of the constitution, the removal of the government, and the establishment of a military-led interim government. The coup had significant political, social, and economic consequences for Fiji, including international isolation, strained relations with neighboring countries, and a decline in tourism and investment. It also led to a period of political instability and a series of subsequent events, such as the drafting of a new constitution, the holding of elections, and the eventual return to democratic governance in 2014."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 181,
+        "total_tokens": 205
+    },
+    "system_fingerprint": null
+}

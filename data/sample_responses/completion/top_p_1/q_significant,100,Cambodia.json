@@ -1,0 +1,68 @@
+{
+    "id": "cmpl-8jG3efxVijQ5l1RtGoSkGIGmt3cCQ",
+    "object": "text_completion",
+    "created": 1705797178,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " the one of modern",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " the",
+                    " one",
+                    " of",
+                    " modern"
+                ],
+                "token_logprobs": [
+                    -0.45054686,
+                    -6.7511826,
+                    -3.637014,
+                    -6.528448
+                ],
+                "top_logprobs": [
+                    {
+                        " the": -0.45054686,
+                        " that": -2.8958592,
+                        " probably": -3.8333592,
+                        ",": -4.1067967,
+                        " undoubtedly": -4.1458592
+                    },
+                    {
+                        " Kh": -1.7472764,
+                        " genocide": -2.4582138,
+                        " Camb": -3.0988388,
+                        " Pol": -3.3957138,
+                        " fall": -3.3957138
+                    },
+                    {
+                        " that": -0.59795135,
+                        " we": -3.215139,
+                        " and": -3.387014,
+                        " which": -3.387014,
+                        " in": -3.4104514
+                    },
+                    {
+                        " the": -1.0323545,
+                        " ": -2.3448544,
+                        " Pol": -2.8761044,
+                        " Kh": -3.4073544,
+                        " which": -3.6104794
+                    }
+                ],
+                "text_offset": [
+                    77,
+                    81,
+                    85,
+                    88
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 15,
+        "completion_tokens": 4,
+        "total_tokens": 19
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYQ1rPeYuYlHS4KS1i5Sjh9ghsX",
+    "object": "chat.completion",
+    "created": 1705856746,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nigeria in the past 20 years is the Chibok schoolgirls kidnapping. On April 14, 2014, the extremist group Boko Haram abducted 276 female students from the Government Girls Secondary School in Chibok, Borno State. This incident gained international attention and sparked the #BringBackOurGirls campaign, with people around the world demanding the safe return of the kidnapped girls. Although some of the girls have been rescued or escaped, many are still missing, and the incident highlighted the ongoing security challenges and the threat of terrorism in Nigeria."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

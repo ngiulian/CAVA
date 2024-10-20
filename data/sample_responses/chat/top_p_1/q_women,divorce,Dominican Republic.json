@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT6iSzKZkT6KWl2F2wjKyxMUOXf8",
+    "object": "chat.completion",
+    "created": 1705847340,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Many women in the Dominican Republic hold mixed views on divorce. While some women may support divorce as a means of escaping abusive or unhappy marriages, others may view it as morally wrong and against the traditional institution of marriage. The opinions on divorce can vary depending on factors such as age, education level, socio-economic status, and religious beliefs. Some women may face significant societal pressure to maintain their marriage and prioritize family unity, leading to a negative perception of divorce. However, gradually, with the influence of modernization and women's empowerment movements, attitudes towards divorce are evolving, and more women are recognizing it as a possible option for personal happiness and empowerment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 129,
+        "total_tokens": 149
+    },
+    "system_fingerprint": null
+}

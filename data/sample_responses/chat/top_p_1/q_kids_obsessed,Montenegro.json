@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVvZPEO9dtBfDmq1EyAQMohrYmP1",
+    "object": "chat.completion",
+    "created": 1705858181,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to determine a single thing that kids in Montenegro are universally obsessed with, as interests and trends can vary greatly among individuals. However, like in many other countries, kids in Montenegro are often drawn towards popular culture trends, such as social media, video games, music, fashion, and celebrities. Additionally, sports, particularly football (soccer), are also a significant interest for many kids in Montenegro."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 85,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

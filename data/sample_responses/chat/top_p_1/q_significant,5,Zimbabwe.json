@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoL4eU1gN2RFsx3EDd49E51hQW3",
+    "object": "chat.completion",
+    "created": 1705857733,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Zimbabwe in the past 5 years was the fall of longtime president Robert Mugabe in November 2017. After being in power for nearly four decades, Mugabe's rule ended when the military took control of the country and placed him under house arrest. This event marked a major shift in Zimbabwe's political landscape and led to Mugabe's eventual resignation. The change in leadership opened up opportunities for political and economic reforms in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

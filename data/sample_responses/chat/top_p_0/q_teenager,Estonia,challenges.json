@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUGXXwKbIjpp8oFYuJRiVvMMPC5D",
+    "object": "chat.completion",
+    "created": 1705851793,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Estonia face several challenges, including mental health issues, substance abuse, educational pressures, and limited opportunities for personal development. Mental health problems such as anxiety and depression are prevalent among teenagers, often due to academic stress, social pressures, and a lack of support systems. Substance abuse, particularly alcohol and drug use, is also a concern among Estonian teenagers. The pressure to perform well academically and meet high expectations can lead to stress and burnout. Additionally, limited extracurricular activities and opportunities for personal growth can hinder teenagers' overall development and self-expression."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 116,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

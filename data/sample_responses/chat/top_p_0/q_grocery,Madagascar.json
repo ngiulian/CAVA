@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWEsHrn0dRtUukedXVKj52ubKnkd",
+    "object": "chat.completion",
+    "created": 1705859378,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Madagascar, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. Ensure you have comfortable shoes and follow the safest route available.\n\n2. Bicycling: If you have a bicycle or can rent one, it can be a convenient and faster way to reach the grocery store. Make sure to follow traffic rules and wear a helmet for safety.\n\n3. Public transportation: Depending on the availability in your area, you can check for local buses or minibusses (known as \"taxi-brousses\") that may pass by or near the grocery store. Inquire with locals or at a nearby bus stop for the appropriate route.\n\n4. Taxi: Taxis are a common mode of transportation in Madagascar. You can either hail a taxi on the street or use a ride-hailing app if available in your area. Negotiate the fare before getting in the taxi.\n\n5. Local transportation services: In some areas, there might be local transportation services like rickshaws or \"pousse-pousse\" (human-powered carts). These can be an affordable and eco-friendly option for short distances.\n\nRemember to consider factors like safety, convenience, and cost when choosing your mode of transportation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 267,
+        "total_tokens": 291
+    },
+    "system_fingerprint": null
+}

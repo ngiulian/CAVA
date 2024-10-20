@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUu5o5IoNHil52oWBu7OabqYV3aP",
+    "object": "chat.completion",
+    "created": 1705854245,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Trinidad and Tobago face several challenges. One of the biggest challenges is the prevalence of crime and violence in certain areas, which can lead to safety concerns and limited opportunities for personal growth. Additionally, substance abuse, including drug and alcohol addiction, is a significant issue among teenagers. This can lead to various health problems and hinder their educational and social development. Another challenge is the lack of access to quality education and limited job prospects, which can hinder their future prospects and contribute to a sense of hopelessness. Furthermore, peer pressure and the influence of social media can impact teenagers' mental health and self-esteem. Finally, issues such as teenage pregnancy and sexually transmitted infections are also prevalent challenges that teenagers in Trinidad and Tobago face."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 147,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

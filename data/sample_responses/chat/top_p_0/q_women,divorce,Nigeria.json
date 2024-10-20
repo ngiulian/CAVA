@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTYqkqzsjnJwPhzLHEFMpPU91ZRG",
+    "object": "chat.completion",
+    "created": 1705849084,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Nigeria generally have negative views towards divorce. They often perceive divorce as a last resort and believe that marriage is a lifelong commitment. Women in Nigeria prioritize the stability of their families and the societal perception of a successful marriage. Divorce is often seen as a failure and can bring shame and stigma to women, affecting their social standing and reputation. Additionally, women may fear the economic and social challenges that come with divorce, such as financial instability and the potential loss of custody of their children. Consequently, many women in Nigeria are more inclined to endure unhappy marriages rather than pursue divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 117,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}

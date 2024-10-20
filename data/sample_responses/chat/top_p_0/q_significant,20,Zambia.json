@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVoFgPWfevaKgNigElmrxrPDOTO9",
+    "object": "chat.completion",
+    "created": 1705857727,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Zambia in the past 20 years is the death of President Michael Sata in 2014. Sata was a prominent political figure and served as the President of Zambia from 2011 until his death. His passing led to a period of political transition and the subsequent election of President Edgar Lungu. Sata's death marked a significant moment in Zambia's political landscape and had a profound impact on the country's governance and leadership."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 96,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jThVe203x51IlcaxdNBeLSw8YjlQ",
+    "object": "chat.completion",
+    "created": 1705849621,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Singapore have mixed views about divorce. While some women view it as a way to escape unhappy or abusive marriages and believe in the importance of personal happiness and well-being, there is still a significant number of women who consider divorce as a last resort due to societal expectations, cultural norms, and personal beliefs in preserving the family unit. Additionally, the fear of financial instability and the potential negative impact on children often influences women's decisions and perspectives on divorce. However, increasing societal acceptance, education, and awareness about individual rights and gender equality have led to a growing understanding and support for women seeking divorce in Singapore."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 123,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

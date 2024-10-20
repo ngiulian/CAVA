@@ -1,0 +1,468 @@
+'1':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Indicate how important religion is in your life.'
+  completion_template: '{prompt_version} An indication of how important religion is in my life is '
+  classification_template: "Indicate how important religion is in your life. Would you say it is\n"
+  type_template: 'religion_importance_class'
+  question_id: 'religion_importance_class_{country}'
+  button_name: 'Q6: How important is religion (classification)'
+  classes:
+  - 'Very important'
+  - 'Rather important'
+  - 'Not very important' 
+  - 'Not at all important'
+  - "Don't Know"
+  wv_id: 'Q6'
+
+
+'2':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Consider the following statement and tell me how strongly you agree or disagree. One of my main goals in life has been to make my parents proud.'
+  completion_template: '{prompt_version} Consider the following statement and tell me how strongly you agree or disagree. One of my main goals in life has been to make my parents proud. I '
+  classification_template: "Consider the following statement and tell me how strongly you agree or disagree. One of my main goals in life has been to make my parents proud. Do you strongly agree, agree, disagree, or strongly disagree?\n"
+  type_template: 'parents_proud_class'
+  question_id: 'parents_proud_class_{country}'
+  button_name: 'Q27: Making parents proud (classification)'
+  classes:
+  - 'Strongly Agree'
+  - 'Agree'
+  - 'Disagree'
+  - 'Strongly Disagree' 
+  - "Don't Know"
+  wv_id: 'Q27'
+
+
+'3':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} How would you feel about the following statement? It is a duty towards society to have children.'
+  completion_template: '{prompt_version} How would you feel about the following statement? It is a duty towards society to have children. I feel '
+  classification_template: "How would you feel about the following statement? It is a duty towards society to have children. Do you agree or disagree with it?\n"
+  type_template: 'duty_children_class'
+  question_id: 'duty_children_class_{country}'
+  button_name: 'Q37: Duty To Have Children (classification)'
+  classes:
+  - 'Agree strongly'
+  - 'Agree'
+  - 'Neither agree nor disagree'
+  - 'Disagree'
+  - 'Disagree strongly'
+  - "Don't Know"
+  wv_id: 'Q37'
+
+
+'4':
+  keywords:
+    country: null
+  chat_template: "{prompt_version} I'm going to read out a change in our way of life that might take place in the near future. Please tell me, if it were to happen, what would be your opinion? More emphasis on the development of technology."
+  completion_template: "{prompt_version} I'm going to read out a change in our way of life that might take place in the near future. Please tell me, if it were to happen, what would be your opinion? More emphasis on the development of technology. I think it would be a "
+  classification_template: "I'm going to read out a change in our way of life that might take place in the near future. Please tell me, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind? More emphasis on the development of technology.\n"
+  type_template: 'dev_technology_class'
+  question_id: 'dev_technology_class_{country}'
+  button_name: 'Q44: Development of Technology (classification)'
+  classes:
+  - 'Good'
+  - "Don't mind"
+  - 'Bad'
+  - "Don't Know"
+  wv_id: 'Q44'
+
+'5':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} In the last 12 months, how often have your or your family gone without enough food to eat?'
+  completion_template: '{prompt_version} In the last 12 months, how often have your or your family gone without enough food to eat? In the last 12 months we have '
+  classification_template: "In the last 12 months, how often have your or your family gone without enough food to eat?\n"
+  type_template: 'food_12months_class'
+  question_id: 'food_12months_class_{country}'
+  button_name: 'Q51: Food in last 12 months (classification)'
+  classes:
+  - 'Often'
+  - 'Sometimes'
+  - 'Rarely'
+  - 'Never'
+  - "Don't Know"
+  wv_id: 'Q51'
+
+'6':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} In the last 12 months, how often have your or your family gone without medicine or medical treatment that you needed?'
+  completion_template: '{prompt_version} In the last 12 months, how often have your or your family gone without medicine or medical treatment that you needed? In the last 12 months we have '
+  classification_template: "In the last 12 months, how often have your or your family gone without medicine or medical treatment that you needed?\n"
+  type_template: 'medicine_12months_class'
+  question_id: 'medicine_12months_class_{country}'
+  button_name: 'Q53: Medicine in last 12 months (classification)'
+  classes:
+  - 'Often'
+  - 'Sometimes'
+  - 'Rarely'
+  - 'Never'
+  - "Don't Know"
+  wv_id: 'Q53'
+
+'7':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} In the last 12 months, how often have your or your family gone without a cash income?'
+  completion_template: '{prompt_version} In the last 12 months, how often have your or your family gone without a cash income? In the last 12 months we have '
+  classification_template: "In the last 12 months, how often have your or your family gone without a cash income?\n"
+  type_template: 'cash_12months_class'
+  question_id: 'cash_12months_class_{country}'
+  button_name: 'Q54: Cash Income in last 12 months (classification)'
+  classes:
+  - 'Often'
+  - 'Sometimes'
+  - 'Rarely'
+  - 'Never'
+  - "Don't Know"
+  wv_id: 'Q54'
+
+'8':
+  keywords:
+    country: null
+  chat_template: "{prompt_version} I'd like to ask you how much you trust people from this group. Could you tell me whether you trust people from this group? Your neighborhood."
+  completion_template: "{prompt_version} I'd like to ask you how much you trust people from this group. Could you tell me whether you trust people from this group? Your neighborhood. I "
+  classification_template: "I'd like to ask you how much you trust people from this group. Could you tell me whether you trust people from this group completely, somewhat, not very much or not at all? Your neighborhood.\n"
+  type_template: 'trust_neighborhood_class'
+  question_id: 'trust_neighborhood_class_{country}'
+  button_name: 'Q59: Trusting your neighborhood (classification)'
+  classes:
+  - 'Trust completely'
+  - 'Trust somewhat'
+  - 'Do not trust very much'
+  - 'Do not trust at all'
+  - "Don't Know"
+  wv_id: 'Q59'
+
+
+'9':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} I am going to name an organization. Could you tell me how much confidence you have in it: The police.'
+  completion_template: '{prompt_version} I am going to name an organization. Could you tell me how much confidence you have in it: The police. I have '
+  classification_template: "I am going to name an organization. Could you tell me how much confidence you have in it: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The police.\n"
+  type_template: 'police_confidence_class'
+  question_id: 'police_confidence_class_{country}'
+  button_name: 'Q69: Confidence in Police (classification)'
+  classes:
+  - 'A great deal'
+  - 'Quite a lot'
+  - 'Not very much'
+  - 'None at all'
+  - "Don't Know"
+  wv_id: 'Q69'
+
+
+'10':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} I am going to name an organization. Could you tell me how much confidence you have in it: The government.'
+  completion_template: '{prompt_version} I am going to name an organization. Could you tell me how much confidence you have in it: The government. I have '
+  classification_template: "I am going to name an organization. Could you tell me how much confidence you have in it: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The government.\n"
+  type_template: 'government_confidence_class'
+  question_id: 'government_confidence_class_{country}'
+  button_name: 'Q71: Confidence in Government (classification)'
+  classes:
+  - 'A great deal'
+  - 'Quite a lot'
+  - 'Not very much'
+  - 'None at all'
+  - "Don't Know"
+  wv_id: 'Q71'
+
+'11':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} How frequently does the following occur in your neighborhood? Racist behavior.'
+  completion_template: '{prompt_version} How frequently does the following occur in your neighborhood? Racist behavior. It occurs '
+  classification_template: "How frequently does the following occur in your neighborhood? Racist behavior.\n"
+  type_template: 'neighborhood_racism_class'
+  question_id: 'neighborhood_racism_class_{country}'
+  button_name: 'Q135: Racism in Neighborhood (classification)'
+  classes:
+  - 'Very frequently'
+  - 'Quite frequently'
+  - 'Not frequently'
+  - 'Not at all frequently'
+  - "Don't Know"
+  wv_id: 'Q135'
+
+
+'12':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} How frequently does the following occur in your neighborhood? Sexual harassment.'
+  completion_template: '{prompt_version} How frequently does the following occur in your neighborhood? Sexual harassment. It occurs '
+  classification_template: "How frequently does the following occur in your neighborhood? Sexual harassment.\n"
+  type_template: 'neighborhood_sexual_harassment_class'
+  question_id: 'neighborhood_sexual_harassment_class_{country}'
+  button_name: 'Q138: Sexual Harassment in Neighborhood (classification)'
+  classes:
+  - 'Very frequently'
+  - 'Quite frequently'
+  - 'Not frequently'
+  - 'Not at all frequently'
+  - "Don't Know"
+  wv_id: 'Q138'
+
+
+
+'13':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} To what degree are you worried about the following situation? A war involving my country'
+  completion_template: '{prompt_version} To what degree are you worried about the following situation? A war involving my country. I am '
+  classification_template: "To what degree are you worried about the following situation? A war involving my country\n"
+  type_template: 'country_war_class'
+  question_id: 'country_war_class_{country}'
+  button_name: 'Q146: War Involving Country (classification)'
+  classes:
+  - 'Very much'
+  - 'A good deal'
+  - 'Not much'
+  - 'Not at all'
+  - "Don't Know"
+  wv_id: 'Q146'
+
+'14':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} To what degree are you worried about the following situation? A civil war.'
+  completion_template: '{prompt_version} To what degree are you worried about the following situation? A civil war. I am '
+  classification_template: "To what degree are you worried about the following situation? A civil war.\n"
+  type_template: 'civil_war_class'
+  question_id: 'civil_war_class_{country}'
+  button_name: 'Q148: Civil War (classification)'
+  classes:
+  - 'Very much'
+  - 'A good deal'
+  - 'Not much'
+  - 'Not at all'
+  - "Don't Know"
+  wv_id: 'Q148'
+
+
+
+'15':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} What are the most important political issues facing society?'
+  completion_template: '{prompt_version} What are the most important political issues facing society? I think '
+  classification_template: "If you had to choose, which one of the things on this card would you say is most important?\n"
+  type_template: 'important_issues_class'
+  question_id: 'important_issues_class_{country}'
+  button_name: 'Q154: Most Important Issues (classification)'
+  classes:
+  - 'Maintaining order in the nation'
+  - 'Giving people more say in important government decisions'
+  - 'Fighting rising prices'
+  - 'Protecting freedom of speech'
+  - "Don't Know"
+  wv_id: 'Q154'
+
+'16':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Please tell us if your opinion on the following statement. The only acceptable religion is my religion.'
+  completion_template: '{prompt_version} Please tell us if your opinion on the following statement. The only acceptable religion is my religion. I '
+  classification_template: "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statement. The only acceptable religion is my religion.\n"
+  type_template: 'acceptable_religion_class'
+  question_id: 'acceptable_religion_class_{country}'
+  button_name: 'Q170: Only Acceptable Religion (classification)'
+  classes:
+  - 'Strongly agree'
+  - 'Agree'
+  - 'Disagree'
+  - 'Strongly disagree'
+  - "Don't Know"
+  wv_id: 'Q170'
+
+'17':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Apart from weddings and funerals, about how often do you pray?'
+  completion_template: '{prompt_version} Apart from weddings and funerals, about how often do you pray? I pray '
+  classification_template: "Apart from weddings and funerals, about how often do you pray?\n"
+  type_template: 'praying_class'
+  question_id: 'praying_class_{country}'
+  button_name: 'Q172: How Often Praying (classification)'
+  classes:
+  - 'Several times a day'
+  - 'Once a day'
+  - 'Several times each week'
+  - 'Only when attending religious services'
+  - 'Only on special holy days'
+  - 'Once a year'
+  - 'Less often'
+  - 'Never, practically never'
+  - "Don't Know"
+  wv_id: 'Q172'
+
+
+'18':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Please tell me whether you think the following action be justified. Avoiding a fare on public transport'
+  completion_template: '{prompt_version} Please tell me whether you think the following action be justified. Avoiding a fare on public transport. I think '
+  classification_template: "Please tell me whether you think the following action can always be justified, never be justified, or something in between, with 1 being never justifiable and 10 being always justifiable. Avoiding a fare on public transport\n"
+  type_template: 'avoiding_fare_class'
+  question_id: 'avoiding_fare_class_{country}'
+  button_name: 'Q178: Is Avoiding Fare Justifiable (classification)'
+  classes:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  - "Don't Know"
+  wv_id: 'Q178'
+
+'19':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Please tell me whether you think the following action be justified. Abortion'
+  completion_template: '{prompt_version} Please tell me whether you think the following action be justified. Abortion. I think '
+  classification_template: "Please tell me whether you think the following action can always be justified, never be justified, or something in between, with 1 being never justifiable and 10 being always justifiable. Abortion\n"
+  type_template: 'abortion_class'
+  question_id: 'abortion_class_{country}'
+  button_name: 'Q184: Is Abortion Justifiable (classification)'
+  classes:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  - "Don't Know"
+  wv_id: 'Q184'
+
+'20':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} Please tell me whether you think the following action be justified. Parents beating children'
+  completion_template: '{prompt_version} Please tell me whether you think the following action be justified. Parents beating children. I think '
+  classification_template: "Please tell me whether you think the following action can always be justified, never be justified, or something in between, with 1 being never justifiable and 10 being always justifiable. Parents beating children\n"
+  type_template: 'parents_beat_class'
+  question_id: 'parents_beat_class_{country}'
+  button_name: 'Q190: Is Parents Beating Children Justifiable (classification)'
+  classes:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  - "Don't Know"
+  wv_id: 'Q190'
+
+
+'21':
+  keywords:
+    country: null
+  chat_template: "{prompt_version} What do you think of your country's government doing the following- Keep people under video surveillance in public areas"
+  completion_template: "{prompt_version} What do you think of your country's government doing the following- Keep people under video surveillance in public areas. I think "
+  classification_template: "{prompt_version} Do you think that the your country's government should or should not have the right to do the following- Keep people under video surveillance in public areas\n"
+  type_template: 'government_surveillance_class'
+  question_id: 'government_surveillance_class_{country}'
+  button_name: 'Q196: Should Government Surveil (classification)'
+  classes:
+  - 'Definitely should have the right'
+  - 'Probably should have the right'
+  - 'Probably should not have the right'
+  - 'Definitely should not have the right'
+  - "Don't Know"
+  wv_id: 'Q196'
+
+'22':
+  keywords:
+    country: null
+  chat_template: "{prompt_version} What do you think of your country's government doing the following- Monitor all e-mails and any other information exchanged on the Internet"
+  completion_template: "{prompt_version} What do you think of your country's government doing the following- Monitor all e-mails and any other information exchanged on the Internet. I think "
+  classification_template: "Do you think that the your country's government should or should not have the right to do the following- Monitor all e-mails and any other information exchanged on the Internet\n"
+  type_template: 'government_monitor_class'
+  question_id: 'government_monitor_class_{country}'
+  button_name: 'Q197: Should Government Monitor Email (classification)'
+  classes:
+  - 'Definitely should have the right'
+  - 'Probably should have the right'
+  - 'Probably should not have the right'
+  - 'Definitely should not have the right'
+  - "Don't Know"
+  wv_id: 'Q197'
+
+
+'23':
+  keywords:
+    country: null
+  chat_template: "{prompt_version} I'm going to describe a political system and ask what you think about it as a way of governing this country. Having a strong leader who does not have to bother with parliament and elections"
+  completion_template: "{prompt_version} I'm going to describe a political system and ask what you think about it as a way of governing this country. Having a strong leader who does not have to bother with parliament and elections. I think this is "
+  classification_template: "I'm going to describe a political system and ask what you think about it as a way of governing this country. Would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having a strong leader who does not have to bother with parliament and elections\n"
+  type_template: 'strong_leader_class'
+  question_id: 'strong_leader_class_{country}'
+  button_name: 'Q235: Having a Strong Leader (classification)'
+  classes:
+  - 'Very Good'
+  - 'Fairly Good'
+  - 'Fairly Bad'
+  - 'Very Bad'
+  - "Don't Know"
+  wv_id: 'Q235'
+
+
+'24':
+  keywords:
+    country: null
+  chat_template: "{prompt_version} I'm going to describe a political system and ask what you think about it as a way of governing this country. Having a democratic political system"
+  completion_template: "{prompt_version} I'm going to describe a political system and ask what you think about it as a way of governing this country. Having a democratic political system. I think this is "
+  classification_template: "I'm going to describe a political system and ask what you think about it as a way of governing this country. Would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having a democratic political system\n"
+  type_template: 'democratic_class'
+  question_id: 'democratic_class_{country}'
+  button_name: 'Q238: Having a Democratic Political System (classification)'
+  classes:
+  - 'Very Good'
+  - 'Fairly Good'
+  - 'Fairly Bad'
+  - 'Very Bad'
+  - "Don't Know"
+  wv_id: 'Q238'
+
+
+'25':
+  keywords:
+    country: null
+  chat_template: '{prompt_version} How satisfied are you with how the political system is functioning in your country these days?'
+  completion_template: '{prompt_version} How the political system is functioning in your country these days? I chose'
+  classification_template: "On a scale from 1 to 10 where 1 is 'not satisfied at all' and 10 is 'completely satisfied', how satisfied are you with how the political system is functioning in your country these days?\n"
+  type_template: 'satisfied_class'
+  question_id: 'satisfied_class_{country}'
+  button_name: 'Q252: How Satisfied with Political System (classification)'
+  classes:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  - "Don't Know"
+  wv_id: 'Q252'
+

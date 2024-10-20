@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdLPpXvl1HglQ3OWOupIsVtDbCN",
+    "object": "chat.completion",
+    "created": 1705857051,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Saudi Arabia in the past five years was the appointment of Crown Prince Mohammed bin Salman and the subsequent implementation of his ambitious reform agenda known as Vision 2030. This initiative aimed to diversify the Saudi economy, reduce its dependence on oil, and introduce social and cultural reforms. It included various measures such as allowing women to drive, opening cinemas, promoting tourism, and attracting foreign investment. The appointment of Crown Prince Mohammed bin Salman and the subsequent reforms have had a profound impact on Saudi society and have been widely discussed both domestically and internationally."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 116,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

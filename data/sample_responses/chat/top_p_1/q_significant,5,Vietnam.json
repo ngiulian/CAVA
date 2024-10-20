@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVn17aducJFnzTlmQsMX0KXi44c0",
+    "object": "chat.completion",
+    "created": 1705857651,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There have been several significant events in Vietnam in the past five years, but one of the most significant events was the COVID-19 pandemic. Vietnam successfully contained the spread of the virus and became a global success story in handling the pandemic. The country implemented strict measures, including prompt contact tracing, widespread testing, strict quarantine protocols, and effective communication with the public. These efforts resulted in low infection rates and a relatively small number of deaths compared to other countries. Vietnam's successful management of the pandemic has boosted its reputation globally and earned praise from various international organizations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 111,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

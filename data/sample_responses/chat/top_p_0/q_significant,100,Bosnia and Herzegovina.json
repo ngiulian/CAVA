@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7KtwVjKrH8XB0layS9W9BnffIE",
+    "object": "chat.completion",
+    "created": 1705855066,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bosnia and Herzegovina in the past 100 years is the Bosnian War (1992-1995). The war was a complex conflict that arose after the breakup of Yugoslavia, involving multiple ethnic and religious groups. It resulted in widespread violence, ethnic cleansing, and genocide, particularly in the cities of Sarajevo and Srebrenica. The war had a devastating impact on the country, leading to the loss of thousands of lives, displacement of millions of people, and significant destruction of infrastructure. The conflict ended with the signing of the Dayton Agreement in 1995, which established the current political structure of Bosnia and Herzegovina."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 139,
+        "total_tokens": 167
+    },
+    "system_fingerprint": null
+}

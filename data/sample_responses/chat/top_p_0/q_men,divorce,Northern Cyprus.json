@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4OeSx1eDBOxF3DczTompyKV4DJ",
+    "object": "chat.completion",
+    "created": 1705847196,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Northern Cyprus have a negative perception of divorce. They generally view divorce as a failure and a source of shame, believing that it reflects poorly on their masculinity and ability to maintain a stable family. Men often prioritize the preservation of their marriage and family unit, considering divorce as a last resort. They may feel societal pressure to stay in unhappy marriages for the sake of their reputation and to avoid judgment from their community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 84,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

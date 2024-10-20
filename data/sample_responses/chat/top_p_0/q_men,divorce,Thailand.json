@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnNG8HjKscu61lLXB36QBJUfOlX",
+    "object": "chat.completion",
+    "created": 1705849985,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Thailand have traditionally held negative views towards divorce. They often perceive divorce as a social stigma and a failure of their role as husbands. Many men believe that divorce brings shame to their families and can damage their reputation in society. Additionally, they may feel a sense of responsibility to maintain the stability of their marriage for the sake of their children and extended family. However, it is important to note that attitudes towards divorce are evolving in Thailand, and younger generations are becoming more accepting of the idea."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

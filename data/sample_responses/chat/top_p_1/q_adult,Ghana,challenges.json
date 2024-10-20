@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUIGdvrnafIuYKeo6dcjnrxrZ0Ko",
+    "object": "chat.completion",
+    "created": 1705851900,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges adults in Ghana face include high levels of unemployment and underemployment, limited access to quality education and healthcare, inadequate infrastructure and services in rural areas, food insecurity, and poverty. Additionally, issues such as corruption, political instability, gender inequality, and limited opportunities for entrepreneurship further compound these challenges for adults in Ghana."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 65,
+        "total_tokens": 83
+    },
+    "system_fingerprint": null
+}

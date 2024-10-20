@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTcrFFl5cRxpnbGCSoHvDvJrhf1p",
+    "object": "chat.completion",
+    "created": 1705849333,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, so it is not possible to generalize the views of all women in Poland. However, there are varying perspectives on abortion within Polish society. In recent years, there has been significant debate and division regarding the country's abortion laws.\n\nIn Poland, abortion laws are restrictive compared to several other European countries. Legal abortions are allowed only in three cases: if the pregnancy poses a threat to the life or health of the mother, if the fetus has a severe and irreversible disability, or if the pregnancy is a result of rape or incest. Any attempts to further restrict abortion laws have sparked widespread protests and demonstrations across the country, predominantly led by women's rights organizations.\n\nSome women in Poland strongly believe in a woman's right to choose and advocate for more liberal abortion laws. They argue that women should have the autonomy to make decisions about their bodies and pregnancies, and that the government should not interfere in personal matters.\n\nOn the other hand, there are women who hold conservative or religious beliefs, and they tend to support stricter abortion laws. They view abortion as a moral issue and believe in protecting the rights of the unborn child, emphasizing the values of life and family.\n\nOverall, the opinions of Polish women on abortion are diverse, and their views are shaped by a range of factors such as personal beliefs, religious affiliation, socio-economic background, and exposure to different societal perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 284,
+        "total_tokens": 303
+    },
+    "system_fingerprint": null
+}

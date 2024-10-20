@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTV47GlGOSNJ8eSmpG8yYpQmlypS",
+    "object": "chat.completion",
+    "created": 1705848850,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Myanmar have a negative perception of divorce. They generally view it as a last resort and believe that marriage is a lifelong commitment. Women often prioritize maintaining the family unit and preserving social harmony over personal happiness. Divorce is seen as a social stigma and can bring shame and judgment from society. Financial concerns and the fear of being ostracized by their community also contribute to the reluctance of women to pursue divorce. However, attitudes towards divorce are gradually changing, especially among younger generations who are more influenced by global trends and seek greater personal fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 110,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

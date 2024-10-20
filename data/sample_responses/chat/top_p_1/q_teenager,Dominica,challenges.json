@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUDwzmcHfdj6QoctCGNxTjlgXpie",
+    "object": "chat.completion",
+    "created": 1705851632,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges teenagers in Dominica face include limited educational opportunities, high unemployment rates, substance abuse, poverty, and limited access to healthcare. The devastation caused by natural disasters such as hurricanes also poses significant challenges to the overall well-being and future prospects of teenagers in the country. Additionally, issues related to mental health and teen pregnancy are also prevalent challenges faced by teenagers in Dominica."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 76,
+        "total_tokens": 95
+    },
+    "system_fingerprint": null
+}

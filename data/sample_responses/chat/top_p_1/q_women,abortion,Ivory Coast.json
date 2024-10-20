@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0pLXxqopwCpF3si9PyIYtyjuPs",
+    "object": "chat.completion",
+    "created": 1705846975,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that summarizing the opinions of an entire group of people can be challenging, as perspectives on abortion can vary among individuals. Nevertheless, it can be generalized that the majority of women in Ivory Coast hold conservative views on abortion due to cultural and religious factors.\n\nMany women in Ivory Coast come from strong religious backgrounds, particularly Christianity and Islam, which generally oppose abortion. As a result, most women tend to disapprove of the practice on moral and religious grounds. Furthermore, traditional gender roles and societal stigmas associated with abortion often discourage women from considering it as an option.\n\nAdditionally, access to safe and legal abortion services is limited in Ivory Coast. The restrictive legal framework surrounding abortions, with exceptions only in cases where the mother's life is in danger, further influences societal attitudes towards the procedure.\n\nWhile this is a generalized view, it is important to recognize that individual opinions may vary within the country, influenced by education, urbanization, socioeconomic status, and exposure to different perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 199,
+        "total_tokens": 219
+    },
+    "system_fingerprint": null
+}

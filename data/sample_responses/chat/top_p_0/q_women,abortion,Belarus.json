@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSwFkSsAJXvcv62Ojl755qkEwQvh",
+    "object": "chat.completion",
+    "created": 1705846691,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Belarus. However, it is known that Belarus has relatively liberal laws regarding abortion, allowing women to access safe and legal procedures. Many women in Belarus support the right to choose and believe that women should have the autonomy to make decisions about their own bodies. They may view abortion as a personal choice that should be available to women in various circumstances, such as when facing unplanned pregnancies, health risks, or other challenging situations. However, there may also be women who hold different opinions, influenced by personal, cultural, or religious beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 133,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

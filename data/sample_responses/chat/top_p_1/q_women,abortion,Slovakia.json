@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkV1z1cc0WHuXtTahCPoXgQHMe5",
+    "object": "chat.completion",
+    "created": 1705849807,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Slovakia hold various perspectives on abortion. While some support the right to access safe and legal abortion services, others are against it based on moral, religious, or personal beliefs. The topic remains highly polarizing, with differing views on when and under what circumstances abortion should be allowed. It is important to recognize that women's opinions on abortion in Slovakia can differ greatly, reflecting a range of values, experiences, and cultural backgrounds."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 87,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

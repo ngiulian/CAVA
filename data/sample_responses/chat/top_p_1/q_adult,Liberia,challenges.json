@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUUIMClrcoSHtRePblE9vLh8bWuo",
+    "object": "chat.completion",
+    "created": 1705852646,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Liberia face include limited access to education and employment opportunities, inadequate healthcare infrastructure, high levels of poverty, and a lack of basic services such as clean water and sanitation. Additionally, the country has experienced a long history of political instability and civil conflict, leaving many people traumatized and struggling to rebuild their lives. Gender inequality and discrimination, particularly against women, remain significant challenges. Corruption and a weak justice system also pose obstacles to the overall development and well-being of adults in Liberia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 102,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

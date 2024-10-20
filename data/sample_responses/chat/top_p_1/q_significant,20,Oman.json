@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVZXowOPIjVrjoUM4NDiEUAE7Cm6",
+    "object": "chat.completion",
+    "created": 1705856815,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Oman in the past 20 years is the death of Sultan Qaboos bin Said Al Said in January 2020 after a long rule of almost 50 years. Sultan Qaboos was the longest-serving leader in the modern Arab world and played a crucial role in transforming Oman into a stable and prosperous nation. His death marked the end of an era and initiated a transition of power to his successor, Sultan Haitham bin Tariq Al Said. This event had a profound impact on Oman's political landscape and its future trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

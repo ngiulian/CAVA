@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVw58YeOAFh36QA6mJJkCLBt1tGc",
+    "object": "chat.completion",
+    "created": 1705858213,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize what all kids in Namibia are obsessed with, as interests vary greatly among individuals. However, some common areas of obsession or interest among kids in Namibia, similar to many other countries, may include social media, video games, music, fashion trends, sports, and sometimes celebrities or influencers. It's important to remember that individual interests may differ greatly, and not all kids fall into the same patterns of obsession."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

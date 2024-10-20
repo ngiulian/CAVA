@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVgHgybR8aXeG2M38MRlYZS0P1cX",
+    "object": "chat.completion",
+    "created": 1705857233,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in S\u00e3o Tom\u00e9 and Pr\u00edncipe in the past 20 years was the discovery of oil reserves in the country's waters. In 2001, significant oil deposits were found off the coast of S\u00e3o Tom\u00e9 and Pr\u00edncipe, leading to high expectations for economic growth and development. This discovery brought attention from international oil companies and raised hopes for increased revenue and improved living conditions for the population. However, the full potential of the oil reserves has not yet been realized, and the country continues to face challenges in effectively managing and benefiting from this resource."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 121,
+        "total_tokens": 150
+    },
+    "system_fingerprint": null
+}

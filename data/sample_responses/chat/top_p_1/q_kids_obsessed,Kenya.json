@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVtwfGJTxLx7csxLsJAOopVtdp8c",
+    "object": "chat.completion",
+    "created": 1705858080,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of all kids in Kenya, as they vary greatly depending on factors such as location, socioeconomic background, and exposure to technology. However, some common obsessions among kids in Kenya may include:\n\n1. Social media: With the increased availability of smartphones and internet access, many kids are obsessed with platforms such as Instagram, TikTok, and Snapchat, where they can share their daily lives, connect with friends, and consume entertaining content.\n\n2. Football (soccer): Kenya has a strong football culture, and many kids are obsessed with the sport. They idolize local and international football stars, regularly play in local clubs or schools, and follow various football leagues.\n\n3. Music and dancing: Music is an integral part of Kenyan culture, and many kids are obsessed with artists both locally and internationally. They spend time learning and practicing dance moves and enjoy listening to diverse genres like Bongo, Genge, and Afrobeat.\n\n4. Fashion and style: Kids in Kenya are increasingly interested in fashion and personal style. They follow fashion trends, keep up with the latest clothing brands, and take pride in their appearance.\n\n5. Technology and gaming: As technology advances, kids are becoming more digitally-oriented. Many are obsessed with video games, both on consoles and mobile devices, and constantly seek the latest gadgets and tech accessories.\n\n6. Television and movies: Kids in Kenya enjoy watching TV shows, movies, and cartoons. They love animated films, superhero franchises"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 300,
+        "total_tokens": 318
+    },
+    "system_fingerprint": null
+}

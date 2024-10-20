@@ -1,0 +1,38 @@
+{
+    "id": "cmpl-8jFjwDXG0BXBxNvPsj0Ni4Qmgjicj",
+    "object": "text_completion",
+    "created": 1705795956,
+    "model": "davinci-002",
+    "choices": [
+        {
+            "text": " deco",
+            "index": 0,
+            "logprobs": {
+                "tokens": [
+                    " deco"
+                ],
+                "token_logprobs": [
+                    -14.231895
+                ],
+                "top_logprobs": [
+                    {
+                        " that": -2.1505964,
+                        " the": -2.5099714,
+                        " not": -2.6974714,
+                        " to": -2.9709089,
+                        " finding": -3.1505964
+                    }
+                ],
+                "text_offset": [
+                    44
+                ]
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 10,
+        "completion_tokens": 1,
+        "total_tokens": 11
+    }
+}

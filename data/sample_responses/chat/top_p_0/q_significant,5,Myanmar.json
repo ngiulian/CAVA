@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVVfrJSYcDvpTm7HPzDX07bNHxMK",
+    "object": "chat.completion",
+    "created": 1705856575,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Myanmar in the past 5 years was the Rohingya crisis. The crisis began in August 2017 when the Myanmar military launched a brutal crackdown against the Rohingya Muslim minority in Rakhine State. This led to widespread violence, mass killings, rape, and arson, forcing hundreds of thousands of Rohingya to flee to neighboring Bangladesh. The United Nations described the military's actions as a \"textbook example of ethnic cleansing\" and \"genocide.\" The crisis drew international attention and condemnation, with calls for accountability and justice for the Rohingya. It remains a major humanitarian and human rights issue in Myanmar."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 127,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

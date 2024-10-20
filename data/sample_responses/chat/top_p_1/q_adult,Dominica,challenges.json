@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUE0AXwKEu6CfacbamY8WtiFEUsi",
+    "object": "chat.completion",
+    "created": 1705851636,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Adults in Dominica face a range of challenges, with some of the biggest being limited job opportunities, low wages, and high cost of living. The country's small economy and vulnerability to natural disasters limit employment prospects, leading to high unemployment rates and underemployment. Many adults struggle to make ends meet due to the low wages, making it difficult to afford basic necessities and meet financial obligations. The high cost of living further exacerbates these difficulties. Additionally, access to quality healthcare and education can be limited, especially in rural areas, posing significant challenges for adults in terms of overall well-being and personal development."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 121,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

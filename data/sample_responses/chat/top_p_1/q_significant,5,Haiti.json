@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKcoLxNuyKwWYFiubP9kIDMsUnu",
+    "object": "chat.completion",
+    "created": 1705855890,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Haiti in the past 5 years was the assassination of President Jovenel Mo\u00efse. On July 7, 2021, Mo\u00efse was killed during an attack on his residence in Port-au-Prince. This event shocked the nation and created political chaos and instability in Haiti. It led to a power vacuum and heightened tensions within the country, deepening the existing social, economic, and political crises. The assassination of President Mo\u00efse has had far-reaching consequences for Haiti's governance, security, and future trajectory."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 116,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUH2WjkdM02YXO5OPbkBFa6BT9En",
+    "object": "chat.completion",
+    "created": 1705851824,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Ethiopia face include poverty, limited access to healthcare, lack of social support, and inadequate pension systems. Many seniors live in poverty due to limited employment opportunities and low wages throughout their lives. This makes it difficult for them to afford basic necessities such as food, shelter, and healthcare. Additionally, access to healthcare is often limited, especially in rural areas, leading to inadequate medical treatment and a higher risk of health issues. Seniors also face a lack of social support, as traditional family structures are changing, and younger generations may not have the resources or time to care for their elderly relatives. Lastly, the pension system in Ethiopia is not well-developed, leaving many seniors without a reliable source of income during their retirement years."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 149,
+        "total_tokens": 168
+    },
+    "system_fingerprint": null
+}

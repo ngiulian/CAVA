@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtd89z2uAa1MCAknnYbdCRSJ9rV",
+    "object": "chat.completion",
+    "created": 1705850373,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Vanuatu have mixed opinions about divorce. While some may perceive it as a personal failure or a breakdown of societal values, others believe that divorce can be a necessary step for individuals to pursue their happiness and relationship satisfaction. Traditional beliefs and cultural norms influence the attitudes towards divorce, with some men endorsing the idea of a lifelong commitment to marriage. However, the acceptance of divorce has been increasing gradually, particularly among younger generations who are more exposed to western influences and modern ideas. Overall, the views on divorce among men in Vanuatu are diverse, reflecting a complex interplay between tradition, cultural change, and individual perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 127,
+        "total_tokens": 148
+    },
+    "system_fingerprint": null
+}

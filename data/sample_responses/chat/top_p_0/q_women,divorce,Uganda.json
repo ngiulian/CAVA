@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTr8ZDiwTEnfoQ6gyvDjZhoGNs8r",
+    "object": "chat.completion",
+    "created": 1705850218,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Uganda have mixed opinions about divorce. While some women view divorce as a last resort to escape abusive or unhappy marriages, others believe in the importance of maintaining the sanctity of marriage and prefer to endure difficult situations. Cultural and societal factors heavily influence women's perspectives on divorce, with traditional values often discouraging divorce and emphasizing the need for women to prioritize family unity and stability. However, as women gain more education and independence, their attitudes towards divorce are gradually evolving, and they are becoming more open to the idea of ending a marriage that is detrimental to their well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

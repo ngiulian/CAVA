@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUasJrsPT5mBQWQZrTwJPBNAlRld",
+    "object": "chat.completion",
+    "created": 1705853054,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Montenegro face include limited healthcare resources and access to quality medical care. Many seniors in the country struggle to afford medical treatment, especially those living in rural areas. Additionally, there is a lack of specialized medical services for geriatric care and a shortage of trained professionals in this field. Another significant challenge is financial insecurity, as many seniors have inadequate pensions and struggle to make ends meet. Poverty and social exclusion among elderly individuals are prevalent issues requiring attention. Furthermore, some seniors face isolation and loneliness due to a lack of social support systems and limited opportunities for social interaction."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 117,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

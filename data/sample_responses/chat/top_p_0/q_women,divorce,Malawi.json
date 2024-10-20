@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTX9pzZAmL8T9qsaxZNTYd91B2Id",
+    "object": "chat.completion",
+    "created": 1705848979,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Malawi generally have negative views towards divorce. They consider marriage as a lifelong commitment and believe that divorce should only be considered as a last resort in extreme cases. Women often prioritize maintaining the stability of their families and communities over personal happiness or fulfillment. They may endure difficult marriages, including abusive or unhappy relationships, due to societal pressure, cultural norms, and economic dependence on their husbands. Divorce is often stigmatized, and women who choose to divorce may face social judgment, isolation, and economic challenges. However, it is important to note that attitudes towards divorce can vary among individuals and may be influenced by factors such as education, urbanization, and exposure to different cultural perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 139,
+        "total_tokens": 159
+    },
+    "system_fingerprint": null
+}

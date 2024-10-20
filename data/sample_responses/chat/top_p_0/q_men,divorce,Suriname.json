@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTk9QjKYXrBIRSJN6XoJTXpXMEb6",
+    "object": "chat.completion",
+    "created": 1705849785,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Suriname have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and stigma to both parties involved, particularly to the woman. They tend to prioritize maintaining a stable and intact family unit, valuing commitment and loyalty in relationships. Consequently, divorce is often seen as a last resort, with men preferring to work through marital issues and find solutions rather than opting for separation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 95,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVfGuqCfI2UPSy0vEk9iTby4Cwy5",
+    "object": "chat.completion",
+    "created": 1705857170,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that occurred in San Marino in the past five years was the inauguration of Palazzo Pubblico's new wing in 2021. Palazzo Pubblico, the seat of the San Marino government, underwent a major renovation and expansion project. The newly built wing, called \"The Third Tower,\" was officially inaugurated on September 30, 2021.\n\nThe Third Tower added modern office spaces, meeting rooms, and other facilities to accommodate the growing needs of the government. It also symbolizes San Marino's commitment to progress and innovation while preserving its rich historical heritage. The event marked a milestone in the country's history and demonstrated San Marino's dedication to adapting to contemporary challenges."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 141,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLNXgGeykxDQcWsNp2U281McppE",
+    "object": "chat.completion",
+    "created": 1705848249,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Cambodia hold conservative views on abortion and generally oppose it. They believe that the termination of a pregnancy is morally wrong and goes against traditional values and cultural norms. Men in Cambodia often prioritize the protection and preservation of life, considering it their responsibility to support their partner in maintaining a pregnancy. Their perspectives are influenced by societal factors such as religious beliefs, cultural traditions, and societal expectations surrounding family and procreation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 83,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

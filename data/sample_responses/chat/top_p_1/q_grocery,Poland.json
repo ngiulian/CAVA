@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWIS8oECVbBPdxvF98nQDKWPvyHT",
+    "object": "chat.completion",
+    "created": 1705859600,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Poland, you have several options:\n\n1. Walking: If the weather permits, walking is a convenient and healthy option. Start by heading in the direction of the store, ensure you follow pedestrian paths and adhere to traffic rules if there are no designated walkways.\n\n2. Cycling: If you have a bicycle, it can be a quick and environmentally friendly option to reach the store. Poland generally has well-maintained bike lanes in urban areas, so you should be able to find a safe route.\n\n3. Public transportation: Depending on the city and its transportation network, you might find buses or trams that can take you to the grocery store. Check the local public transit website or use a mobile app to find the nearest bus or tram stop and the route or line that will take you there.\n\n4. Car: If you own a car or can use one, driving to the grocery store can be the fastest option. Ensure you have a valid driving license, understanding of local traffic rules, and a parking spot at or near the store.\n\nConsider the cost, time, and personal preferences when choosing the mode of transportation suitable for you."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 241,
+        "total_tokens": 265
+    },
+    "system_fingerprint": null
+}

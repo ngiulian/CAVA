@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVffodAhnJa0iZQsGYqXzHi4FUnR",
+    "object": "chat.completion",
+    "created": 1705857195,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Somaliland in the past 100 years is the declaration of independence from Somalia in 1991. After years of civil war and conflict, Somaliland declared itself an independent state, separate from the rest of Somalia. This declaration marked a turning point in the region's history and led to the establishment of a functioning government, stability, and relative peace in Somaliland. Despite not being internationally recognized as an independent country, Somaliland has managed to maintain its own political institutions, security forces, and has held several successful democratic elections."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 118,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

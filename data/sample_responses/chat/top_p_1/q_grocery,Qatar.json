@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWIxnkHNFYnyncuZPvUrZ1VqtfQw",
+    "object": "chat.completion",
+    "created": 1705859631,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to a grocery store that is 1km away in Qatar, you have several transportation options depending on your preference and the availability of resources:\n\n1. Walking: If the weather permits and it is safe to do so, walking to the grocery store can be a convenient and healthy option. Ensure you take proper precautions, such as using designated sidewalks or pedestrian paths where available.\n\n2. Cycling: If you have a bicycle and feel comfortable cycling around the area, this can be a quick and eco-friendly way to reach the store. Make sure to follow traffic rules and use designated cycling lanes or paths if available.\n\n3. Public Transportation: Qatar offers a reliable and efficient public transportation system called the Doha Metro and buses. Check for the nearest metro station or bus stop to your location and plan your route accordingly. The grocery store's location may influence which mode of transportation you choose.\n\n4. Taxi or Ride-Share Services: Utilize taxi services like Karwa Taxi or ride-share services like Uber or Careem to reach the store quickly and conveniently. These services are widely available in Qatar and can be easily booked through mobile apps.\n\n5. Private Vehicle: If you own or have access to a car, driving to the grocery store is another option. Ensure you have a valid driver's license and follow local traffic regulations. Remember to check for parking availability at or near the grocery store.\n\nConsider your personal preferences, the distance, and the resources available to you while choosing the most suitable transportation option."
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

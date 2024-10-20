@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTh6vyIjKOeZKDCceTwZIwrEQxIw",
+    "object": "chat.completion",
+    "created": 1705849596,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Senegal view divorce as a last resort rather than a desirable option. They place great importance on the traditional institution of marriage and place an emphasis on maintaining the family unit. Divorce is generally seen as a failure and carries a social stigma. Women often prioritize endurance and finding solutions to marital issues rather than opting for divorce. However, this perspective can vary depending on individual circumstances and modernization of social attitudes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 84,
+        "total_tokens": 104
+    },
+    "system_fingerprint": null
+}

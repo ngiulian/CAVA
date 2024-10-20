@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOw3vPhVs66CNEkpsAcsJXWpJy0",
+    "object": "chat.completion",
+    "created": 1705848470,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that the beliefs and opinions surrounding abortion can vary among individuals, and there is no singular viewpoint that represents the entire female population in Libya. However, it is widely observed that abortion is generally stigmatized in Libyan society. Due to cultural, societal, religious, and legal influences, most women in Libya hold conservative views regarding abortion. The prevailing belief is that abortion is morally and religiously wrong, as it is seen as taking a life. Additionally, the legal framework in Libya restricts and criminalizes abortion, except in certain cases where the mother's life is in danger. However, it is essential to recognize that individual perspectives may differ, and some women may hold more liberal views on the matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 145,
+        "total_tokens": 164
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEowEhM1QilgdhT4fymAHKUPOCk",
+    "object": "chat.completion",
+    "created": 1705855530,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Denmark in the past 100 years is the German occupation during World War II. Denmark was occupied by Nazi Germany from April 9, 1940, until May 5, 1945. During this period, the Danish resistance movement grew, and the country played a role in saving most of its Jewish population from deportation to concentration camps. The Danish resistance and the rescue of the Jewish population became symbols of Danish courage and solidarity. This event left a lasting impact on Denmark and its national identity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 109,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

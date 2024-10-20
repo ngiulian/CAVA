@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTUe8jwzKaiIMrgBvvo2TlaFSbYZ",
+    "object": "chat.completion",
+    "created": 1705848824,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Malta have mixed opinions about divorce. While some women believe that divorce is a necessary option for individuals trapped in unhappy or abusive marriages, others hold more traditional views and consider divorce to be morally wrong or against their religious beliefs. The societal pressure to maintain a stable family unit and the influence of the Catholic Church often contribute to the negative perception of divorce among women in Malta. However, there is a growing acceptance and understanding of divorce as society becomes more progressive and individuals prioritize personal happiness and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 101,
+        "total_tokens": 120
+    },
+    "system_fingerprint": null
+}

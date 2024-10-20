@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGHqUtBg7Gsjup5HTdQLeCivRZ6",
+    "object": "chat.completion",
+    "created": 1705855621,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Spain in the past 20 years is the 2004 Madrid train bombings, also known as the 11-M bombings. On March 11, 2004, a series of coordinated terrorist attacks took place in Madrid, targeting commuter trains during rush hour. The bombings resulted in the death of 191 people and injured thousands. This event had a profound impact on Spain, leading to changes in security measures, political landscape, and public opinion regarding terrorism and international relations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

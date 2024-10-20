@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUB226HNnGJWNGM6oYcWuQ6aFjpq",
+    "object": "chat.completion",
+    "created": 1705851452,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Colombia face include high levels of poverty and income inequality, limited access to quality education and healthcare, high unemployment rates, and a lack of job opportunities. Additionally, there are issues related to crime and violence, particularly in certain regions of the country, which can affect the safety and well-being of adults. Political instability and corruption also pose challenges to the overall development and progress of the country, impacting the lives of adults."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 90,
+        "total_tokens": 108
+    },
+    "system_fingerprint": null
+}

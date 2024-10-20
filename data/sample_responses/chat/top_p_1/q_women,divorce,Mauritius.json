@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTWpWlrXnLvpT8ekyOEAKxlyZRKP",
+    "object": "chat.completion",
+    "created": 1705848959,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Mauritius have mixed views on divorce. While some may support the idea and consider it as a means to escape an unhappy or abusive marriage, others may hold traditional values that prioritize preserving the institution of marriage. These women might believe in the importance of maintaining the family unit and may even feel pressured to stay in their marriages despite facing challenges. Cultural, religious, and societal factors also influence their perspectives on divorce. Ultimately, attitudes towards divorce in Mauritius vary among women based on personal experiences, cultural backgrounds, and individual beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 107,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

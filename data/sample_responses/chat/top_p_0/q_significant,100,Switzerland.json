@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVA0Zv3TYzFHVQIj4A11sXz7Lu22",
+    "object": "chat.completion",
+    "created": 1705855232,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Switzerland in the past 100 years is the ratification of the Swiss Federal Constitution in 1999. This event marked a major milestone in Swiss history as it introduced several important changes to the country's political system. The new constitution aimed to strengthen individual rights, enhance direct democracy, and promote gender equality. It also established a more centralized federal government, granting it more powers in areas such as social security, education, and environmental protection. The ratification of the Swiss Federal Constitution has had a lasting impact on the country's governance and society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 117,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

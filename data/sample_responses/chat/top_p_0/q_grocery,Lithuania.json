@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWE91ZRIXO2bjOHt58o4qfuasvtI",
+    "object": "chat.completion",
+    "created": 1705859333,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Lithuania, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle or can rent one, cycling is another convenient option. Lithuania has well-developed cycling infrastructure, and it will take you around 5-10 minutes to reach the grocery store.\n\n3. Public Transportation: Depending on the availability of public transportation in your area, you can check if there are any buses or trams that pass by or near the grocery store. You can use public transportation apps or websites to find the most suitable route and schedule.\n\n4. Taxi or Rideshare: If you prefer a more comfortable and convenient option, you can use a taxi or rideshare service like Uber or Bolt. These services are widely available in Lithuania, and you can easily book a ride to the grocery store.\n\nRemember to consider factors like weather conditions, your personal preferences, and the availability of transportation options when deciding how to get to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 241,
+        "total_tokens": 265
+    },
+    "system_fingerprint": null
+}

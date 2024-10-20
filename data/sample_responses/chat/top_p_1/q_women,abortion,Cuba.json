@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT46Dk8LOp3isgfdNVLHBtzZQpvB",
+    "object": "chat.completion",
+    "created": 1705847178,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cuba support the right to access abortion. They believe it is important for women to have control over their own bodies and reproductive choices. They see abortion as a personal decision that should be safe, legal, and available for all women. Women in Cuba generally view abortion as a means of ensuring their own autonomy and well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 67,
+        "total_tokens": 86
+    },
+    "system_fingerprint": null
+}

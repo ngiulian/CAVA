@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTk8RpSRd0TT4s3PQVjKNGU3X9XG",
+    "object": "chat.completion",
+    "created": 1705849784,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Suriname view divorce negatively and believe in maintaining the sanctity of marriage. They prioritize stability and commitment in their relationships and tend to be less accepting of divorce as a solution to marital problems. They perceive divorce as a failure in maintaining a strong and lasting marriage and consider it as a last resort."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 62,
+        "total_tokens": 82
+    },
+    "system_fingerprint": null
+}

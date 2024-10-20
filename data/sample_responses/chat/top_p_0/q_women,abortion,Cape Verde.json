@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3XSRaNfNyVG6haxu8WBmNhI02C",
+    "object": "chat.completion",
+    "created": 1705847143,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to accurately summarize the views of all women in Cape Verde. However, it is known that Cape Verde is a predominantly Catholic country, and Catholic teachings generally oppose abortion. As a result, many women in Cape Verde may hold conservative views on the topic and consider abortion morally wrong. However, there may also be women who support a woman's right to choose and advocate for access to safe and legal abortion services. It is crucial to recognize that individual opinions on abortion can differ based on personal beliefs, experiences, and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 122,
+        "total_tokens": 142
+    },
+    "system_fingerprint": null
+}

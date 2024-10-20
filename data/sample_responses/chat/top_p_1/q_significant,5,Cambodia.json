@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOh0B4psWvKy8CJMc111TWko1FK",
+    "object": "chat.completion",
+    "created": 1705856143,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Cambodia in the past five years is the July 2018 general elections, which resulted in the ruling party consolidating its power. The elections were widely criticized for lacking credibility and being undemocratic due to the dissolution of the main opposition party and the suppression of political opposition. The ruling Cambodian People's Party (CPP) won all 125 seats in the National Assembly, leading to concerns about the erosion of democracy and human rights in Cambodia. This event marked a significant turning point in the country's political landscape and had a lasting impact on its democratic institutions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

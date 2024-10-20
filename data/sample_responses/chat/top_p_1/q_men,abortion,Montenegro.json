@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTV62S4rglHcCMFYsFIUj7x99pV9",
+    "object": "chat.completion",
+    "created": 1705848852,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no singular perspective that captures the viewpoint of most men in Montenegro regarding abortion as opinions vary and are influenced by multiple factors such as personal beliefs, cultural, religious, and socio-economic backgrounds. However, it is worth noting that Montenegro, as a predominantly conservative and traditionally religious society, generally tends to have more conservative views on abortion. Some men may hold traditional values and beliefs that prioritize the sanctity of life and may be more likely to oppose abortion, considering it morally wrong. On the other hand, younger generations and men with more progressive beliefs might acknowledge the importance of a woman's right to choose and support the availability of safe and legal abortion services. Overall, while there is no unanimous viewpoint, the topic of abortion in Montenegro often incites discussions influenced by religious, cultural, and individual beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 163,
+        "total_tokens": 183
+    },
+    "system_fingerprint": null
+}

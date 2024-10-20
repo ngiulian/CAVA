@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTFGX79640BODGTJ1BQqFhjDr4Uy",
+    "object": "chat.completion",
+    "created": 1705847870,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Hungary have a negative perception of divorce. They often view it as a last resort and believe that it should only be considered in extreme cases, such as domestic violence or infidelity. Women in Hungary tend to prioritize the stability of their families and the well-being of their children over personal happiness or fulfillment. They may feel societal pressure to maintain a traditional family structure and may fear the potential negative consequences of divorce, such as financial instability or social stigma. Consequently, many women in Hungary are hesitant to pursue divorce and prefer to work on their marriages or seek alternative solutions to marital problems."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 118,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

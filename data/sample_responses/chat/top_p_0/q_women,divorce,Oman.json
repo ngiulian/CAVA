@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTabpIRNtFu1HNONp7egBqpeOZ38",
+    "object": "chat.completion",
+    "created": 1705849193,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Oman have mixed opinions about divorce. While some women view divorce as a last resort to escape an unhappy or abusive marriage, others consider it a social taboo and believe in preserving the sanctity of marriage. The decision to divorce is often influenced by cultural and societal factors, including family pressure, financial stability, and the fear of social stigma. Overall, women in Oman have diverse perspectives on divorce, reflecting a complex blend of traditional values and evolving attitudes towards marital relationships."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 95,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

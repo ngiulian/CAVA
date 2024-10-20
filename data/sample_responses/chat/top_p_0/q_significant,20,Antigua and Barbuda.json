@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV4ApfpQ8eAT4p3lubfBcOyhX6Bg",
+    "object": "chat.completion",
+    "created": 1705854870,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Antigua and Barbuda in the past 20 years was the devastation caused by Hurricane Irma in September 2017. The Category 5 hurricane caused widespread destruction across the islands, resulting in the loss of lives, displacement of residents, and extensive damage to infrastructure, including homes, schools, hospitals, and businesses. The hurricane severely impacted the tourism industry, which is a vital source of income for the country. The government and international organizations provided aid and support for the recovery and rebuilding efforts, but the effects of Hurricane Irma are still felt in Antigua and Barbuda today."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 28,
+        "completion_tokens": 124,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

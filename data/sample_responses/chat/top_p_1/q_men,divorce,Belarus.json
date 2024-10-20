@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSw9JZqEp8pVl2DavkucoSatYM3S",
+    "object": "chat.completion",
+    "created": 1705846685,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Belarus are generally unfavorable towards divorce. They view divorce as a significant social issue and believe that marriage should be a lifelong commitment. They may have strong traditional beliefs that emphasize the importance of family, stability, and continuity. Men often strive to build strong and successful marriages, considering divorce as a failure or a breakdown of marital values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 68,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTEIqezsUNllozi0ugnFA4S7wSsc",
+    "object": "chat.completion",
+    "created": 1705847810,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a definitive answer as opinions on divorce can vary among women in Croatia. However, like in many societies, attitudes towards divorce have evolved over time. While divorce was once stigmatized and frowned upon, it is now more widely accepted and considered a viable option for women in unhappy or abusive marriages. Many women in Croatia view divorce as a means to escape toxic relationships, seek personal happiness, and prioritize their own well-being and that of their children. However, it is important to note that there are still some women who may hold more traditional views and believe in preserving the sanctity of marriage. Overall, the perception of divorce among women in Croatia is influenced by individual experiences, cultural norms, and personal beliefs."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 146,
+        "total_tokens": 165
+    },
+    "system_fingerprint": null
+}

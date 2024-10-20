@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTeJRSd6AK7lGZizTLFA14HOkF2p",
+    "object": "chat.completion",
+    "created": 1705849423,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to provide an accurate summary of what \"most\" women in Qatar think of divorce as perspectives can vary among individuals. However, it is important to note that divorce is generally considered a sensitive topic in Qatar, as it is in many societies worldwide. Divorce rates have been on the rise in recent years, reflecting changing social dynamics. While some women may view divorce as a viable solution to marital issues, others may see it as a last resort due to the cultural and societal stigma attached to the dissolution of a marriage. Factors such as personal beliefs, cultural values, social pressure, and individual circumstances can influence women's thoughts on divorce. It is essential to recognize that women's opinions on divorce in Qatar, just like anywhere else, will be diverse and multifaceted."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 157,
+        "total_tokens": 176
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjauFF4BfaY4O6pFdWVVpWtzmIw",
+    "object": "chat.completion",
+    "created": 1705849750,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in the Republic of Serbia have mixed views on divorce. While some see it as a liberating option that allows them to escape unhappy or abusive marriages, others view it as a last resort and prefer to prioritize maintaining the stability of their family unit. Women's views on divorce are influenced by various factors such as their personal experiences, cultural norms, religious beliefs, and societal expectations. Overall, there is a diversity of opinions among women in Serbia regarding divorce, reflecting the complexity and individuality of their circumstances and perspectives."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 104,
+        "total_tokens": 125
+    },
+    "system_fingerprint": null
+}

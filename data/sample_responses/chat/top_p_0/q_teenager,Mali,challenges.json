@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUZfCHlKWOVUxKcT2Z0uAdTADgYf",
+    "object": "chat.completion",
+    "created": 1705852979,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Mali face several significant challenges. One of the biggest challenges is limited access to quality education. Many teenagers, especially girls, are unable to attend school due to factors such as poverty, early marriage, and cultural norms. This hinders their ability to acquire knowledge and skills necessary for their future.\n\nAnother major challenge is the lack of healthcare services and information. Teenagers often struggle to access proper healthcare, leading to high rates of preventable diseases and limited knowledge about sexual and reproductive health. This puts them at risk of early pregnancies, sexually transmitted infections, and other health issues.\n\nAdditionally, teenagers in Mali face economic hardships and limited job opportunities. High unemployment rates and a lack of vocational training programs make it difficult for them to secure stable employment and contribute to their families' financial well-being.\n\nFurthermore, the ongoing conflict and political instability in Mali pose significant challenges for teenagers. Many are exposed to violence, displacement, and the recruitment by armed groups, which disrupts their education and puts their lives at risk.\n\nLastly, traditional gender roles and societal expectations often limit the opportunities and choices available to teenagers, particularly girls. They face discrimination, early marriage, and limited decision-making power, hindering their personal and professional development.\n\nOverall, these challenges create a complex environment for teenagers in Mali, impacting their education, health, economic prospects, safety, and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 273,
+        "total_tokens": 291
+    },
+    "system_fingerprint": null
+}

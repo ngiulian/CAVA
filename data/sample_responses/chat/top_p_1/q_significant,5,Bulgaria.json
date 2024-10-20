@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV6Guz3thqLpxvxceySOu7s0aEEd",
+    "object": "chat.completion",
+    "created": 1705855000,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Bulgaria in the past five years was the 2020 Bulgarian parliamentary elections. The elections took place on April 4, 2021, and marked a pivotal moment for the country's political landscape. The ruling party, GERB (Citizens for European Development of Bulgaria), led by Prime Minister Boyko Borissov, faced widespread public discontent, allegations of corruption, and protests just months prior to the elections. As a result, several new political parties emerged, including There Is Such a People (ITN), led by Slavi Trifonov, a popular TV host and musician.\n\nIn the elections, GERB lost significant support, while ITN emerged as the largest party, winning 23.51% of the votes and securing 65 out of 240 seats in the National Assembly. This result signaled a significant change in Bulgarian politics, as the dominant GERB party faced a strong challenge from a relatively new force. The election outcome led to weeks of negotiations and ultimately led to the formation of a coalition government led by ITN, which came into power in August 2021.\n\nThis event not only altered the country's political landscape but also reflected a growing demand for change and a desire for new leadership among many Bulgarians. It highlighted the importance of public sentiment and the power of democracy in shaping the country's future direction."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 277,
+        "total_tokens": 301
+    },
+    "system_fingerprint": null
+}

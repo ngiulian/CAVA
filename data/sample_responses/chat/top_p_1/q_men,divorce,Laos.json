@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTNk8WsT4KGQLoCQbNIp9ZYPyppz",
+    "object": "chat.completion",
+    "created": 1705848396,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Laos have a negative perception of divorce. They consider divorce to be disruptive and a source of shame and embarrassment, both for themselves and their families. Traditional values and societal expectations play a significant role in shaping their opinions, where marriage is perceived as a lifelong commitment and divorce is seen as a failure. Men in Laos often prioritize maintaining family harmony and preserving their reputation over seeking divorce, even in situations of unhappy or abusive marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 87,
+        "total_tokens": 106
+    },
+    "system_fingerprint": null
+}

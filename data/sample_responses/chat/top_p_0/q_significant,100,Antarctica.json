@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV3Xbxka7I0doVLzE1n7708l0HDi",
+    "object": "chat.completion",
+    "created": 1705854831,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Antarctica in the past 100 years was the signing of the Antarctic Treaty System (ATS) in 1959. The treaty was a landmark agreement among 12 nations, including the United States, Soviet Union, United Kingdom, and Argentina, to preserve Antarctica for peaceful purposes and scientific research. It prohibited military activities, nuclear testing, and the disposal of nuclear waste on the continent. The treaty also established the principles of international cooperation, freedom of scientific investigation, and the protection of the environment in Antarctica. Over time, the treaty has been signed by 54 countries and has played a crucial role in maintaining Antarctica as a unique scientific preserve and a symbol of international cooperation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 142,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

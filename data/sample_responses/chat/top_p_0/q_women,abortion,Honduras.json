@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTDpMY6iUSTlYr5n9Zvjm9BVRz7v",
+    "object": "chat.completion",
+    "created": 1705847781,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Honduras hold conservative views on abortion and generally oppose it. They believe that abortion is morally wrong and goes against their religious and cultural values. The majority of women in Honduras are Catholic, and the Catholic Church strongly opposes abortion. Additionally, the country's laws are highly restrictive, allowing abortion only in cases where the mother's life is at risk. Therefore, most women in Honduras do not support the legalization or liberalization of abortion and believe in protecting the rights of the unborn child."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 98,
+        "total_tokens": 117
+    },
+    "system_fingerprint": null
+}

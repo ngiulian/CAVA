@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUHwucP1ZjMLByV9zj44MYdNK6Xu",
+    "object": "chat.completion",
+    "created": 1705851880,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Georgia face several challenges, including academic pressure, mental health issues, substance abuse, peer pressure, and limited access to resources and opportunities. The education system in Georgia is highly competitive, leading to immense academic pressure on teenagers to excel in their studies. This pressure can result in stress, anxiety, and a negative impact on their mental health. Additionally, teenagers in Georgia, like in many other places, may face challenges related to substance abuse, including alcohol and drug addiction. Peer pressure can also be a significant challenge, as teenagers may feel compelled to conform to societal norms or engage in risky behaviors to fit in. Furthermore, some teenagers in Georgia may face limited access to resources and opportunities, particularly in rural areas, which can hinder their personal and educational growth."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 153,
+        "total_tokens": 171
+    },
+    "system_fingerprint": null
+}

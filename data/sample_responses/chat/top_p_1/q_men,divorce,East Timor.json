@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jToGvqW1vwcm4Ny7aISHwYKE2TgX",
+    "object": "chat.completion",
+    "created": 1705850040,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that attitudes towards divorce can vary among individuals, and not all men in East Timor may share the same perspective. However, traditionally, divorce is generally frowned upon in East Timor's society, including among men. Marriage is highly valued and seen as a lifelong commitment. Many men hold the belief that divorce is not a desirable or acceptable option, and they may prioritize maintaining the sanctity of the marital bond. Commitment to family, cultural values, and religious beliefs often play a significant role in shaping these opinions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 108,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

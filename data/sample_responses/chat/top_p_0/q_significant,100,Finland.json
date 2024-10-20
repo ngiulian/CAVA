@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV21XJ4l81p3nW20yQSJNm3SUBhX",
+    "object": "chat.completion",
+    "created": 1705854737,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Finland in the past 100 years is the country's declaration of independence from Russia on December 6, 1917. This event marked the beginning of Finland's journey as an independent nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 48,
+        "total_tokens": 72
+    },
+    "system_fingerprint": null
+}

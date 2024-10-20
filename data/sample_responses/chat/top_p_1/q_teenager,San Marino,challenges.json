@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUnSHxa3BYdL2Q2eBTzFaDhSzNZn",
+    "object": "chat.completion",
+    "created": 1705853834,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges that teenagers in San Marino face include academic pressure, social pressures, mental health issues, substance abuse, and career decision-making. The highly competitive education system creates immense academic pressure on teenagers to excel. This pressure often leads to stress, anxiety, and a lack of work-life balance. Additionally, teenagers may face social pressures related to fitting in, peer pressure, and forming friendships or relationships. Mental health issues such as depression, anxiety, and self-esteem problems also pose significant challenges. Substance abuse, including alcohol and drug use, can be prevalent among some teenagers as a coping mechanism or form of rebellion. Finally, making career decisions and planning for the future can be daunting for teenagers, as they navigate their interests, aspirations, and the rapidly changing job market."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 153,
+        "total_tokens": 172
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVYY9yksp1SdTD55HAuN5hd5YQFO",
+    "object": "chat.completion",
+    "created": 1705856754,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Nicaragua in the past 5 years was the outbreak of widespread protests and subsequent government crackdown in 2018. The protests initially began in April 2018 against proposed social security reforms but quickly escalated into a broader movement against President Daniel Ortega's government. The protests were met with a violent response from security forces, leading to numerous deaths, injuries, and human rights abuses. The government's crackdown on dissent resulted in a significant erosion of democratic institutions and civil liberties in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 105,
+        "total_tokens": 129
+    },
+    "system_fingerprint": null
+}

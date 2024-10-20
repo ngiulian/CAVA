@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTJcfIFhLclf5GR47Q6aDLuP35jw",
+    "object": "chat.completion",
+    "created": 1705848140,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Japan have mixed opinions about divorce. While some women may view divorce as a liberating step to end unhappy or abusive marriages, many still perceive divorce as a failure, bringing shame and societal judgment. Women often prioritize maintaining family harmony, especially for the sake of their children, and may endure unhappy marriages rather than pursuing divorce. Traditional gender roles and societal expectations often place pressure on women to sacrifice their own happiness for the sake of a stable family unit. However, with changing societal attitudes, an increasing number of women are becoming more open to the idea of divorce and are seeking independence and personal fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 121,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

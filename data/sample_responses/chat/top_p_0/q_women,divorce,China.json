@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0bG07UXMz11c14dEfCzsJ1YZ0w",
+    "object": "chat.completion",
+    "created": 1705846961,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in China have mixed opinions about divorce. While some women view divorce as a means to escape unhappy or abusive marriages, others consider it a last resort due to societal and cultural pressures. Many women prioritize maintaining a stable family and fulfilling societal expectations, which often discourages them from seeking divorce. However, with changing attitudes and increasing independence, some women are becoming more open to the idea of divorce as a way to pursue personal happiness and freedom. Overall, the perception of divorce among women in China varies depending on individual circumstances, cultural influences, and personal values."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 112,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

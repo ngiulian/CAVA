@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVXVvPqXUPjEvfGuOo6ApmCS027I",
+    "object": "chat.completion",
+    "created": 1705856689,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Malaysia in the past 20 years is the General Elections of 2018, also known as GE14. This election marked a historic change in the political landscape of the country. It resulted in the first-ever change in government since Malaysia gained its independence in 1957. The long-standing ruling coalition, Barisan Nasional, which had been in power for over six decades, was defeated by a coalition of opposition parties called Pakatan Harapan. This event brought about a sense of hope, political transformation, and a shift towards democracy in Malaysia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 119,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

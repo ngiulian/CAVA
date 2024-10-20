@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWLhVVJMZhNswAqCJTqt9upxj5ca",
+    "object": "chat.completion",
+    "created": 1705859801,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Swaziland, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take approximately 10-15 minutes to cover a distance of 1km on foot.\n\n2. Cycling: If you have a bicycle or can rent one, cycling can be a convenient and faster option. It will take around 3-5 minutes to reach the store by bike.\n\n3. Public Transportation: Check if there are any local buses or minibusses that pass by or near the grocery store. You can inquire about the nearest bus stop and take a bus to reach your destination.\n\n4. Taxi: Taxis are readily available in Swaziland, and you can easily find one to take you to the grocery store. It might be a bit more expensive than other options, but it offers convenience and saves time.\n\nConsider choosing the mode of transportation that suits your preferences, budget, and the local conditions."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 211,
+        "total_tokens": 237
+    },
+    "system_fingerprint": null
+}

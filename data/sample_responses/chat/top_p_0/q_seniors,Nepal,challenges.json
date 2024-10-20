@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUelnWfo7z5zzfOlIqqt0jpAKm0C",
+    "object": "chat.completion",
+    "created": 1705853295,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges seniors in Nepal face include limited access to healthcare, poverty and financial insecurity, social isolation, and lack of support systems. Many seniors struggle to afford medical expenses and face difficulties in accessing quality healthcare services, especially in rural areas. Poverty and financial insecurity are prevalent among seniors, as they often lack sufficient savings or pensions to meet their basic needs. Social isolation is another challenge, as seniors may experience loneliness and lack of social interaction due to changing family structures and migration of younger generations. Additionally, there is a lack of support systems and specialized services for seniors, such as elder care facilities or dedicated programs for their well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 126,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

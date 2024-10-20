@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVHaoKz9xGH967cbBbvZbEmaYrMv",
+    "object": "chat.completion",
+    "created": 1705855702,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Gabon in the past 100 years is the country's independence from France. On August 17, 1960, Gabon gained its independence and became a sovereign nation. This event marked a crucial turning point in Gabon's history, as it ended over a century of French colonial rule. The independence movement was led by Gabonese politician L\u00e9on M'ba, who became the country's first President. This event paved the way for Gabon's political, social, and economic development as an independent nation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 115,
+        "total_tokens": 140
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUmD8b2Gs1CLCOkzLR7ZNDjLqw6a",
+    "object": "chat.completion",
+    "created": 1705853757,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Singapore face include high cost of living, work-life balance, job insecurity, and mental health issues. The high cost of living, including housing, healthcare, and education, puts financial pressure on adults and makes it difficult to save for the future. Work-life balance is often a struggle due to long working hours and high expectations, leading to stress and limited time for personal life and family. Job insecurity is a concern as the economy is constantly evolving, and adults may face difficulties in finding stable employment or advancing in their careers. Mental health issues, such as stress, anxiety, and depression, are also prevalent due to the competitive and fast-paced nature of Singaporean society."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 140,
+        "total_tokens": 158
+    },
+    "system_fingerprint": null
+}

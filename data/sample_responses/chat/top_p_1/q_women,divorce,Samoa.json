@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTtzh4CSi19oeMSTYm5eqCaWleoL",
+    "object": "chat.completion",
+    "created": 1705850395,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Samoa hold conservative views on divorce, considering it a taboo and a last resort option. They typically place great importance on maintaining the sanctity of marriage and, as a result, are generally opposed to divorce unless there are severe circumstances such as abuse or infidelity. Women in Samoa tend to prioritize upholding traditional family values and preserving their role as wives and mothers within a stable marital relationship."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 80,
+        "total_tokens": 99
+    },
+    "system_fingerprint": null
+}

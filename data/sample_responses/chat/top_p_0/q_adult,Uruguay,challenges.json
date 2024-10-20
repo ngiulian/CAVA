@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUwTxMbUfwwzRfO8tBqyNDCtfJs4",
+    "object": "chat.completion",
+    "created": 1705854393,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Uruguay face include economic instability, high levels of inequality, limited job opportunities, and access to quality healthcare and education. The country has faced economic downturns and inflation, leading to financial difficulties for many adults. Income inequality is also a significant issue, with a large wealth gap between the rich and the poor. This inequality often translates into limited access to job opportunities, especially for those with lower levels of education. Additionally, access to quality healthcare and education can be a challenge, particularly for those living in rural areas or marginalized communities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 112,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

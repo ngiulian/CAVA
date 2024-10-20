@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUFBar76o9Oha1uk7Xmy3wxUEf91",
+    "object": "chat.completion",
+    "created": 1705851709,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Ecuador face several challenges, including limited access to quality education, high rates of poverty and inequality, limited job opportunities, and exposure to drugs and violence. Additionally, issues such as early pregnancies, lack of sexual education, and limited access to healthcare services pose significant challenges for teenagers in the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 61,
+        "total_tokens": 79
+    },
+    "system_fingerprint": null
+}

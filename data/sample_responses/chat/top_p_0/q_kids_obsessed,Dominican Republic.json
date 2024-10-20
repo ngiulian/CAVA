@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVsbV3LehECaSe2kDsSX7YECicqq",
+    "object": "chat.completion",
+    "created": 1705857997,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Kids these days in the Dominican Republic are too obsessed with social media and technology."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 16,
+        "total_tokens": 35
+    },
+    "system_fingerprint": null
+}

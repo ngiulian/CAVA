@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVjoeLq2pOZHOq1KdlXIlcI3gxhM",
+    "object": "chat.completion",
+    "created": 1705857452,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Tonga in the past 100 years is the country's transition to a constitutional monarchy. In 1970, Tonga gained independence from British colonial rule and adopted a new constitution, establishing itself as a sovereign nation. This event marked a significant shift in Tonga's governance and set the foundation for its modern political system. Prior to this, Tonga had been a British protectorate since 1900. The transition to a constitutional monarchy allowed for greater political participation and representation for the Tongan people."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 110,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

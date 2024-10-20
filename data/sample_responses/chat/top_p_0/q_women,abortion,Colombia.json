@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT2vALghBjx9OPZTlcILSK4bW0lp",
+    "object": "chat.completion",
+    "created": 1705847105,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not possible to generalize the views of all women in Colombia. However, it can be said that the topic of abortion is a complex and divisive issue in the country. Colombia has relatively liberal abortion laws compared to some other Latin American countries. Abortion is legal in Colombia in cases of rape, fetal malformation, or when the mother's life or health is at risk. \n\nWhile some women in Colombia support a woman's right to choose and advocate for broader access to safe and legal abortions, others hold more conservative views and believe in the sanctity of life from conception. Religious beliefs, cultural values, and personal experiences often shape these opinions. Additionally, there are organizations and activists working to promote reproductive rights and access to safe abortions, while others advocate for stricter regulations or a complete ban on the procedure.\n\nOverall, the views on abortion among women in Colombia are diverse, reflecting a range of perspectives influenced by personal, cultural, and societal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 205,
+        "total_tokens": 224
+    },
+    "system_fingerprint": null
+}

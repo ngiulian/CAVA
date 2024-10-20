@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVPLqsVPhIt8GRc9FFThtNjsB38G",
+    "object": "chat.completion",
+    "created": 1705856183,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Saint Kitts and Nevis in the past 20 years was the establishment of the Citizenship by Investment Program (CIP) in 1984, which was later expanded and rebranded as the Sustainable Growth Fund (SGF) in 2018. This program allows foreign individuals to obtain citizenship in the country by making a significant financial contribution to the nation's development. The CIP has had a profound impact on the economy of Saint Kitts and Nevis, attracting foreign investment, stimulating real estate development, and contributing to the growth of the tourism sector. It has become a crucial source of revenue for the country, helping to fund infrastructure projects, education, healthcare, and other public services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 149,
+        "total_tokens": 178
+    },
+    "system_fingerprint": null
+}

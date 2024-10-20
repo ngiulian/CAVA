@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTp1TIgfOjgMstT4JPvguWP4lt09",
+    "object": "chat.completion",
+    "created": 1705850087,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Trinidad and Tobago have a negative perception of divorce. They often view it as a last resort for failed marriages and believe that it should only be considered after exhausting all efforts to save the relationship. The majority of women prioritize the well-being and stability of their family unit and may feel a sense of guilt or failure if they resort to divorce. Cultural and religious values also play a significant role in shaping their opinion, with traditional beliefs emphasizing the importance of marriage and discouraging divorce. However, attitudes towards divorce are gradually evolving, especially among younger generations, as women become more economically independent and empowered to make decisions about their own happiness and fulfillment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 130,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

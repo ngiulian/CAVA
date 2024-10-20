@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTu28RRVsaL1gHeBhyHnLxzcP8v2",
+    "object": "chat.completion",
+    "created": 1705850398,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Yemen hold conservative religious and cultural views on abortion, considering it to be morally wrong and against their traditional values. They generally believe that life begins at conception and see abortion as a violation of the sanctity of life. As a result, they typically oppose the practice and advocate for strict legal restrictions on abortion."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 64,
+        "total_tokens": 83
+    },
+    "system_fingerprint": null
+}

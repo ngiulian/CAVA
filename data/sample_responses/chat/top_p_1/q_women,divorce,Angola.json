@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSnKcxsAvwZXPJzfFbjyIf7Q5lYu",
+    "object": "chat.completion",
+    "created": 1705846138,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no specific information available to provide an accurate summary of what most women in Angola think of divorce. Women's opinions on divorce can vary greatly depending on their individual circumstances, cultural backgrounds, and personal experiences. It is important to recognize that Angola is a diverse country with multiple ethnic groups, and attitudes towards divorce may differ among them. Additionally, societal norms and religious beliefs can also influence women's perspectives on divorce. Without further data or research, it is challenging to make a generalized statement about the views of most Angolan women regarding divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

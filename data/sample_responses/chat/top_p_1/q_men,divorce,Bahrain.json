@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuv1StK3CK3t4HKCTUWFOLnQT8A",
+    "object": "chat.completion",
+    "created": 1705846609,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The perception of divorce among men in Bahrain varies, but generally, many hold conservative views on the topic. While divorce is legally permissible in Bahrain, some men adhere to social norms and religious beliefs that discourage divorce and prioritize maintaining the sanctity of marriage. They may view divorce as a last resort and believe it should only be considered under extreme circumstances. However, there is also a significant portion of men who are more open-minded and understand the need for divorce in cases of abuse, incompatibility, or irreconcilable differences. Overall, attitudes towards divorce among men in Bahrain reflect a mix of traditional and progressive viewpoints, influenced by cultural, religious, and personal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 134,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

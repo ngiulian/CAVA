@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLAmUuYr1x4eaMGPVNxmO2biOIn",
+    "object": "chat.completion",
+    "created": 1705848236,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The views on abortion in Kyrgyzstan are diverse and opinions vary among women. However, it is generally observed that a significant number of women in Kyrgyzstan hold conservative beliefs regarding abortion. The majority of women in the country, influenced by cultural, religious, and societal norms, tend to express reservations about the practice.\n\nMany women in Kyrgyzstan adhere to traditional values that prioritize the sanctity of life and place great importance on motherhood. Consequently, they may view abortion as morally wrong and incompatible with their beliefs. Influential factors contributing to this perspective include societal pressure, family expectations, and religious teachings, predominantly from Islam.\n\nWhile acknowledging these conservative opinions, it is important to note that not all women in Kyrgyzstan hold the same viewpoint. Some women may recognize the need for access to safe and legal abortions, particularly in situations where their health, well-being, or socioeconomic circumstances are at stake. Additionally, a subset of women supports the right to choose and advocates for reproductive rights, acknowledging the importance of personal autonomy and decision-making in regards to reproductive health.\n\nOverall, it is evident that the opinions of women in Kyrgyzstan with regards to abortion span across a spectrum. While a significant number may hold conservative beliefs regarding the practice, there are also women advocating for reproductive rights and recognizing the necessity of safe and legal access to abortions in certain situations."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 271,
+        "total_tokens": 292
+    },
+    "system_fingerprint": null
+}

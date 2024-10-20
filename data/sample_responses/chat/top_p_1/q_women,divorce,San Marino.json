@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTiaecwUOD7iuWF5d9qpXMit5abi",
+    "object": "chat.completion",
+    "created": 1705849688,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is not possible to accurately summarize the thoughts and opinions of \"most\" women in San Marino on divorce as women's perspectives can vary greatly depending on individual beliefs, values, and personal experiences. However, it is important to note that divorce is an accepted and legal process in San Marino. Women, like men, may have their own diverse views on divorce ranging from supportive of the idea as a means to end an unhappy or unhealthy marriage, to holding traditional beliefs that prioritize the sanctity of marriage and discouraging divorce. Some women may also consider the impact of divorce on children, financial implications, or social stigma associated with divorce. Overall, individual beliefs and experiences play a significant role in shaping women's opinions on divorce in San Marino, making it diverse and multifaceted."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 155,
+        "total_tokens": 175
+    },
+    "system_fingerprint": null
+}

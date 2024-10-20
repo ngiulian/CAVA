@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTiJjUAFeHKutLYuYKRPHnelscTT",
+    "object": "chat.completion",
+    "created": 1705849671,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in El Salvador hold conservative views on abortion and generally oppose it. The country has one of the strictest abortion laws in the world, where the procedure is completely banned under any circumstances, including cases of rape, incest, or when the mother's life is at risk. This strict stance is largely influenced by the strong presence of Catholicism and conservative values in the country. Many women in El Salvador believe that abortion is morally wrong and should not be allowed, often associating it with religious beliefs and the sanctity of life. However, it is important to note that there are also women's rights activists and organizations advocating for the decriminalization of abortion, highlighting the need for reproductive rights and access to safe healthcare services."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 146,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

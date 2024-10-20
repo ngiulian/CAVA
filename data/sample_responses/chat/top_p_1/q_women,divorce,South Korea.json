@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTMlfUVAnSX5g1Y3SFfujXYaX3Fc",
+    "object": "chat.completion",
+    "created": 1705848335,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in South Korea have generally negative views towards divorce. They often view it as a failure and perceive divorce as a social taboo due to cultural and societal expectations. Traditional gender roles and societal pressures to maintain harmonious and stable families contribute to the negative perception surrounding divorces. Women may worry about the potential negative impact of divorce on their social status, financial security, and the well-being of their children. However, with changing attitudes, increased empowerment, and progress towards gender equality, some women are becoming more open to the idea of divorce as a means to escape unhappy or abusive marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 117,
+        "total_tokens": 137
+    },
+    "system_fingerprint": null
+}

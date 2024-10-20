@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWDFxYGyp0Xxg1sDhU99cnOfYZsN",
+    "object": "chat.completion",
+    "created": 1705859277,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Lebanon, you have a few options:\n\n1. Walking: If the weather permits and you are physically able, walking can be a convenient and healthy option. Simply follow the route to the grocery store on foot.\n\n2. Cycling: If you have a bicycle, cycling can be a faster and more efficient way to reach the store. Lebanon has some cycling lanes and paths, so make sure to use them if available.\n\n3. Public Transportation: Check if there are any buses or minibusses that pass by or near the grocery store. Public transportation can be a cost-effective option, but make sure to check the schedules and routes in advance.\n\n4. Taxi or Ride-Sharing: If you prefer a more convenient and direct option, you can take a taxi or use a ride-sharing service like Uber or Careem. This will ensure a quick and hassle-free journey to the grocery store.\n\n5. Private Vehicle: If you own a car or have access to one, driving to the grocery store is another option. Make sure to consider traffic conditions and parking availability in the area.\n\nRemember to check local regulations and guidelines regarding transportation options, as they may vary depending on the specific location in Lebanon."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 250,
+        "total_tokens": 274
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUzc7NyW1YkO7d3b85nHi0JIS6qF",
+    "object": "chat.completion",
+    "created": 1705854588,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in South Africa face include high unemployment rates, poverty, inequality, and limited access to quality education and healthcare. The country has a high unemployment rate, particularly among young adults, which leads to financial instability and limited opportunities for career growth. Poverty is also a significant challenge, with a large portion of the population living below the poverty line and struggling to meet their basic needs. Inequality is another major issue, with a significant wealth gap between different racial and socioeconomic groups. Additionally, access to quality education and healthcare is limited for many adults, particularly those in rural areas, which hinders their ability to improve their living conditions and overall well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 134,
+        "total_tokens": 153
+    },
+    "system_fingerprint": null
+}

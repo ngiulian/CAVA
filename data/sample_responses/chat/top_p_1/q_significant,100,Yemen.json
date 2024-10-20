@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnq3MRFwpZdU9jovCJ2SEy8oCEA",
+    "object": "chat.completion",
+    "created": 1705857702,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Yemen in the past 100 years is the ongoing Yemeni Civil War, which began in 2014. This conflict is a complex and multifaceted crisis involving numerous parties, including Houthi rebels, the Yemeni government, and a Saudi-led coalition.\n\nThe war has caused immense suffering for the Yemeni people, resulting in a severe humanitarian crisis. It has led to thousands of deaths, displacement of millions, widespread hunger, outbreaks of diseases, and destruction of critical infrastructure, including schools and hospitals. The conflict has also fueled regional tensions, with neighboring countries, such as Saudi Arabia and Iran, becoming involved in the proxy war.\n\nThe Yemeni Civil War is considered one of the world's worst humanitarian crises, with the United Nations describing it as the world's largest humanitarian crisis in recent years. It continues to have a profound impact on Yemen and its people, both in terms of the devastating humanitarian consequences and the geopolitical dynamics in the region."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 197,
+        "total_tokens": 221
+    },
+    "system_fingerprint": null
+}

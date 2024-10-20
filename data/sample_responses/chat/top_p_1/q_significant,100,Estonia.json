@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVGW2xcdtA48Cse88vneuu1WWGU1",
+    "object": "chat.completion",
+    "created": 1705855636,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events to happen in Estonia in the past 100 years is the country's declaration of independence in 1918. This marked Estonia's breakaway from Russian control after World War I and the collapse of the Russian Empire. The declaration led to a period of intense political and military struggles as Estonia fought for and eventually established its independence.\n\nAnother significant event in Estonia's recent history is the Singing Revolution. It took place between 1987 and 1991 and involved a peaceful resistance movement against Soviet rule. Estonia, along with Latvia and Lithuania, organized mass singing demonstrations, cultural events, and protests that eventually culminated in the restoration of Estonia's independence in 1991, following the collapse of the Soviet Union.\n\nLastly, joining the European Union in 2004 is also considered a major event for Estonia. It marked a significant shift in the country's international integration, providing greater economic and political opportunities while solidifying Estonia's place within the European community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 196,
+        "total_tokens": 220
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVo2kgLjmUDFEvhzi5ebQjj8XJ22",
+    "object": "chat.completion",
+    "created": 1705857714,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in South Africa in the past 20 years is the death of Nelson Mandela in 2013. Mandela was a prominent anti-apartheid activist and the first black President of South Africa. His death marked the end of an era and had a profound impact on the country. Mandela's legacy as a symbol of reconciliation and the fight against racial inequality continues to shape South Africa's political and social landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 88,
+        "total_tokens": 113
+    },
+    "system_fingerprint": null
+}

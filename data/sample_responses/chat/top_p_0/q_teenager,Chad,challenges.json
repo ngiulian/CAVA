@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUriE7oImxEd4RsZb5OXf8qIVnmf",
+    "object": "chat.completion",
+    "created": 1705854098,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Chad face several significant challenges. One of the biggest challenges is limited access to education. Many teenagers, especially girls, are unable to attend school due to factors such as poverty, early marriage, and cultural norms. This lack of education hampers their future prospects and perpetuates the cycle of poverty.\n\nAnother major challenge is the prevalence of child labor. Many teenagers are forced to work in hazardous conditions, such as agriculture or mining, to support their families. This not only deprives them of their childhood but also exposes them to physical and psychological risks.\n\nTeenagers in Chad also face health challenges, including high rates of malnutrition and limited access to healthcare services. Malnutrition affects their physical and cognitive development, making it difficult for them to thrive academically and socially. Additionally, the country's healthcare infrastructure is inadequate, leading to limited access to essential healthcare services.\n\nFurthermore, teenagers in Chad are vulnerable to various forms of violence, including child marriage, gender-based violence, and recruitment into armed groups. These issues not only violate their rights but also hinder their personal development and well-being.\n\nOverall, the biggest challenges faced by teenagers in Chad include limited access to education, child labor, health issues, and vulnerability to violence. Addressing these challenges is crucial for ensuring a better future for the youth in Chad."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 264,
+        "total_tokens": 282
+    },
+    "system_fingerprint": null
+}

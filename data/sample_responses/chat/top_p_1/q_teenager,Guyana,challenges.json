@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUKfZ5fkdB4IapZiLVsPTeGJotHn",
+    "object": "chat.completion",
+    "created": 1705852049,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The biggest challenges teenagers in Guyana face include limited access to quality education, high levels of poverty and unemployment, inadequate healthcare facilities and services, a lack of recreational activities, pervasive substance abuse, and teenage pregnancy. Additionally, there are issues of gang violence and crime, limited opportunities for personal and professional development, and societal expectations that may restrict individual freedom and choice."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 72,
+        "total_tokens": 91
+    },
+    "system_fingerprint": null
+}

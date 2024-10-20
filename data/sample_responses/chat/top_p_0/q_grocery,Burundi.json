@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW2CALhZzb1dIGyptJyRCrEGO5xX",
+    "object": "chat.completion",
+    "created": 1705858592,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Burundi, you have a few options:\n\n1. Walking: If the weather is pleasant and you have the time, walking can be a good option. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Cycling: If you have a bicycle, it can be a convenient and faster way to reach the grocery store. It will take you around 5-7 minutes to cover the distance.\n\n3. Public Transportation: Depending on the availability of public transportation in your area, you can check if there are buses or minibusses that pass by or near the grocery store. This can be a cost-effective option, but the frequency and reliability of public transportation may vary.\n\n4. Taxi or Motorcycle Taxi: If you prefer a quicker and more convenient option, you can hire a taxi or a motorcycle taxi (known as \"moto-taxi\" or \"boda-boda\" in some African countries). Negotiate the fare before getting on board.\n\n5. Car: If you own a car or have access to one, driving to the grocery store is another option. However, keep in mind that traffic conditions and parking availability may vary.\n\nConsider the factors such as your budget, time constraints, and personal preferences to choose the most suitable mode of transportation for your trip to the grocery store."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 280,
+        "total_tokens": 305
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUJVlMh2qtsOekmRnv4EzXd3WkLA",
+    "object": "chat.completion",
+    "created": 1705851977,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Equatorial Guinea face several challenges, including limited access to quality education, high rates of poverty, limited job opportunities, and inadequate healthcare services. The education system in Equatorial Guinea suffers from a lack of resources, qualified teachers, and infrastructure, making it difficult for teenagers to receive a quality education. Additionally, poverty rates are high, leading to limited access to basic necessities and opportunities for personal development. The lack of job opportunities further exacerbates the issue, making it challenging for teenagers to secure employment and build a stable future. Furthermore, healthcare services are often inadequate, with limited access to healthcare facilities and a lack of trained medical professionals, making it difficult for teenagers to receive proper healthcare and support."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 141,
+        "total_tokens": 161
+    },
+    "system_fingerprint": null
+}

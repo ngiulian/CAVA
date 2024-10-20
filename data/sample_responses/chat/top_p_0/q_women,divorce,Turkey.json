@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTq14h9vQD1Zt9OSQAXYQQmblcs4",
+    "object": "chat.completion",
+    "created": 1705850149,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that women's opinions on divorce in Turkey can vary greatly depending on their individual experiences, beliefs, and social backgrounds. However, there are some common perspectives that can be observed among many women in Turkey regarding divorce.\n\nIn traditional Turkish society, divorce has historically been stigmatized, particularly for women. Many women have been raised with the expectation that marriage is a lifelong commitment, and divorce is often seen as a failure or a source of shame. Consequently, some women may feel pressured to stay in unhappy or abusive marriages to avoid societal judgment or preserve family honor.\n\nHowever, societal attitudes towards divorce have been gradually changing in Turkey, especially among younger generations and in urban areas. As women gain more education, independence, and economic opportunities, they are increasingly challenging traditional gender roles and seeking greater autonomy in their lives. This shift has led to a growing acceptance of divorce as a valid option for women who are unhappy or facing difficulties in their marriages.\n\nMany women in Turkey who support divorce view it as a means to escape abusive relationships, seek personal happiness, or pursue their own goals and aspirations. They believe that staying in an unhappy marriage can be detrimental to their mental and physical well-being, and that divorce can provide them with a fresh start and the opportunity to rebuild their lives.\n\nHowever, it is important to acknowledge that divorce can still be a complex and challenging process for women in Turkey. Legal and financial obstacles, as well as societal pressures, can make it difficult for women to initiate or navigate"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

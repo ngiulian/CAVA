@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTLZgClPpnFeZdfU8OmIZJkNiMth",
+    "object": "chat.completion",
+    "created": 1705848261,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Cambodia generally hold negative views towards abortion due to cultural and religious beliefs. In this predominantly Buddhist country, which values respect for life and the pursuit of karma, abortion is seen as a taboo topic and often considered morally wrong. Women are largely discouraged from seeking abortion and may face stigma or judgment from their families and communities if they choose to terminate a pregnancy. Additionally, the influence of traditional gender roles places pressure on women to prioritize motherhood and family, further reinforcing the negative perception of abortion. However, it is essential to acknowledge that views and opinions on abortion can vary among individuals, and there may be some women in Cambodia who support a woman's right to choose."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 135,
+        "total_tokens": 154
+    },
+    "system_fingerprint": null
+}

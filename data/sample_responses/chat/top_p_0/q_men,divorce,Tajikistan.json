@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTngTF0KEjyISknXXyZCo8dS7lZa",
+    "object": "chat.completion",
+    "created": 1705850004,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Tajikistan hold traditional views on divorce, considering it as a last resort and generally disapproving of it. They believe that marriage is a lifelong commitment and divorce should only be pursued in extreme circumstances. Men often prioritize maintaining the family unit and preserving social harmony over individual happiness or personal desires. Divorce is seen as a failure and can carry social stigma, particularly for women. However, attitudes towards divorce may vary among individuals based on factors such as education, urbanization, and exposure to different cultural influences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 105,
+        "total_tokens": 126
+    },
+    "system_fingerprint": null
+}

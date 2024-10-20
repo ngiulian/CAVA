@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVAHUMjvqUQXF00Y16wITWqKYTW0",
+    "object": "chat.completion",
+    "created": 1705855249,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Chile in the past 100 years is the military coup d'\u00e9tat on September 11, 1973, which overthrew the democratically elected government of President Salvador Allende. This event marked the beginning of a 17-year-long military dictatorship under General Augusto Pinochet. The coup had a profound impact on Chilean society, leading to widespread human rights abuses, political repression, and economic changes. It also shaped the country's political landscape for decades to come."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 106,
+        "total_tokens": 130
+    },
+    "system_fingerprint": null
+}

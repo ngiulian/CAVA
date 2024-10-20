@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVNQDFP1uUS7JD8sTCr5syqS4Mj2",
+    "object": "chat.completion",
+    "created": 1705856064,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Jordan in the past 100 years is the signing of the Jordan-Israel Peace Treaty in 1994. This treaty marked a historic milestone in the region, as it established peace and normalized relations between Jordan and Israel. It ended decades of hostility and conflict between the two countries, and Jordan became the second Arab country, after Egypt, to establish diplomatic relations with Israel. The peace treaty opened up opportunities for economic cooperation, trade, and cultural exchange between the two nations, and it has had a lasting impact on the stability and relations in the Middle East."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 119,
+        "total_tokens": 143
+    },
+    "system_fingerprint": null
+}

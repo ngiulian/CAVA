@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVG9ZKpG6Mpxbxm88o35z7r69OcN",
+    "object": "chat.completion",
+    "created": 1705855613,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Eritrea in the past 100 years is its independence from Ethiopia. After a long and brutal armed struggle, Eritrea gained independence on May 24, 1993. This event marked the end of a 30-year-long war for independence, during which Eritrean rebels fought against Ethiopian forces. The independence of Eritrea brought an end to years of colonization, occupation, and conflict, and allowed the country to establish its own government and national identity."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 105,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

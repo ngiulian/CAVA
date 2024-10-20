@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVRkHxuDJao3fHkR4EHHMePP4X6B",
+    "object": "chat.completion",
+    "created": 1705856332,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Liechtenstein in the past 100 years is the \"Liechtenstein Affair\" or the \"Liechtenstein Tax Scandal\" that occurred in 2008. It involved a major international tax evasion scandal that implicated the LGT Group, a private bank owned by the ruling Prince of Liechtenstein, and several wealthy individuals from various countries.\n\nThe scandal erupted when German intelligence agencies obtained a list of LGT Group clients who were suspected of evading taxes. The list contained names of prominent individuals, including politicians, business leaders, and celebrities from around the world. The revelation caused a major uproar and led to investigations and legal actions in several countries.\n\nLiechtenstein, known for its strict banking secrecy laws, faced international criticism and pressure to cooperate in combating tax evasion. The event significantly impacted Liechtenstein's reputation and led to the country adopting various measures to improve transparency and combat money laundering and tax evasion.\n\nThe Liechtenstein Affair highlighted the global issue of tax evasion and offshore banking, and it had a lasting impact on Liechtenstein's financial sector and its relations with other countries."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 231,
+        "total_tokens": 257
+    },
+    "system_fingerprint": null
+}

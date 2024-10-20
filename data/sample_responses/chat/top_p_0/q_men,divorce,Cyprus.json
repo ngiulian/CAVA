@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4lQ0FRvEaMOpuc0F74PTFDaxSy",
+    "object": "chat.completion",
+    "created": 1705847219,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Cyprus have a negative perception of divorce. They often view it as a failure and a source of shame, believing that it reflects poorly on their masculinity and ability to maintain a stable family. Divorce is generally seen as a last resort, with men preferring to preserve their marriages even in unhappy or dysfunctional situations. Additionally, there is a societal expectation for men to be the primary breadwinners and protectors of their families, which further contributes to their reluctance towards divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 96,
+        "total_tokens": 115
+    },
+    "system_fingerprint": null
+}

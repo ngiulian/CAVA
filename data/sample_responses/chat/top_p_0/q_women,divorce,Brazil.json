@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSxJ7J1b6pfo5iEUpphToQyKpFNR",
+    "object": "chat.completion",
+    "created": 1705846757,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Brazil have a positive view of divorce and consider it as a viable option to end an unhappy or abusive marriage. They believe that divorce provides them with the opportunity to seek personal happiness, independence, and a chance to rebuild their lives. Many women in Brazil also view divorce as a means to escape domestic violence and improve their overall well-being. However, it is important to note that attitudes towards divorce can vary among individuals, and some women may still face societal pressure or stigma associated with divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 100,
+        "total_tokens": 119
+    },
+    "system_fingerprint": null
+}

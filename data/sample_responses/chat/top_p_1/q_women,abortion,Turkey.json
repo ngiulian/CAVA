@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTpn7A67nG6gdRXDj87KOmXGAw1w",
+    "object": "chat.completion",
+    "created": 1705850135,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide an accurate summary of what \"most\" women in Turkey think of abortion, as opinions on this topic can vary widely depending on various factors such as age, education, region, and religious beliefs. However, it is notable that abortion is a heavily debated and sensitive subject in Turkish society. \n\nTurkey's abortion laws were liberalized in 1983, allowing for medical termination of pregnancy within particular gestational limits. Nonetheless, abortion remains a contentious issue for many segments of society. \n\nSome women in Turkey support a woman's right to access safe and legal abortions, seeing it as a personal choice that should be protected. They argue that women should have autonomy over their reproductive health and decisions. They may advocate for improved access to abortion services, comprehensive sexual education, and contraception to reduce the need for abortions altogether.\n\nOn the other hand, there are also women in Turkey who oppose or have reservations about abortion. Religious beliefs, social conservatism, and cultural norms often influence such views. Conservative and religious groups maintain that life begins at conception and that abortion is morally wrong. They might advocate for stricter abortion regulations or even a complete ban on the procedure, with exceptions granted only in cases of maternal health or fetal abnormalities.\n\nIt is essential to recognize that there are diverse opinions on abortion within Turkey, and individual perspectives can significantly vary. Public opinion polls and surveys might provide further insight into the specific sentiments of women on this matter, but it would be a simplification to generalize the views of all women"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

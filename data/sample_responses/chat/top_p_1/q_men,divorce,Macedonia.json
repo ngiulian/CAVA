@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTTpLeqVs9Z8judDZaY9udJkkgyD",
+    "object": "chat.completion",
+    "created": 1705848773,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Macedonia hold conservative views on divorce and generally disapprove of it. They believe that marriage is a sacred institution and should be upheld at all costs. They prioritize family unity and stability and may perceive divorce as a failure or a social taboo. However, it is essential to acknowledge that views on divorce can vary among individuals, and this summary represents a general perspective rather than the opinion of all men in Macedonia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 83,
+        "total_tokens": 102
+    },
+    "system_fingerprint": null
+}

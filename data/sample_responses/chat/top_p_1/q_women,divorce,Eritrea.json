@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT8GJmOt9dCfbA2pyRxUBRoZF8aX",
+    "object": "chat.completion",
+    "created": 1705847436,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The attitudes towards divorce among women in Eritrea vary but the majority hold conservative views and view divorce as unfavorable or undesirable. Society and cultural pressure play a significant role in shaping their perspectives, leading many women to prioritize maintaining a stable and intact family unit. In their view, divorce is often seen as a last resort, only considered in extreme circumstances such as abusive or intolerable marriages. Additionally, financial dependence and limited support networks contribute to women's hesitancy to pursue divorce, as they fear potential social stigma, economic hardships, and the challenges of being a single parent. However, it is important to note that individual opinions may differ, and some women may hold more progressive views on divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 139,
+        "total_tokens": 160
+    },
+    "system_fingerprint": null
+}

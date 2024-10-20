@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUI2w6x3VULCd8NRDIaugrHym9AQ",
+    "object": "chat.completion",
+    "created": 1705851886,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Georgia face include economic struggles, limited access to healthcare, high poverty rates, educational disparities, and racial inequality. The state has a relatively high poverty rate, with many adults struggling to make ends meet and find stable employment. Access to affordable healthcare is also a significant challenge, with a large portion of the population lacking health insurance coverage. Educational disparities exist, particularly in rural areas, where access to quality education and resources is limited. Additionally, racial inequality persists, with minority communities facing higher rates of poverty, limited opportunities, and systemic discrimination."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 114,
+        "total_tokens": 132
+    },
+    "system_fingerprint": null
+}

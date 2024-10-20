@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVmD2R5fXcK6H9ySbBWv9m0g12gs",
+    "object": "chat.completion",
+    "created": 1705857601,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Vatican in the past 20 years was the resignation of Pope Benedict XVI in 2013. This marked the first papal resignation in over 600 years and led to the election of Pope Francis, who became the first pope from the Americas and the first Jesuit pope. Pope Francis has since brought significant changes and reforms to the Vatican, focusing on issues such as poverty, social justice, and environmental protection."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 92,
+        "total_tokens": 116
+    },
+    "system_fingerprint": null
+}

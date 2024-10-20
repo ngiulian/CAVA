@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVQo8qlscRXblGYCBtSSiV5OPx5C",
+    "object": "chat.completion",
+    "created": 1705856274,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Liberia in the past five years is the 2017 Presidential Election, which led to the peaceful transition of power from one democratically elected leader to another. The election saw the victory of George Weah, a former international football star, who became the country's 25th President. This event was particularly significant as it marked the first time in over 70 years that power was handed over peacefully from one elected president to another, reinforcing Liberia's democratic process and stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 103,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

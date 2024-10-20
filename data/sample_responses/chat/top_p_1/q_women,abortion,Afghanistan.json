@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSmjJSMiOuRzJ7xwzaqTA2ixsxvw",
+    "object": "chat.completion",
+    "created": 1705846101,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that the views on abortion in Afghanistan are diverse, and there is no single perspective that represents the opinions of all women in the country. However, I can provide some general information on abortion in Afghanistan.\n\nDue to cultural, religious, and legal factors, abortion is highly stigmatized in Afghanistan. The majority of Afghan women, particularly those from conservative backgrounds, hold traditional beliefs that consider abortion morally wrong. Many religious and cultural values in the country emphasize the sanctity of life and the importance of preserving it.\n\nAfghanistan is an Islamic country, and according to Islamic teachings, abortion is generally seen as prohibited except in specific circumstances, such as when the mother's life is at risk. Women who seek abortion often face immense social pressure, judgment, and potential ostracism from their communities.\n\nAdditionally, Afghanistan's legal framework regarding abortion is quite restrictive. The country's Penal Code criminalizes abortion except when continuing the pregnancy poses a threat to the mother's life. The limited availability of safe and legal abortion services further exacerbates the challenges faced by women considering an abortion.\n\nHowever, not all Afghan women hold staunchly anti-abortion views. Women in urban areas, those with more progressive or liberal beliefs, and those with higher education may be more open to discussing abortion as a personal choice. These women may advocate for more reproductive rights and access to safe abortion services.\n\nIn summary, attitudes towards abortion in Afghanistan vary, with many women holding traditional views that consider it morally wrong due to cultural"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 300,
+        "total_tokens": 319
+    },
+    "system_fingerprint": null
+}

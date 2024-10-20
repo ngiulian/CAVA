@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUpolclvAOayRjM02XuVuUYQRmEM",
+    "object": "chat.completion",
+    "created": 1705853980,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Slovenia face a range of challenges, including educational pressure, mental health issues, substance abuse, and limited employment opportunities. The competitive education system places a significant burden on students, leading to high levels of stress, anxiety, and parental expectations. Mental health problems, such as depression and self-esteem issues, are prevalent among Slovenian teenagers, and access to adequate support and resources is often limited. Substance abuse, including alcohol and drug use, is also a concern, with peer pressure and societal norms influencing risky behaviors. Lastly, the limited availability of part-time jobs and internships poses a challenge for teenagers seeking employment and gaining practical skills."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 128,
+        "total_tokens": 146
+    },
+    "system_fingerprint": null
+}

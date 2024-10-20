@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3AuzIFnRXdPaXzTiVob0YrdDZ8",
+    "object": "chat.completion",
+    "created": 1705847120,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "There is no definitive answer to what most men in Comoros think of divorce as perspectives can vary among individuals. However, some general beliefs and attitudes regarding divorce in Comoros can be observed. Traditional cultural norms in Comoros tend to prioritize marriage as a lifelong commitment, and divorce is often perceived as unfavorable. Many men may uphold the idea that divorce should be avoided whenever possible, as it is seen as a disruption to the social fabric, a sign of failure, and a source of shame. However, it is important to note that opinions on divorce are not universally held, and some men may have more progressive views that acknowledge the need for divorce in certain circumstances such as abusive relationships or irreconcilable differences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 145,
+        "total_tokens": 166
+    },
+    "system_fingerprint": null
+}

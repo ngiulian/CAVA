@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEOE6S1h5Mv8oG77AzSRSNOVJdo",
+    "object": "chat.completion",
+    "created": 1705855504,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Djibouti in the past 100 years was its independence from France. On June 27, 1977, Djibouti gained independence after more than a century of French colonial rule. This event marked a significant turning point in the history of Djibouti, leading to the establishment of the Republic of Djibouti. Independence allowed the nation to determine its own political, economic, and social pathways, and shape its future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 27,
+        "completion_tokens": 100,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

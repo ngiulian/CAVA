@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkc1gRA4kigvHqnxR8OdfbrZo8g",
+    "object": "chat.completion",
+    "created": 1705849814,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Slovakia generally have a negative perception of divorce. They see it as a last resort and believe that a strong and healthy family unit is crucial for societal stability and the well-being of children. Slovakian women often prioritize maintaining the marriage, even in difficult or unhappy circumstances. Divorce may be regarded as a failure, bringing social stigma and potentially impacting their reputation in the community. Women in Slovakia tend to value commitment and long-term relationships, often working hard to overcome challenges within their marriages."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 99,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

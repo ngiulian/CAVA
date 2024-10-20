@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT0ZmfEVlSPyO0gEorahxAJC6zb4",
+    "object": "chat.completion",
+    "created": 1705846959,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in China hold conservative views on divorce due to cultural and societal influences. Divorce is generally seen as a last resort and carries stigma and social disapproval. Women often feel pressured to maintain marriages for the sake of family harmony, societal reputation, and financial stability. However, emerging trends show that increasing numbers of Chinese women are embracing more liberal attitudes toward divorce, seeking personal happiness, emotional fulfillment, and escaping abusive or unhappy marriages. This shift indicates a gradual change in women's perspectives on divorce in China, albeit amidst persistent societal pressures."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

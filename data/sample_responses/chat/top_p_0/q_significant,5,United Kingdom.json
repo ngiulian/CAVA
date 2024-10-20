@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV1OuXPuMXGPeYNel0fFRorKlHPh",
+    "object": "chat.completion",
+    "created": 1705854698,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the United Kingdom in the past five years is the Brexit referendum, which took place on June 23, 2016. This referendum resulted in a majority vote for the UK to leave the European Union (EU). The decision to leave the EU had far-reaching consequences, including political, economic, and social impacts, and has been a major focus of UK politics and international affairs since then."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 87,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

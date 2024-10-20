@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTd1cShJJY1obpCUz2Z5MtZHkVuD",
+    "object": "chat.completion",
+    "created": 1705849343,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to make a blanket statement about what most women in Poland think of divorce as opinions can vary among individuals. However, it can be said that attitudes towards divorce in Poland have been influenced by both traditional and modern views. Historically, divorce was stigmatized and considered taboo, particularly due to strong Roman Catholic influences in the country.\n\nToday, attitudes are gradually evolving, and divorce is becoming more accepted. Many women in Poland now view divorce as a viable option to end unhappy or abusive marriages. However, social and cultural factors can still create reluctance or hesitation towards divorce. Women may face pressure to uphold traditional family values and may be concerned about how their decision will be perceived by society, their families, or religious communities.\n\nOverall, the perception of divorce among women in Poland is influenced by a mix of traditional values and modern perspectives, making it difficult to generalize their attitudes on this matter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 179,
+        "total_tokens": 198
+    },
+    "system_fingerprint": null
+}

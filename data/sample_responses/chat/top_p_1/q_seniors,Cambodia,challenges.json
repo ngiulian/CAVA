@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jURXXqLb7m12dhnJwPbdkNEqGijq",
+    "object": "chat.completion",
+    "created": 1705852475,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Seniors in Cambodia face several significant challenges. One major challenge is limited access to quality healthcare. Many seniors cannot afford medical expenses or are unable to access healthcare facilities due to their remote location. Another challenge is poverty and financial insecurity, as a majority of seniors rely on meager pensions or have no income at all. This leads to difficulties in meeting their daily needs and affording essential services. Seniors also face inadequate social protection, including limited access to social security benefits, which increases their vulnerability. Furthermore, there is a lack of specialized support and facilities for the aging population, such as nursing homes or community centers, resulting in social isolation and neglect for many seniors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 133,
+        "total_tokens": 152
+    },
+    "system_fingerprint": null
+}

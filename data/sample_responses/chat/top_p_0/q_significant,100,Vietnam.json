@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVnDMgDQPeXb2MHxg66DCaApN6bU",
+    "object": "chat.completion",
+    "created": 1705857663,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Vietnam in the past 100 years is the Vietnam War (1955-1975). The war had a profound impact on the country, its people, and the world. It resulted in the division of Vietnam into North and South, with the North being communist-led and the South being supported by the United States. The conflict caused immense suffering, loss of life, and displacement of millions of people. It also had far-reaching consequences, including the spread of anti-war movements globally and a shift in international relations. The Vietnam War remains a defining moment in Vietnam's history and continues to shape its socio-political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 132,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

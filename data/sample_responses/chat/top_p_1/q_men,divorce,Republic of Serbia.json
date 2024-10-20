@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjOVkIOnoeZF0mNQec3NgvM3zbD",
+    "object": "chat.completion",
+    "created": 1705849738,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in the Republic of Serbia have varying opinions on divorce. Some view it as a necessary solution for unhappy marriages, while others see it as a failure or a source of shame. Traditional values and societal expectations often influence attitudes towards divorce, and many men may feel societal pressure to maintain the appearance of a stable family unit. However, the younger generation tends to have more progressive views and perceive divorce as a personal choice for individual happiness and growth. Overall, opinions on divorce among men in Serbia can be diverse and influenced by cultural, generational, and personal factors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 113,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

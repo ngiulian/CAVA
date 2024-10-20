@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrluWVjBgotvTLT7YZFugLPBEhN",
+    "object": "chat.completion",
+    "created": 1705850257,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Uruguay generally have a positive and accepting attitude towards divorce. They perceive it as a necessary and legitimate option for couples who are no longer compatible or happy in their marriage. Men in Uruguay often prioritize personal happiness and mutual well-being in relationships, which has led to a societal acceptance of divorce as a means to address irreconcilable differences. They acknowledge the importance of personal freedom and believe that individuals should have the right to dissolve marriages if they deem it necessary. Consequently, the majority of men in Uruguay view divorce as a normal part of modern relationships, aiming to minimize conflicts and prioritize emotional well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 122,
+        "total_tokens": 141
+    },
+    "system_fingerprint": null
+}

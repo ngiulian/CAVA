@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTBSzT2z6k9ZkiNIViAuUzMkBqaG",
+    "object": "chat.completion",
+    "created": 1705847634,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Guinea have a negative perception of divorce. They generally view it as a last resort and believe that it should only be considered in extreme cases, such as domestic violence or infidelity. Women often prioritize maintaining the stability of their families and preserving their social status within the community. Divorce is seen as a failure and can bring shame and stigma to women, making it difficult for them to remarry or find support. Consequently, many women in Guinea endure unhappy marriages and try to resolve conflicts within the family rather than seeking a divorce."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 108,
+        "total_tokens": 127
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVOmZoGHQczYbjezQ4bZL5BJe1tS",
+    "object": "chat.completion",
+    "created": 1705856148,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Cambodia in the past 20 years is the United Nations-backed Khmer Rouge Tribunal, also known as the Extraordinary Chambers in the Courts of Cambodia (ECCC). Established in 2006, the tribunal aimed to hold former high-ranking Khmer Rouge officials accountable for their roles in the genocide and crimes against humanity committed during the Khmer Rouge regime (1975-1979).\n\nThe tribunal was a momentous event as it provided an opportunity for the survivors and victims' families to seek justice and closure for the atrocities committed by the Khmer Rouge. The trials resulted in several significant convictions, including that of Kaing Guek Eav, better known as Duch, the head of the notorious Tuol Sleng prison. He was found guilty of war crimes and crimes against humanity, and his conviction brought some acknowledgment of the horrors endured by countless Cambodians during the Khmer Rouge era.\n\nThe Khmer Rouge Tribunal also played a crucial role in documenting historical evidence, preserving testimonies, and raising awareness internationally about the atrocities committed under Pol Pot's leadership. The proceedings have brought international attention to Cambodia's dark past, contributing to efforts for national healing, reconciliation, and preventing such crimes in the future."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 250,
+        "total_tokens": 274
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUQSEDDqlF0H7Bpgg4qeDXi1X1Zd",
+    "object": "chat.completion",
+    "created": 1705852408,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Kazakhstan face several significant challenges. Firstly, the education system in Kazakhstan is highly competitive, and teenagers often face immense pressure to excel academically. This pressure can lead to high levels of stress and anxiety among teenagers.\n\nSecondly, substance abuse is a growing concern among teenagers in Kazakhstan. Peer pressure, lack of awareness about the consequences, and easy access to drugs and alcohol contribute to this problem.\n\nThirdly, teenagers in Kazakhstan often struggle with mental health issues, including depression and anxiety. The stigma surrounding mental health prevents many teenagers from seeking help, exacerbating the problem.\n\nAdditionally, teenagers in Kazakhstan face challenges related to social and cultural expectations. Traditional gender roles and societal norms can limit their freedom of expression and personal choices.\n\nLastly, unemployment and limited job opportunities pose challenges for teenagers transitioning into adulthood. The lack of job prospects can lead to frustration and uncertainty about their future.\n\nOverall, these challenges highlight the need for support systems, improved mental health services, and a more inclusive and diverse education system to address the needs of teenagers in Kazakhstan."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 210,
+        "total_tokens": 228
+    },
+    "system_fingerprint": null
+}

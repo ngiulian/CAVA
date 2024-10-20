@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTzA8UFGUwv483W0ZvRuaM1xkYeh",
+    "object": "chat.completion",
+    "created": 1705850716,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Armenia face include high unemployment rates, low wages, and limited job opportunities. The country's economy has been struggling, leading to a lack of stable and well-paying jobs. This situation often forces adults to work multiple jobs or seek employment abroad. Additionally, corruption and nepotism in the job market further exacerbate the challenges faced by adults in finding suitable employment. Another significant challenge is the high cost of living, which makes it difficult for many adults to afford basic necessities and provide for their families. Access to quality healthcare and education is also a concern, as the systems are often underfunded and lack resources. Finally, the ongoing conflict with Azerbaijan over the Nagorno-Karabakh region has resulted in a large number of internally displaced persons and refugees, adding to the challenges faced by adults in Armenia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 168,
+        "total_tokens": 186
+    },
+    "system_fingerprint": null
+}

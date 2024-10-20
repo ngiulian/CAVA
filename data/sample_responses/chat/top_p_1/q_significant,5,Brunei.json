@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV8Yd5drFvhCnO3P6LC6sDzyb9Kq",
+    "object": "chat.completion",
+    "created": 1705855142,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Brunei in the past 5 years was the implementation of Sharia law in April 2019. This marked a major development in the legal system of the country, introducing strict Islamic laws and punishments for various offenses, including adultery, theft, and same-sex relationships. The move drew widespread international attention and sparked debates on human rights, particularly regarding the treatment of the LGBTQ+ community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 86,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

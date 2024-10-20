@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTilt8cFcDcpkI23KArRYI37RtXK",
+    "object": "chat.completion",
+    "created": 1705849699,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Somaliland have a negative perception of divorce. They view it as a failure and a disruption to the traditional family structure. Divorce is generally seen as a last resort and is often stigmatized in the society. Men tend to prioritize maintaining the stability of the family unit and preserving their reputation within the community."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 66,
+        "total_tokens": 87
+    },
+    "system_fingerprint": null
+}

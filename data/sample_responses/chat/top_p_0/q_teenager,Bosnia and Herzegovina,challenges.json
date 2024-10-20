@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jU4Nep3zSBXZCajwdRbhn3eKpPe8",
+    "object": "chat.completion",
+    "created": 1705851039,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Teenagers in Bosnia and Herzegovina face several challenges. One of the biggest challenges is the high unemployment rate, which limits their opportunities for finding jobs and building a stable future. Additionally, the education system faces various issues, including outdated curricula and a lack of resources, which can hinder their academic development. Another challenge is the limited access to quality healthcare and mental health services, leaving many teenagers without proper support. Furthermore, the country's complex political situation and ethnic divisions can create social tensions and affect their sense of identity and belonging. Lastly, substance abuse and peer pressure are also prevalent challenges that teenagers in Bosnia and Herzegovina may encounter."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 129,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

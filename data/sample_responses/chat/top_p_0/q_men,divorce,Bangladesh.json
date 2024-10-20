@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jSuGMiFd9DAtM932VwrG8yopZasZ",
+    "object": "chat.completion",
+    "created": 1705846568,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Bangladesh hold negative views towards divorce. They generally consider divorce as a socially unacceptable and undesirable outcome. Traditional gender roles and cultural norms play a significant role in shaping these perceptions. Men often prioritize maintaining the stability of the family unit and preserving societal harmony over individual happiness or personal conflicts. Divorce is often seen as a failure to fulfill marital responsibilities and is stigmatized, particularly for women. Men may view divorce as a threat to their reputation, social standing, and financial stability. Consequently, they tend to discourage divorce and prioritize reconciliation or compromise in marital disputes."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 114,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVwdE9yTQ6GfcjOccb5fPFnG0pOn",
+    "object": "chat.completion",
+    "created": 1705858247,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize what kids in any specific country are universally obsessed with, as people's interests and obsessions can vary greatly. However, like many kids around the world, kids in Papua New Guinea may find themselves obsessed with various aspects of popular culture, such as music, fashion, celebrities, social media, and technology. Additionally, they might have particular interests in traditional Papuan culture, outdoor activities, sports, and local forms of entertainment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 90,
+        "total_tokens": 110
+    },
+    "system_fingerprint": null
+}

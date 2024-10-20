@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTOm5QPqYKPuQGqSB4hLENZghGaU",
+    "object": "chat.completion",
+    "created": 1705848460,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Liberia have a negative perception of divorce. They generally view it as a last resort and believe that marriage should be a lifelong commitment. Women often prioritize maintaining the stability of their families and communities over personal happiness or fulfillment. Divorce is seen as a failure and can carry social stigma, leading many women to endure unhappy marriages rather than seeking separation. However, attitudes towards divorce may vary among individuals based on their personal experiences and circumstances."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 88,
+        "total_tokens": 107
+    },
+    "system_fingerprint": null
+}

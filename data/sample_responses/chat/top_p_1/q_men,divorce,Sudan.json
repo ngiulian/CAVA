@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTgFEX1NZaXhAppDUMNDCahspueK",
+    "object": "chat.completion",
+    "created": 1705849543,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Sudan generally hold negative views towards divorce. They tend to believe that divorce is a last resort and should only be pursued in extreme circumstances. Traditional cultural values and religious beliefs emphasizing the importance of maintaining a stable and harmonious family unit play a significant role in shaping this perception. Men in Sudan typically strive to uphold societal expectations, which include providing for their families and being responsible fathers and husbands. Therefore, they often view divorce as a failure, questioning their ability to fulfill their marital responsibilities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 99,
+        "total_tokens": 118
+    },
+    "system_fingerprint": null
+}

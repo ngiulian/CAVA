@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTnyhPDlRb2U0UjRxiyx9z6tPyln",
+    "object": "chat.completion",
+    "created": 1705850022,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Turkmenistan have a negative view of divorce and tend to discourage it. They consider divorce as a last resort and believe that it significantly undermines the stability of both the family unit and society as a whole. Men in Turkmenistan often prioritize maintaining an intact family, as divorce is seen as a failure and a loss of face for the couple involved. They tend to value traditional gender roles and the idea of a strong, united family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 90,
+        "total_tokens": 111
+    },
+    "system_fingerprint": null
+}

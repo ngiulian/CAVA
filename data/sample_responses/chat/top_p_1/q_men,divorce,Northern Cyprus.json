@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT4MKnV6YVNWqpxg3KrpiSJtZwGT",
+    "object": "chat.completion",
+    "created": 1705847194,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Northern Cyprus have a negative perception of divorce. They tend to view it as a social taboo and believe that it could harm their reputation within their community. These men often prioritize maintaining their traditional family values and roles, which is reflected in their resistance towards the idea of divorce. They may typically consider divorce as a last resort, opting instead for compromise and resolving marital issues through communication and mediation. Ultimately, divorce is seen as a difficult and undesirable outcome in the eyes of most men in Northern Cyprus."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 101,
+        "total_tokens": 121
+    },
+    "system_fingerprint": null
+}

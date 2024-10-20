@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV0N3FoPkftYuIUB2102lEPAMKEA",
+    "object": "chat.completion",
+    "created": 1705854635,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in the Netherlands in the past five years is the MH17 tragedy. On July 17, 2014, Malaysia Airlines Flight 17, a passenger plane carrying 298 people, was shot down over Eastern Ukraine. The majority of the victims were Dutch, with 196 passengers and crew members from the Netherlands. This event had a significant impact on the Netherlands, leading to grief and national condolences. The country took an active role in the international investigation to determine the causes and hold those responsible accountable. The MH17 tragedy remains a significant event in recent Dutch history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 121,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

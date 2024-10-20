@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTGEUDiRLnEfoOeuKNlMWpJJGjdc",
+    "object": "chat.completion",
+    "created": 1705847930,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is important to note that opinions on abortion can vary among individuals, and it is not accurate to generalize the views of an entire population. However, it is known that Ireland has historically had conservative attitudes towards abortion due to its strong Catholic influence. In the past, the majority of men in Ireland held anti-abortion views, aligning with the country's strict laws that criminalized the procedure. However, following a referendum in 2018, where the majority voted to repeal the Eighth Amendment (which recognized the equal right to life of the mother and the unborn), attitudes towards abortion have become more diverse. While some men in Ireland still hold anti-abortion beliefs, there is also a growing acceptance and support for a woman's right to choose, reflecting a more progressive and inclusive perspective."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 155,
+        "total_tokens": 174
+    },
+    "system_fingerprint": null
+}

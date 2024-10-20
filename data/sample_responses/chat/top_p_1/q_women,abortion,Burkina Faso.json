@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jStzTWnS4gVXfO2jPN3LAK2Vy4e0",
+    "object": "chat.completion",
+    "created": 1705846551,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is challenging to provide a definitive answer to what \"most\" women in Burkina Faso think of abortion, as opinions can vary among individuals. However, generally speaking, abortion is a sensitive and taboo topic in Burkina Faso, influenced by cultural and religious beliefs. The majority of women in the country come from conservative societies where traditional values and practices are upheld. Consequently, many women hold negative attitudes towards abortion, considering it morally wrong and against their cultural or religious principles. Additionally, limited access to comprehensive sexual education and healthcare services contributes to the prevalence of negative stances towards abortion. However, it is important to acknowledge that opinions on this matter can differ among women, and some may support the need for safe and legal access to abortion services for various reasons, including women's health and empowerment."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 22,
+        "completion_tokens": 160,
+        "total_tokens": 182
+    },
+    "system_fingerprint": null
+}

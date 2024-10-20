@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVpRvSHnmIzekvtG5dYDLSKOALpO",
+    "object": "chat.completion",
+    "created": 1705857801,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to generalize the interests and obsessions of kids in Benin, as their preferences may vary greatly depending on individual circumstances, culture, and societal influences. However, like in many parts of the world, modern technology and digital media, including smartphones, social media platforms, and online gaming, can be common interests among some kids in Benin. These digital advancements have significantly impacted the youth globally and can contribute to a level of obsession or excessive usage among certain individuals. Nevertheless, it is essential to recognize that kids in Benin, like everywhere else, have diverse interests and passions, including sports, music, fashion, academics, hobbies, and more."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 132,
+        "total_tokens": 151
+    },
+    "system_fingerprint": null
+}

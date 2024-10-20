@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVhEdWzplGsUwjw1jkZNZ7NdyM70",
+    "object": "chat.completion",
+    "created": 1705857292,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Eswatini (formerly known as Swaziland) in the past five years was the country's official name change. On April 19, 2018, King Mswati III announced that the country's name would be changed from Swaziland to Eswatini. This decision aimed to reflect the nation's cultural identity and break away from its colonial past. The name change was seen as a significant step towards asserting the country's independence and reclaiming its African heritage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 26,
+        "completion_tokens": 107,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

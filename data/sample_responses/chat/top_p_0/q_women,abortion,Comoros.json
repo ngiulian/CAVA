@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jT3JGMOcmg2wEFXqySxLwQve8fLI",
+    "object": "chat.completion",
+    "created": 1705847129,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide an accurate summary of what most women in Comoros think of abortion as opinions on this topic can vary among individuals. However, it is important to note that Comoros is a predominantly Muslim country, and Islam generally prohibits abortion except in certain circumstances. Therefore, many women in Comoros may hold conservative views on abortion and consider it morally wrong. However, it is also worth mentioning that there may be some women who hold more liberal views and believe in a woman's right to choose. Ultimately, the opinions on abortion among women in Comoros can be diverse and influenced by various factors such as religious beliefs, cultural norms, and personal experiences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 136,
+        "total_tokens": 157
+    },
+    "system_fingerprint": null
+}

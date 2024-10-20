@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV7Yf12f2seI7OJfhWLn2fivKoFb",
+    "object": "chat.completion",
+    "created": 1705855080,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Belarus in the past 20 years is the 2020 Belarusian presidential election and the subsequent protests that followed. \n\nIn August 2020, Alexander Lukashenko, who had been in power since 1994, claimed victory in the presidential election for the sixth consecutive time. However, the election was widely criticized for being neither free nor fair, with allegations of widespread fraud and manipulation. Opposition candidate Svetlana Tikhanovskaya emerged as a prominent figure, rallying support and challenging Lukashenko's rule.\n\nThe election results sparked massive protests across the country, with thousands of Belarusians taking to the streets demanding fair elections, democracy, and an end to Lukashenko's authoritarian regime. The protests were met with a harsh crackdown by the government, including police violence, mass arrests, and internet shutdowns.\n\nThe events in Belarus gained significant international attention, with many countries and organizations condemning the government's actions and expressing support for the protesters. The European Union and the United States imposed sanctions on Belarusian officials, and the opposition movement received support from various international actors.\n\nThe 2020 Belarusian presidential election and the subsequent protests marked a significant turning point in the country's recent history, highlighting the growing discontent with Lukashenko's rule and the desire for democratic reforms. The events continue to shape the political landscape in Belarus and have had a lasting impact on both domestic and international perceptions of the country."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 293,
+        "total_tokens": 317
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jV9cbhEAETeUl7QTRPA6sGxPEijQ",
+    "object": "chat.completion",
+    "created": 1705855208,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Canada in the past five years was the legalization of recreational cannabis on October 17, 2018. This landmark event made Canada the first G7 country to legalize cannabis for adult recreational use nationwide. The move had significant social, economic, and legal implications, making Canada a global leader in cannabis regulation and challenging international drug policy. This decision has had a profound impact on various sectors, including public health, criminal justice, and the economy, while also sparking debates and discussions about drug policy and its consequences."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

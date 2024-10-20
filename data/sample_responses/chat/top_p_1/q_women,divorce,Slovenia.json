@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTkzmaxWkTj6Ow0wOU4ZHZeb97rH",
+    "object": "chat.completion",
+    "created": 1705849837,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Slovenia have progressively accepted divorce as a viable option and believe that it is a legitimate way to end an unhappy or unhealthy marriage. They view divorce as a reasonable solution when couples are unable to resolve their conflicts and maintain a fulfilling relationship. Women prioritize individual happiness, independence, and personal fulfillment over societal expectations or traditional views on marriage. They consider divorce as a way to break free from an unsatisfying marriage and seek a better future for themselves and their children. Despite this attitude, they still recognize the importance of commitment, communication, and effort in maintaining a successful marriage."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 116,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

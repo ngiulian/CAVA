@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTrv91jhkb3vTetok5kYjbwJodSZ",
+    "object": "chat.completion",
+    "created": 1705850267,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Uruguay generally support and perceive divorce as a valid and necessary option. They believe that individuals have the right to end a marriage when it becomes untenable or unhappy. Women in Uruguay view divorce as a means of escape from abusive or toxic relationships, promoting gender equality and personal autonomy. They consider divorce as a way to prioritize their well-being and pursue a better life for themselves and their children. Moreover, most Uruguayan women advocate for legal reforms and social support systems that facilitate an easier and fairer process for divorce, including arrangements regarding child custody and alimony."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 115,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

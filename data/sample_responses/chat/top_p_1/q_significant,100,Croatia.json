@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKYDpwRG1gc4TVixJDqhm42DZFL",
+    "object": "chat.completion",
+    "created": 1705855886,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "The most significant event that happened in Croatia in the past 100 years is the Croatian War of Independence. This was a conflict fought between 1991 and 1995 when Croatia declared independence from the Socialist Federal Republic of Yugoslavia. The war resulted in significant loss of life and destruction and marked Croatia's struggle to establish itself as an independent nation. The conflict ended with the internationally mediated Erdut Agreement, leading to Croatia's recognition as an independent state."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 90,
+        "total_tokens": 114
+    },
+    "system_fingerprint": null
+}

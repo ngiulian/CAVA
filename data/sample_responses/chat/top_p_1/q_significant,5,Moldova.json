@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVTP6jwOzRtlZTsmedS7EZ5bh3Al",
+    "object": "chat.completion",
+    "created": 1705856435,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that took place in Moldova in the past 5 years was the election of President Maia Sandu in November 2020. Sandu, a pro-European candidate, defeated the incumbent president Igor Dodon, marking a shift towards a more reform-oriented and Western-leaning government. Sandu's election was seen as a victory for anti-corruption efforts and a hope for greater integration with the European Union."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 87,
+        "total_tokens": 112
+    },
+    "system_fingerprint": null
+}

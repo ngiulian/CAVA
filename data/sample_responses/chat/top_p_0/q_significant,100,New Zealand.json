@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVC3aLKuO9wrzXbjJkCfeWFNlCrM",
+    "object": "chat.completion",
+    "created": 1705855359,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in New Zealand in the past 100 years is the Christchurch earthquake of 2011. On February 22, 2011, a magnitude 6.3 earthquake struck the city of Christchurch, causing widespread destruction and resulting in the loss of 185 lives. The earthquake caused significant damage to buildings, infrastructure, and the city's central business district. It had a profound impact on the people of New Zealand, leading to extensive recovery and rebuilding efforts in Christchurch. The event highlighted the country's vulnerability to seismic activity and prompted a reevaluation of building codes and disaster preparedness measures across New Zealand."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 131,
+        "total_tokens": 156
+    },
+    "system_fingerprint": null
+}

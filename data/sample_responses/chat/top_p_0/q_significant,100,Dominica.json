@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVEfN4qxx0NGs8I82rgJugUKOb7P",
+    "object": "chat.completion",
+    "created": 1705855521,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Dominica in the past 100 years was the devastation caused by Hurricane Maria in 2017. On September 18, 2017, Dominica was hit by a Category 5 hurricane, which caused widespread destruction and loss of life. The hurricane caused extensive damage to infrastructure, homes, and the island's natural environment. It was estimated that 90% of buildings were damaged or destroyed, and the island's agriculture sector suffered significant losses. The impact of Hurricane Maria was profound, and it took years for Dominica to recover from the devastation."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 120,
+        "total_tokens": 145
+    },
+    "system_fingerprint": null
+}

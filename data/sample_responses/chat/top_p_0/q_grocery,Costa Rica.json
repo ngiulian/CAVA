@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jW61vO7ButU06sCCd87GrYOyIAKi",
+    "object": "chat.completion",
+    "created": 1705858829,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store that is 1km away in Costa Rica, you have a few options:\n\n1. Walking: If the weather is pleasant and you enjoy walking, you can simply walk to the grocery store. It will take you approximately 10-15 minutes to cover a distance of 1km.\n\n2. Bicycling: If you have a bicycle or can rent one, cycling to the grocery store can be a convenient and eco-friendly option. It will take you around 5-10 minutes to reach your destination.\n\n3. Public transportation: Depending on the availability of public transportation in your area, you can check if there are buses or taxis that can take you to the grocery store. Buses are a common mode of transportation in Costa Rica and are relatively affordable.\n\n4. Driving: If you have access to a car or can rent one, driving to the grocery store is another option. It will be a short drive of around 5 minutes, considering the distance is only 1km.\n\nConsider the available options based on your preferences, convenience, and the resources at your disposal."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 25,
+        "completion_tokens": 223,
+        "total_tokens": 248
+    },
+    "system_fingerprint": null
+}

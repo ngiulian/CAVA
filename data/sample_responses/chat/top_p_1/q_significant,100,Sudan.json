@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVdhBALsJaLaRDvDORw5ZGNPAoXH",
+    "object": "chat.completion",
+    "created": 1705857073,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that occurred in Sudan in the past 100 years is the country's independence from British colonial rule. On January 1, 1956, Sudan emerged as a sovereign nation, gaining independence from the British Empire. This event marked a turning point in Sudan's history, as it ended decades of colonialism and shaped the political, social, and economic trajectory of the country. The independence of Sudan laid the foundation for the formation of its own government, institutions, and policies, enabling its people to shape their own destiny."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 110,
+        "total_tokens": 134
+    },
+    "system_fingerprint": null
+}

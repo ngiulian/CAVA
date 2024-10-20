@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jWBschWYuUOcwBWtkzcMAuxkSrwC",
+    "object": "chat.completion",
+    "created": 1705859192,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "To get to the grocery store in Kazakhstan that is 1km away, you have several options:\n\n1. Walking: If the weather and your physical condition permit, you can walk to the grocery store. Kazakhstan's cities generally have pedestrian-friendly infrastructure, and walking can be a convenient and healthy option for short distances.\n\n2. Cycling: If you have access to a bicycle, you can consider cycling to the grocery store. Check if there are bike lanes or dedicated paths available in your area, and make sure to follow traffic rules.\n\n3. Public Transportation: Utilize public transportation options such as buses, minibuses (known as marshrutkas), or trams, if available. Check for the nearest bus stop or tram station that can take you to the grocery store. Public transportation is usually affordable and convenient.\n\n4. Taxi or Ride-Sharing Apps: Hail a taxi or use ride-sharing apps like Uber or Yandex.Taxi to reach the grocery store. These services are commonly used and easily accessible in many parts of Kazakhstan. Make sure to check the estimated fare before boarding a taxi or using a ride-sharing app.\n\n5. Personal Vehicle: If you have a car or can borrow one, driving to the grocery store is another option. Ensure that you have a valid driver's license, follow traffic regulations, and find out if there are parking facilities near the store.\n\nConsider factors such as convenience, cost, weather conditions, and personal preferences when deciding the best mode of transportation for your journey"
+            },
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 300,
+        "total_tokens": 324
+    },
+    "system_fingerprint": null
+}

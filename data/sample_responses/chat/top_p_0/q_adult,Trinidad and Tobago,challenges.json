@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jUuD3VlBW0GvPeZ9ZzqcuUfuirwM",
+    "object": "chat.completion",
+    "created": 1705854253,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges adults in Trinidad and Tobago face include high unemployment rates, especially among young adults, which leads to financial instability and limited opportunities for career growth. Additionally, there are issues related to crime and violence, with high levels of crime affecting personal safety and overall quality of life. The country also faces challenges in healthcare, with limited access to quality healthcare services and high rates of non-communicable diseases such as diabetes and hypertension. Other challenges include inadequate infrastructure, including transportation and housing, and a lack of affordable and accessible education and training opportunities."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 112,
+        "total_tokens": 133
+    },
+    "system_fingerprint": null
+}

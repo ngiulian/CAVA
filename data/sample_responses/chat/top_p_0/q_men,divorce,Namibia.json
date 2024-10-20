@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTXip114Is5rndElEnNQuUUJj3CP",
+    "object": "chat.completion",
+    "created": 1705849014,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Namibia have a negative perception of divorce. They generally view it as a failure and a disruption to the traditional family structure. Men often believe that divorce brings shame and stigma to both parties involved, particularly for women. They tend to prioritize maintaining the unity of the family and preserving the marriage, even in challenging circumstances. Additionally, men in Namibia may perceive divorce as a financial burden due to potential legal fees and the division of assets. Overall, divorce is commonly seen as a last resort and not a favorable option among men in Namibia."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 111,
+        "total_tokens": 131
+    },
+    "system_fingerprint": null
+}

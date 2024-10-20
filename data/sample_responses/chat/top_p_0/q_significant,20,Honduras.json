@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVKJCQMATawWkd2zEiH0ugbuSczL",
+    "object": "chat.completion",
+    "created": 1705855871,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Honduras in the past 20 years is the 2009 Honduran constitutional crisis, also known as the 2009 Honduran coup d'\u00e9tat. In June 2009, then-President Manuel Zelaya was ousted from power by the military and sent into exile. This event sparked a political and constitutional crisis in the country, leading to widespread protests, international condemnation, and a period of political instability. The crisis resulted in a deep divide within Honduran society and had long-lasting effects on the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 114,
+        "total_tokens": 138
+    },
+    "system_fingerprint": null
+}

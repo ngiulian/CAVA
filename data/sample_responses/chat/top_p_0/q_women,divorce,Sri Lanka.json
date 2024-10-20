@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTQ1MZ1Oq5rcRMUwcHbdQ3CvaKyn",
+    "object": "chat.completion",
+    "created": 1705848537,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most women in Sri Lanka have mixed opinions about divorce. While some women view divorce as a necessary step to escape abusive or unhappy marriages, others believe in preserving the sanctity of marriage and prioritize maintaining the family unit. Cultural and societal factors heavily influence women's perspectives on divorce, with traditional values often discouraging divorce and emphasizing the importance of compromise and reconciliation. However, as Sri Lankan society becomes more progressive and women gain more independence, attitudes towards divorce are gradually evolving, and some women are increasingly open to the idea of ending a marriage that is detrimental to their well-being."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 115,
+        "total_tokens": 135
+    },
+    "system_fingerprint": null
+}

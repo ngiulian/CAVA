@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVIGogd7bRxICiQ4tRtG1xwnxvgk",
+    "object": "chat.completion",
+    "created": 1705855744,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Guinea in the past 20 years was the 2008 military coup. On December 23, 2008, a group of soldiers led by Captain Moussa Dadis Camara seized power in a bloodless coup, overthrowing President Lansana Cont\u00e9, who had been in power for 24 years. This event marked a major political shift in Guinea and led to a period of military rule. The coup was followed by a series of protests, crackdowns, and human rights abuses, which had a significant impact on the country's political landscape."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 120,
+        "total_tokens": 144
+    },
+    "system_fingerprint": null
+}

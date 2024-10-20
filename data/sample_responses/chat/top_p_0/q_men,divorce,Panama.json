@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTb9gfv25h20G75tkdsbOaIde1ZD",
+    "object": "chat.completion",
+    "created": 1705849227,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Most men in Panama have a negative perception of divorce. They often view it as a failure and a threat to traditional family values. They tend to believe that divorce is detrimental to children and can lead to social instability. Additionally, many men in Panama hold conservative views on gender roles and may see divorce as a challenge to their authority and dominance within the family."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 19,
+        "completion_tokens": 71,
+        "total_tokens": 90
+    },
+    "system_fingerprint": null
+}

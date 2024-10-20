@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTjyVNf9ydxGINTCHpLCTfnLI82K",
+    "object": "chat.completion",
+    "created": 1705849774,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "It is difficult to provide a comprehensive summary of what most women in Sao Tome and Principe think of divorce, as opinions on this topic can vary among individuals. However, it is worth noting that divorce is generally considered a sensitive issue in the country, influenced by cultural, religious, and societal factors.\n\nIn Sao Tome and Principe, where Catholicism is the predominant religion, marriage is often seen as a lifelong commitment, and divorce is not widely accepted or encouraged. Many women may hold traditional views that prioritize maintaining the family unit and preserving the sanctity of marriage.\n\nHowever, societal attitudes towards divorce have been evolving over time, influenced by factors such as increased education, urbanization, and exposure to different cultural norms. Some women may view divorce as a means to escape abusive or unhappy marriages, seeking personal freedom and independence.\n\nIt is important to recognize that individual experiences and perspectives can greatly differ, and there may be women in Sao Tome and Principe who have more progressive views on divorce, advocating for gender equality and the right to dissolve a marriage when necessary."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 214,
+        "total_tokens": 238
+    },
+    "system_fingerprint": null
+}

@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVABFa1DzrHwkxacl96L86cAjuyW",
+    "object": "chat.completion",
+    "created": 1705855243,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Chile in the past 20 years is the social uprising and protests that began in October 2019. Known as the \"Chilean Spring\" or \"Estallido Social,\" it was a widespread movement that demanded social and economic reforms, including improvements in education, healthcare, pensions, and a more equitable distribution of wealth.\n\nThe protests were triggered by a fare hike in the Santiago Metro, but quickly grew into a broader movement against inequality and the high cost of living. Millions of people took to the streets across the country, engaging in peaceful demonstrations as well as clashes with the police. The protests highlighted deep-rooted social and economic disparities in Chile and led to a national dialogue on the need for change.\n\nAs a result of the protests, the government initiated a process to draft a new constitution, replacing the one inherited from the military dictatorship of Augusto Pinochet. In October 2020, Chileans voted overwhelmingly in favor of drafting a new constitution, which is expected to address the demands for social and economic reforms.\n\nThe social uprising and protests of 2019-2020 have had a profound impact on Chilean society, sparking a national conversation about inequality and the need for structural changes. It is considered one of the most significant events in recent Chilean history."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 265,
+        "total_tokens": 289
+    },
+    "system_fingerprint": null
+}

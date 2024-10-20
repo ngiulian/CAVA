@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jTxZmGa8xopEWdTtn6kBcCCpW0R3",
+    "object": "chat.completion",
+    "created": 1705850617,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Some of the biggest challenges that adults in Albania face include high unemployment rates, low wages, limited access to quality healthcare, corruption, and political instability. Additionally, there are issues related to inadequate infrastructure, lack of affordable housing, and limited opportunities for professional development. These challenges often lead to economic hardships, social inequality, and a sense of uncertainty among adults in Albania."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 18,
+        "completion_tokens": 73,
+        "total_tokens": 91
+    },
+    "system_fingerprint": null
+}

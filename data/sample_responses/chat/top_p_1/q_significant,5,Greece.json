@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-8jVJBtfyFeahH96ZTOG0rtNmgrMhO",
+    "object": "chat.completion",
+    "created": 1705855801,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "One of the most significant events that happened in Greece in the past 5 years was the signing of the Prespa Agreement in June 2018. This agreement resolved a long-standing dispute between Greece and North Macedonia over the latter's name. Prior to the agreement, Greece had objected to its neighbor's use of the name Macedonia, claiming it implied territorial ambitions over its own northern province, also called Macedonia. The agreement led to the renaming of the country to North Macedonia, paving the way for improved bilateral relations, potential NATO and EU membership, and regional stability."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 24,
+        "completion_tokens": 112,
+        "total_tokens": 136
+    },
+    "system_fingerprint": null
+}
